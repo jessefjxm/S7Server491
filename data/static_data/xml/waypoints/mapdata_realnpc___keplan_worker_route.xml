@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="npc" subName="keplan_worker_route">
+<WaypointList>
+	<Waypoint IsSubWaypoint="False" Key="11444" Name="Keplan_Worker_01_001" PosX="-159954" PosY="-2698.69" PosZ="-130473" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11445" Name="Keplan_Worker_01_002" PosX="-160424" PosY="-2718.51" PosZ="-130282" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11446" Name="Keplan_Worker_01_003" PosX="-160655" PosY="-2665.7" PosZ="-129926" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11447" Name="Keplan_Worker_01_004" PosX="-160896" PosY="-2539.24" PosZ="-129122" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11448" Name="Keplan_Worker_01_005" PosX="-161075" PosY="-2269.88" PosZ="-128015" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11449" Name="Keplan_Worker_01_006" PosX="-161073" PosY="-2123.32" PosZ="-127214" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11450" Name="Keplan_Worker_01_007" PosX="-160910" PosY="-1999.62" PosZ="-126498" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11451" Name="Keplan_Worker_01_008" PosX="-160576" PosY="-1872.68" PosZ="-125680" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11452" Name="Keplan_Worker_01_009" PosX="-160015" PosY="-1808.53" PosZ="-125048" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11453" Name="Keplan_Worker_01_010" PosX="-159567" PosY="-1800" PosZ="-124904" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11454" Name="Keplan_Worker_01_011" PosX="-158418" PosY="-1799.95" PosZ="-124967" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11455" Name="Keplan_Worker_01_012" PosX="-157807" PosY="-1784.98" PosZ="-125091" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11456" Name="Keplan_Worker_01_013" PosX="-157104" PosY="-1766.32" PosZ="-125515" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11457" Name="Keplan_Worker_01_014" PosX="-156959" PosY="-1777.08" PosZ="-125777" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11458" Name="Keplan_Worker_01_015" PosX="-156591" PosY="-1783.56" PosZ="-126169" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11459" Name="Keplan_Worker_01_016" PosX="-155929" PosY="-1740.6" PosZ="-126704" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11460" Name="Keplan_Worker_01_017" PosX="-155568" PosY="-1725.7" PosZ="-126962" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11461" Name="Keplan_Worker_01_018" PosX="-155057" PosY="-1710.26" PosZ="-127493" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11462" Name="Keplan_Worker_01_019" PosX="-154444" PosY="-1708.02" PosZ="-128090" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11463" Name="Keplan_Worker_01_020" PosX="-153733" PosY="-1682.5" PosZ="-128713" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11464" Name="Keplan_Worker_01_021" PosX="-153063" PosY="-1668.87" PosZ="-129082" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11465" Name="Keplan_Worker_01_022" PosX="-152296" PosY="-1680.5" PosZ="-129713" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11466" Name="Keplan_Worker_01_023" PosX="-151619" PosY="-1662.63" PosZ="-130171" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11467" Name="Keplan_Worker_01_024" PosX="-151158" PosY="-1651.02" PosZ="-130383" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11468" Name="Keplan_Worker_01_025" PosX="-150796" PosY="-1659.33" PosZ="-130202" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11469" Name="Keplan_Worker_01_026" PosX="-150276" PosY="-1674.39" PosZ="-129700" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11470" Name="Keplan_Worker_01_027" PosX="-149946" PosY="-1673.95" PosZ="-129417" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11477" Name="Keplan_Worker_01_034" PosX="-149580" PosY="-1674.44" PosZ="-129366" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11482" Name="Keplan_Worker_01_039" PosX="-149864" PosY="-1675.76" PosZ="-129691" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11483" Name="Keplan_Worker_01_040" PosX="-150122" PosY="-1674.61" PosZ="-129753" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11484" Name="Keplan_Worker_01_041" PosX="-150468" PosY="-1664.5" PosZ="-130136" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11485" Name="Keplan_Worker_01_042" PosX="-150802" PosY="-1649.43" PosZ="-130662" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11486" Name="Keplan_Worker_01_043" PosX="-150725" PosY="-1636.69" PosZ="-131012" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11487" Name="Keplan_Worker_01_044" PosX="-150388" PosY="-1624.55" PosZ="-131580" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11488" Name="Keplan_Worker_01_045" PosX="-150254" PosY="-1615.41" PosZ="-132281" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11489" Name="Keplan_Worker_01_046" PosX="-150074" PosY="-1605.74" PosZ="-132931" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11490" Name="Keplan_Worker_01_047" PosX="-149665" PosY="-1608.88" PosZ="-133220" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11491" Name="Keplan_Worker_01_048" PosX="-149253" PosY="-1596.07" PosZ="-133639" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11492" Name="Keplan_Worker_01_049" PosX="-148728" PosY="-1535.11" PosZ="-133976" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11493" Name="Keplan_Worker_01_050" PosX="-148259" PosY="-1564.4" PosZ="-134334" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11494" Name="Keplan_Worker_01_051" PosX="-147812" PosY="-1531.68" PosZ="-134567" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11495" Name="Keplan_Worker_01_052" PosX="-147489" PosY="-1539.67" PosZ="-134830" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11496" Name="Keplan_Worker_01_053" PosX="-147270" PosY="-1532.04" PosZ="-135320" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11497" Name="Keplan_Worker_01_054" PosX="-147255" PosY="-1547.93" PosZ="-135931" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11498" Name="Keplan_Worker_01_055" PosX="-147334" PosY="-1531.16" PosZ="-136552" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11499" Name="Keplan_Worker_01_056" PosX="-147555" PosY="-1494.87" PosZ="-137352" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11500" Name="Keplan_Worker_01_057" PosX="-147910" PosY="-1536.67" PosZ="-137981" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11501" Name="Keplan_Worker_01_058" PosX="-148312" PosY="-1578.83" PosZ="-138548" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11502" Name="Keplan_Worker_01_059" PosX="-148765" PosY="-1607.2" PosZ="-138910" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11503" Name="Keplan_Worker_01_060" PosX="-149289" PosY="-1676.45" PosZ="-139260" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11504" Name="Keplan_Worker_01_061" PosX="-149930" PosY="-1737.45" PosZ="-139096" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11505" Name="Keplan_Worker_01_062" PosX="-150423" PosY="-1844.43" PosZ="-139022" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11506" Name="Keplan_Worker_01_063" PosX="-150880" PosY="-1967.71" PosZ="-138706" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11507" Name="Keplan_Worker_01_064" PosX="-151317" PosY="-2088.69" PosZ="-138253" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11508" Name="Keplan_Worker_01_065" PosX="-151710" PosY="-2210.44" PosZ="-137835" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11509" Name="Keplan_Worker_01_066" PosX="-152373" PosY="-2379.12" PosZ="-137505" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11510" Name="Keplan_Worker_01_067" PosX="-152951" PosY="-2504.01" PosZ="-137416" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11511" Name="Keplan_Worker_01_068" PosX="-153486" PosY="-2663.41" PosZ="-137340" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11512" Name="Keplan_Worker_01_069" PosX="-154139" PosY="-2877.66" PosZ="-137226" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11513" Name="Keplan_Worker_01_070" PosX="-154792" PosY="-3091.55" PosZ="-137133" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11514" Name="Keplan_Worker_01_071" PosX="-155320" PosY="-3219.03" PosZ="-136980" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11515" Name="Keplan_Worker_01_072" PosX="-155967" PosY="-3341.83" PosZ="-136691" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11516" Name="Keplan_Worker_01_073" PosX="-156407" PosY="-3386.11" PosZ="-136246" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11517" Name="Keplan_Worker_01_074" PosX="-157089" PosY="-3413.07" PosZ="-135754" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11518" Name="Keplan_Worker_01_075" PosX="-157601" PosY="-3361.04" PosZ="-135106" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11519" Name="Keplan_Worker_01_076" PosX="-158339" PosY="-3303.57" PosZ="-134583" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11520" Name="Keplan_Worker_01_077" PosX="-158404" PosY="-3260.67" PosZ="-134132" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11521" Name="Keplan_Worker_01_078" PosX="-158943" PosY="-3183.88" PosZ="-133632" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11522" Name="Keplan_Worker_01_079" PosX="-159411" PosY="-3027.03" PosZ="-133016" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11523" Name="Keplan_Worker_01_080" PosX="-159562" PosY="-2935.87" PosZ="-132468" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11524" Name="Keplan_Worker_01_081" PosX="-159847" PosY="-2845.05" PosZ="-131757" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11525" Name="Keplan_Worker_01_082" PosX="-160116" PosY="-2829.68" PosZ="-131281" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11526" Name="Keplan_Worker_01_083" PosX="-160278" PosY="-2790.01" PosZ="-130831" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11527" Name="Keplan_Worker_01_084" PosX="-160202" PosY="-2764.14" PosZ="-130610" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11529" Name="Keplan_Worker_02_001" PosX="-158706" PosY="-3191.23" PosZ="-133624" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11530" Name="Keplan_Worker_02_002" PosX="-158902" PosY="-3192.52" PosZ="-133640" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11531" Name="Keplan_Worker_02_003" PosX="-159145" PosY="-3097.51" PosZ="-133229" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11532" Name="Keplan_Worker_02_004" PosX="-159489" PosY="-2993.5" PosZ="-132826" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11533" Name="Keplan_Worker_02_005" PosX="-159768" PosY="-2918.18" PosZ="-132356" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11534" Name="Keplan_Worker_02_006" PosX="-159971" PosY="-2846.15" PosZ="-131997" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11535" Name="Keplan_Worker_02_007" PosX="-160204" PosY="-2836.88" PosZ="-131579" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11536" Name="Keplan_Worker_02_008" PosX="-160483" PosY="-2812.71" PosZ="-130975" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11537" Name="Keplan_Worker_02_009" PosX="-160615" PosY="-2745.6" PosZ="-130428" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11538" Name="Keplan_Worker_02_010" PosX="-160896" PosY="-2656.22" PosZ="-129840" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11539" Name="Keplan_Worker_02_011" PosX="-161001" PosY="-2590.59" PosZ="-129442" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11540" Name="Keplan_Worker_02_012" PosX="-161147" PosY="-2449.22" PosZ="-128771" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11541" Name="Keplan_Worker_02_013" PosX="-161316" PosY="-2294.72" PosZ="-128057" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11542" Name="Keplan_Worker_02_014" PosX="-161304" PosY="-2186.94" PosZ="-127523" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11543" Name="Keplan_Worker_02_015" PosX="-161315" PosY="-2076.24" PosZ="-126848" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11544" Name="Keplan_Worker_02_016" PosX="-161492" PosY="-1949.58" PosZ="-126267" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11545" Name="Keplan_Worker_02_017" PosX="-162080" PosY="-1839.7" PosZ="-125548" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11546" Name="Keplan_Worker_02_018" PosX="-162536" PosY="-1781.72" PosZ="-125166" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11547" Name="Keplan_Worker_02_019" PosX="-163137" PosY="-1793.09" PosZ="-124928" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11548" Name="Keplan_Worker_02_020" PosX="-163707" PosY="-1761.83" PosZ="-124881" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11549" Name="Keplan_Worker_02_021" PosX="-164208" PosY="-1748.76" PosZ="-124970" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11550" Name="Keplan_Worker_02_022" PosX="-164783" PosY="-1772.92" PosZ="-124899" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11551" Name="Keplan_Worker_02_023" PosX="-165311" PosY="-1777.57" PosZ="-124949" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11552" Name="Keplan_Worker_02_024" PosX="-165612" PosY="-1758.93" PosZ="-125312" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11553" Name="Keplan_Worker_02_025" PosX="-165715" PosY="-1750" PosZ="-125874" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11554" Name="Keplan_Worker_02_026" PosX="-165813" PosY="-1745.32" PosZ="-126561" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11555" Name="Keplan_Worker_02_027" PosX="-165793" PosY="-1732.89" PosZ="-127654" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11556" Name="Keplan_Worker_02_028" PosX="-165732" PosY="-1728.65" PosZ="-128560" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11557" Name="Keplan_Worker_02_029" PosX="-165703" PosY="-1718.45" PosZ="-129926" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11558" Name="Keplan_Worker_02_030" PosX="-165634" PosY="-1679.23" PosZ="-130837" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11559" Name="Keplan_Worker_02_031" PosX="-165456" PosY="-1658.99" PosZ="-132043" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11560" Name="Keplan_Worker_02_032" PosX="-165055" PosY="-1607.4" PosZ="-132925" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11561" Name="Keplan_Worker_02_033" PosX="-164576" PosY="-1582.68" PosZ="-133497" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11562" Name="Keplan_Worker_02_034" PosX="-163921" PosY="-1586.46" PosZ="-133945" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11563" Name="Keplan_Worker_02_035" PosX="-163096" PosY="-1582.32" PosZ="-134356" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11564" Name="Keplan_Worker_02_036" PosX="-162430" PosY="-1549.45" PosZ="-134468" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11565" Name="Keplan_Worker_02_037" PosX="-162016" PosY="-1547.87" PosZ="-134429" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11566" Name="Keplan_Worker_02_038" PosX="-161687" PosY="-1406.53" PosZ="-134295" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11567" Name="Keplan_Worker_02_039" PosX="-161323" PosY="-1406.53" PosZ="-134221" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11568" Name="Keplan_Worker_02_040" PosX="-161562" PosY="-1398.65" PosZ="-134526" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11569" Name="Keplan_Worker_02_041" PosX="-161872" PosY="-1549.99" PosZ="-134728" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11570" Name="Keplan_Worker_02_042" PosX="-162170" PosY="-1575.6" PosZ="-135012" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11571" Name="Keplan_Worker_02_043" PosX="-162323" PosY="-1588.97" PosZ="-135281" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11572" Name="Keplan_Worker_02_044" PosX="-162278" PosY="-1597.88" PosZ="-135826" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11573" Name="Keplan_Worker_02_045" PosX="-162165" PosY="-1622.9" PosZ="-136235" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11574" Name="Keplan_Worker_02_046" PosX="-162004" PosY="-1623.43" PosZ="-137279" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11575" Name="Keplan_Worker_02_047" PosX="-161507" PosY="-1655.51" PosZ="-137868" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11576" Name="Keplan_Worker_02_048" PosX="-160832" PosY="-1646.16" PosZ="-138421" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11577" Name="Keplan_Worker_02_049" PosX="-160104" PosY="-1704.99" PosZ="-138859" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11578" Name="Keplan_Worker_02_050" PosX="-159345" PosY="-1703.88" PosZ="-139029" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11579" Name="Keplan_Worker_02_051" PosX="-158450" PosY="-1707.24" PosZ="-139138" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11580" Name="Keplan_Worker_02_052" PosX="-157324" PosY="-1697.34" PosZ="-139438" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11581" Name="Keplan_Worker_02_053" PosX="-156517" PosY="-1711.74" PosZ="-139823" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11582" Name="Keplan_Worker_02_054" PosX="-155818" PosY="-1714.83" PosZ="-140061" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11583" Name="Keplan_Worker_02_055" PosX="-155098" PosY="-1728.71" PosZ="-140330" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11584" Name="Keplan_Worker_02_056" PosX="-154391" PosY="-1755.24" PosZ="-140474" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11585" Name="Keplan_Worker_02_057" PosX="-153555" PosY="-1797.64" PosZ="-140592" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11586" Name="Keplan_Worker_02_058" PosX="-152545" PosY="-1814.16" PosZ="-140575" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11587" Name="Keplan_Worker_02_059" PosX="-151680" PosY="-1823.78" PosZ="-140376" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11588" Name="Keplan_Worker_02_060" PosX="-151343" PosY="-1825.9" PosZ="-140170" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11589" Name="Keplan_Worker_02_061" PosX="-151155" PosY="-1846.44" PosZ="-139746" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11590" Name="Keplan_Worker_02_062" PosX="-151303" PosY="-1966.02" PosZ="-139148" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11591" Name="Keplan_Worker_02_063" PosX="-151579" PosY="-2082.73" PosZ="-138658" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11592" Name="Keplan_Worker_02_064" PosX="-151906" PosY="-2194.17" PosZ="-138152" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11593" Name="Keplan_Worker_02_065" PosX="-152364" PosY="-2356.56" PosZ="-137939" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11594" Name="Keplan_Worker_02_066" PosX="-152760" PosY="-2449.43" PosZ="-137836" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11595" Name="Keplan_Worker_02_067" PosX="-153252" PosY="-2568.54" PosZ="-137743" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11596" Name="Keplan_Worker_02_068" PosX="-153587" PosY="-2684.42" PosZ="-137600" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11597" Name="Keplan_Worker_02_069" PosX="-154039" PosY="-2836.61" PosZ="-137454" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11598" Name="Keplan_Worker_02_070" PosX="-154515" PosY="-2989.69" PosZ="-137172" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11599" Name="Keplan_Worker_02_071" PosX="-155341" PosY="-3214.58" PosZ="-137077" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11600" Name="Keplan_Worker_02_072" PosX="-155760" PosY="-3228.03" PosZ="-136884" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11601" Name="Keplan_Worker_02_073" PosX="-156308" PosY="-3376.62" PosZ="-136474" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11602" Name="Keplan_Worker_02_074" PosX="-156876" PosY="-3395.31" PosZ="-136123" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11603" Name="Keplan_Worker_02_075" PosX="-157418" PosY="-3390.18" PosZ="-135538" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11604" Name="Keplan_Worker_02_076" PosX="-157755" PosY="-3355.54" PosZ="-135146" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11605" Name="Keplan_Worker_02_077" PosX="-158096" PosY="-3298.26" PosZ="-134580" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11606" Name="Keplan_Worker_02_078" PosX="-158358" PosY="-3279.04" PosZ="-134307" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11607" Name="Keplan_Worker_02_079" PosX="-158707" PosY="-3214.01" PosZ="-133839" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11608" Name="Keplan_Worker_03_003" PosX="-157357" PosY="-3396.7" PosZ="-135412" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11609" Name="Keplan_Worker_03_004" PosX="-157215" PosY="-3416.16" PosZ="-135648" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11610" Name="Keplan_Worker_03_005" PosX="-156784" PosY="-3402.85" PosZ="-135987" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11611" Name="Keplan_Worker_03_006" PosX="-156356" PosY="-3354.68" PosZ="-136157" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11612" Name="Keplan_Worker_03_007" PosX="-155720" PosY="-3357.78" PosZ="-136457" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11613" Name="Keplan_Worker_03_008" PosX="-155525" PosY="-3224.8" PosZ="-137032" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11614" Name="Keplan_Worker_03_009" PosX="-155253" PosY="-3184.56" PosZ="-137186" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11615" Name="Keplan_Worker_03_010" PosX="-154849" PosY="-3135.25" PosZ="-136978" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11616" Name="Keplan_Worker_03_011" PosX="-154299" PosY="-2919.67" PosZ="-137330" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11617" Name="Keplan_Worker_03_012" PosX="-153697" PosY="-2734.94" PosZ="-137394" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11618" Name="Keplan_Worker_03_013" PosX="-153219" PosY="-2568.15" PosZ="-137522" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11619" Name="Keplan_Worker_03_014" PosX="-152812" PosY="-2484.1" PosZ="-137543" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11620" Name="Keplan_Worker_03_015" PosX="-152134" PosY="-2260.97" PosZ="-137752" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11621" Name="Keplan_Worker_03_016" PosX="-151612" PosY="-2152.07" PosZ="-138195" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11622" Name="Keplan_Worker_03_017" PosX="-151131" PosY="-1998.07" PosZ="-138826" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11623" Name="Keplan_Worker_03_018" PosX="-150553" PosY="-1821.3" PosZ="-139464" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11624" Name="Keplan_Worker_03_019" PosX="-150036" PosY="-1731.02" PosZ="-139786" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11625" Name="Keplan_Worker_03_020" PosX="-149513" PosY="-1681.48" PosZ="-139889" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11626" Name="Keplan_Worker_03_021" PosX="-148918" PosY="-1646.55" PosZ="-139681" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11627" Name="Keplan_Worker_03_022" PosX="-148315" PosY="-1617.93" PosZ="-139104" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11628" Name="Keplan_Worker_03_023" PosX="-147730" PosY="-1568.84" PosZ="-138349" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11629" Name="Keplan_Worker_03_024" PosX="-147248" PosY="-1541.82" PosZ="-137505" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11630" Name="Keplan_Worker_03_025" PosX="-147085" PosY="-1516.61" PosZ="-136897" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11631" Name="Keplan_Worker_03_026" PosX="-146992" PosY="-1527.68" PosZ="-136177" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11632" Name="Keplan_Worker_03_027" PosX="-146958" PosY="-1501.33" PosZ="-135514" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11633" Name="Keplan_Worker_03_028" PosX="-147135" PosY="-1490.58" PosZ="-134956" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11634" Name="Keplan_Worker_03_029" PosX="-147611" PosY="-1528.91" PosZ="-134599" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11635" Name="Keplan_Worker_03_030" PosX="-148190" PosY="-1572.23" PosZ="-134414" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11636" Name="Keplan_Worker_03_031" PosX="-148679" PosY="-1587.9" PosZ="-134244" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11637" Name="Keplan_Worker_03_032" PosX="-149239" PosY="-1608.01" PosZ="-133823" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11638" Name="Keplan_Worker_03_033" PosX="-149811" PosY="-1615.58" PosZ="-133391" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11639" Name="Keplan_Worker_03_034" PosX="-150207" PosY="-1611.72" PosZ="-133104" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11640" Name="Keplan_Worker_03_035" PosX="-150576" PosY="-1610.16" PosZ="-132463" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11641" Name="Keplan_Worker_03_036" PosX="-150849" PosY="-1611.47" PosZ="-131842" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11642" Name="Keplan_Worker_03_037" PosX="-150995" PosY="-1617.38" PosZ="-131227" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11643" Name="Keplan_Worker_03_038" PosX="-150883" PosY="-1648.28" PosZ="-130579" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11644" Name="Keplan_Worker_03_039" PosX="-150617" PosY="-1665.92" PosZ="-130024" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11648" Name="Keplan_Worker_03_043" PosX="-150170" PosY="-1673.38" PosZ="-129801" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11649" Name="Keplan_Worker_03_044" PosX="-149855" PosY="-1675.54" PosZ="-129768" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11655" Name="Keplan_Worker_03_050" PosX="-149469" PosY="-1678.71" PosZ="-129803" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11664" Name="Keplan_Worker_03_059" PosX="-149998" PosY="-1676.19" PosZ="-129541" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11665" Name="Keplan_Worker_03_060" PosX="-150168" PosY="-1676.04" PosZ="-129646" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11666" Name="Keplan_Worker_03_061" PosX="-150410" PosY="-1671.92" PosZ="-129789" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11667" Name="Keplan_Worker_03_062" PosX="-150859" PosY="-1668.07" PosZ="-129968" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11668" Name="Keplan_Worker_03_063" PosX="-151312" PosY="-1670.84" PosZ="-129977" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11669" Name="Keplan_Worker_03_064" PosX="-151714" PosY="-1678.06" PosZ="-129693" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11670" Name="Keplan_Worker_03_065" PosX="-152076" PosY="-1690.41" PosZ="-129452" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11671" Name="Keplan_Worker_03_066" PosX="-152635" PosY="-1683.05" PosZ="-129152" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11672" Name="Keplan_Worker_03_067" PosX="-153283" PosY="-1661.67" PosZ="-128732" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11673" Name="Keplan_Worker_03_068" PosX="-153978" PosY="-1672.94" PosZ="-128202" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11674" Name="Keplan_Worker_03_069" PosX="-154854" PosY="-1719.65" PosZ="-127357" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11675" Name="Keplan_Worker_03_070" PosX="-155660" PosY="-1720.06" PosZ="-126545" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11676" Name="Keplan_Worker_03_071" PosX="-156134" PosY="-1737.92" PosZ="-126267" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11677" Name="Keplan_Worker_03_072" PosX="-156616" PosY="-1692.56" PosZ="-125764" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11678" Name="Keplan_Worker_03_073" PosX="-156871" PosY="-1719.76" PosZ="-125408" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11679" Name="Keplan_Worker_03_074" PosX="-157308" PosY="-1749.37" PosZ="-124960" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11680" Name="Keplan_Worker_03_075" PosX="-157843" PosY="-1788.59" PosZ="-124794" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11681" Name="Keplan_Worker_03_076" PosX="-158360" PosY="-1797.46" PosZ="-124673" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11682" Name="Keplan_Worker_03_077" PosX="-158953" PosY="-1800" PosZ="-124645" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11683" Name="Keplan_Worker_03_078" PosX="-159771" PosY="-1800" PosZ="-124678" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11684" Name="Keplan_Worker_03_079" PosX="-160257" PosY="-1806.45" PosZ="-124889" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11685" Name="Keplan_Worker_03_080" PosX="-160620" PosY="-1818.64" PosZ="-125240" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11686" Name="Keplan_Worker_03_081" PosX="-161104" PosY="-1959.81" PosZ="-126201" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11687" Name="Keplan_Worker_03_082" PosX="-161071" PosY="-2078.96" PosZ="-126914" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11688" Name="Keplan_Worker_03_083" PosX="-160977" PosY="-2185.29" PosZ="-127672" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11689" Name="Keplan_Worker_03_084" PosX="-160942" PosY="-2276.17" PosZ="-128154" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11690" Name="Keplan_Worker_03_085" PosX="-160976" PosY="-2481.71" PosZ="-128882" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11691" Name="Keplan_Worker_03_086" PosX="-160920" PosY="-2585.59" PosZ="-129382" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11692" Name="Keplan_Worker_03_087" PosX="-160722" PosY="-2675.34" PosZ="-129966" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11693" Name="Keplan_Worker_03_088" PosX="-160566" PosY="-2724.37" PosZ="-130306" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11694" Name="Keplan_Worker_03_089" PosX="-160436" PosY="-2771.39" PosZ="-130605" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11695" Name="Keplan_Worker_03_090" PosX="-160261" PosY="-2831.55" PosZ="-131192" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11696" Name="Keplan_Worker_03_091" PosX="-160068" PosY="-2838.53" PosZ="-131596" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11697" Name="Keplan_Worker_03_092" PosX="-159837" PosY="-2877.36" PosZ="-132026" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11698" Name="Keplan_Worker_03_093" PosX="-159644" PosY="-2929.43" PosZ="-132448" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11699" Name="Keplan_Worker_03_094" PosX="-159469" PosY="-3008.81" PosZ="-132925" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11700" Name="Keplan_Worker_03_095" PosX="-159067" PosY="-3148.63" PosZ="-133557" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11701" Name="Keplan_Worker_03_096" PosX="-158684" PosY="-3230.36" PosZ="-133950" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11702" Name="Keplan_Worker_03_097" PosX="-158220" PosY="-3281.54" PosZ="-134384" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11703" Name="Keplan_Worker_03_098" PosX="-157678" PosY="-3367.21" PosZ="-134840" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11704" Name="Keplan_Worker_03_099" PosX="-157427" PosY="-3388.11" PosZ="-135147" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11706" Name="Keplan_Worker_04_001" PosX="-153922" PosY="-2887.79" PosZ="-136960" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11707" Name="Keplan_Worker_04_002" PosX="-153780" PosY="-2773.82" PosZ="-137194" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11708" Name="Keplan_Worker_04_003" PosX="-153433" PosY="-2650.55" PosZ="-137240" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11709" Name="Keplan_Worker_04_004" PosX="-153172" PosY="-2626.91" PosZ="-137275" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11710" Name="Keplan_Worker_04_005" PosX="-152758" PosY="-2530.99" PosZ="-137258" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11711" Name="Keplan_Worker_04_006" PosX="-152307" PosY="-2368.15" PosZ="-137368" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11712" Name="Keplan_Worker_04_007" PosX="-151886" PosY="-2263.63" PosZ="-137555" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11713" Name="Keplan_Worker_04_008" PosX="-151539" PosY="-2175.99" PosZ="-137766" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11714" Name="Keplan_Worker_04_009" PosX="-151221" PosY="-2081.07" PosZ="-138110" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11715" Name="Keplan_Worker_04_010" PosX="-151065" PosY="-2041.96" PosZ="-138380" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11716" Name="Keplan_Worker_04_011" PosX="-150981" PosY="-1960.65" PosZ="-138885" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11717" Name="Keplan_Worker_04_012" PosX="-151067" PosY="-1915.5" PosZ="-139263" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11718" Name="Keplan_Worker_04_013" PosX="-151570" PosY="-1817.91" PosZ="-140001" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11719" Name="Keplan_Worker_04_014" PosX="-151958" PosY="-1823.63" PosZ="-140232" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11720" Name="Keplan_Worker_04_015" PosX="-152753" PosY="-1817.69" PosZ="-140628" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11721" Name="Keplan_Worker_04_016" PosX="-153981" PosY="-1771.09" PosZ="-140469" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11722" Name="Keplan_Worker_04_017" PosX="-154739" PosY="-1743.08" PosZ="-140470" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11723" Name="Keplan_Worker_04_018" PosX="-155748" PosY="-1718.49" PosZ="-140291" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11724" Name="Keplan_Worker_04_019" PosX="-156190" PosY="-1714.94" PosZ="-140034" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11725" Name="Keplan_Worker_04_020" PosX="-156694" PosY="-1708.6" PosZ="-139857" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11726" Name="Keplan_Worker_04_021" PosX="-157090" PosY="-1704.22" PosZ="-139680" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11727" Name="Keplan_Worker_04_022" PosX="-157477" PosY="-1697.95" PosZ="-139346" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11728" Name="Keplan_Worker_04_023" PosX="-157487" PosY="-1664.82" PosZ="-138842" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11729" Name="Keplan_Worker_04_024" PosX="-157530" PosY="-1649.22" PosZ="-138689" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11730" Name="Keplan_Worker_04_025" PosX="-157472" PosY="-1550.3" PosZ="-138472" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11731" Name="Keplan_Worker_04_026" PosX="-157383" PosY="-1548.96" PosZ="-138072" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11732" Name="Keplan_Worker_04_027" PosX="-157653" PosY="-1549.81" PosZ="-138398" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11733" Name="Keplan_Worker_04_028" PosX="-157723" PosY="-1625.86" PosZ="-138557" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11734" Name="Keplan_Worker_04_029" PosX="-158040" PosY="-1668.56" PosZ="-138847" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11735" Name="Keplan_Worker_04_030" PosX="-158470" PosY="-1700" PosZ="-139014" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11736" Name="Keplan_Worker_04_031" PosX="-159090" PosY="-1699.01" PosZ="-139061" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11737" Name="Keplan_Worker_04_032" PosX="-159827" PosY="-1706.42" PosZ="-139027" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11738" Name="Keplan_Worker_04_033" PosX="-160407" PosY="-1680.43" PosZ="-138796" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11739" Name="Keplan_Worker_04_034" PosX="-160991" PosY="-1649.84" PosZ="-138433" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11740" Name="Keplan_Worker_04_035" PosX="-161439" PosY="-1656.33" PosZ="-138070" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11741" Name="Keplan_Worker_04_036" PosX="-162016" PosY="-1638.57" PosZ="-137525" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11742" Name="Keplan_Worker_04_037" PosX="-162619" PosY="-1604.7" PosZ="-136574" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11743" Name="Keplan_Worker_04_038" PosX="-163340" PosY="-1581.29" PosZ="-135603" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11744" Name="Keplan_Worker_04_039" PosX="-163954" PosY="-1546.23" PosZ="-135035" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11745" Name="Keplan_Worker_04_040" PosX="-164602" PosY="-1587.51" PosZ="-134276" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11746" Name="Keplan_Worker_04_041" PosX="-165242" PosY="-1577.36" PosZ="-133347" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11747" Name="Keplan_Worker_04_042" PosX="-165825" PosY="-1648.08" PosZ="-132261" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11748" Name="Keplan_Worker_04_043" PosX="-165897" PosY="-1672.77" PosZ="-131368" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11749" Name="Keplan_Worker_04_044" PosX="-166001" PosY="-1722.58" PosZ="-130120" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11750" Name="Keplan_Worker_04_045" PosX="-166057" PosY="-1730.08" PosZ="-129346" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11751" Name="Keplan_Worker_04_046" PosX="-166070" PosY="-1741.94" PosZ="-128497" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11752" Name="Keplan_Worker_04_047" PosX="-166121" PosY="-1737.15" PosZ="-127573" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11753" Name="Keplan_Worker_04_048" PosX="-166099" PosY="-1747.27" PosZ="-126804" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11754" Name="Keplan_Worker_04_049" PosX="-166050" PosY="-1749.05" PosZ="-125861" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11755" Name="Keplan_Worker_04_050" PosX="-165838" PosY="-1768.2" PosZ="-125202" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11756" Name="Keplan_Worker_04_051" PosX="-165493" PosY="-1795.17" PosZ="-124595" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11757" Name="Keplan_Worker_04_052" PosX="-164909" PosY="-1785.72" PosZ="-124381" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11758" Name="Keplan_Worker_04_053" PosX="-164169" PosY="-1768.6" PosZ="-124142" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11759" Name="Keplan_Worker_04_054" PosX="-163687" PosY="-1782.6" PosZ="-123984" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11760" Name="Keplan_Worker_04_055" PosX="-163043" PosY="-1812.6" PosZ="-124309" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11761" Name="Keplan_Worker_04_056" PosX="-162442" PosY="-1801.47" PosZ="-124614" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11762" Name="Keplan_Worker_04_057" PosX="-161891" PosY="-1810.96" PosZ="-124964" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11763" Name="Keplan_Worker_04_058" PosX="-161535" PosY="-1890.37" PosZ="-125658" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11764" Name="Keplan_Worker_04_059" PosX="-161317" PosY="-1949.4" PosZ="-126177" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11765" Name="Keplan_Worker_04_060" PosX="-161181" PosY="-2110.42" PosZ="-127018" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11766" Name="Keplan_Worker_04_061" PosX="-161167" PosY="-2227.26" PosZ="-127750" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11767" Name="Keplan_Worker_04_062" PosX="-161163" PosY="-2348.83" PosZ="-128329" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11768" Name="Keplan_Worker_04_063" PosX="-161143" PosY="-2490.18" PosZ="-128933" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11769" Name="Keplan_Worker_04_064" PosX="-161068" PosY="-2613.16" PosZ="-129607" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11770" Name="Keplan_Worker_04_065" PosX="-161004" PosY="-2683" PosZ="-130191" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11771" Name="Keplan_Worker_04_066" PosX="-160729" PosY="-2778.17" PosZ="-130707" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11772" Name="Keplan_Worker_04_067" PosX="-160533" PosY="-2828.33" PosZ="-131202" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11773" Name="Keplan_Worker_04_068" PosX="-160169" PosY="-2860.23" PosZ="-131797" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11774" Name="Keplan_Worker_04_069" PosX="-159929" PosY="-2898.09" PosZ="-132192" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11775" Name="Keplan_Worker_04_070" PosX="-159855" PosY="-2925.16" PosZ="-132422" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11776" Name="Keplan_Worker_04_071" PosX="-159573" PosY="-2982.22" PosZ="-133048" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11777" Name="Keplan_Worker_04_072" PosX="-159224" PosY="-3123.21" PosZ="-133541" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11778" Name="Keplan_Worker_04_073" PosX="-158989" PosY="-3218.27" PosZ="-133975" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11779" Name="Keplan_Worker_04_074" PosX="-158653" PosY="-3275.01" PosZ="-134386" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11780" Name="Keplan_Worker_04_075" PosX="-158344" PosY="-3316.05" PosZ="-134738" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11781" Name="Keplan_Worker_04_076" PosX="-157937" PosY="-3333.29" PosZ="-135164" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11782" Name="Keplan_Worker_04_077" PosX="-157544" PosY="-3373.42" PosZ="-135580" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11783" Name="Keplan_Worker_04_078" PosX="-157213" PosY="-3392.42" PosZ="-135897" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11784" Name="Keplan_Worker_04_079" PosX="-156668" PosY="-3391.23" PosZ="-136185" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11785" Name="Keplan_Worker_04_080" PosX="-155947" PosY="-3367.28" PosZ="-136509" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11786" Name="Keplan_Worker_04_081" PosX="-155685" PosY="-3248.52" PosZ="-137022" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11787" Name="Keplan_Worker_04_082" PosX="-155545" PosY="-3237.42" PosZ="-137214" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11788" Name="Keplan_Worker_04_083" PosX="-155435" PosY="-3219.56" PosZ="-137209" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11789" Name="Keplan_Worker_04_084" PosX="-154997" PosY="-3135.19" PosZ="-137137" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11790" Name="Keplan_Worker_04_085" PosX="-154672" PosY="-3068.23" PosZ="-137113" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11791" Name="Keplan_Worker_04_086" PosX="-154186" PosY="-2887.73" PosZ="-137290" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11792" Name="Keplan_Worker_04_087" PosX="-153976" PosY="-2823.64" PosZ="-137315" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11793" Name="Keplan_Worker_05_001" PosX="-155211" PosY="209.805" PosZ="-152060" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11794" Name="Keplan_Worker_05_002" PosX="-154907" PosY="182.361" PosZ="-151839" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11795" Name="Keplan_Worker_05_003" PosX="-154671" PosY="182.361" PosZ="-151683" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11796" Name="Keplan_Worker_05_004" PosX="-154232" PosY="182.361" PosZ="-151513" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11797" Name="Keplan_Worker_05_005" PosX="-153668" PosY="182.361" PosZ="-151141" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11798" Name="Keplan_Worker_05_006" PosX="-153412" PosY="116.491" PosZ="-151020" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11799" Name="Keplan_Worker_05_007" PosX="-153148" PosY="50.4495" PosZ="-150955" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11800" Name="Keplan_Worker_05_008" PosX="-152906" PosY="-8.29869" PosZ="-151162" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11801" Name="Keplan_Worker_05_009" PosX="-152612" PosY="-117.127" PosZ="-151436" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11802" Name="Keplan_Worker_05_010" PosX="-152675" PosY="-205.22" PosZ="-151802" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11803" Name="Keplan_Worker_05_011" PosX="-152793" PosY="-277.111" PosZ="-152020" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11804" Name="Keplan_Worker_05_012" PosX="-153026" PosY="-341.794" PosZ="-152153" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11805" Name="Keplan_Worker_05_013" PosX="-153369" PosY="-428.816" PosZ="-152207" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11806" Name="Keplan_Worker_05_014" PosX="-153674" PosY="-510.457" PosZ="-152074" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11807" Name="Keplan_Worker_05_015" PosX="-153756" PosY="-534.89" PosZ="-151991" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11808" Name="Keplan_Worker_05_016" PosX="-153885" PosY="-534.89" PosZ="-151944" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11809" Name="Keplan_Worker_05_017" PosX="-154006" PosY="-534.89" PosZ="-152002" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11810" Name="Keplan_Worker_05_018" PosX="-154024" PosY="-534.89" PosZ="-152196" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11811" Name="Keplan_Worker_05_019" PosX="-153906" PosY="-534.89" PosZ="-152452" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11812" Name="Keplan_Worker_05_020" PosX="-153722" PosY="-534.89" PosZ="-152756" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11813" Name="Keplan_Worker_05_021" PosX="-153391" PosY="-534.89" PosZ="-153161" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11814" Name="Keplan_Worker_05_022" PosX="-152907" PosY="-534.89" PosZ="-153536" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11815" Name="Keplan_Worker_05_023" PosX="-152499" PosY="-631.037" PosZ="-153832" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11816" Name="Keplan_Worker_05_024" PosX="-152338" PosY="-735.459" PosZ="-154294" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11817" Name="Keplan_Worker_05_025" PosX="-152232" PosY="-813.913" PosZ="-154759" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11818" Name="Keplan_Worker_05_026" PosX="-152309" PosY="-898.546" PosZ="-155509" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11819" Name="Keplan_Worker_05_027" PosX="-152459" PosY="-947.185" PosZ="-156159" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11820" Name="Keplan_Worker_05_028" PosX="-152598" PosY="-998.64" PosZ="-156800" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11821" Name="Keplan_Worker_05_029" PosX="-152691" PosY="-1010.26" PosZ="-157444" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11822" Name="Keplan_Worker_05_030" PosX="-152746" PosY="-1048.84" PosZ="-158016" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11823" Name="Keplan_Worker_05_031" PosX="-152765" PosY="-1075.89" PosZ="-158655" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11824" Name="Keplan_Worker_05_032" PosX="-152588" PosY="-1096" PosZ="-159280" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11825" Name="Keplan_Worker_05_033" PosX="-152423" PosY="-1094.82" PosZ="-159836" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11826" Name="Keplan_Worker_05_034" PosX="-152429" PosY="-1134.01" PosZ="-160155" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11827" Name="Keplan_Worker_05_035" PosX="-153032" PosY="-1140.06" PosZ="-160800" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11828" Name="Keplan_Worker_05_036" PosX="-153297" PosY="-1107.71" PosZ="-160464" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11829" Name="Keplan_Worker_05_037" PosX="-153264" PosY="-1114.21" PosZ="-160104" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11830" Name="Keplan_Worker_05_038" PosX="-153228" PosY="-1094.1" PosZ="-159515" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11831" Name="Keplan_Worker_05_039" PosX="-153116" PosY="-1097.85" PosZ="-159012" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11832" Name="Keplan_Worker_05_040" PosX="-153030" PosY="-1066.49" PosZ="-158589" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11833" Name="Keplan_Worker_05_041" PosX="-152998" PosY="-1039.72" PosZ="-158068" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11834" Name="Keplan_Worker_05_042" PosX="-152993" PosY="-1012.77" PosZ="-157542" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11835" Name="Keplan_Worker_05_043" PosX="-152990" PosY="-969.529" PosZ="-157086" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11836" Name="Keplan_Worker_05_044" PosX="-152877" PosY="-948.786" PosZ="-156624" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11837" Name="Keplan_Worker_05_045" PosX="-152738" PosY="-905.43" PosZ="-155913" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11838" Name="Keplan_Worker_05_046" PosX="-152623" PosY="-869.35" PosZ="-155468" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11839" Name="Keplan_Worker_05_047" PosX="-152543" PosY="-816.183" PosZ="-154874" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11840" Name="Keplan_Worker_05_048" PosX="-152637" PosY="-721.137" PosZ="-154362" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11841" Name="Keplan_Worker_05_049" PosX="-152824" PosY="-618.471" PosZ="-153933" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11842" Name="Keplan_Worker_05_050" PosX="-153049" PosY="-534.89" PosZ="-153662" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11843" Name="Keplan_Worker_05_051" PosX="-153312" PosY="-534.89" PosZ="-153399" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11844" Name="Keplan_Worker_05_052" PosX="-153652" PosY="-534.89" PosZ="-153091" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11845" Name="Keplan_Worker_05_053" PosX="-153915" PosY="-534.89" PosZ="-152773" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11846" Name="Keplan_Worker_05_054" PosX="-154120" PosY="-534.89" PosZ="-152469" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11847" Name="Keplan_Worker_05_055" PosX="-154200" PosY="-534.89" PosZ="-152235" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11848" Name="Keplan_Worker_05_056" PosX="-154167" PosY="-534.89" PosZ="-152020" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11849" Name="Keplan_Worker_05_057" PosX="-154109" PosY="-534.89" PosZ="-151894" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11850" Name="Keplan_Worker_05_058" PosX="-153916" PosY="-534.89" PosZ="-151796" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11851" Name="Keplan_Worker_05_059" PosX="-153722" PosY="-534.89" PosZ="-151751" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11852" Name="Keplan_Worker_05_060" PosX="-153576" PosY="-530.421" PosZ="-151877" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11853" Name="Keplan_Worker_05_061" PosX="-153484" PosY="-487.094" PosZ="-151957" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11854" Name="Keplan_Worker_05_062" PosX="-153320" PosY="-421.502" PosZ="-152003" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11855" Name="Keplan_Worker_05_063" PosX="-153095" PosY="-336.298" PosZ="-152000" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11856" Name="Keplan_Worker_05_064" PosX="-152932" PosY="-249.283" PosZ="-151840" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11857" Name="Keplan_Worker_05_065" PosX="-152848" PosY="-178.644" PosZ="-151641" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11858" Name="Keplan_Worker_05_066" PosX="-152884" PosY="-81.6569" PosZ="-151320" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11859" Name="Keplan_Worker_05_067" PosX="-153150" PosY="41.4295" PosZ="-151154" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11860" Name="Keplan_Worker_05_068" PosX="-153398" PosY="129.052" PosZ="-151175" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11861" Name="Keplan_Worker_05_069" PosX="-153557" PosY="182.361" PosZ="-151283" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11862" Name="Keplan_Worker_05_070" PosX="-154355" PosY="183.888" PosZ="-151646" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11863" Name="Keplan_Worker_05_071" PosX="-154670" PosY="182.361" PosZ="-151979" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12371" Name="Keplan_Worker_07_001" PosX="-145244" PosY="2866.76" PosZ="-153946" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12372" Name="Keplan_Worker_07_002" PosX="-145194" PosY="2834.78" PosZ="-153443" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12373" Name="Keplan_Worker_07_003" PosX="-144929" PosY="2800.43" PosZ="-153109" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12374" Name="Keplan_Worker_07_004" PosX="-144481" PosY="2752.76" PosZ="-152874" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12375" Name="Keplan_Worker_07_005" PosX="-144079" PosY="2696.38" PosZ="-152709" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12376" Name="Keplan_Worker_07_006" PosX="-143616" PosY="2650.99" PosZ="-152476" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12377" Name="Keplan_Worker_07_007" PosX="-143015" PosY="2566.49" PosZ="-152222" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12378" Name="Keplan_Worker_07_008" PosX="-142417" PosY="2474.83" PosZ="-151985" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12379" Name="Keplan_Worker_07_009" PosX="-141842" PosY="2384.31" PosZ="-151920" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12380" Name="Keplan_Worker_07_010" PosX="-141027" PosY="2261.43" PosZ="-151808" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12381" Name="Keplan_Worker_07_011" PosX="-140181" PosY="2075.15" PosZ="-151495" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12382" Name="Keplan_Worker_07_012" PosX="-139363" PosY="1911.79" PosZ="-151243" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12383" Name="Keplan_Worker_07_013" PosX="-138744" PosY="1780.76" PosZ="-151122" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12384" Name="Keplan_Worker_07_014" PosX="-138068" PosY="1642.22" PosZ="-151088" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12385" Name="Keplan_Worker_07_015" PosX="-137261" PosY="1474.38" PosZ="-151199" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12386" Name="Keplan_Worker_07_016" PosX="-136267" PosY="1356.86" PosZ="-151203" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12387" Name="Keplan_Worker_07_017" PosX="-135251" PosY="1241.15" PosZ="-151199" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12388" Name="Keplan_Worker_07_018" PosX="-134379" PosY="1117.7" PosZ="-151337" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12389" Name="Keplan_Worker_07_019" PosX="-133939" PosY="1078.2" PosZ="-151251" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12390" Name="Keplan_Worker_07_020" PosX="-133570" PosY="1045.94" PosZ="-151097" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12391" Name="Keplan_Worker_07_021" PosX="-133205" PosY="984.783" PosZ="-150780" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12392" Name="Keplan_Worker_07_022" PosX="-132851" PosY="967.804" PosZ="-150460" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12393" Name="Keplan_Worker_07_023" PosX="-132380" PosY="957.859" PosZ="-150226" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12394" Name="Keplan_Worker_07_024" PosX="-131977" PosY="958.872" PosZ="-150033" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12395" Name="Keplan_Worker_07_025" PosX="-131647" PosY="954.999" PosZ="-149746" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12396" Name="Keplan_Worker_07_026" PosX="-131304" PosY="908.84" PosZ="-149385" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12397" Name="Keplan_Worker_07_027" PosX="-130908" PosY="902.254" PosZ="-149016" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12398" Name="Keplan_Worker_07_028" PosX="-130743" PosY="809.096" PosZ="-148530" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12399" Name="Keplan_Worker_07_029" PosX="-130895" PosY="753.201" PosZ="-148142" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12400" Name="Keplan_Worker_07_030" PosX="-131237" PosY="670.756" PosZ="-147749" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12401" Name="Keplan_Worker_07_031" PosX="-131840" PosY="500.276" PosZ="-147369" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12402" Name="Keplan_Worker_07_032" PosX="-132669" PosY="283.112" PosZ="-147186" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12403" Name="Keplan_Worker_07_033" PosX="-133406" PosY="118.793" PosZ="-147135" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12404" Name="Keplan_Worker_07_034" PosX="-134285" PosY="-131.789" PosZ="-147061" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12405" Name="Keplan_Worker_07_035" PosX="-134774" PosY="-274.436" PosZ="-147052" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12406" Name="Keplan_Worker_07_036" PosX="-135447" PosY="-447.929" PosZ="-147002" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12407" Name="Keplan_Worker_07_037" PosX="-136499" PosY="-712.469" PosZ="-146758" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12408" Name="Keplan_Worker_07_038" PosX="-137577" PosY="-1009.69" PosZ="-146698" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12409" Name="Keplan_Worker_07_039" PosX="-138520" PosY="-1292.68" PosZ="-146252" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12410" Name="Keplan_Worker_07_040" PosX="-139542" PosY="-1485.12" PosZ="-145659" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12411" Name="Keplan_Worker_07_041" PosX="-140622" PosY="-1519.07" PosZ="-145014" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12412" Name="Keplan_Worker_07_042" PosX="-141516" PosY="-1522.58" PosZ="-144155" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12413" Name="Keplan_Worker_07_043" PosX="-142591" PosY="-1531.2" PosZ="-143533" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12414" Name="Keplan_Worker_07_044" PosX="-143863" PosY="-1578.36" PosZ="-143246" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12415" Name="Keplan_Worker_07_045" PosX="-145176" PosY="-1633" PosZ="-143286" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12416" Name="Keplan_Worker_07_046" PosX="-146555" PosY="-1614.97" PosZ="-143757" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12417" Name="Keplan_Worker_07_047" PosX="-147322" PosY="-1612.7" PosZ="-143823" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12418" Name="Keplan_Worker_07_048" PosX="-148492" PosY="-1621.65" PosZ="-144020" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12419" Name="Keplan_Worker_07_049" PosX="-149430" PosY="-1624.08" PosZ="-144423" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12420" Name="Keplan_Worker_07_050" PosX="-150547" PosY="-1584.08" PosZ="-145074" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12421" Name="Keplan_Worker_07_051" PosX="-151167" PosY="-1578.72" PosZ="-145375" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12422" Name="Keplan_Worker_07_052" PosX="-151737" PosY="-1552.75" PosZ="-145845" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12423" Name="Keplan_Worker_07_053" PosX="-152145" PosY="-1531.73" PosZ="-146236" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12424" Name="Keplan_Worker_07_054" PosX="-152582" PosY="-1493.31" PosZ="-146897" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12425" Name="Keplan_Worker_07_055" PosX="-152913" PosY="-1475.78" PosZ="-147156" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12426" Name="Keplan_Worker_07_056" PosX="-153378" PosY="-1453.2" PosZ="-147238" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12427" Name="Keplan_Worker_07_057" PosX="-153178" PosY="-1478.26" PosZ="-146943" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12428" Name="Keplan_Worker_07_058" PosX="-152870" PosY="-1492.73" PosZ="-146837" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12429" Name="Keplan_Worker_07_059" PosX="-152633" PosY="-1513.51" PosZ="-146581" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12430" Name="Keplan_Worker_07_060" PosX="-152439" PosY="-1529.79" PosZ="-146182" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12431" Name="Keplan_Worker_07_061" PosX="-152054" PosY="-1538.96" PosZ="-145819" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12432" Name="Keplan_Worker_07_062" PosX="-151715" PosY="-1554.93" PosZ="-145601" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12433" Name="Keplan_Worker_07_063" PosX="-151275" PosY="-1579.91" PosZ="-145210" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12434" Name="Keplan_Worker_07_064" PosX="-150770" PosY="-1586.47" PosZ="-144881" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12435" Name="Keplan_Worker_07_065" PosX="-150309" PosY="-1603.72" PosZ="-144575" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12436" Name="Keplan_Worker_07_066" PosX="-149539" PosY="-1623.93" PosZ="-144163" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12437" Name="Keplan_Worker_07_067" PosX="-148883" PosY="-1619.51" PosZ="-143887" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12438" Name="Keplan_Worker_07_068" PosX="-148180" PosY="-1618.49" PosZ="-143717" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12439" Name="Keplan_Worker_07_069" PosX="-147351" PosY="-1620.79" PosZ="-143515" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12440" Name="Keplan_Worker_07_070" PosX="-146419" PosY="-1644.73" PosZ="-143380" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12441" Name="Keplan_Worker_07_071" PosX="-145215" PosY="-1635.61" PosZ="-143000" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12442" Name="Keplan_Worker_07_072" PosX="-144045" PosY="-1607.55" PosZ="-142866" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12443" Name="Keplan_Worker_07_073" PosX="-143016" PosY="-1565.59" PosZ="-143071" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12444" Name="Keplan_Worker_07_074" PosX="-141739" PosY="-1524.48" PosZ="-143480" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12445" Name="Keplan_Worker_07_075" PosX="-140757" PosY="-1517.94" PosZ="-144283" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12446" Name="Keplan_Worker_07_076" PosX="-139657" PosY="-1497.92" PosZ="-145107" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12447" Name="Keplan_Worker_07_077" PosX="-138655" PosY="-1347.53" PosZ="-145719" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12448" Name="Keplan_Worker_07_078" PosX="-137816" PosY="-1092.61" PosZ="-146227" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12449" Name="Keplan_Worker_07_079" PosX="-136807" PosY="-809.607" PosZ="-146445" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12450" Name="Keplan_Worker_07_080" PosX="-135727" PosY="-535.083" PosZ="-146537" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12451" Name="Keplan_Worker_07_081" PosX="-134898" PosY="-290.203" PosZ="-146619" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12452" Name="Keplan_Worker_07_082" PosX="-133966" PosY="-35.7164" PosZ="-146721" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12453" Name="Keplan_Worker_07_083" PosX="-133262" PosY="158.757" PosZ="-146805" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12454" Name="Keplan_Worker_07_084" PosX="-132481" PosY="334.134" PosZ="-146907" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12455" Name="Keplan_Worker_07_085" PosX="-131691" PosY="526.11" PosZ="-146995" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12456" Name="Keplan_Worker_07_086" PosX="-131092" PosY="688.45" PosZ="-147474" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12457" Name="Keplan_Worker_07_087" PosX="-130592" PosY="776.902" PosZ="-147987" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12458" Name="Keplan_Worker_07_088" PosX="-130447" PosY="826.061" PosZ="-148319" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12459" Name="Keplan_Worker_07_089" PosX="-130521" PosY="886.633" PosZ="-148705" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12460" Name="Keplan_Worker_07_090" PosX="-130709" PosY="941.81" PosZ="-149240" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12461" Name="Keplan_Worker_07_091" PosX="-131099" PosY="954.61" PosZ="-149601" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12462" Name="Keplan_Worker_07_092" PosX="-131620" PosY="974.094" PosZ="-150165" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12463" Name="Keplan_Worker_07_093" PosX="-132046" PosY="980.275" PosZ="-150438" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12464" Name="Keplan_Worker_07_094" PosX="-132456" PosY="1000.24" PosZ="-150660" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12465" Name="Keplan_Worker_07_095" PosX="-133034" PosY="1016.53" PosZ="-151089" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12466" Name="Keplan_Worker_07_096" PosX="-133622" PosY="1080.93" PosZ="-151479" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12467" Name="Keplan_Worker_07_097" PosX="-134152" PosY="1110.08" PosZ="-151654" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12468" Name="Keplan_Worker_07_098" PosX="-134748" PosY="1184.57" PosZ="-151674" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12469" Name="Keplan_Worker_07_099" PosX="-135329" PosY="1255.94" PosZ="-151600" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12470" Name="Keplan_Worker_07_100" PosX="-136195" PosY="1354.9" PosZ="-151587" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12471" Name="Keplan_Worker_07_101" PosX="-136740" PosY="1405.51" PosZ="-151460" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12472" Name="Keplan_Worker_07_102" PosX="-137323" PosY="1488.68" PosZ="-151432" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12473" Name="Keplan_Worker_07_103" PosX="-137906" PosY="1606.29" PosZ="-151397" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12474" Name="Keplan_Worker_07_104" PosX="-138457" PosY="1725.4" PosZ="-151349" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12475" Name="Keplan_Worker_07_105" PosX="-138942" PosY="1837.83" PosZ="-151438" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12476" Name="Keplan_Worker_07_106" PosX="-139317" PosY="1914.16" PosZ="-151525" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12477" Name="Keplan_Worker_07_107" PosX="-139722" PosY="1984.71" PosZ="-151652" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12478" Name="Keplan_Worker_07_108" PosX="-140155" PosY="2076.07" PosZ="-151830" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12479" Name="Keplan_Worker_07_109" PosX="-140729" PosY="2172.63" PosZ="-152053" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12480" Name="Keplan_Worker_07_110" PosX="-141289" PosY="2291.15" PosZ="-152166" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12481" Name="Keplan_Worker_07_111" PosX="-141761" PosY="2367.63" PosZ="-152220" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12482" Name="Keplan_Worker_07_112" PosX="-142233" PosY="2433.3" PosZ="-152303" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12483" Name="Keplan_Worker_07_113" PosX="-142623" PosY="2492.86" PosZ="-152431" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12484" Name="Keplan_Worker_07_114" PosX="-143101" PosY="2578.23" PosZ="-152605" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12485" Name="Keplan_Worker_07_115" PosX="-143463" PosY="2633.19" PosZ="-152780" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12486" Name="Keplan_Worker_07_116" PosX="-143941" PosY="2689.5" PosZ="-152949" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12487" Name="Keplan_Worker_07_117" PosX="-144413" PosY="2758.01" PosZ="-153218" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12488" Name="Keplan_Worker_07_118" PosX="-144716" PosY="2807.93" PosZ="-153526" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="12489" Name="Keplan_Worker_07_119" PosX="-144964" PosY="2836.94" PosZ="-153854" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11444" TargetWaypoint="11445"/>
+	<Link SourceWaypoint="11445" TargetWaypoint="11446"/>
+	<Link SourceWaypoint="11446" TargetWaypoint="11447"/>
+	<Link SourceWaypoint="11447" TargetWaypoint="11448"/>
+	<Link SourceWaypoint="11448" TargetWaypoint="11449"/>
+	<Link SourceWaypoint="11449" TargetWaypoint="11450"/>
+	<Link SourceWaypoint="11450" TargetWaypoint="11451"/>
+	<Link SourceWaypoint="11451" TargetWaypoint="11452"/>
+	<Link SourceWaypoint="11452" TargetWaypoint="11453"/>
+	<Link SourceWaypoint="11453" TargetWaypoint="11454"/>
+	<Link SourceWaypoint="11454" TargetWaypoint="11455"/>
+	<Link SourceWaypoint="11455" TargetWaypoint="11456"/>
+	<Link SourceWaypoint="11456" TargetWaypoint="11457"/>
+	<Link SourceWaypoint="11457" TargetWaypoint="11458"/>
+	<Link SourceWaypoint="11458" TargetWaypoint="11459"/>
+	<Link SourceWaypoint="11459" TargetWaypoint="11460"/>
+	<Link SourceWaypoint="11460" TargetWaypoint="11461"/>
+	<Link SourceWaypoint="11461" TargetWaypoint="11462"/>
+	<Link SourceWaypoint="11462" TargetWaypoint="11463"/>
+	<Link SourceWaypoint="11463" TargetWaypoint="11464"/>
+	<Link SourceWaypoint="11464" TargetWaypoint="11465"/>
+	<Link SourceWaypoint="11465" TargetWaypoint="11466"/>
+	<Link SourceWaypoint="11466" TargetWaypoint="11467"/>
+	<Link SourceWaypoint="11467" TargetWaypoint="11468"/>
+	<Link SourceWaypoint="11468" TargetWaypoint="11469"/>
+	<Link SourceWaypoint="11469" TargetWaypoint="11470"/>
+	<Link SourceWaypoint="11470" TargetWaypoint="11477"/>
+	<Link SourceWaypoint="11477" TargetWaypoint="11470"/>
+	<Link SourceWaypoint="11477" TargetWaypoint="11482"/>
+	<Link SourceWaypoint="11482" TargetWaypoint="11483"/>
+	<Link SourceWaypoint="11482" TargetWaypoint="11477"/>
+	<Link SourceWaypoint="11483" TargetWaypoint="11484"/>
+	<Link SourceWaypoint="11484" TargetWaypoint="11485"/>
+	<Link SourceWaypoint="11485" TargetWaypoint="11486"/>
+	<Link SourceWaypoint="11486" TargetWaypoint="11487"/>
+	<Link SourceWaypoint="11487" TargetWaypoint="11488"/>
+	<Link SourceWaypoint="11488" TargetWaypoint="11489"/>
+	<Link SourceWaypoint="11489" TargetWaypoint="11490"/>
+	<Link SourceWaypoint="11490" TargetWaypoint="11491"/>
+	<Link SourceWaypoint="11491" TargetWaypoint="11492"/>
+	<Link SourceWaypoint="11492" TargetWaypoint="11493"/>
+	<Link SourceWaypoint="11493" TargetWaypoint="11494"/>
+	<Link SourceWaypoint="11494" TargetWaypoint="11495"/>
+	<Link SourceWaypoint="11495" TargetWaypoint="11496"/>
+	<Link SourceWaypoint="11496" TargetWaypoint="11497"/>
+	<Link SourceWaypoint="11497" TargetWaypoint="11498"/>
+	<Link SourceWaypoint="11498" TargetWaypoint="11499"/>
+	<Link SourceWaypoint="11499" TargetWaypoint="11500"/>
+	<Link SourceWaypoint="11500" TargetWaypoint="11501"/>
+	<Link SourceWaypoint="11501" TargetWaypoint="11502"/>
+	<Link SourceWaypoint="11502" TargetWaypoint="11503"/>
+	<Link SourceWaypoint="11503" TargetWaypoint="11504"/>
+	<Link SourceWaypoint="11504" TargetWaypoint="11505"/>
+	<Link SourceWaypoint="11505" TargetWaypoint="11506"/>
+	<Link SourceWaypoint="11506" TargetWaypoint="11507"/>
+	<Link SourceWaypoint="11507" TargetWaypoint="11508"/>
+	<Link SourceWaypoint="11508" TargetWaypoint="11509"/>
+	<Link SourceWaypoint="11509" TargetWaypoint="11510"/>
+	<Link SourceWaypoint="11510" TargetWaypoint="11511"/>
+	<Link SourceWaypoint="11511" TargetWaypoint="11512"/>
+	<Link SourceWaypoint="11512" TargetWaypoint="11513"/>
+	<Link SourceWaypoint="11513" TargetWaypoint="11514"/>
+	<Link SourceWaypoint="11514" TargetWaypoint="11515"/>
+	<Link SourceWaypoint="11515" TargetWaypoint="11516"/>
+	<Link SourceWaypoint="11516" TargetWaypoint="11517"/>
+	<Link SourceWaypoint="11517" TargetWaypoint="11518"/>
+	<Link SourceWaypoint="11518" TargetWaypoint="11519"/>
+	<Link SourceWaypoint="11519" TargetWaypoint="11520"/>
+	<Link SourceWaypoint="11520" TargetWaypoint="11521"/>
+	<Link SourceWaypoint="11521" TargetWaypoint="11522"/>
+	<Link SourceWaypoint="11522" TargetWaypoint="11523"/>
+	<Link SourceWaypoint="11523" TargetWaypoint="11524"/>
+	<Link SourceWaypoint="11524" TargetWaypoint="11525"/>
+	<Link SourceWaypoint="11525" TargetWaypoint="11526"/>
+	<Link SourceWaypoint="11526" TargetWaypoint="11527"/>
+	<Link SourceWaypoint="11527" TargetWaypoint="11444"/>
+	<Link SourceWaypoint="11529" TargetWaypoint="11530"/>
+	<Link SourceWaypoint="11530" TargetWaypoint="11531"/>
+	<Link SourceWaypoint="11531" TargetWaypoint="11532"/>
+	<Link SourceWaypoint="11532" TargetWaypoint="11533"/>
+	<Link SourceWaypoint="11533" TargetWaypoint="11534"/>
+	<Link SourceWaypoint="11534" TargetWaypoint="11535"/>
+	<Link SourceWaypoint="11535" TargetWaypoint="11536"/>
+	<Link SourceWaypoint="11536" TargetWaypoint="11537"/>
+	<Link SourceWaypoint="11537" TargetWaypoint="11538"/>
+	<Link SourceWaypoint="11538" TargetWaypoint="11539"/>
+	<Link SourceWaypoint="11539" TargetWaypoint="11540"/>
+	<Link SourceWaypoint="11540" TargetWaypoint="11541"/>
+	<Link SourceWaypoint="11541" TargetWaypoint="11542"/>
+	<Link SourceWaypoint="11542" TargetWaypoint="11543"/>
+	<Link SourceWaypoint="11543" TargetWaypoint="11544"/>
+	<Link SourceWaypoint="11544" TargetWaypoint="11545"/>
+	<Link SourceWaypoint="11545" TargetWaypoint="11546"/>
+	<Link SourceWaypoint="11546" TargetWaypoint="11547"/>
+	<Link SourceWaypoint="11547" TargetWaypoint="11548"/>
+	<Link SourceWaypoint="11548" TargetWaypoint="11549"/>
+	<Link SourceWaypoint="11549" TargetWaypoint="11550"/>
+	<Link SourceWaypoint="11550" TargetWaypoint="11551"/>
+	<Link SourceWaypoint="11551" TargetWaypoint="11552"/>
+	<Link SourceWaypoint="11552" TargetWaypoint="11553"/>
+	<Link SourceWaypoint="11553" TargetWaypoint="11554"/>
+	<Link SourceWaypoint="11554" TargetWaypoint="11555"/>
+	<Link SourceWaypoint="11555" TargetWaypoint="11556"/>
+	<Link SourceWaypoint="11556" TargetWaypoint="11557"/>
+	<Link SourceWaypoint="11557" TargetWaypoint="11558"/>
+	<Link SourceWaypoint="11558" TargetWaypoint="11559"/>
+	<Link SourceWaypoint="11559" TargetWaypoint="11560"/>
+	<Link SourceWaypoint="11560" TargetWaypoint="11561"/>
+	<Link SourceWaypoint="11561" TargetWaypoint="11562"/>
+	<Link SourceWaypoint="11562" TargetWaypoint="11563"/>
+	<Link SourceWaypoint="11563" TargetWaypoint="11564"/>
+	<Link SourceWaypoint="11564" TargetWaypoint="11565"/>
+	<Link SourceWaypoint="11565" TargetWaypoint="11566"/>
+	<Link SourceWaypoint="11566" TargetWaypoint="11567"/>
+	<Link SourceWaypoint="11567" TargetWaypoint="11568"/>
+	<Link SourceWaypoint="11568" TargetWaypoint="11569"/>
+	<Link SourceWaypoint="11569" TargetWaypoint="11570"/>
+	<Link SourceWaypoint="11570" TargetWaypoint="11571"/>
+	<Link SourceWaypoint="11571" TargetWaypoint="11572"/>
+	<Link SourceWaypoint="11572" TargetWaypoint="11573"/>
+	<Link SourceWaypoint="11573" TargetWaypoint="11574"/>
+	<Link SourceWaypoint="11574" TargetWaypoint="11575"/>
+	<Link SourceWaypoint="11575" TargetWaypoint="11576"/>
+	<Link SourceWaypoint="11576" TargetWaypoint="11577"/>
+	<Link SourceWaypoint="11577" TargetWaypoint="11578"/>
+	<Link SourceWaypoint="11578" TargetWaypoint="11579"/>
+	<Link SourceWaypoint="11579" TargetWaypoint="11580"/>
+	<Link SourceWaypoint="11580" TargetWaypoint="11581"/>
+	<Link SourceWaypoint="11581" TargetWaypoint="11582"/>
+	<Link SourceWaypoint="11582" TargetWaypoint="11583"/>
+	<Link SourceWaypoint="11583" TargetWaypoint="11584"/>
+	<Link SourceWaypoint="11584" TargetWaypoint="11585"/>
+	<Link SourceWaypoint="11585" TargetWaypoint="11586"/>
+	<Link SourceWaypoint="11586" TargetWaypoint="11587"/>
+	<Link SourceWaypoint="11587" TargetWaypoint="11588"/>
+	<Link SourceWaypoint="11588" TargetWaypoint="11589"/>
+	<Link SourceWaypoint="11589" TargetWaypoint="11590"/>
+	<Link SourceWaypoint="11590" TargetWaypoint="11591"/>
+	<Link SourceWaypoint="11591" TargetWaypoint="11592"/>
+	<Link SourceWaypoint="11592" TargetWaypoint="11593"/>
+	<Link SourceWaypoint="11593" TargetWaypoint="11594"/>
+	<Link SourceWaypoint="11594" TargetWaypoint="11595"/>
+	<Link SourceWaypoint="11595" TargetWaypoint="11596"/>
+	<Link SourceWaypoint="11596" TargetWaypoint="11597"/>
+	<Link SourceWaypoint="11597" TargetWaypoint="11598"/>
+	<Link SourceWaypoint="11598" TargetWaypoint="11599"/>
+	<Link SourceWaypoint="11599" TargetWaypoint="11600"/>
+	<Link SourceWaypoint="11600" TargetWaypoint="11601"/>
+	<Link SourceWaypoint="11601" TargetWaypoint="11602"/>
+	<Link SourceWaypoint="11602" TargetWaypoint="11603"/>
+	<Link SourceWaypoint="11603" TargetWaypoint="11604"/>
+	<Link SourceWaypoint="11604" TargetWaypoint="11605"/>
+	<Link SourceWaypoint="11605" TargetWaypoint="11606"/>
+	<Link SourceWaypoint="11606" TargetWaypoint="11607"/>
+	<Link SourceWaypoint="11607" TargetWaypoint="11529"/>
+	<Link SourceWaypoint="11608" TargetWaypoint="11609"/>
+	<Link SourceWaypoint="11609" TargetWaypoint="11610"/>
+	<Link SourceWaypoint="11610" TargetWaypoint="11611"/>
+	<Link SourceWaypoint="11611" TargetWaypoint="11612"/>
+	<Link SourceWaypoint="11612" TargetWaypoint="11613"/>
+	<Link SourceWaypoint="11613" TargetWaypoint="11614"/>
+	<Link SourceWaypoint="11614" TargetWaypoint="11615"/>
+	<Link SourceWaypoint="11615" TargetWaypoint="11616"/>
+	<Link SourceWaypoint="11616" TargetWaypoint="11617"/>
+	<Link SourceWaypoint="11617" TargetWaypoint="11618"/>
+	<Link SourceWaypoint="11618" TargetWaypoint="11619"/>
+	<Link SourceWaypoint="11619" TargetWaypoint="11620"/>
+	<Link SourceWaypoint="11620" TargetWaypoint="11621"/>
+	<Link SourceWaypoint="11621" TargetWaypoint="11622"/>
+	<Link SourceWaypoint="11622" TargetWaypoint="11623"/>
+	<Link SourceWaypoint="11623" TargetWaypoint="11624"/>
+	<Link SourceWaypoint="11624" TargetWaypoint="11625"/>
+	<Link SourceWaypoint="11625" TargetWaypoint="11626"/>
+	<Link SourceWaypoint="11626" TargetWaypoint="11627"/>
+	<Link SourceWaypoint="11627" TargetWaypoint="11628"/>
+	<Link SourceWaypoint="11628" TargetWaypoint="11629"/>
+	<Link SourceWaypoint="11629" TargetWaypoint="11630"/>
+	<Link SourceWaypoint="11630" TargetWaypoint="11631"/>
+	<Link SourceWaypoint="11631" TargetWaypoint="11632"/>
+	<Link SourceWaypoint="11632" TargetWaypoint="11633"/>
+	<Link SourceWaypoint="11633" TargetWaypoint="11634"/>
+	<Link SourceWaypoint="11634" TargetWaypoint="11635"/>
+	<Link SourceWaypoint="11635" TargetWaypoint="11636"/>
+	<Link SourceWaypoint="11636" TargetWaypoint="11637"/>
+	<Link SourceWaypoint="11637" TargetWaypoint="11638"/>
+	<Link SourceWaypoint="11638" TargetWaypoint="11639"/>
+	<Link SourceWaypoint="11639" TargetWaypoint="11640"/>
+	<Link SourceWaypoint="11640" TargetWaypoint="11641"/>
+	<Link SourceWaypoint="11641" TargetWaypoint="11642"/>
+	<Link SourceWaypoint="11642" TargetWaypoint="11643"/>
+	<Link SourceWaypoint="11643" TargetWaypoint="11644"/>
+	<Link SourceWaypoint="11644" TargetWaypoint="11648"/>
+	<Link SourceWaypoint="11648" TargetWaypoint="11649"/>
+	<Link SourceWaypoint="11649" TargetWaypoint="11655"/>
+	<Link SourceWaypoint="11655" TargetWaypoint="11649"/>
+	<Link SourceWaypoint="11655" TargetWaypoint="11664"/>
+	<Link SourceWaypoint="11664" TargetWaypoint="11665"/>
+	<Link SourceWaypoint="11664" TargetWaypoint="11655"/>
+	<Link SourceWaypoint="11665" TargetWaypoint="11666"/>
+	<Link SourceWaypoint="11666" TargetWaypoint="11667"/>
+	<Link SourceWaypoint="11667" TargetWaypoint="11668"/>
+	<Link SourceWaypoint="11668" TargetWaypoint="11669"/>
+	<Link SourceWaypoint="11669" TargetWaypoint="11670"/>
+	<Link SourceWaypoint="11670" TargetWaypoint="11671"/>
+	<Link SourceWaypoint="11671" TargetWaypoint="11672"/>
+	<Link SourceWaypoint="11672" TargetWaypoint="11673"/>
+	<Link SourceWaypoint="11673" TargetWaypoint="11674"/>
+	<Link SourceWaypoint="11674" TargetWaypoint="11675"/>
+	<Link SourceWaypoint="11675" TargetWaypoint="11676"/>
+	<Link SourceWaypoint="11676" TargetWaypoint="11677"/>
+	<Link SourceWaypoint="11677" TargetWaypoint="11678"/>
+	<Link SourceWaypoint="11678" TargetWaypoint="11679"/>
+	<Link SourceWaypoint="11679" TargetWaypoint="11680"/>
+	<Link SourceWaypoint="11680" TargetWaypoint="11681"/>
+	<Link SourceWaypoint="11681" TargetWaypoint="11682"/>
+	<Link SourceWaypoint="11682" TargetWaypoint="11683"/>
+	<Link SourceWaypoint="11683" TargetWaypoint="11684"/>
+	<Link SourceWaypoint="11684" TargetWaypoint="11685"/>
+	<Link SourceWaypoint="11685" TargetWaypoint="11686"/>
+	<Link SourceWaypoint="11686" TargetWaypoint="11687"/>
+	<Link SourceWaypoint="11687" TargetWaypoint="11688"/>
+	<Link SourceWaypoint="11688" TargetWaypoint="11689"/>
+	<Link SourceWaypoint="11689" TargetWaypoint="11690"/>
+	<Link SourceWaypoint="11690" TargetWaypoint="11691"/>
+	<Link SourceWaypoint="11691" TargetWaypoint="11692"/>
+	<Link SourceWaypoint="11692" TargetWaypoint="11693"/>
+	<Link SourceWaypoint="11693" TargetWaypoint="11694"/>
+	<Link SourceWaypoint="11694" TargetWaypoint="11695"/>
+	<Link SourceWaypoint="11695" TargetWaypoint="11696"/>
+	<Link SourceWaypoint="11696" TargetWaypoint="11697"/>
+	<Link SourceWaypoint="11697" TargetWaypoint="11698"/>
+	<Link SourceWaypoint="11698" TargetWaypoint="11699"/>
+	<Link SourceWaypoint="11699" TargetWaypoint="11700"/>
+	<Link SourceWaypoint="11700" TargetWaypoint="11701"/>
+	<Link SourceWaypoint="11701" TargetWaypoint="11702"/>
+	<Link SourceWaypoint="11702" TargetWaypoint="11703"/>
+	<Link SourceWaypoint="11703" TargetWaypoint="11704"/>
+	<Link SourceWaypoint="11704" TargetWaypoint="11608"/>
+	<Link SourceWaypoint="11706" TargetWaypoint="11707"/>
+	<Link SourceWaypoint="11707" TargetWaypoint="11708"/>
+	<Link SourceWaypoint="11708" TargetWaypoint="11709"/>
+	<Link SourceWaypoint="11709" TargetWaypoint="11710"/>
+	<Link SourceWaypoint="11710" TargetWaypoint="11711"/>
+	<Link SourceWaypoint="11711" TargetWaypoint="11712"/>
+	<Link SourceWaypoint="11712" TargetWaypoint="11713"/>
+	<Link SourceWaypoint="11713" TargetWaypoint="11714"/>
+	<Link SourceWaypoint="11714" TargetWaypoint="11715"/>
+	<Link SourceWaypoint="11715" TargetWaypoint="11716"/>
+	<Link SourceWaypoint="11716" TargetWaypoint="11717"/>
+	<Link SourceWaypoint="11717" TargetWaypoint="11718"/>
+	<Link SourceWaypoint="11718" TargetWaypoint="11719"/>
+	<Link SourceWaypoint="11719" TargetWaypoint="11720"/>
+	<Link SourceWaypoint="11720" TargetWaypoint="11721"/>
+	<Link SourceWaypoint="11721" TargetWaypoint="11722"/>
+	<Link SourceWaypoint="11722" TargetWaypoint="11723"/>
+	<Link SourceWaypoint="11723" TargetWaypoint="11724"/>
+	<Link SourceWaypoint="11724" TargetWaypoint="11725"/>
+	<Link SourceWaypoint="11725" TargetWaypoint="11726"/>
+	<Link SourceWaypoint="11726" TargetWaypoint="11727"/>
+	<Link SourceWaypoint="11727" TargetWaypoint="11728"/>
+	<Link SourceWaypoint="11728" TargetWaypoint="11729"/>
+	<Link SourceWaypoint="11729" TargetWaypoint="11730"/>
+	<Link SourceWaypoint="11730" TargetWaypoint="11731"/>
+	<Link SourceWaypoint="11731" TargetWaypoint="11732"/>
+	<Link SourceWaypoint="11732" TargetWaypoint="11733"/>
+	<Link SourceWaypoint="11733" TargetWaypoint="11734"/>
+	<Link SourceWaypoint="11734" TargetWaypoint="11735"/>
+	<Link SourceWaypoint="11735" TargetWaypoint="11736"/>
+	<Link SourceWaypoint="11736" TargetWaypoint="11737"/>
+	<Link SourceWaypoint="11737" TargetWaypoint="11738"/>
+	<Link SourceWaypoint="11738" TargetWaypoint="11739"/>
+	<Link SourceWaypoint="11739" TargetWaypoint="11740"/>
+	<Link SourceWaypoint="11740" TargetWaypoint="11741"/>
+	<Link SourceWaypoint="11741" TargetWaypoint="11742"/>
+	<Link SourceWaypoint="11742" TargetWaypoint="11743"/>
+	<Link SourceWaypoint="11743" TargetWaypoint="11744"/>
+	<Link SourceWaypoint="11744" TargetWaypoint="11745"/>
+	<Link SourceWaypoint="11745" TargetWaypoint="11746"/>
+	<Link SourceWaypoint="11746" TargetWaypoint="11747"/>
+	<Link SourceWaypoint="11747" TargetWaypoint="11748"/>
+	<Link SourceWaypoint="11748" TargetWaypoint="11749"/>
+	<Link SourceWaypoint="11749" TargetWaypoint="11750"/>
+	<Link SourceWaypoint="11750" TargetWaypoint="11751"/>
+	<Link SourceWaypoint="11751" TargetWaypoint="11752"/>
+	<Link SourceWaypoint="11752" TargetWaypoint="11753"/>
+	<Link SourceWaypoint="11753" TargetWaypoint="11754"/>
+	<Link SourceWaypoint="11754" TargetWaypoint="11755"/>
+	<Link SourceWaypoint="11755" TargetWaypoint="11756"/>
+	<Link SourceWaypoint="11756" TargetWaypoint="11757"/>
+	<Link SourceWaypoint="11757" TargetWaypoint="11758"/>
+	<Link SourceWaypoint="11758" TargetWaypoint="11759"/>
+	<Link SourceWaypoint="11759" TargetWaypoint="11760"/>
+	<Link SourceWaypoint="11760" TargetWaypoint="11761"/>
+	<Link SourceWaypoint="11761" TargetWaypoint="11762"/>
+	<Link SourceWaypoint="11762" TargetWaypoint="11763"/>
+	<Link SourceWaypoint="11763" TargetWaypoint="11764"/>
+	<Link SourceWaypoint="11764" TargetWaypoint="11765"/>
+	<Link SourceWaypoint="11765" TargetWaypoint="11766"/>
+	<Link SourceWaypoint="11766" TargetWaypoint="11767"/>
+	<Link SourceWaypoint="11767" TargetWaypoint="11768"/>
+	<Link SourceWaypoint="11768" TargetWaypoint="11769"/>
+	<Link SourceWaypoint="11769" TargetWaypoint="11770"/>
+	<Link SourceWaypoint="11770" TargetWaypoint="11771"/>
+	<Link SourceWaypoint="11771" TargetWaypoint="11772"/>
+	<Link SourceWaypoint="11772" TargetWaypoint="11773"/>
+	<Link SourceWaypoint="11773" TargetWaypoint="11774"/>
+	<Link SourceWaypoint="11774" TargetWaypoint="11775"/>
+	<Link SourceWaypoint="11775" TargetWaypoint="11776"/>
+	<Link SourceWaypoint="11776" TargetWaypoint="11777"/>
+	<Link SourceWaypoint="11777" TargetWaypoint="11778"/>
+	<Link SourceWaypoint="11778" TargetWaypoint="11779"/>
+	<Link SourceWaypoint="11779" TargetWaypoint="11780"/>
+	<Link SourceWaypoint="11780" TargetWaypoint="11781"/>
+	<Link SourceWaypoint="11781" TargetWaypoint="11782"/>
+	<Link SourceWaypoint="11782" TargetWaypoint="11783"/>
+	<Link SourceWaypoint="11783" TargetWaypoint="11784"/>
+	<Link SourceWaypoint="11784" TargetWaypoint="11785"/>
+	<Link SourceWaypoint="11785" TargetWaypoint="11786"/>
+	<Link SourceWaypoint="11786" TargetWaypoint="11787"/>
+	<Link SourceWaypoint="11787" TargetWaypoint="11788"/>
+	<Link SourceWaypoint="11788" TargetWaypoint="11789"/>
+	<Link SourceWaypoint="11789" TargetWaypoint="11790"/>
+	<Link SourceWaypoint="11790" TargetWaypoint="11791"/>
+	<Link SourceWaypoint="11791" TargetWaypoint="11792"/>
+	<Link SourceWaypoint="11792" TargetWaypoint="11706"/>
+	<Link SourceWaypoint="11793" TargetWaypoint="11863"/>
+	<Link SourceWaypoint="11793" TargetWaypoint="11794"/>
+	<Link SourceWaypoint="11794" TargetWaypoint="11795"/>
+	<Link SourceWaypoint="11794" TargetWaypoint="11793"/>
+	<Link SourceWaypoint="11795" TargetWaypoint="11796"/>
+	<Link SourceWaypoint="11796" TargetWaypoint="11797"/>
+	<Link SourceWaypoint="11797" TargetWaypoint="11798"/>
+	<Link SourceWaypoint="11798" TargetWaypoint="11799"/>
+	<Link SourceWaypoint="11799" TargetWaypoint="11800"/>
+	<Link SourceWaypoint="11800" TargetWaypoint="11801"/>
+	<Link SourceWaypoint="11801" TargetWaypoint="11802"/>
+	<Link SourceWaypoint="11802" TargetWaypoint="11803"/>
+	<Link SourceWaypoint="11803" TargetWaypoint="11804"/>
+	<Link SourceWaypoint="11804" TargetWaypoint="11805"/>
+	<Link SourceWaypoint="11805" TargetWaypoint="11806"/>
+	<Link SourceWaypoint="11806" TargetWaypoint="11807"/>
+	<Link SourceWaypoint="11807" TargetWaypoint="11808"/>
+	<Link SourceWaypoint="11808" TargetWaypoint="11809"/>
+	<Link SourceWaypoint="11809" TargetWaypoint="11810"/>
+	<Link SourceWaypoint="11810" TargetWaypoint="11811"/>
+	<Link SourceWaypoint="11811" TargetWaypoint="11812"/>
+	<Link SourceWaypoint="11812" TargetWaypoint="11813"/>
+	<Link SourceWaypoint="11813" TargetWaypoint="11814"/>
+	<Link SourceWaypoint="11814" TargetWaypoint="11815"/>
+	<Link SourceWaypoint="11815" TargetWaypoint="11816"/>
+	<Link SourceWaypoint="11816" TargetWaypoint="11817"/>
+	<Link SourceWaypoint="11817" TargetWaypoint="11818"/>
+	<Link SourceWaypoint="11818" TargetWaypoint="11819"/>
+	<Link SourceWaypoint="11819" TargetWaypoint="11820"/>
+	<Link SourceWaypoint="11820" TargetWaypoint="11821"/>
+	<Link SourceWaypoint="11821" TargetWaypoint="11822"/>
+	<Link SourceWaypoint="11822" TargetWaypoint="11823"/>
+	<Link SourceWaypoint="11823" TargetWaypoint="11824"/>
+	<Link SourceWaypoint="11824" TargetWaypoint="11825"/>
+	<Link SourceWaypoint="11825" TargetWaypoint="11826"/>
+	<Link SourceWaypoint="11826" TargetWaypoint="11827"/>
+	<Link SourceWaypoint="11827" TargetWaypoint="11828"/>
+	<Link SourceWaypoint="11828" TargetWaypoint="11829"/>
+	<Link SourceWaypoint="11829" TargetWaypoint="11830"/>
+	<Link SourceWaypoint="11830" TargetWaypoint="11831"/>
+	<Link SourceWaypoint="11831" TargetWaypoint="11832"/>
+	<Link SourceWaypoint="11832" TargetWaypoint="11833"/>
+	<Link SourceWaypoint="11833" TargetWaypoint="11834"/>
+	<Link SourceWaypoint="11834" TargetWaypoint="11835"/>
+	<Link SourceWaypoint="11835" TargetWaypoint="11836"/>
+	<Link SourceWaypoint="11836" TargetWaypoint="11837"/>
+	<Link SourceWaypoint="11837" TargetWaypoint="11838"/>
+	<Link SourceWaypoint="11838" TargetWaypoint="11839"/>
+	<Link SourceWaypoint="11839" TargetWaypoint="11840"/>
+	<Link SourceWaypoint="11840" TargetWaypoint="11841"/>
+	<Link SourceWaypoint="11841" TargetWaypoint="11842"/>
+	<Link SourceWaypoint="11842" TargetWaypoint="11843"/>
+	<Link SourceWaypoint="11843" TargetWaypoint="11844"/>
+	<Link SourceWaypoint="11844" TargetWaypoint="11845"/>
+	<Link SourceWaypoint="11845" TargetWaypoint="11846"/>
+	<Link SourceWaypoint="11846" TargetWaypoint="11847"/>
+	<Link SourceWaypoint="11847" TargetWaypoint="11848"/>
+	<Link SourceWaypoint="11848" TargetWaypoint="11849"/>
+	<Link SourceWaypoint="11849" TargetWaypoint="11850"/>
+	<Link SourceWaypoint="11850" TargetWaypoint="11851"/>
+	<Link SourceWaypoint="11851" TargetWaypoint="11852"/>
+	<Link SourceWaypoint="11852" TargetWaypoint="11853"/>
+	<Link SourceWaypoint="11853" TargetWaypoint="11854"/>
+	<Link SourceWaypoint="11854" TargetWaypoint="11855"/>
+	<Link SourceWaypoint="11855" TargetWaypoint="11856"/>
+	<Link SourceWaypoint="11856" TargetWaypoint="11857"/>
+	<Link SourceWaypoint="11857" TargetWaypoint="11858"/>
+	<Link SourceWaypoint="11858" TargetWaypoint="11859"/>
+	<Link SourceWaypoint="11859" TargetWaypoint="11860"/>
+	<Link SourceWaypoint="11860" TargetWaypoint="11861"/>
+	<Link SourceWaypoint="11861" TargetWaypoint="11862"/>
+	<Link SourceWaypoint="11862" TargetWaypoint="11863"/>
+	<Link SourceWaypoint="11863" TargetWaypoint="11793"/>
+	<Link SourceWaypoint="12371" TargetWaypoint="12372"/>
+	<Link SourceWaypoint="12372" TargetWaypoint="12373"/>
+	<Link SourceWaypoint="12373" TargetWaypoint="12374"/>
+	<Link SourceWaypoint="12374" TargetWaypoint="12375"/>
+	<Link SourceWaypoint="12375" TargetWaypoint="12376"/>
+	<Link SourceWaypoint="12376" TargetWaypoint="12377"/>
+	<Link SourceWaypoint="12377" TargetWaypoint="12378"/>
+	<Link SourceWaypoint="12378" TargetWaypoint="12379"/>
+	<Link SourceWaypoint="12379" TargetWaypoint="12380"/>
+	<Link SourceWaypoint="12380" TargetWaypoint="12381"/>
+	<Link SourceWaypoint="12381" TargetWaypoint="12382"/>
+	<Link SourceWaypoint="12382" TargetWaypoint="12383"/>
+	<Link SourceWaypoint="12383" TargetWaypoint="12384"/>
+	<Link SourceWaypoint="12384" TargetWaypoint="12385"/>
+	<Link SourceWaypoint="12385" TargetWaypoint="12386"/>
+	<Link SourceWaypoint="12386" TargetWaypoint="12387"/>
+	<Link SourceWaypoint="12387" TargetWaypoint="12388"/>
+	<Link SourceWaypoint="12388" TargetWaypoint="12389"/>
+	<Link SourceWaypoint="12389" TargetWaypoint="12390"/>
+	<Link SourceWaypoint="12390" TargetWaypoint="12391"/>
+	<Link SourceWaypoint="12391" TargetWaypoint="12392"/>
+	<Link SourceWaypoint="12392" TargetWaypoint="12393"/>
+	<Link SourceWaypoint="12393" TargetWaypoint="12394"/>
+	<Link SourceWaypoint="12394" TargetWaypoint="12395"/>
+	<Link SourceWaypoint="12395" TargetWaypoint="12396"/>
+	<Link SourceWaypoint="12396" TargetWaypoint="12397"/>
+	<Link SourceWaypoint="12397" TargetWaypoint="12398"/>
+	<Link SourceWaypoint="12398" TargetWaypoint="12399"/>
+	<Link SourceWaypoint="12399" TargetWaypoint="12400"/>
+	<Link SourceWaypoint="12400" TargetWaypoint="12401"/>
+	<Link SourceWaypoint="12401" TargetWaypoint="12402"/>
+	<Link SourceWaypoint="12402" TargetWaypoint="12403"/>
+	<Link SourceWaypoint="12403" TargetWaypoint="12404"/>
+	<Link SourceWaypoint="12404" TargetWaypoint="12405"/>
+	<Link SourceWaypoint="12405" TargetWaypoint="12406"/>
+	<Link SourceWaypoint="12406" TargetWaypoint="12407"/>
+	<Link SourceWaypoint="12407" TargetWaypoint="12408"/>
+	<Link SourceWaypoint="12408" TargetWaypoint="12409"/>
+	<Link SourceWaypoint="12409" TargetWaypoint="12410"/>
+	<Link SourceWaypoint="12410" TargetWaypoint="12411"/>
+	<Link SourceWaypoint="12411" TargetWaypoint="12412"/>
+	<Link SourceWaypoint="12412" TargetWaypoint="12413"/>
+	<Link SourceWaypoint="12413" TargetWaypoint="12414"/>
+	<Link SourceWaypoint="12414" TargetWaypoint="12415"/>
+	<Link SourceWaypoint="12415" TargetWaypoint="12416"/>
+	<Link SourceWaypoint="12416" TargetWaypoint="12417"/>
+	<Link SourceWaypoint="12417" TargetWaypoint="12418"/>
+	<Link SourceWaypoint="12418" TargetWaypoint="12419"/>
+	<Link SourceWaypoint="12419" TargetWaypoint="12420"/>
+	<Link SourceWaypoint="12420" TargetWaypoint="12421"/>
+	<Link SourceWaypoint="12421" TargetWaypoint="12422"/>
+	<Link SourceWaypoint="12422" TargetWaypoint="12423"/>
+	<Link SourceWaypoint="12423" TargetWaypoint="12424"/>
+	<Link SourceWaypoint="12424" TargetWaypoint="12425"/>
+	<Link SourceWaypoint="12425" TargetWaypoint="12426"/>
+	<Link SourceWaypoint="12426" TargetWaypoint="12427"/>
+	<Link SourceWaypoint="12427" TargetWaypoint="12428"/>
+	<Link SourceWaypoint="12428" TargetWaypoint="12429"/>
+	<Link SourceWaypoint="12429" TargetWaypoint="12430"/>
+	<Link SourceWaypoint="12430" TargetWaypoint="12431"/>
+	<Link SourceWaypoint="12431" TargetWaypoint="12432"/>
+	<Link SourceWaypoint="12432" TargetWaypoint="12433"/>
+	<Link SourceWaypoint="12433" TargetWaypoint="12434"/>
+	<Link SourceWaypoint="12434" TargetWaypoint="12435"/>
+	<Link SourceWaypoint="12435" TargetWaypoint="12436"/>
+	<Link SourceWaypoint="12436" TargetWaypoint="12437"/>
+	<Link SourceWaypoint="12437" TargetWaypoint="12438"/>
+	<Link SourceWaypoint="12438" TargetWaypoint="12439"/>
+	<Link SourceWaypoint="12439" TargetWaypoint="12440"/>
+	<Link SourceWaypoint="12440" TargetWaypoint="12441"/>
+	<Link SourceWaypoint="12441" TargetWaypoint="12442"/>
+	<Link SourceWaypoint="12442" TargetWaypoint="12443"/>
+	<Link SourceWaypoint="12443" TargetWaypoint="12444"/>
+	<Link SourceWaypoint="12444" TargetWaypoint="12445"/>
+	<Link SourceWaypoint="12445" TargetWaypoint="12446"/>
+	<Link SourceWaypoint="12446" TargetWaypoint="12447"/>
+	<Link SourceWaypoint="12447" TargetWaypoint="12448"/>
+	<Link SourceWaypoint="12448" TargetWaypoint="12449"/>
+	<Link SourceWaypoint="12449" TargetWaypoint="12450"/>
+	<Link SourceWaypoint="12450" TargetWaypoint="12451"/>
+	<Link SourceWaypoint="12451" TargetWaypoint="12452"/>
+	<Link SourceWaypoint="12452" TargetWaypoint="12453"/>
+	<Link SourceWaypoint="12453" TargetWaypoint="12454"/>
+	<Link SourceWaypoint="12454" TargetWaypoint="12455"/>
+	<Link SourceWaypoint="12455" TargetWaypoint="12456"/>
+	<Link SourceWaypoint="12456" TargetWaypoint="12457"/>
+	<Link SourceWaypoint="12457" TargetWaypoint="12458"/>
+	<Link SourceWaypoint="12458" TargetWaypoint="12459"/>
+	<Link SourceWaypoint="12459" TargetWaypoint="12460"/>
+	<Link SourceWaypoint="12460" TargetWaypoint="12461"/>
+	<Link SourceWaypoint="12461" TargetWaypoint="12462"/>
+	<Link SourceWaypoint="12462" TargetWaypoint="12463"/>
+	<Link SourceWaypoint="12463" TargetWaypoint="12464"/>
+	<Link SourceWaypoint="12464" TargetWaypoint="12465"/>
+	<Link SourceWaypoint="12465" TargetWaypoint="12466"/>
+	<Link SourceWaypoint="12466" TargetWaypoint="12467"/>
+	<Link SourceWaypoint="12467" TargetWaypoint="12468"/>
+	<Link SourceWaypoint="12468" TargetWaypoint="12469"/>
+	<Link SourceWaypoint="12469" TargetWaypoint="12470"/>
+	<Link SourceWaypoint="12470" TargetWaypoint="12471"/>
+	<Link SourceWaypoint="12471" TargetWaypoint="12472"/>
+	<Link SourceWaypoint="12472" TargetWaypoint="12473"/>
+	<Link SourceWaypoint="12473" TargetWaypoint="12474"/>
+	<Link SourceWaypoint="12474" TargetWaypoint="12475"/>
+	<Link SourceWaypoint="12475" TargetWaypoint="12476"/>
+	<Link SourceWaypoint="12476" TargetWaypoint="12477"/>
+	<Link SourceWaypoint="12477" TargetWaypoint="12478"/>
+	<Link SourceWaypoint="12478" TargetWaypoint="12479"/>
+	<Link SourceWaypoint="12479" TargetWaypoint="12480"/>
+	<Link SourceWaypoint="12480" TargetWaypoint="12481"/>
+	<Link SourceWaypoint="12481" TargetWaypoint="12482"/>
+	<Link SourceWaypoint="12482" TargetWaypoint="12483"/>
+	<Link SourceWaypoint="12483" TargetWaypoint="12484"/>
+	<Link SourceWaypoint="12484" TargetWaypoint="12485"/>
+	<Link SourceWaypoint="12485" TargetWaypoint="12486"/>
+	<Link SourceWaypoint="12486" TargetWaypoint="12487"/>
+	<Link SourceWaypoint="12487" TargetWaypoint="12488"/>
+	<Link SourceWaypoint="12488" TargetWaypoint="12489"/>
+	<Link SourceWaypoint="12489" TargetWaypoint="12371"/>
+</LinkList>
+<GroupList>
+	<Group Key="15" Name="Keplan_Worker_Route"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

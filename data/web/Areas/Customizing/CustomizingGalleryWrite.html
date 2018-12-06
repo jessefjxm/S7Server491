@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script src="/Areas/Customizing/common/js/writeForm.js"></script>
+<link href="/Areas/Customizing/common/css/writeForm.css" rel="stylesheet"/>
+<script>
+    $(document).ready(function () {
+        common.openPage();
+
+        var data = null;
+
+        common.initToggleSwitch();
+
+        if (!common.isEmpty(data)) {
+            if (data.length > 0)
+                if (data[0].C_userNo == customizing.userNo) {
+                    initPage(data[0]);
+                } else {
+                    initPage();
+                }
+            else
+                initPage();
+        } else
+            initPage();
+
+
+        common.closePage();
+    });
+</script>
+
+<div id="writeForm" class="container scroll">
+    <form id="writeFrm" method="post" resource="" action=""
+          enctype="multipart/form-data" onsubmit="return false;">
+        <input name="__RequestVerificationToken" type="hidden"
+               value="lIQEqeuiQxMX6iB1W3duRyFfUMESy_FkWqOuAMc2t_Jv0RHGTAH2apiE-oOMom5y4feJyyTgM3qZ1qCRnNNYEd4De5jbU8U77tmjggAyj3c1"/>
+        <div class="hide">
+            <input type="hidden" name="classType" id="classType" value=""/>
+            <input type="hidden" name="userNickname" id="userNickname" value=""/>
+            <input type="hidden" name="isMine" id="isMine" value=""/>
+            <input type="hidden" name="characterName" id="characterName" value=""/>
+            <input type="hidden" name="characterNo" id="characterNo" value=""/>
+            <input type="hidden" name="customizingNo" id="customizingNo" value=""/>
+            <input type="hidden" name="author" id="author" value=""/>
+
+            <input type="file" id="customizingImage1" name="customizingImage1" accept=".bds1"/>
+            <input type="file" id="customizingImage2" name="customizingImage2" accept=".bds2"/>
+            <input type="file" id="customizingFile" name="customizingFile" accept=".bdc"/>
+
+        </div>
+
+        <div class="imageArea">
+            <div class="imageBox image1">
+                <div class="top hide">
+                    <a class="btnDelete" data-tooltip="WEB_CUSTOMIZING_DELETE"></a>
+                    <a class="btn btnReScreenshot" data-color="3d382d" data-str="WEB_CUSTOMIZING_AGAIN_SCREENSHOT"> </a>
+                    <img src="" id="_customizingImage1"/>
+                </div>
+                <div class="bottom">
+                    <img src="/Areas/Customizing/common/img/icn_camera.png"/><span
+                        data-str="WEB_CUSTOMIZING_TEXT_SCREEN_N_CUSTOMIZING_SHARE"> </span>
+                    <a class="btn btnScreenshot" data-color="291805" data-str="WEB_CUSTOMIZING_SCREENSHOT"> </a>
+                </div>
+            </div>
+            <div class="imageBox image2" style="right: -12px;">
+                <div class="top hide">
+                    <a class="btnDelete" data-tooltip="WEB_CUSTOMIZING_DELETE" data-tooltip-position="right"></a>
+                    <a class="btn btnReScreenshot" data-color="3d382d" data-str="WEB_CUSTOMIZING_AGAIN_SCREENSHOT"> </a>
+                    <img src="" id="_customizingImage2"/>
+                </div>
+                <div class="bottom">
+                    <img src="/Areas/Customizing/common/img/icn_camera.png"/><span
+                        data-str="WEB_CUSTOMIZING_TEXT_SCREEN_N_CUSTOMIZING_SHARE"> </span>
+                    <a class="btn btnScreenshot" data-color="291805" data-str="WEB_CUSTOMIZING_SCREENSHOT"> </a>
+                </div>
+            </div>
+        </div>
+
+        <div id="searchBox">
+            <div class="classImage"><img src="" data-tooltip=""/></div>
+            <div class="custimizingtitle"><input id="_customizingTitle" name="customizingTitle" type="text"
+                                                 maxlength="50"
+                                                 data-str-placeholder="WEB_CUSTOMIZING_TEXT_PLASE_INPUT_TITLE"
+                                                 tabindex="0"/></div>
+            <div class="userNickName" id="userNickName"></div>
+            <div class="gallery"><span data-str="WEB_CUSTOMIZING_GALLERY_SIGN_UP"> </span><input type="checkbox"
+                                                                                                 class="switch galleryOnOff"
+                                                                                                 checked/></div>
+            <hr/>
+            <div class="category search">
+                <span data-str="WEB_CUSTOMIZING_TEXT_CATEGORY"> </span>
+                <div class="radioArea">
+                </div>
+            </div>
+        </div>
+
+        <div class="descriptionArea">
+            <textarea class="scroll" id="_customizingDescription" name="customizingDescription"
+                      data-str-placeholder="WEB_CUSTOMIZING_CONTENT_PLASE_INPUT_TEXT" maxlength="4000"
+                      tabindex="3"></textarea>
+        </div>
+
+        <div class="buttonArea">
+            <a class="btn btnSave" data-color="3d382d" data-str="WEB_CUSTOMIZING_SAVE" tabindex="4"> </a>
+            <a class="btn btnCancel" data-color="3d382d" data-str="WEB_CUSTOMIZING_CANCEL"> </a>
+        </div>
+    </form>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,675 @@
+
+#view.container {
+    padding: 15px 0 15px 10px;
+    height: 100%;
+    overflow-y: hidden;
+    box-sizing: border-box;
+}
+
+#view #searchBox {
+    display: inline-block;
+    width: 770px;
+    height: 64px;
+    margin-bottom: 25px;
+}
+
+#view #searchBox .classImage {
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    vertical-align: middle;
+    margin: 0 5px 15px -5px;
+}
+
+#view #searchBox .titleArea {
+    display: inline-block;
+    position: relative;
+    width: 78%;
+}
+
+#view #searchBox .titleArea div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+#view #searchBox .titleArea .name {
+    color: #cfcfcf;
+    font-size: 16px;
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;;
+}
+
+#view #searchBox .titleArea .userNickname_date_view_comment {
+    width: 100%;
+}
+
+#view #searchBox .titleArea .userNickname_date_view_comment .userNickname {
+    font-size: 14px;
+    color: #cabb15;
+}
+
+#view #searchBox .titleArea .userNickname_date_view_comment .userNickname .guildmark {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    opacity: 1;
+}
+
+#view #searchBox .titleArea .userNickname_date_view_comment .date {
+    font-size: 12px;
+    color: #626262;
+}
+
+#view #searchBox .titleArea .userNickname_date_view_comment .view {
+    font-size: 12px;
+    color: #909090;
+}
+
+#view #searchBox .titleArea .userNickname_date_view_comment .comment {
+    font-size: 12px;
+    color: #fff;
+}
+
+#view #searchBox .titleArea .userNickname_date_view_comment img {
+    opacity: 0.35;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+#view #searchBox .switchArea {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 10px 0;
+    text-align: right;
+}
+
+#view #searchBox .switchArea .gallery {
+    vertical-align: middle;
+    font-size: 12px;
+    color: #ffa200;
+}
+
+#view #searchBox .switchArea .gallery span {
+    vertical-align: middle;
+}
+
+#view #searchBox .switchArea .code {
+    font-size: 12px;
+    color: #6b6b6b;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+#view #searchBox .switchArea .code span {
+    color: #6b6b6b;
+    overflow: hidden;
+    display: inline-block;
+}
+
+#view #searchBox .switchArea .code span.customizingNo {
+    color: #bbb;
+    overflow: hidden;
+    display: inline-block;
+    padding-left: 5px;
+}
+
+#view #searchBox .switchArea .helpBox {
+    cursor: pointer;
+    width: 14px;
+    height: 14px;
+    font-size: 10px;
+    color: #8d897f;
+    display: inline-block;
+    background-color: #4c4a45;
+    box-sizing: border-box;
+    border: 1px solid #6d6b65;
+    border-radius: 2px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+#view #searchBox .switchArea .helpBox span {
+    vertical-align: middle;
+}
+
+#view .btnBack {
+    cursor: pointer;
+    text-align: center;
+    background-color: #1d1b17;
+    border: 1px solid black;
+    position: relative;
+    display: inline-block;
+    width: 61px;
+    height: 64px;
+    line-height: 32px;
+    border-radius: 2px;
+    overflow: hidden;
+    vertical-align: middle;
+    float: right;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+
+#view .btnBack:before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(51, 51, 51, 0) 0%, rgba(60, 60, 60, 0.32) 48%, rgba(65, 66, 66, 0.47) 50%, rgba(87, 87, 87, 0.65) 100%);
+    border-radius: 2px;
+}
+
+#view .btnBack:hover:after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    opacity: 0.1;
+}
+
+#view .btnBack:active:after {
+    background: #000;
+}
+
+#view .btnBack span {
+    color: #cbc5bd;
+    font-size: 14px;
+    position: relative;
+    cursor: pointer;
+    z-index: 1;
+    top: -5px;
+}
+
+#view .btnBack div img {
+    vertical-align: middle;
+    opacity: 0.5;
+}
+
+#view .scroll {
+    height: calc(100% - 75px);
+    overflow-y: auto;
+}
+
+#view .scroll .imageArea {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+#view .scroll .imageArea .imageBox {
+    background: linear-gradient(120deg, #68665f, #3c3b37);
+    overflow: hidden;
+    width: calc(420px / 10 * 9.7);
+    height: calc(440px / 10 * 9.7);
+    border: 1px solid;
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+}
+
+#view .scroll .imageArea .imageBox:before {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: inset 0 0 0 1px #908379;
+    border-radius: 10px;
+}
+
+#view .scroll .imageArea .imageBox .bottom {
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 100%;
+    line-height: 388px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#view .scroll .imageArea .imageBox .bottom img {
+    vertical-align: middle;
+}
+
+#view .scroll .imageArea .imageBox .bottom span {
+    vertical-align: middle;
+    color: #d1d1d1;
+    font-size: 16px;
+    padding-left: 7px;
+}
+
+#view .scroll .btnArea {
+    text-align: center;
+}
+
+#view .scroll .btnArea .btn.apply {
+    min-width: 253px;
+    height: 48px;
+    width: auto;
+    top: 12px;
+    padding: 0 10px;
+}
+
+#view .scroll .btnArea .btn.apply span {
+    vertical-align: middle;
+    line-height: 48px;
+    position: initial;
+    color: #c3eac3;
+    font-size: 16px;
+}
+
+#view .scroll .btnArea .btn.apply span.count {
+    color: #44ae39;
+    line-height: 48px;
+    font-size: 25px;
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.24);
+}
+
+#view .scroll .btnArea .btn.apply img {
+    margin: 0 5px;
+}
+
+#view .scroll .btnArea .author {
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    top: -8px;
+    left: 8px;
+}
+
+#view .scroll .btnArea .author .authorUserNickname {
+    color: #ead8a2
+}
+
+#view .scroll .btnArea .author .authorUserNickname:hover {
+    color: #fcf3d6
+}
+
+#view .scroll .descriptionArea {
+    padding: 30px 15px 60px;
+}
+
+#view .scroll .descriptionArea span {
+    color: #b5b5b5;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+#view .scroll .btnArea.like_facebook {
+    margin: 10px 0 20px;
+}
+
+#view .scroll .btnArea.like_facebook .btn img {
+    margin-right: 10px;
+    top: -3px;
+    position: relative;
+}
+
+#view .scroll .btnArea .btn img {
+    vertical-align: middle;
+}
+
+#view .scroll .btnArea .btn.like {
+    width: 101px;
+    height: 38px;
+    line-height: 38px;
+    color: #00d1fe;
+    font-size: 16px;
+}
+
+#view .scroll .btnArea .btn.facebook {
+    width: 101px;
+    height: 38px;
+    line-height: 38px;
+    color: #c3e6ea;
+    font-size: 14px;
+}
+
+#view .scroll .btnArea.modify_delete {
+    text-align: right;
+    padding: 0 10px;
+    margin: 0 0 10px;
+}
+
+#view .scroll .btnArea .btnHide {
+    min-width: 70px;
+    padding: 0 10px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    color: #d1d1d1;
+    font-size: 13px;
+}
+
+#view .scroll .btnArea .btnModify {
+    min-width: 60px;
+    padding: 0 10px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    color: #d1d1d1;
+    font-size: 13px;
+}
+
+#view .scroll .btnArea .btnDelete {
+    min-width: 60px;
+    padding: 0 10px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    color: #d1d1d1;
+    font-size: 13px;
+}
+
+#view .scroll .btnArea.back {
+    margin: 10px 0 20px;
+}
+
+#view .scroll .btnArea.back .btnBack {
+    cursor: pointer;
+    text-align: center;
+    background-color: #1d1b17;
+    border: 1px solid black;
+    position: relative;
+    display: inline-block;
+    min-width: 91px;
+    width: auto;
+    padding: 0 10px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 2px;
+    overflow: hidden;
+    vertical-align: middle;
+    float: inherit;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+
+#view .scroll .btnArea.back .btnBack:before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(51, 51, 51, 0) 0%, rgba(60, 60, 60, 0.32) 48%, rgba(65, 66, 66, 0.47) 50%, rgba(87, 87, 87, 0.65) 100%);
+    border-radius: 2px;
+}
+
+#view .scroll .btnArea.back .btnBack:hover:after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    opacity: 0.1;
+}
+
+#view .scroll .btnArea.back .btnBack:active:after {
+    background: #000;
+}
+
+#view .scroll .btnArea.back .btnBack span {
+    color: #cbc5bd;
+    font-size: 14px;
+    position: inherit;
+    cursor: pointer;
+    z-index: 1;
+    top: -1px;
+}
+
+#view .scroll .btnArea.back .btnBack img {
+    vertical-align: middle;
+    opacity: 0.5;
+    margin-right: 11px;
+    top: -2px;
+    position: relative;
+}
+
+#view .scroll .commentArea {
+    margin: 0 10px 0 0;
+}
+
+#view .scroll .commentArea .table {
+    border-top: 1px solid #55534e;
+    border-bottom: 1px solid #55534e;
+    position: relative;
+    display: table;
+    width: 100%;
+}
+
+#view .scroll .commentArea .table .row {
+    display: table-row;
+}
+
+#view .scroll .commentArea .table .th {
+    border-top: 1px solid #55534e;
+    background-color: #3e3d39;
+    color: #dfdfdf;
+    font-size: 14px;
+    text-align: right;
+    padding: 15px;
+    box-sizing: border-box;
+    display: table-cell;
+    vertical-align: top;
+    position: relative;
+    width: 23%;
+}
+
+#view .scroll .commentArea .table .row:first-child .th {
+    border-top: 1px solid #000000;
+}
+
+#view .scroll .commentArea .table .td {
+    border-top: 1px solid #55534e;
+    display: table-cell;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    position: relative;
+    text-align: right;
+}
+
+#view .scroll .commentArea .table .row:first-child .td {
+    border-top: 1px solid #000000;
+}
+
+#view .scroll .commentArea .table .row.blind .td.comment:before {
+    content: attr(data-blind);
+    font-size: 14px;
+    color: #5e5e5e;
+    margin-right: 10px;
+}
+
+#view .scroll .commentArea .table .row.blind .td.comment span, #view .scroll .commentArea .table .row.blind .td.comment .modify {
+    display: none
+}
+
+#view .scroll .commentArea .table .td.comment {
+    line-height: 23px;
+    width: 66%;
+    text-align: left;
+    padding: 15px 0 15px 15px;
+}
+
+#view .scroll .commentArea .table .td.comment textarea {
+    padding: 10px;
+    color: #A29E94;
+    width: 98%;
+    height: 75px;
+    resize: none;
+    box-sizing: border-box;
+    background-color: #3d3c3a;
+    border: 1px solid #61605e;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+    line-height: 20px
+}
+
+/*#view .scroll .commentArea .table .row .td.comment textarea*/
+#view .scroll .commentArea .table .td.comment textarea::-webkit-input-placeholder {
+    color: #808080;
+}
+
+#view .scroll .commentArea .table .td.comment span.content {
+    font-size: 14px;
+    color: #b5b5b5;
+    word-break: break-word;
+}
+
+#view .scroll .commentArea .table .td.comment span.date {
+    margin: 0 5px 0 10px;
+    font-size: 12px;
+    color: #6c6c6c;
+}
+
+#view .scroll .commentArea .table .td.comment a {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    background-color: #41403c;
+    border: 1px solid rgba(147, 149, 156, 0.60);
+    border-radius: 1px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    position: relative;
+    box-sizing: border-box;
+}
+
+#view .scroll .commentArea .table .td.comment a:hover:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#view .scroll .commentArea .table .td.comment a:active:after {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#view .scroll .commentArea .table .td.comment .modify {
+    overflow: hidden;
+    margin-right: 3px;
+}
+
+#view .scroll .commentArea .table .td.comment .modify:before {
+    content: '';
+    background: url(/Areas/Customizing/common/img/icn_modify.png) no-repeat;
+    display: inline-block;
+    opacity: 0.5;
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    background-size: cover;
+}
+
+#view .scroll .commentArea .table .td.comment .remove {
+}
+
+#view .scroll .commentArea .table .td.comment .remove:before {
+    content: '';
+    background: url(/Areas/Customizing/common/img/icn_smalldelete.png) no-repeat;
+    display: inline-block;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: center;
+}
+
+#view .scroll .commentArea .table .td .btn.save {
+    width: 85px;
+    height: 75px;
+    line-height: 75px;
+    vertical-align: inherit;
+    background-color: rgb(61, 56, 45);
+    right: 5px;
+    position: absolute;
+}
+
+#view .scroll .commentArea .table .td .btnReport {
+    color: #ffba00;
+    position: relative;
+    display: inline-block;
+    padding: 0 5px;
+    min-width: 51px;
+    height: 21px;
+    cursor: pointer;
+    background: linear-gradient(#393939 60%, #454545 61%);
+    border-radius: 2px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 12px;
+    color: #989898;
+    text-align: center;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+#view .scroll .commentArea .table .td .btnReport:before {
+    content: url(/Areas/Customizing/common/img/icn_report.png);
+    margin-right: 3px;
+}
+
+#view .scroll .commentArea .table .td .btnReport:hover:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 2px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+#view .scroll .commentArea .table .td .btnReport:active {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+#view .scroll .commentArea .table .td .btnReport.blind {
+    background: linear-gradient(#454545 30%, #393939 31%);
+    color: #989898;
+    cursor: default !important;
+}
+
+#view .scroll .commentArea .table .td .btnReport.blind:before {
+    content: url(/Areas/Customizing/common/img/icn_check.png);
+    opacity: 0.3;
+}
+
+#view .scroll .commentArea .table .td .btnReport.blind:after {
+    display: none;
+}
+
+#view .scroll .commentArea .table .row.modify .td.comment > *:not(textarea) {
+    display: none !important;
+}
+
+#view .scroll .commentArea .table .row.modify .td:not(.comment) > a:not(.save) {
+    display: none !important;
+}

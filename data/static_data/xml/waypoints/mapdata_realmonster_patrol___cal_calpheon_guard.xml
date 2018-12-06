@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_calpheon_guard">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12737" Name="Cal_Calpheon_Guard_001" PosX="-255840" PosY="-2659.36" PosZ="-33204.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12738" Name="Cal_Calpheon_Guard_002" PosX="-255787" PosY="-2636.53" PosZ="-32437" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12739" Name="Cal_Calpheon_Guard_003" PosX="-255711" PosY="-2615.04" PosZ="-31678.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12740" Name="Cal_Calpheon_Guard_004" PosX="-255653" PosY="-2578.18" PosZ="-30890.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12741" Name="Cal_Calpheon_Guard_005" PosX="-255648" PosY="-2573.89" PosZ="-30190.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12742" Name="Cal_Calpheon_Guard_006" PosX="-255641" PosY="-2586.37" PosZ="-29148.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12743" Name="Cal_Calpheon_Guard_007" PosX="-255954" PosY="-2577.52" PosZ="-28337" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12744" Name="Cal_Calpheon_Guard_008" PosX="-256698" PosY="-2575.81" PosZ="-27482.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12745" Name="Cal_Calpheon_Guard_009" PosX="-257418" PosY="-2567.7" PosZ="-27050" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12746" Name="Cal_Calpheon_Guard_010" PosX="-258252" PosY="-2571.04" PosZ="-26786.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12747" Name="Cal_Calpheon_Guard_011" PosX="-259139" PosY="-2581.84" PosZ="-26785.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12748" Name="Cal_Calpheon_Guard_012" PosX="-260167" PosY="-2602.82" PosZ="-26891.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12749" Name="Cal_Calpheon_Guard_013" PosX="-261286" PosY="-2620.63" PosZ="-27138.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12750" Name="Cal_Calpheon_Guard_014" PosX="-262475" PosY="-2626.73" PosZ="-27607.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12751" Name="Cal_Calpheon_Guard_015" PosX="-263107" PosY="-2637.06" PosZ="-27941.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12752" Name="Cal_Calpheon_Guard_016" PosX="-263700" PosY="-2639.62" PosZ="-28330.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12753" Name="Cal_Calpheon_Guard_017" PosX="-264402" PosY="-2641.45" PosZ="-28632.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12754" Name="Cal_Calpheon_Guard_018" PosX="-265154" PosY="-2647.95" PosZ="-28822.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12755" Name="Cal_Calpheon_Guard_019" PosX="-266242" PosY="-2655.41" PosZ="-29132.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12756" Name="Cal_Calpheon_Guard_020" PosX="-267318" PosY="-2644.42" PosZ="-29391.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12757" Name="Cal_Calpheon_Guard_021" PosX="-268215" PosY="-2613.28" PosZ="-29735.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12758" Name="Cal_Calpheon_Guard_022" PosX="-268908" PosY="-2580.31" PosZ="-30096" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12759" Name="Cal_Calpheon_Guard_023" PosX="-269844" PosY="-2558.58" PosZ="-30756.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12760" Name="Cal_Calpheon_Guard_024" PosX="-270727" PosY="-2541.16" PosZ="-31630.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12761" Name="Cal_Calpheon_Guard_025" PosX="-271613" PosY="-2580.93" PosZ="-32656" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12762" Name="Cal_Calpheon_Guard_026" PosX="-272629" PosY="-2599.03" PosZ="-34037.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12763" Name="Cal_Calpheon_Guard_027" PosX="-273607" PosY="-2607.99" PosZ="-35407" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12764" Name="Cal_Calpheon_Guard_028" PosX="-274701" PosY="-2681.81" PosZ="-37052.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12765" Name="Cal_Calpheon_Guard_029" PosX="-276170" PosY="-2875.91" PosZ="-39358.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12766" Name="Cal_Calpheon_Guard_030" PosX="-277082" PosY="-2977.9" PosZ="-41330.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12767" Name="Cal_Calpheon_Guard_031" PosX="-277329" PosY="-2990.28" PosZ="-42950.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12768" Name="Cal_Calpheon_Guard_032" PosX="-277314" PosY="-3056.59" PosZ="-44464.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12769" Name="Cal_Calpheon_Guard_033" PosX="-277170" PosY="-3070.53" PosZ="-46164.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12770" Name="Cal_Calpheon_Guard_034" PosX="-276928" PosY="-3116.87" PosZ="-47555.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12771" Name="Cal_Calpheon_Guard_035" PosX="-276272" PosY="-3166.04" PosZ="-48672.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12772" Name="Cal_Calpheon_Guard_036" PosX="-255139" PosY="-2560.7" PosZ="-30730.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12773" Name="Cal_Calpheon_Guard_037" PosX="-254156" PosY="-2551.11" PosZ="-30884.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12774" Name="Cal_Calpheon_Guard_038" PosX="-253095" PosY="-2500.81" PosZ="-30983.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12775" Name="Cal_Calpheon_Guard_039" PosX="-252088" PosY="-2515.22" PosZ="-30797.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12776" Name="Cal_Calpheon_Guard_040" PosX="-250900" PosY="-2398.86" PosZ="-30424.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12777" Name="Cal_Calpheon_Guard_041" PosX="-249802" PosY="-2366.96" PosZ="-30058.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12778" Name="Cal_Calpheon_Guard_042" PosX="-248601" PosY="-2286.01" PosZ="-29775.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12779" Name="Cal_Calpheon_Guard_043" PosX="-247376" PosY="-2193.02" PosZ="-29422.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12780" Name="Cal_Calpheon_Guard_044" PosX="-246624" PosY="-2193.71" PosZ="-29128.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12781" Name="Cal_Calpheon_Guard_045" PosX="-245862" PosY="-2196.9" PosZ="-28825.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12782" Name="Cal_Calpheon_Guard_046" PosX="-244885" PosY="-2186.14" PosZ="-28911" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12783" Name="Cal_Calpheon_Guard_047" PosX="-243768" PosY="-2205.67" PosZ="-29293" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12784" Name="Cal_Calpheon_Guard_048" PosX="-242494" PosY="-2215.62" PosZ="-30090.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12785" Name="Cal_Calpheon_Guard_049" PosX="-241352" PosY="-2268.86" PosZ="-31114" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12786" Name="Cal_Calpheon_Guard_050" PosX="-240594" PosY="-2309.75" PosZ="-31989.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12787" Name="Cal_Calpheon_Guard_051" PosX="-239588" PosY="-2367.27" PosZ="-33438.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12788" Name="Cal_Calpheon_Guard_052" PosX="-238078" PosY="-2488.1" PosZ="-34841.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12789" Name="Cal_Calpheon_Guard_053" PosX="-236459" PosY="-2745.53" PosZ="-36304.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12790" Name="Cal_Calpheon_Guard_054" PosX="-234308" PosY="-2868.71" PosZ="-38010.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12791" Name="Cal_Calpheon_Guard_055" PosX="-233619" PosY="-2915.27" PosZ="-38522.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12792" Name="Cal_Calpheon_Guard_056" PosX="-233172" PosY="-2971.15" PosZ="-39181.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12793" Name="Cal_Calpheon_Guard_057" PosX="-233087" PosY="-3029.96" PosZ="-40189" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12794" Name="Cal_Calpheon_Guard_058" PosX="-232542" PosY="-3103.68" PosZ="-41064.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12795" Name="Cal_Calpheon_Guard_059" PosX="-231507" PosY="-3093.36" PosZ="-41917" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12796" Name="Cal_Calpheon_Guard_060" PosX="-231203" PosY="-3128.46" PosZ="-42696.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12797" Name="Cal_Calpheon_Guard_061" PosX="-231533" PosY="-3291.87" PosZ="-44279.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12798" Name="Cal_Calpheon_Guard_062" PosX="-231829" PosY="-3464.81" PosZ="-45525.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12799" Name="Cal_Calpheon_Guard_063" PosX="-232108" PosY="-3645.06" PosZ="-47357.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12800" Name="Cal_Calpheon_Guard_064" PosX="-232022" PosY="-3717.44" PosZ="-48404" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12801" Name="Cal_Calpheon_Guard_065" PosX="-247154" PosY="-2212.6" PosZ="-28684.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12802" Name="Cal_Calpheon_Guard_066" PosX="-249251" PosY="-2320.03" PosZ="-28538" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12803" Name="Cal_Calpheon_Guard_067" PosX="-250260" PosY="-2391.17" PosZ="-28476.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12804" Name="Cal_Calpheon_Guard_068" PosX="-251443" PosY="-2467.44" PosZ="-28437.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12805" Name="Cal_Calpheon_Guard_069" PosX="-252521" PosY="-2511.38" PosZ="-28238.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12806" Name="Cal_Calpheon_Guard_070" PosX="-254105" PosY="-2533.6" PosZ="-28295.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12807" Name="Cal_Calpheon_Guard_071" PosX="-255030" PosY="-2547.46" PosZ="-28390.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12808" Name="Cal_Calpheon_Guard_072" PosX="-255456" PosY="-2580.68" PosZ="-28839.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12809" Name="Cal_Calpheon_Guard_073" PosX="-255671" PosY="-2581.49" PosZ="-29544" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12810" Name="Cal_Calpheon_Guard_074" PosX="-255514" PosY="-2570.25" PosZ="-30319.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12811" Name="Cal_Calpheon_Guard_075" PosX="-228075" PosY="-3603.75" PosZ="-50370.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12812" Name="Cal_Calpheon_Guard_076" PosX="-227053" PosY="-3512.5" PosZ="-49987.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12813" Name="Cal_Calpheon_Guard_077" PosX="-226255" PosY="-3421.44" PosZ="-49767.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12814" Name="Cal_Calpheon_Guard_078" PosX="-224870" PosY="-3291.26" PosZ="-49636.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12815" Name="Cal_Calpheon_Guard_079" PosX="-223696" PosY="-3206.93" PosZ="-49629.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12816" Name="Cal_Calpheon_Guard_080" PosX="-222358" PosY="-3107.7" PosZ="-49572.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12817" Name="Cal_Calpheon_Guard_081" PosX="-220952" PosY="-3035.64" PosZ="-49691.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12818" Name="Cal_Calpheon_Guard_082" PosX="-219462" PosY="-3032.44" PosZ="-50021.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12819" Name="Cal_Calpheon_Guard_083" PosX="-217712" PosY="-3072.61" PosZ="-50339.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12820" Name="Cal_Calpheon_Guard_084" PosX="-216180" PosY="-3056.84" PosZ="-50336.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12821" Name="Cal_Calpheon_Guard_085" PosX="-214989" PosY="-3040.46" PosZ="-50053.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12822" Name="Cal_Calpheon_Guard_086" PosX="-213565" PosY="-2997.01" PosZ="-49517.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12823" Name="Cal_Calpheon_Guard_087" PosX="-211509" PosY="-3063.13" PosZ="-49148" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12824" Name="Cal_Calpheon_Guard_088" PosX="-209366" PosY="-3145" PosZ="-48878.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12825" Name="Cal_Calpheon_Guard_089" PosX="-207813" PosY="-3185.36" PosZ="-48956.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12826" Name="Cal_Calpheon_Guard_090" PosX="-206692" PosY="-3168.28" PosZ="-49563.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12827" Name="Cal_Calpheon_Guard_091" PosX="-206037" PosY="-3131.85" PosZ="-50546.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12828" Name="Cal_Calpheon_Guard_092" PosX="-205900" PosY="-3100.11" PosZ="-51857.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12829" Name="Cal_Calpheon_Guard_093" PosX="-205839" PosY="-2980.13" PosZ="-53457.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12830" Name="Cal_Calpheon_Guard_094" PosX="-205734" PosY="-2887.76" PosZ="-54739.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12831" Name="Cal_Calpheon_Guard_095" PosX="-205640" PosY="-3069.42" PosZ="-56644.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12832" Name="Cal_Calpheon_Guard_096" PosX="-205565" PosY="-3170.32" PosZ="-58057.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12833" Name="Cal_Calpheon_Guard_097" PosX="-205591" PosY="-3071.39" PosZ="-59856.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12834" Name="Cal_Calpheon_Guard_098" PosX="-205634" PosY="-2885.94" PosZ="-62359.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12835" Name="Cal_Calpheon_Guard_099" PosX="-205678" PosY="-2789.45" PosZ="-63805.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12836" Name="Cal_Calpheon_Guard_100" PosX="-206058" PosY="-2761.99" PosZ="-64695" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12837" Name="Cal_Calpheon_Guard_101" PosX="-206767" PosY="-2774.5" PosZ="-65411.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12838" Name="Cal_Calpheon_Guard_102" PosX="-207841" PosY="-2786.97" PosZ="-65827.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12839" Name="Cal_Calpheon_Guard_103" PosX="-208995" PosY="-2801.54" PosZ="-65904" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12840" Name="Cal_Calpheon_Guard_104" PosX="-210636" PosY="-2859.31" PosZ="-65887.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12841" Name="Cal_Calpheon_Guard_105" PosX="-212254" PosY="-2999.45" PosZ="-65787.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12842" Name="Cal_Calpheon_Guard_106" PosX="-213438" PosY="-3048.41" PosZ="-65414.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12843" Name="Cal_Calpheon_Guard_107" PosX="-215370" PosY="-3210.22" PosZ="-64823.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12844" Name="Cal_Calpheon_Guard_108" PosX="-216892" PosY="-3262.68" PosZ="-64261.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12845" Name="Cal_Calpheon_Guard_109" PosX="-218409" PosY="-3362.72" PosZ="-63711.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12846" Name="Cal_Calpheon_Guard_110" PosX="-219994" PosY="-3457.07" PosZ="-63175.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12847" Name="Cal_Calpheon_Guard_111" PosX="-221560" PosY="-3570.73" PosZ="-62634.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12848" Name="Cal_Calpheon_Guard_112" PosX="-223272" PosY="-3611.85" PosZ="-62205.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12849" Name="Cal_Calpheon_Guard_113" PosX="-224097" PosY="-3632.49" PosZ="-61840.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12850" Name="Cal_Calpheon_Guard_114" PosX="-224625" PosY="-3659.06" PosZ="-61443.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12851" Name="Cal_Calpheon_Guard_115" PosX="-225063" PosY="-3706.92" PosZ="-60832.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12852" Name="Cal_Calpheon_Guard_116" PosX="-283395" PosY="-295.883" PosZ="-73170.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12853" Name="Cal_Calpheon_Guard_117" PosX="-284282" PosY="-337.457" PosZ="-73468.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12854" Name="Cal_Calpheon_Guard_118" PosX="-285132" PosY="-396.517" PosZ="-73570.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12855" Name="Cal_Calpheon_Guard_119" PosX="-285999" PosY="-509.423" PosZ="-73442.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12856" Name="Cal_Calpheon_Guard_120" PosX="-286544" PosY="-615.351" PosZ="-73050.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12857" Name="Cal_Calpheon_Guard_121" PosX="-286893" PosY="-738.563" PosZ="-72313.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12858" Name="Cal_Calpheon_Guard_122" PosX="-286894" PosY="-842.022" PosZ="-71324.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12859" Name="Cal_Calpheon_Guard_123" PosX="-286751" PosY="-939.455" PosZ="-70254" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12860" Name="Cal_Calpheon_Guard_124" PosX="-286761" PosY="-1257.6" PosZ="-68998.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12861" Name="Cal_Calpheon_Guard_125" PosX="-287106" PosY="-1807.47" PosZ="-67432.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12862" Name="Cal_Calpheon_Guard_126" PosX="-287344" PosY="-1932.9" PosZ="-66408" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12863" Name="Cal_Calpheon_Guard_127" PosX="-287470" PosY="-775.12" PosZ="-72934.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12864" Name="Cal_Calpheon_Guard_128" PosX="-288054" PosY="-849.984" PosZ="-73148" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12865" Name="Cal_Calpheon_Guard_129" PosX="-289245" PosY="-950.825" PosZ="-73002.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12866" Name="Cal_Calpheon_Guard_130" PosX="-290307" PosY="-1127.99" PosZ="-72804.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12867" Name="Cal_Calpheon_Guard_131" PosX="-291738" PosY="-1310.98" PosZ="-72289.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12868" Name="Cal_Calpheon_Guard_132" PosX="-293425" PosY="-1495.13" PosZ="-71336.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12869" Name="Cal_Calpheon_Guard_133" PosX="-294587" PosY="-1597.67" PosZ="-70829.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12870" Name="Cal_Calpheon_Guard_134" PosX="-296021" PosY="-1770.91" PosZ="-70366.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12871" Name="Cal_Calpheon_Guard_135" PosX="-297449" PosY="-1964.84" PosZ="-69681.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12872" Name="Cal_Calpheon_Guard_136" PosX="-299309" PosY="-2368.26" PosZ="-68431.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12873" Name="Cal_Calpheon_Guard_137" PosX="-248292" PosY="-1809.27" PosZ="-78847.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12874" Name="Cal_Calpheon_Guard_138" PosX="-248229" PosY="-1772.34" PosZ="-80040.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12875" Name="Cal_Calpheon_Guard_139" PosX="-248415" PosY="-1701.64" PosZ="-80831.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12876" Name="Cal_Calpheon_Guard_140" PosX="-249075" PosY="-1728.2" PosZ="-81604.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12877" Name="Cal_Calpheon_Guard_141" PosX="-249961" PosY="-1734.42" PosZ="-82170.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12878" Name="Cal_Calpheon_Guard_142" PosX="-250690" PosY="-1745.8" PosZ="-82345.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12879" Name="Cal_Calpheon_Guard_143" PosX="-252139" PosY="-1638.64" PosZ="-82606.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12880" Name="Cal_Calpheon_Guard_144" PosX="-253916" PosY="-1429.89" PosZ="-82930.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12881" Name="Cal_Calpheon_Guard_145" PosX="-255695" PosY="-1124.99" PosZ="-83352.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12882" Name="Cal_Calpheon_Guard_146" PosX="-257578" PosY="-961.618" PosZ="-83735.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12883" Name="Cal_Calpheon_Guard_147" PosX="-260176" PosY="-851.129" PosZ="-84041.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12884" Name="Cal_Calpheon_Guard_148" PosX="-262575" PosY="-782.123" PosZ="-83705.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12885" Name="Cal_Calpheon_Guard_149" PosX="-263448" PosY="-743.443" PosZ="-83547.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12886" Name="Cal_Calpheon_Guard_150" PosX="-263994" PosY="-730.802" PosZ="-83072.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12887" Name="Cal_Calpheon_Guard_151" PosX="-264015" PosY="-751.418" PosZ="-82345" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12888" Name="Cal_Calpheon_Guard_152" PosX="-263663" PosY="-770.735" PosZ="-81669.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12889" Name="Cal_Calpheon_Guard_153" PosX="-263472" PosY="-846.434" PosZ="-80668.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12890" Name="Cal_Calpheon_Guard_154" PosX="-263325" PosY="-959.186" PosZ="-79119.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12891" Name="Cal_Calpheon_Guard_155" PosX="-263296" PosY="-995.654" PosZ="-77932.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12892" Name="Cal_Calpheon_Guard_156" PosX="-263821" PosY="-1017.55" PosZ="-76897.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12893" Name="Cal_Calpheon_Guard_157" PosX="-294066" PosY="-1448.27" PosZ="-72529.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12894" Name="Cal_Calpheon_Guard_158" PosX="-293380" PosY="-1262.1" PosZ="-73690.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12895" Name="Cal_Calpheon_Guard_159" PosX="-292795" PosY="-992.35" PosZ="-74619" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12896" Name="Cal_Calpheon_Guard_160" PosX="-292276" PosY="-771.465" PosZ="-75294.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12897" Name="Cal_Calpheon_Guard_161" PosX="-291595" PosY="-493.243" PosZ="-76067.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12898" Name="Cal_Calpheon_Guard_162" PosX="-290894" PosY="-196.443" PosZ="-76884.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12899" Name="Cal_Calpheon_Guard_163" PosX="-289939" PosY="194.148" PosZ="-77474.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12900" Name="Cal_Calpheon_Guard_164" PosX="-288548" PosY="501.997" PosZ="-78371.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12901" Name="Cal_Calpheon_Guard_165" PosX="-287432" PosY="748.801" PosZ="-78803.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12902" Name="Cal_Calpheon_Guard_166" PosX="-285801" PosY="757.251" PosZ="-79159" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12903" Name="Cal_Calpheon_Guard_167" PosX="-284257" PosY="748.642" PosZ="-79400.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12904" Name="Cal_Calpheon_Guard_168" PosX="-282240" PosY="470.176" PosZ="-79872.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12905" Name="Cal_Calpheon_Guard_169" PosX="-280183" PosY="268.845" PosZ="-80545.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12906" Name="Cal_Calpheon_Guard_170" PosX="-278748" PosY="150.775" PosZ="-80763.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12907" Name="Cal_Calpheon_Guard_171" PosX="-276458" PosY="-77.5518" PosZ="-81126" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12908" Name="Cal_Calpheon_Guard_172" PosX="-273108" PosY="-429.543" PosZ="-81690" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12909" Name="Cal_Calpheon_Guard_173" PosX="-271878" PosY="-507.101" PosZ="-81336.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12910" Name="Cal_Calpheon_Guard_174" PosX="-270523" PosY="-594.557" PosZ="-80596.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12911" Name="Cal_Calpheon_Guard_175" PosX="-268423" PosY="-690.079" PosZ="-79226.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12912" Name="Cal_Calpheon_Guard_176" PosX="-267551" PosY="-738.021" PosZ="-78641.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12913" Name="Cal_Calpheon_Guard_177" PosX="-266041" PosY="-814.121" PosZ="-77979.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12914" Name="Cal_Calpheon_Guard_178" PosX="-264774" PosY="-905.323" PosZ="-77489" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12915" Name="Cal_Calpheon_Guard_179" PosX="-264018" PosY="-991.481" PosZ="-76918.4" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="12737" TargetWaypoint="12738"/>
+	<Link SourceWaypoint="12738" TargetWaypoint="12737"/>
+	<Link SourceWaypoint="12738" TargetWaypoint="12739"/>
+	<Link SourceWaypoint="12739" TargetWaypoint="12738"/>
+	<Link SourceWaypoint="12739" TargetWaypoint="12740"/>
+	<Link SourceWaypoint="12740" TargetWaypoint="12739"/>
+	<Link SourceWaypoint="12740" TargetWaypoint="12741"/>
+	<Link SourceWaypoint="12741" TargetWaypoint="12740"/>
+	<Link SourceWaypoint="12741" TargetWaypoint="12742"/>
+	<Link SourceWaypoint="12742" TargetWaypoint="12741"/>
+	<Link SourceWaypoint="12742" TargetWaypoint="12743"/>
+	<Link SourceWaypoint="12743" TargetWaypoint="12742"/>
+	<Link SourceWaypoint="12743" TargetWaypoint="12744"/>
+	<Link SourceWaypoint="12744" TargetWaypoint="12743"/>
+	<Link SourceWaypoint="12744" TargetWaypoint="12745"/>
+	<Link SourceWaypoint="12745" TargetWaypoint="12744"/>
+	<Link SourceWaypoint="12745" TargetWaypoint="12746"/>
+	<Link SourceWaypoint="12746" TargetWaypoint="12745"/>
+	<Link SourceWaypoint="12746" TargetWaypoint="12747"/>
+	<Link SourceWaypoint="12747" TargetWaypoint="12746"/>
+	<Link SourceWaypoint="12747" TargetWaypoint="12748"/>
+	<Link SourceWaypoint="12748" TargetWaypoint="12747"/>
+	<Link SourceWaypoint="12748" TargetWaypoint="12749"/>
+	<Link SourceWaypoint="12749" TargetWaypoint="12748"/>
+	<Link SourceWaypoint="12749" TargetWaypoint="12750"/>
+	<Link SourceWaypoint="12750" TargetWaypoint="12749"/>
+	<Link SourceWaypoint="12750" TargetWaypoint="12751"/>
+	<Link SourceWaypoint="12751" TargetWaypoint="12750"/>
+	<Link SourceWaypoint="12751" TargetWaypoint="12752"/>
+	<Link SourceWaypoint="12752" TargetWaypoint="12751"/>
+	<Link SourceWaypoint="12752" TargetWaypoint="12753"/>
+	<Link SourceWaypoint="12753" TargetWaypoint="12752"/>
+	<Link SourceWaypoint="12753" TargetWaypoint="12754"/>
+	<Link SourceWaypoint="12754" TargetWaypoint="12753"/>
+	<Link SourceWaypoint="12754" TargetWaypoint="12755"/>
+	<Link SourceWaypoint="12755" TargetWaypoint="12754"/>
+	<Link SourceWaypoint="12755" TargetWaypoint="12756"/>
+	<Link SourceWaypoint="12756" TargetWaypoint="12755"/>
+	<Link SourceWaypoint="12756" TargetWaypoint="12757"/>
+	<Link SourceWaypoint="12757" TargetWaypoint="12756"/>
+	<Link SourceWaypoint="12757" TargetWaypoint="12758"/>
+	<Link SourceWaypoint="12758" TargetWaypoint="12757"/>
+	<Link SourceWaypoint="12758" TargetWaypoint="12759"/>
+	<Link SourceWaypoint="12759" TargetWaypoint="12758"/>
+	<Link SourceWaypoint="12759" TargetWaypoint="12760"/>
+	<Link SourceWaypoint="12760" TargetWaypoint="12759"/>
+	<Link SourceWaypoint="12760" TargetWaypoint="12761"/>
+	<Link SourceWaypoint="12761" TargetWaypoint="12760"/>
+	<Link SourceWaypoint="12761" TargetWaypoint="12762"/>
+	<Link SourceWaypoint="12762" TargetWaypoint="12761"/>
+	<Link SourceWaypoint="12762" TargetWaypoint="12763"/>
+	<Link SourceWaypoint="12763" TargetWaypoint="12762"/>
+	<Link SourceWaypoint="12763" TargetWaypoint="12764"/>
+	<Link SourceWaypoint="12764" TargetWaypoint="12763"/>
+	<Link SourceWaypoint="12764" TargetWaypoint="12765"/>
+	<Link SourceWaypoint="12765" TargetWaypoint="12764"/>
+	<Link SourceWaypoint="12765" TargetWaypoint="12766"/>
+	<Link SourceWaypoint="12766" TargetWaypoint="12765"/>
+	<Link SourceWaypoint="12766" TargetWaypoint="12767"/>
+	<Link SourceWaypoint="12767" TargetWaypoint="12766"/>
+	<Link SourceWaypoint="12767" TargetWaypoint="12768"/>
+	<Link SourceWaypoint="12768" TargetWaypoint="12767"/>
+	<Link SourceWaypoint="12768" TargetWaypoint="12769"/>
+	<Link SourceWaypoint="12769" TargetWaypoint="12768"/>
+	<Link SourceWaypoint="12769" TargetWaypoint="12770"/>
+	<Link SourceWaypoint="12770" TargetWaypoint="12769"/>
+	<Link SourceWaypoint="12770" TargetWaypoint="12771"/>
+	<Link SourceWaypoint="12771" TargetWaypoint="12770"/>
+	<Link SourceWaypoint="12772" TargetWaypoint="12773"/>
+	<Link SourceWaypoint="12772" TargetWaypoint="12810"/>
+	<Link SourceWaypoint="12773" TargetWaypoint="12772"/>
+	<Link SourceWaypoint="12773" TargetWaypoint="12774"/>
+	<Link SourceWaypoint="12774" TargetWaypoint="12773"/>
+	<Link SourceWaypoint="12774" TargetWaypoint="12775"/>
+	<Link SourceWaypoint="12775" TargetWaypoint="12774"/>
+	<Link SourceWaypoint="12775" TargetWaypoint="12776"/>
+	<Link SourceWaypoint="12776" TargetWaypoint="12775"/>
+	<Link SourceWaypoint="12776" TargetWaypoint="12777"/>
+	<Link SourceWaypoint="12777" TargetWaypoint="12776"/>
+	<Link SourceWaypoint="12777" TargetWaypoint="12778"/>
+	<Link SourceWaypoint="12778" TargetWaypoint="12777"/>
+	<Link SourceWaypoint="12778" TargetWaypoint="12779"/>
+	<Link SourceWaypoint="12779" TargetWaypoint="12778"/>
+	<Link SourceWaypoint="12779" TargetWaypoint="12780"/>
+	<Link SourceWaypoint="12780" TargetWaypoint="12779"/>
+	<Link SourceWaypoint="12780" TargetWaypoint="12781"/>
+	<Link SourceWaypoint="12781" TargetWaypoint="12780"/>
+	<Link SourceWaypoint="12781" TargetWaypoint="12782"/>
+	<Link SourceWaypoint="12781" TargetWaypoint="12801"/>
+	<Link SourceWaypoint="12782" TargetWaypoint="12781"/>
+	<Link SourceWaypoint="12782" TargetWaypoint="12783"/>
+	<Link SourceWaypoint="12783" TargetWaypoint="12782"/>
+	<Link SourceWaypoint="12783" TargetWaypoint="12784"/>
+	<Link SourceWaypoint="12784" TargetWaypoint="12783"/>
+	<Link SourceWaypoint="12784" TargetWaypoint="12785"/>
+	<Link SourceWaypoint="12785" TargetWaypoint="12784"/>
+	<Link SourceWaypoint="12785" TargetWaypoint="12786"/>
+	<Link SourceWaypoint="12786" TargetWaypoint="12785"/>
+	<Link SourceWaypoint="12786" TargetWaypoint="12787"/>
+	<Link SourceWaypoint="12787" TargetWaypoint="12786"/>
+	<Link SourceWaypoint="12787" TargetWaypoint="12788"/>
+	<Link SourceWaypoint="12788" TargetWaypoint="12787"/>
+	<Link SourceWaypoint="12788" TargetWaypoint="12789"/>
+	<Link SourceWaypoint="12789" TargetWaypoint="12788"/>
+	<Link SourceWaypoint="12789" TargetWaypoint="12790"/>
+	<Link SourceWaypoint="12790" TargetWaypoint="12789"/>
+	<Link SourceWaypoint="12790" TargetWaypoint="12791"/>
+	<Link SourceWaypoint="12791" TargetWaypoint="12790"/>
+	<Link SourceWaypoint="12791" TargetWaypoint="12792"/>
+	<Link SourceWaypoint="12792" TargetWaypoint="12791"/>
+	<Link SourceWaypoint="12792" TargetWaypoint="12793"/>
+	<Link SourceWaypoint="12793" TargetWaypoint="12792"/>
+	<Link SourceWaypoint="12793" TargetWaypoint="12794"/>
+	<Link SourceWaypoint="12794" TargetWaypoint="12793"/>
+	<Link SourceWaypoint="12794" TargetWaypoint="12795"/>
+	<Link SourceWaypoint="12795" TargetWaypoint="12794"/>
+	<Link SourceWaypoint="12795" TargetWaypoint="12796"/>
+	<Link SourceWaypoint="12796" TargetWaypoint="12795"/>
+	<Link SourceWaypoint="12796" TargetWaypoint="12797"/>
+	<Link SourceWaypoint="12797" TargetWaypoint="12796"/>
+	<Link SourceWaypoint="12797" TargetWaypoint="12798"/>
+	<Link SourceWaypoint="12798" TargetWaypoint="12797"/>
+	<Link SourceWaypoint="12798" TargetWaypoint="12799"/>
+	<Link SourceWaypoint="12799" TargetWaypoint="12798"/>
+	<Link SourceWaypoint="12799" TargetWaypoint="12800"/>
+	<Link SourceWaypoint="12800" TargetWaypoint="12799"/>
+	<Link SourceWaypoint="12801" TargetWaypoint="12781"/>
+	<Link SourceWaypoint="12801" TargetWaypoint="12802"/>
+	<Link SourceWaypoint="12802" TargetWaypoint="12801"/>
+	<Link SourceWaypoint="12802" TargetWaypoint="12803"/>
+	<Link SourceWaypoint="12803" TargetWaypoint="12802"/>
+	<Link SourceWaypoint="12803" TargetWaypoint="12804"/>
+	<Link SourceWaypoint="12804" TargetWaypoint="12803"/>
+	<Link SourceWaypoint="12804" TargetWaypoint="12805"/>
+	<Link SourceWaypoint="12805" TargetWaypoint="12804"/>
+	<Link SourceWaypoint="12805" TargetWaypoint="12806"/>
+	<Link SourceWaypoint="12806" TargetWaypoint="12805"/>
+	<Link SourceWaypoint="12806" TargetWaypoint="12807"/>
+	<Link SourceWaypoint="12807" TargetWaypoint="12806"/>
+	<Link SourceWaypoint="12807" TargetWaypoint="12808"/>
+	<Link SourceWaypoint="12808" TargetWaypoint="12807"/>
+	<Link SourceWaypoint="12808" TargetWaypoint="12809"/>
+	<Link SourceWaypoint="12809" TargetWaypoint="12808"/>
+	<Link SourceWaypoint="12809" TargetWaypoint="12810"/>
+	<Link SourceWaypoint="12810" TargetWaypoint="12809"/>
+	<Link SourceWaypoint="12810" TargetWaypoint="12772"/>
+	<Link SourceWaypoint="12811" TargetWaypoint="12812"/>
+	<Link SourceWaypoint="12812" TargetWaypoint="12811"/>
+	<Link SourceWaypoint="12812" TargetWaypoint="12813"/>
+	<Link SourceWaypoint="12813" TargetWaypoint="12812"/>
+	<Link SourceWaypoint="12813" TargetWaypoint="12814"/>
+	<Link SourceWaypoint="12814" TargetWaypoint="12813"/>
+	<Link SourceWaypoint="12814" TargetWaypoint="12815"/>
+	<Link SourceWaypoint="12815" TargetWaypoint="12814"/>
+	<Link SourceWaypoint="12815" TargetWaypoint="12816"/>
+	<Link SourceWaypoint="12816" TargetWaypoint="12815"/>
+	<Link SourceWaypoint="12816" TargetWaypoint="12817"/>
+	<Link SourceWaypoint="12817" TargetWaypoint="12816"/>
+	<Link SourceWaypoint="12817" TargetWaypoint="12818"/>
+	<Link SourceWaypoint="12818" TargetWaypoint="12817"/>
+	<Link SourceWaypoint="12818" TargetWaypoint="12819"/>
+	<Link SourceWaypoint="12819" TargetWaypoint="12818"/>
+	<Link SourceWaypoint="12819" TargetWaypoint="12820"/>
+	<Link SourceWaypoint="12820" TargetWaypoint="12819"/>
+	<Link SourceWaypoint="12820" TargetWaypoint="12821"/>
+	<Link SourceWaypoint="12821" TargetWaypoint="12820"/>
+	<Link SourceWaypoint="12821" TargetWaypoint="12822"/>
+	<Link SourceWaypoint="12822" TargetWaypoint="12821"/>
+	<Link SourceWaypoint="12822" TargetWaypoint="12823"/>
+	<Link SourceWaypoint="12823" TargetWaypoint="12822"/>
+	<Link SourceWaypoint="12823" TargetWaypoint="12824"/>
+	<Link SourceWaypoint="12824" TargetWaypoint="12823"/>
+	<Link SourceWaypoint="12824" TargetWaypoint="12825"/>
+	<Link SourceWaypoint="12825" TargetWaypoint="12824"/>
+	<Link SourceWaypoint="12825" TargetWaypoint="12826"/>
+	<Link SourceWaypoint="12826" TargetWaypoint="12825"/>
+	<Link SourceWaypoint="12826" TargetWaypoint="12827"/>
+	<Link SourceWaypoint="12827" TargetWaypoint="12826"/>
+	<Link SourceWaypoint="12827" TargetWaypoint="12828"/>
+	<Link SourceWaypoint="12828" TargetWaypoint="12827"/>
+	<Link SourceWaypoint="12828" TargetWaypoint="12829"/>
+	<Link SourceWaypoint="12829" TargetWaypoint="12828"/>
+	<Link SourceWaypoint="12829" TargetWaypoint="12830"/>
+	<Link SourceWaypoint="12830" TargetWaypoint="12829"/>
+	<Link SourceWaypoint="12830" TargetWaypoint="12831"/>
+	<Link SourceWaypoint="12831" TargetWaypoint="12830"/>
+	<Link SourceWaypoint="12831" TargetWaypoint="12832"/>
+	<Link SourceWaypoint="12832" TargetWaypoint="12831"/>
+	<Link SourceWaypoint="12832" TargetWaypoint="12833"/>
+	<Link SourceWaypoint="12833" TargetWaypoint="12832"/>
+	<Link SourceWaypoint="12833" TargetWaypoint="12834"/>
+	<Link SourceWaypoint="12834" TargetWaypoint="12833"/>
+	<Link SourceWaypoint="12834" TargetWaypoint="12835"/>
+	<Link SourceWaypoint="12835" TargetWaypoint="12834"/>
+	<Link SourceWaypoint="12835" TargetWaypoint="12836"/>
+	<Link SourceWaypoint="12836" TargetWaypoint="12835"/>
+	<Link SourceWaypoint="12836" TargetWaypoint="12837"/>
+	<Link SourceWaypoint="12837" TargetWaypoint="12836"/>
+	<Link SourceWaypoint="12837" TargetWaypoint="12838"/>
+	<Link SourceWaypoint="12838" TargetWaypoint="12837"/>
+	<Link SourceWaypoint="12838" TargetWaypoint="12839"/>
+	<Link SourceWaypoint="12839" TargetWaypoint="12838"/>
+	<Link SourceWaypoint="12839" TargetWaypoint="12840"/>
+	<Link SourceWaypoint="12840" TargetWaypoint="12839"/>
+	<Link SourceWaypoint="12840" TargetWaypoint="12841"/>
+	<Link SourceWaypoint="12841" TargetWaypoint="12840"/>
+	<Link SourceWaypoint="12841" TargetWaypoint="12842"/>
+	<Link SourceWaypoint="12842" TargetWaypoint="12841"/>
+	<Link SourceWaypoint="12842" TargetWaypoint="12843"/>
+	<Link SourceWaypoint="12843" TargetWaypoint="12842"/>
+	<Link SourceWaypoint="12843" TargetWaypoint="12844"/>
+	<Link SourceWaypoint="12844" TargetWaypoint="12843"/>
+	<Link SourceWaypoint="12844" TargetWaypoint="12845"/>
+	<Link SourceWaypoint="12845" TargetWaypoint="12844"/>
+	<Link SourceWaypoint="12845" TargetWaypoint="12846"/>
+	<Link SourceWaypoint="12846" TargetWaypoint="12845"/>
+	<Link SourceWaypoint="12846" TargetWaypoint="12847"/>
+	<Link SourceWaypoint="12847" TargetWaypoint="12846"/>
+	<Link SourceWaypoint="12847" TargetWaypoint="12848"/>
+	<Link SourceWaypoint="12848" TargetWaypoint="12847"/>
+	<Link SourceWaypoint="12848" TargetWaypoint="12849"/>
+	<Link SourceWaypoint="12849" TargetWaypoint="12848"/>
+	<Link SourceWaypoint="12849" TargetWaypoint="12850"/>
+	<Link SourceWaypoint="12850" TargetWaypoint="12849"/>
+	<Link SourceWaypoint="12850" TargetWaypoint="12851"/>
+	<Link SourceWaypoint="12851" TargetWaypoint="12850"/>
+	<Link SourceWaypoint="12852" TargetWaypoint="12853"/>
+	<Link SourceWaypoint="12853" TargetWaypoint="12852"/>
+	<Link SourceWaypoint="12853" TargetWaypoint="12854"/>
+	<Link SourceWaypoint="12854" TargetWaypoint="12853"/>
+	<Link SourceWaypoint="12854" TargetWaypoint="12855"/>
+	<Link SourceWaypoint="12855" TargetWaypoint="12854"/>
+	<Link SourceWaypoint="12855" TargetWaypoint="12856"/>
+	<Link SourceWaypoint="12855" TargetWaypoint="12864"/>
+	<Link SourceWaypoint="12856" TargetWaypoint="12855"/>
+	<Link SourceWaypoint="12856" TargetWaypoint="12857"/>
+	<Link SourceWaypoint="12857" TargetWaypoint="12856"/>
+	<Link SourceWaypoint="12857" TargetWaypoint="12858"/>
+	<Link SourceWaypoint="12857" TargetWaypoint="12863"/>
+	<Link SourceWaypoint="12858" TargetWaypoint="12857"/>
+	<Link SourceWaypoint="12858" TargetWaypoint="12859"/>
+	<Link SourceWaypoint="12859" TargetWaypoint="12858"/>
+	<Link SourceWaypoint="12859" TargetWaypoint="12860"/>
+	<Link SourceWaypoint="12860" TargetWaypoint="12859"/>
+	<Link SourceWaypoint="12860" TargetWaypoint="12861"/>
+	<Link SourceWaypoint="12861" TargetWaypoint="12860"/>
+	<Link SourceWaypoint="12861" TargetWaypoint="12862"/>
+	<Link SourceWaypoint="12862" TargetWaypoint="12861"/>
+	<Link SourceWaypoint="12863" TargetWaypoint="12857"/>
+	<Link SourceWaypoint="12863" TargetWaypoint="12864"/>
+	<Link SourceWaypoint="12864" TargetWaypoint="12863"/>
+	<Link SourceWaypoint="12864" TargetWaypoint="12865"/>
+	<Link SourceWaypoint="12864" TargetWaypoint="12855"/>
+	<Link SourceWaypoint="12865" TargetWaypoint="12864"/>
+	<Link SourceWaypoint="12865" TargetWaypoint="12866"/>
+	<Link SourceWaypoint="12866" TargetWaypoint="12865"/>
+	<Link SourceWaypoint="12866" TargetWaypoint="12867"/>
+	<Link SourceWaypoint="12867" TargetWaypoint="12866"/>
+	<Link SourceWaypoint="12867" TargetWaypoint="12868"/>
+	<Link SourceWaypoint="12868" TargetWaypoint="12867"/>
+	<Link SourceWaypoint="12868" TargetWaypoint="12869"/>
+	<Link SourceWaypoint="12869" TargetWaypoint="12868"/>
+	<Link SourceWaypoint="12869" TargetWaypoint="12870"/>
+	<Link SourceWaypoint="12870" TargetWaypoint="12869"/>
+	<Link SourceWaypoint="12870" TargetWaypoint="12871"/>
+	<Link SourceWaypoint="12871" TargetWaypoint="12870"/>
+	<Link SourceWaypoint="12871" TargetWaypoint="12872"/>
+	<Link SourceWaypoint="12872" TargetWaypoint="12871"/>
+	<Link SourceWaypoint="12873" TargetWaypoint="12874"/>
+	<Link SourceWaypoint="12874" TargetWaypoint="12873"/>
+	<Link SourceWaypoint="12874" TargetWaypoint="12875"/>
+	<Link SourceWaypoint="12875" TargetWaypoint="12874"/>
+	<Link SourceWaypoint="12875" TargetWaypoint="12876"/>
+	<Link SourceWaypoint="12876" TargetWaypoint="12875"/>
+	<Link SourceWaypoint="12876" TargetWaypoint="12877"/>
+	<Link SourceWaypoint="12877" TargetWaypoint="12876"/>
+	<Link SourceWaypoint="12877" TargetWaypoint="12878"/>
+	<Link SourceWaypoint="12878" TargetWaypoint="12877"/>
+	<Link SourceWaypoint="12878" TargetWaypoint="12879"/>
+	<Link SourceWaypoint="12879" TargetWaypoint="12878"/>
+	<Link SourceWaypoint="12879" TargetWaypoint="12880"/>
+	<Link SourceWaypoint="12880" TargetWaypoint="12879"/>
+	<Link SourceWaypoint="12880" TargetWaypoint="12881"/>
+	<Link SourceWaypoint="12881" TargetWaypoint="12880"/>
+	<Link SourceWaypoint="12881" TargetWaypoint="12882"/>
+	<Link SourceWaypoint="12882" TargetWaypoint="12881"/>
+	<Link SourceWaypoint="12882" TargetWaypoint="12883"/>
+	<Link SourceWaypoint="12883" TargetWaypoint="12882"/>
+	<Link SourceWaypoint="12883" TargetWaypoint="12884"/>
+	<Link SourceWaypoint="12884" TargetWaypoint="12883"/>
+	<Link SourceWaypoint="12884" TargetWaypoint="12885"/>
+	<Link SourceWaypoint="12885" TargetWaypoint="12884"/>
+	<Link SourceWaypoint="12885" TargetWaypoint="12886"/>
+	<Link SourceWaypoint="12886" TargetWaypoint="12885"/>
+	<Link SourceWaypoint="12886" TargetWaypoint="12887"/>
+	<Link SourceWaypoint="12887" TargetWaypoint="12886"/>
+	<Link SourceWaypoint="12887" TargetWaypoint="12888"/>
+	<Link SourceWaypoint="12888" TargetWaypoint="12887"/>
+	<Link SourceWaypoint="12888" TargetWaypoint="12889"/>
+	<Link SourceWaypoint="12889" TargetWaypoint="12888"/>
+	<Link SourceWaypoint="12889" TargetWaypoint="12890"/>
+	<Link SourceWaypoint="12890" TargetWaypoint="12889"/>
+	<Link SourceWaypoint="12890" TargetWaypoint="12891"/>
+	<Link SourceWaypoint="12891" TargetWaypoint="12890"/>
+	<Link SourceWaypoint="12891" TargetWaypoint="12892"/>
+	<Link SourceWaypoint="12892" TargetWaypoint="12891"/>
+	<Link SourceWaypoint="12893" TargetWaypoint="12894"/>
+	<Link SourceWaypoint="12894" TargetWaypoint="12893"/>
+	<Link SourceWaypoint="12894" TargetWaypoint="12895"/>
+	<Link SourceWaypoint="12895" TargetWaypoint="12894"/>
+	<Link SourceWaypoint="12895" TargetWaypoint="12896"/>
+	<Link SourceWaypoint="12896" TargetWaypoint="12895"/>
+	<Link SourceWaypoint="12896" TargetWaypoint="12897"/>
+	<Link SourceWaypoint="12897" TargetWaypoint="12896"/>
+	<Link SourceWaypoint="12897" TargetWaypoint="12898"/>
+	<Link SourceWaypoint="12898" TargetWaypoint="12897"/>
+	<Link SourceWaypoint="12898" TargetWaypoint="12899"/>
+	<Link SourceWaypoint="12899" TargetWaypoint="12898"/>
+	<Link SourceWaypoint="12899" TargetWaypoint="12900"/>
+	<Link SourceWaypoint="12900" TargetWaypoint="12899"/>
+	<Link SourceWaypoint="12900" TargetWaypoint="12901"/>
+	<Link SourceWaypoint="12901" TargetWaypoint="12900"/>
+	<Link SourceWaypoint="12901" TargetWaypoint="12902"/>
+	<Link SourceWaypoint="12902" TargetWaypoint="12901"/>
+	<Link SourceWaypoint="12902" TargetWaypoint="12903"/>
+	<Link SourceWaypoint="12903" TargetWaypoint="12902"/>
+	<Link SourceWaypoint="12903" TargetWaypoint="12904"/>
+	<Link SourceWaypoint="12904" TargetWaypoint="12903"/>
+	<Link SourceWaypoint="12904" TargetWaypoint="12905"/>
+	<Link SourceWaypoint="12905" TargetWaypoint="12904"/>
+	<Link SourceWaypoint="12905" TargetWaypoint="12906"/>
+	<Link SourceWaypoint="12906" TargetWaypoint="12905"/>
+	<Link SourceWaypoint="12906" TargetWaypoint="12907"/>
+	<Link SourceWaypoint="12907" TargetWaypoint="12906"/>
+	<Link SourceWaypoint="12907" TargetWaypoint="12908"/>
+	<Link SourceWaypoint="12908" TargetWaypoint="12907"/>
+	<Link SourceWaypoint="12908" TargetWaypoint="12909"/>
+	<Link SourceWaypoint="12909" TargetWaypoint="12908"/>
+	<Link SourceWaypoint="12909" TargetWaypoint="12910"/>
+	<Link SourceWaypoint="12910" TargetWaypoint="12909"/>
+	<Link SourceWaypoint="12910" TargetWaypoint="12911"/>
+	<Link SourceWaypoint="12911" TargetWaypoint="12910"/>
+	<Link SourceWaypoint="12911" TargetWaypoint="12912"/>
+	<Link SourceWaypoint="12912" TargetWaypoint="12911"/>
+	<Link SourceWaypoint="12912" TargetWaypoint="12913"/>
+	<Link SourceWaypoint="12913" TargetWaypoint="12912"/>
+	<Link SourceWaypoint="12913" TargetWaypoint="12914"/>
+	<Link SourceWaypoint="12914" TargetWaypoint="12913"/>
+	<Link SourceWaypoint="12914" TargetWaypoint="12915"/>
+	<Link SourceWaypoint="12915" TargetWaypoint="12914"/>
+</LinkList>
+<GroupList>
+	<Group Key="92" Name="Cal_Calpheon_Guard"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,1565 @@
+<?xml version="1.0"?>
+<Protocol>
+  <ClientPackets>
+    <Packet Name="CMHeartbeat" Opcode="0x03E9">
+      <States>
+        <AUTHED/>
+        <AUTHED_GG/>
+        <CONNECTED/>
+        <ENTERED/>
+      </States>
+    </Packet>
+    <Packet MaxSize="null" MinSize="null" Name="CMNotifyLogToServerManager" Opcode="0x03ED"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMRequestGuildWelfareByMaster" Opcode="0x124B"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMSetIgnoreDesertDebuff" Opcode="0x1186"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMTellMe" Opcode="0x0E8B"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMEventSetFromOrder" Opcode="0x111A"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMLearnFusionSkill" Opcode="0x0EC3"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMChangePetLootingType" Opcode="0x0CC0"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMLeaveCompetitionEntryTeam" Opcode="0x11FC"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMChangeCompetitionUseItemMode" Opcode="0x0FAF"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMPushInventoryItemToInventoryBag" Opcode="0x11C9"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMUpdateTradeGroup" Opcode="0x1007"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMClearWorkerUpgradePoint" Opcode="0x0CD3"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMBreakPartyRecruitment" Opcode="0x105A"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMResetCharChannelBanTime" Opcode="0x1316"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMUserProfileInfo" Opcode="0x1218"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMListTimeAttackRank" Opcode="0x1246"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMListMyItemBidInfo" Opcode="0x0CD5"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMChangeTeamName" Opcode="0x0FE5"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMGetAdventureReward" Opcode="0x0F37"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMGetAdventureInfo" Opcode="0x0C0B"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMAddGuildMoney" Opcode="0x0CD9"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMUnapplyActiveBuff" Opcode="0x0EBC"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMDanceStart" Opcode="0x0FA1"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMstartGuildBattle" Opcode="0x0D3B"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMReserveGuildBattle" Opcode="0x0EB8"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMjoinGuildBattle" Opcode="0x1288"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMCancelAuction" Opcode="0x0FED"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMDanceStop" Opcode="0x11B3"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMChangeVolunteerMember" Opcode="0x1242"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMForceEndVolunteer" Opcode="0x0BEC"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMRequestGuildBattleInfo" Opcode="0x0BCA"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMEnterVolunteer" Opcode="0x0E59"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMLeaveVolunteer" Opcode="0x0E9F"/>
+    <Packet MaxSize="null" MinSize="null" Name="CMListVolunteer" Opcode="0x10C7"/>
+    <Packet Name="CMAuthenticateToParentServer" Opcode="0x03F0"/>
+    <Packet Name="CMHandleServerSessionEstablish" Opcode="0x079F"/>
+    <Packet Name="CMHandleClientSessionEstablish" Opcode="0x07A0"/>
+    <Packet Name="CMHandleServerSessionDisconnectComplete" Opcode="0x07A1"/>
+    <Packet Name="CMHandleClientSessionDisconnectComplete" Opcode="0x07A2"/>
+    <Packet Name="CMCheckAllPcHeartbeat" Opcode="0x07A7"/>
+    <Packet Name="CMDisconnectActor" Opcode="0x07A8"/>
+    <Packet Name="CMStopService" Opcode="0x07D1"/>
+    <Packet Name="CMCreateMonster" Opcode="0x0EF5"/>
+    <Packet Name="CMMovePlayer" Opcode="0x10DF"/>
+    <Packet Name="CMPlayerDirection" Opcode="0x0D38"/>
+    <Packet Name="CMMovePlayerOnCarrier" Opcode="0x12EF"/>
+    <Packet Name="CMTeleportPlayer" Opcode="0x0D05"/>
+    <Packet Name="CMTeleportToCharacter" Opcode="0x0C2D"/>
+    <Packet Name="CMActiveArenaFreeCam" Opcode="0x11DA"/>
+    <Packet Name="CMCancelDelayedLogout" Opcode="0x0CDB"/>
+    <Packet Name="CMEndDelayedLogout" Opcode="0x0E47"/>
+    <Packet Name="CMBeginDelayedLogout" Opcode="0x1184"/>
+    <Packet Name="CMRemoveCancelCharacterFromField" Opcode="0x0D93">
+      <States>
+        <AUTHED/>
+      </States>
+    </Packet>
+    <Packet Name="CMCreateCharacterToField" Opcode="0x1216">
+      <States>
+        <AUTHED/>
+      </States>
+    </Packet>
+    <Packet Name="CMRemoveCharacterFromField" Opcode="0x0EEF">
+      <States>
+        <AUTHED/>
+      </States>
+    </Packet>
+    <Packet Name="CMAiOrderToNPC" Opcode="0x12F2"/>
+    <Packet Name="CMAiOrderToRideVehicle" Opcode="0x1020"/>
+    <Packet Name="CMAiOrderToHorse" Opcode="0x1214"/>
+    <Packet Name="CMGetShopItems" Opcode="0x1158"/>
+    <Packet Name="CMGetDroppedItemList" Opcode="0x114D"/>
+    <Packet Name="CMBuyItemInShop" Opcode="0x1173"/>
+    <Packet Name="CMRepurchaseItemInShop" Opcode="0x115F"/>
+    <Packet Name="CMSellItemInShop" Opcode="0x11BF"/>
+    <Packet Name="CMPickupDroppedItem" Opcode="0x0E6D"/>
+    <Packet Name="CMAnswerUseItem" Opcode="0x119A"/>
+    <Packet Name="CMUseItem" Opcode="0x0D77"/>
+    <Packet Name="CMUpdateRepurchaseList" Opcode="0x0E4A"/>
+    <Packet Name="CMItemClearVested" Opcode="0x0D19"/>
+    <Packet Name="CMItemCarveSeal" Opcode="0x1091"/>
+    <Packet Name="CMItemTransferLifeExperience" Opcode="0x0F05"/>
+    <Packet Name="CMUseRestoreItemToWorker" Opcode="0x0EE5"/>
+    <Packet Name="CMEnchantItem" Opcode="0x0F58"/>
+    <Packet Name="CMWeakenItem" Opcode="0x12B1"/>
+    <Packet Name="CMExtractBlackStone" Opcode="0x1066"/>
+    <Packet Name="CMRepairItem" Opcode="0x113C"/>
+    <Packet Name="CMDeleteItem" Opcode="0x0DD7"/>
+    <Packet Name="CMMoveItemFromActorToActor" Opcode="0x1166"/>
+    <Packet Name="CMBurnItemToActor" Opcode="0x0F1A"/>
+    <Packet Name="CMGetInventoryFromServant" Opcode="0x0DD8"/>
+    <Packet Name="CMGetInformationFromServant" Opcode="0x0C8D"/>
+    <Packet Name="CMLanternItemExpiration" Opcode="0x0F8F"/>
+    <Packet Name="CMDyeItem" Opcode="0x1022"/>
+    <Packet Name="CMImproveItem" Opcode="0x0DD1"/>
+    <Packet Name="CMCreatePaletteFromItem" Opcode="0x1169"/>
+    <Packet Name="CMChangePaletteToItem" Opcode="0x0F16"/>
+    <Packet Name="CMChangeDropGroupRateForManager" Opcode="0x10D4"/>
+    <Packet Name="CMChangeDropItemRateForManager" Opcode="0x0CE3"/>
+    <Packet Name="CMChangeDropItemCountForManager" Opcode="0x0CC2"/>
+    <Packet Name="CMDontSpawnForManager" Opcode="0x0E1B"/>
+    <Packet Name="CMSetActiveContentsForManager" Opcode="0x0BFD"/>
+    <Packet Name="CMRestrictVehicleForManager" Opcode="0x1047"/>
+    <Packet Name="CMRestrictXXXForManager" Opcode="0x12F5"/>
+    <Packet Name="CMChangePopUpToggle" Opcode="0x11C6"/>
+    <Packet Name="CMChangeSummonLimitForManager" Opcode="0x0E20"/>
+    <Packet Name="CMRestrictGuildQuest" Opcode="0x0BB9"/>
+    <Packet Name="CMChangeAcceptGuildQuestMemberCount" Opcode="0x1043"/>
+    <Packet Name="CMRestrictBranchCheckr" Opcode="0x11CF"/>
+    <Packet Name="CMRestrictNpcWorker" Opcode="0x116A"/>
+    <Packet Name="CMRestrictInstall" Opcode="0x0F2A"/>
+    <Packet Name="CMPullDownPersonalTentAll" Opcode="0x0C72"/>
+    <Packet Name="CMUpdateTentExpiredTime" Opcode="0x0CC1"/>
+    <Packet Name="CMExchangeItemSlotInInventory" Opcode="0x0DF8"/>
+    <Packet Name="CMTradeItemStockControl" Opcode="0x130A"/>
+    <Packet Name="CMTradeItemReverseTrend" Opcode="0x10AC"/>
+    <Packet Name="CMTradeEvent" Opcode="0x0D92"/>
+    <Packet Name="CMAddFirstTic" Opcode="0x0E98"/>
+    <Packet Name="CMPrepareItemBox" Opcode="0x0DEE"/>
+    <Packet Name="CMOpenItemBox" Opcode="0x0BFC"/>
+    <Packet Name="CMCombineDyeItem" Opcode="0x0C9E"/>
+    <Packet Name="CMPushJewelToSocket" Opcode="0x1101"/>
+    <Packet Name="CMPopJewelFromSocket" Opcode="0x112B"/>
+    <Packet Name="CMHelpRewardMail" Opcode="0x0F0C"/>
+    <Packet Name="CMPetSetLevel" Opcode="0x1080"/>
+    <Packet Name="CMPetUseSkill" Opcode="0x0F6F"/>
+    <Packet Name="CMRegisterPet" Opcode="0x10D9"/>
+    <Packet Name="CMUnregisterPet" Opcode="0x0CC9"/>
+    <Packet Name="CMSealPet" Opcode="0x0BD5"/>
+    <Packet Name="CMUnsealPet" Opcode="0x0C24"/>
+    <Packet Name="CMFusionPet" Opcode="0x0E18"/>
+    <Packet Name="CMPromotionPet" Opcode="0x0E5B"/>
+    <Packet Name="CMFeedingPet" Opcode="0x10E3"/>
+    <Packet Name="CMChangeLookPet" Opcode="0x0C0F"/>
+    <Packet Name="CMCreatePet" Opcode="0x0FFB"/>
+    <Packet Name="CMAddPetHungry" Opcode="0x0D3D"/>
+    <Packet Name="CMRemoveCard" Opcode="0x0C26"/>
+    <Packet Name="CMMakeThemeBook" Opcode="0x0F1B"/>
+    <Packet Name="CMGetCreateUserInformationToAuthenticServer" Opcode="0x0FBB">
+      <States>
+        <CONNECTED/>
+      </States>
+    </Packet>
+    <Packet Name="CMLoginUserToAuthenticServer" Opcode="0x0FB6">
+      <States>
+        <AUTHED_GG/>
+      </States>
+    </Packet>
+    <Packet Name="CMRegisterNickNameToAuthenticServer" Opcode="0x112A">
+      <States>
+        <AUTHED/>
+      </States>
+    </Packet>
+    <Packet Name="CMGetWorldInformations" Opcode="0x0CB0"/>
+    <Packet Name="CMLoginUserToFieldServer" Opcode="0x0BD3">
+      <States>
+        <CONNECTED/>
+      </States>
+    </Packet>
+    <Packet Name="CMExitFieldServerToServerSelection" Opcode="0x0D84">
+      <States>
+        <AUTHED/>
+        <ENTERED/>
+      </States>
+    </Packet>
+    <Packet Name="CMSetHpActor" Opcode="0x0CBA"/>
+    <Packet Name="CMKillActor" Opcode="0x1018"/>
+    <Packet Name="CMRecallActor" Opcode="0x12F4"/>
+    <Packet Name="CMAppearActor" Opcode="0x109C"/>
+    <Packet Name="CMHarvestEdit" Opcode="0x0DB6"/>
+    <Packet Name="CMUpdateActorTendency" Opcode="0x105C"/>
+    <Packet Name="CMServerInformation" Opcode="0x12A9"/>
+    <Packet Name="CMRescue" Opcode="0x110C"/>
+    <Packet Name="CMRescueToMyShip" Opcode="0x0C9F"/>
+    <Packet Name="CMGMToolData" Opcode="0x1037"/>
+    <Packet Name="CMLearnAllSkill" Opcode="0x0D00"/>
+    <Packet Name="CMChangeEnterWaittingPlayerCount" Opcode="0x1192"/>
+    <Packet Name="CMChangeServerPlayerCount" Opcode="0x1319"/>
+    <Packet Name="CMPlayingUserCountList" Opcode="0x0C89"/>
+    <Packet Name="CMCheckMovementValue" Opcode="0x0D4C"/>
+    <Packet Name="CMCheckActionVerifyValue" Opcode="0x0ED0"/>
+    <Packet Name="CMCheckBuffSpeedValue" Opcode="0x0FA2"/>
+    <Packet Name="CMCheckAttackTolerance" Opcode="0x1011"/>
+    <Packet Name="CMChangeBalanceChannelSetting" Opcode="0x1301"/>
+    <Packet Name="CMSetMaxAggroCount" Opcode="0x1110"/>
+    <Packet Name="CMChangeMovePacketSendTerm" Opcode="0x0D8B"/>
+    <Packet Name="CMCompleteHouseUseType" Opcode="0x0C83"/>
+    <Packet Name="CMResetMentalCard" Opcode="0x10E6"/>
+    <Packet Name="CMDecreaseEndurance" Opcode="0x121C"/>
+    <Packet Name="CMChangePcRoomServer" Opcode="0x0FAE"/>
+    <Packet Name="CMReloadConfigToManager" Opcode="0x0E40"/>
+    <Packet Name="CMPcDeliveryTime" Opcode="0x111E"/>
+    <Packet Name="CMGetUserNickNameByCharacterName" Opcode="0x0BFF"/>
+    <Packet Name="CMUpdateChallengeTestTime" Opcode="0x112D"/>
+    <Packet Name="CMResetPcRoomTime" Opcode="0x10B1"/>
+    <Packet Name="CMMatchTestMode" Opcode="0x11A6"/>
+    <Packet Name="CMStartMatchByManager" Opcode="0x0EDD"/>
+    <Packet Name="CMChangeSendRotationThreshold" Opcode="0x0E2A"/>
+    <Packet Name="CMChangeBuyRateForManager" Opcode="0x1078"/>
+    <Packet Name="CMChangeBuyPriceRateForManager" Opcode="0x0F8B"/>
+    <Packet Name="CMClearGuildSkillCoolTimeForManager" Opcode="0x0DCD"/>
+    <Packet Name="CMClearPlayerSkillCoolTimeForManager" Opcode="0x0BF2"/>
+    <Packet Name="CMSetLifeExpForManager" Opcode="0x1182"/>
+    <Packet Name="CMUseVoiceChatControl" Opcode="0x1194"/>
+    <Packet Name="CMLootNearDeadBody" Opcode="0x0F71"/>
+    <Packet Name="CMLootGuildItemToGuildShip" Opcode="0x0BCF"/>
+    <Packet Name="CMAcquireKnowledge" Opcode="0x0BE6"/>
+    <Packet Name="CMLearnHorseSkill" Opcode="0x0D90"/>
+    <Packet Name="CMSendServerMoniteringInfoControl" Opcode="0x0D74"/>
+    <Packet Name="CMDelaySpawnMonster" Opcode="0x106A"/>
+    <Packet Name="CMCheckManualFishing" Opcode="0x0DF6"/>
+    <Packet Name="CMCheckAnimationSpeed" Opcode="0x1219"/>
+    <Packet Name="CMCash" Opcode="0x0ED5"/>
+    <Packet Name="CMListCashItem" Opcode="0x0E70"/>
+    <Packet Name="CMBuyCashItem" Opcode="0x0BC9"/>
+    <Packet Name="CMBuyCashItemToUserNo" Opcode="0x124F"/>
+    <Packet Name="CMPaymentPasswordRegister" Opcode="0x0E13"/>
+    <Packet Name="CMUpdateTitleKey" Opcode="0x0E8D"/>
+    <Packet Name="CMEnterPlayerCharacterToField" Opcode="0x0BF5">
+      <States>
+        <AUTHED/>
+        <ENTERED/>
+      </States>
+    </Packet>
+    <Packet Name="CMRespawnPlayer" Opcode="0x11C8"/>
+    <Packet Name="CMChannelSpawnBlock" Opcode="0x127B"/>
+    <Packet Name="CMSetReadyToPlay" Opcode="0x0E5E"/>
+    <Packet Name="CMExitFieldToCharacterSelection" Opcode="0x1261"/>
+    <Packet Name="CMListWaitingCountOfMyCharacter" Opcode="0x117B"/>
+    <Packet Name="CMCancelFieldEnterWaiting" Opcode="0x1323"/>
+    <Packet Name="CMVaryCharacterSlotCount" Opcode="0x0DC9"/>
+    <Packet Name="CMSetRegionProductivity" Opcode="0x12C2"/>
+    <Packet Name="CMSetPlayerCharacterMemo" Opcode="0x0D3F"/>
+    <Packet Name="CMListEnchantFailCountOfMyCharacter" Opcode="0x0E12"/>
+    <Packet Name="CMUpdateCharacterCustomizing" Opcode="0x123A"/>
+    <Packet Name="CMStartAction" Opcode="0x0C4B"/>
+    <Packet Name="CMResetUpperAction" Opcode="0x0DC4"/>
+    <Packet Name="CMDoAction" Opcode="0x12B9"/>
+    <Packet Name="CMShootCannonAttack" Opcode="0x11DF"/>
+    <Packet Name="CMEavesdrop" Opcode="0x0C44"/>
+    <Packet Name="CMClearSkills" Opcode="0x0E1C"/>
+    <Packet Name="CMClearSkillPartly" Opcode="0x0C6B"/>
+    <Packet Name="CMLearnSkill" Opcode="0x0D30"/>
+    <Packet Name="CMSkillAwakening" Opcode="0x0CD7"/>
+    <Packet Name="CMSkillAwakenReset" Opcode="0x11FD"/>
+    <Packet Name="CMAnswerSkill" Opcode="0x0DCA"/>
+    <Packet Name="CMReservedLearningSkill" Opcode="0x0EED"/>
+    <Packet Name="CMListFishTopRankingHead" Opcode="0x0C1F"/>
+    <Packet Name="CMListFishTopRankingBody" Opcode="0x0C57"/>
+    <Packet Name="CMIncreaseAdrenalin" Opcode="0x12D9"/>
+    <Packet Name="CMEnablePvP" Opcode="0x12D2"/>
+    <Packet Name="CMAddDynamicWeathers" Opcode="0x1131"/>
+    <Packet Name="CMClearDynamicWeathers" Opcode="0x0C16"/>
+    <Packet Name="CMChangeWeathers" Opcode="0x0CB7"/>
+    <Packet Name="CMSetGameTime" Opcode="0x0BEF"/>
+    <Packet Name="CMSetEncounterWeather" Opcode="0x0F25"/>
+    <Packet Name="CMDoItemExchangeWithSystem" Opcode="0x128A"/>
+    <Packet Name="CMRequestItemExchangeWithPlayer" Opcode="0x1227"/>
+    <Packet Name="CMRespondItemExchangeWithPlayer" Opcode="0x0EE2"/>
+    <Packet Name="CMRegisterItemExchangeWithPlayer" Opcode="0x0FE6"/>
+    <Packet Name="CMLockItemExchangeWithPlayer" Opcode="0x1174"/>
+    <Packet Name="CMAssureItemExchangeWithPlayer" Opcode="0x0F2E"/>
+    <Packet Name="CMCancelItemExchangeWithPlayer" Opcode="0x0DC5"/>
+    <Packet Name="CMEquipItem" Opcode="0x10AD"/>
+    <Packet Name="CMUnequipItem" Opcode="0x103E"/>
+    <Packet Name="CMListWarehouseItem" Opcode="0x1262"/>
+    <Packet Name="CMPushInventoryItemToWarehouse" Opcode="0x0CF2"/>
+    <Packet Name="CMPopWarehouseItemToInventory" Opcode="0x0CA9"/>
+    <Packet Name="CMMakePartyForManager" Opcode="0x0F26"/>
+    <Packet Name="CMInviteParty" Opcode="0x12A8"/>
+    <Packet Name="CMAnswerInviteParty" Opcode="0x1143"/>
+    <Packet Name="CMWithdrawParty" Opcode="0x1305"/>
+    <Packet Name="CMChangePartyLeader" Opcode="0x0F30"/>
+    <Packet Name="CMChangeLooting" Opcode="0x1300"/>
+    <Packet Name="CMChangeDistributionOption" Opcode="0x11C4"/>
+    <Packet Name="CMChangeDistributionOptionByGm" Opcode="0x0C12"/>
+    <Packet Name="CMTakePartyItem" Opcode="0x0ECD"/>
+    <Packet Name="CMListGuildUnjoinedPlayer" Opcode="0x11BE"/>
+    <Packet Name="CMChangeGuildJoinMode" Opcode="0x1045"/>
+    <Packet Name="CMCreateGuild" Opcode="0x1035"/>
+    <Packet Name="CMDestroyGuild" Opcode="0x0DF1"/>
+    <Packet Name="CMSuggestGuildContract" Opcode="0x0F51"/>
+    <Packet Name="CMUpdateGuildContract" Opcode="0x0DC2"/>
+    <Packet Name="CMUpdateGuildContentsForGM" Opcode="0x0C77"/>
+    <Packet Name="CMExpirationGuildContractForGM" Opcode="0x106E"/>
+    <Packet Name="CMRaisingGuildGrade" Opcode="0x0DF7"/>
+    <Packet Name="CMPayGuildComporateTax" Opcode="0x0FD0"/>
+    <Packet Name="CMPayGuildHouseCost" Opcode="0x0FDB"/>
+    <Packet Name="CMPayGuildMemberIncentive" Opcode="0x0D42"/>
+    <Packet Name="CMTakeGuildBenefit" Opcode="0x0E71"/>
+    <Packet Name="CMDepositMoneyToGuildWarehouse" Opcode="0x0C20"/>
+    <Packet Name="CMListSiegeWarScore" Opcode="0x10BC"/>
+    <Packet Name="CMListSiegeGuild" Opcode="0x11B9"/>
+    <Packet Name="CMUpdateGuildMoney" Opcode="0x123B"/>
+    <Packet Name="CMTeleportGuildBustCall" Opcode="0x113B"/>
+    <Packet Name="CMSetDesertPKContents" Opcode="0x0C7D"/>
+    <Packet Name="CMSetMurdererForGM" Opcode="0x1315"/>
+    <Packet Name="CMGuildWebInfoByGuildName" Opcode="0x0F00"/>
+    <Packet Name="CMMakePuzzle" Opcode="0x1170"/>
+    <Packet Name="CMInviteGuild" Opcode="0x0CD1"/>
+    <Packet Name="CMAnswerInviteGuild" Opcode="0x1141"/>
+    <Packet Name="CMDisjoinGuild" Opcode="0x129B"/>
+    <Packet Name="CMChangeGuildMemberGrade" Opcode="0x0C2B"/>
+    <Packet Name="CMChangeProtectGuildMember" Opcode="0x0D1E"/>
+    <Packet Name="CMSetGuildMark" Opcode="0x1167"/>
+    <Packet Name="CMResetGuildMark" Opcode="0x0E56"/>
+    <Packet Name="CMLearnGuildSkill" Opcode="0x1096"/>
+    <Packet Name="CMDeclareGuildWar" Opcode="0x1296"/>
+    <Packet Name="CMRefuseGuildWar" Opcode="0x1132"/>
+    <Packet Name="CMStopGuildWar" Opcode="0x0E6E"/>
+    <Packet Name="CMDeclareGuildDuel" Opcode="0x10FB"/>
+    <Packet Name="CMAcceptGuildDuel" Opcode="0x0E58"/>
+    <Packet Name="CMRefuseGuildDuel" Opcode="0x1156"/>
+    <Packet Name="CMChangeGuildDuelCount" Opcode="0x107C"/>
+    <Packet Name="CMRestrictGuildDuel" Opcode="0x1302"/>
+    <Packet Name="CMExpelMemberFromGuild" Opcode="0x1253"/>
+    <Packet Name="CMVaryJoinableGuildMemberCount" Opcode="0x0CA6"/>
+    <Packet Name="CMVaryProtectGuildMemberCount" Opcode="0x0D1C"/>
+    <Packet Name="CMUseGuildSkill" Opcode="0x0BD6"/>
+    <Packet Name="CMUpdateGuildMp" Opcode="0x0BE3"/>
+    <Packet Name="CMNotifyGuildCheer" Opcode="0x10B3"/>
+    <Packet Name="CMUpdateGuildBoardMessage" Opcode="0x11F5"/>
+    <Packet Name="CMStartSiegeByUser" Opcode="0x0C95"/>
+    <Packet Name="CMStopSiegeByUser" Opcode="0x0BCD"/>
+    <Packet Name="CMMoveKingTentToCastle" Opcode="0x11E2"/>
+    <Packet Name="CMControlSiegeSwitchForManager" Opcode="0x0EC6"/>
+    <Packet Name="CMControlSiegeObjectForManager" Opcode="0x0C04"/>
+    <Packet Name="CMMoveTaxForFortressToWarehouse" Opcode="0x0D45"/>
+    <Packet Name="CMGetTaxAmount" Opcode="0x11A0"/>
+    <Packet Name="CMChangeTownTax" Opcode="0x11E7"/>
+    <Packet Name="CMChangeTaxForSiege" Opcode="0x0F23"/>
+    <Packet Name="CMGetTaxForSiege" Opcode="0x0C8E"/>
+    <Packet Name="CMClearSiegeTentForGm" Opcode="0x0E87"/>
+    <Packet Name="CMReleaseSiegeForGm" Opcode="0x0C19"/>
+    <Packet Name="CMControlDestorySiegeDate" Opcode="0x10AF"/>
+    <Packet Name="CMContactNpc" Opcode="0x111D"/>
+    <Packet Name="CMDeliverTalk" Opcode="0x12EE"/>
+    <Packet Name="CMReadyMentalGame" Opcode="0x1077"/>
+    <Packet Name="CMSelectCard" Opcode="0x0FF6"/>
+    <Packet Name="CMStartCard" Opcode="0x105F"/>
+    <Packet Name="CMTryCard" Opcode="0x0D12"/>
+    <Packet Name="CMRestartMentalGame" Opcode="0x1086"/>
+    <Packet Name="CMEndMentalGame" Opcode="0x0D1D"/>
+    <Packet Name="CMSetWpMentalGame" Opcode="0x0DEA"/>
+    <Packet Name="CMSaveCheckedQuest" Opcode="0x0EC9">
+      <States>
+        <AUTHED/>
+        <ENTERED/>
+      </States>
+    </Packet>
+    <Packet Name="CMAcceptQuest" Opcode="0x1240"/>
+    <Packet Name="CMCompleteQuest" Opcode="0x11A3"/>
+    <Packet Name="CMGiveupQuest" Opcode="0x1126"/>
+    <Packet Name="CMQuestManagerClear" Opcode="0x0C1C"/>
+    <Packet Name="CMQuestManagerReset" Opcode="0x10C1"/>
+    <Packet Name="CMQuestManagerCondition" Opcode="0x0E93"/>
+    <Packet Name="CMQuestManagerRestrict" Opcode="0x0F36"/>
+    <Packet Name="CMQuestSearchResult" Opcode="0x0EC7"/>
+    <Packet Name="CMEndProfiling" Opcode="0x124A"/>
+    <Packet Name="CMClearMiniGame" Opcode="0x0EF0"/>
+    <Packet Name="CMMiniGameResult" Opcode="0x0DAF"/>
+    <Packet Name="CMListGuildQuest" Opcode="0x0F31"/>
+    <Packet Name="CMListOtherGuildQuest" Opcode="0x1203"/>
+    <Packet Name="CMAcceptGuildQuest" Opcode="0x0BC1"/>
+    <Packet Name="CMCompleteGuildQuest" Opcode="0x0E30"/>
+    <Packet Name="CMGiveupGuildQuest" Opcode="0x0D5F"/>
+    <Packet Name="CMUpdateGamePointQuest" Opcode="0x0F5F"/>
+    <Packet Name="CMRefreshGuildQuest" Opcode="0x12C6"/>
+    <Packet Name="CMBuyHouseForTownManagement" Opcode="0x0CCE"/>
+    <Packet Name="CMChangeHouseUseTypeForTownManagement" Opcode="0x1176"/>
+    <Packet Name="CMReturnHouseForTownManagement" Opcode="0x0C91"/>
+    <Packet Name="CMSetHouseLargeCraftExchange" Opcode="0x0E92"/>
+    <Packet Name="CMCompleteUseTypeByPearl" Opcode="0x0DE8"/>
+    <Packet Name="CMUpgradeExplorationNode" Opcode="0x1298"/>
+    <Packet Name="CMLaunchTriggerOfExplorationNodeFirstVisit" Opcode="0x0E0F"/>
+    <Packet Name="CMChat" Opcode="0x12F7"/>
+    <Packet Name="CMWhisper" Opcode="0x0D58"/>
+    <Packet Name="CMFriendChat" Opcode="0x0F54"/>
+    <Packet Name="CMChatWithItem" Opcode="0x0C94"/>
+    <Packet Name="CMUpdateWaitComment" Opcode="0x12BF"/>
+    <Packet Name="CMDeleteWaitComment" Opcode="0x12BD"/>
+    <Packet Name="CMBlockedChat" Opcode="0x0E52"/>
+    <Packet Name="CMUnBlockedChat" Opcode="0x0F65"/>
+    <Packet Name="CMBlockChatByUser" Opcode="0x0F62"/>
+    <Packet Name="CMUpdateIntimacy" Opcode="0x0C85"/>
+    <Packet Name="CMPlantWithdraw" Opcode="0x130F"/>
+    <Packet Name="CMRegistNpcWorker" Opcode="0x1012"/>
+    <Packet Name="CMStartPlantWorkingToNpcWorker" Opcode="0x0F32"/>
+    <Packet Name="CMStopPlantWorkingToNpcWorker" Opcode="0x0D25"/>
+    <Packet Name="CMDeleteMyNpcWorker" Opcode="0x0E97"/>
+    <Packet Name="CMCompleteMySiegeBuilding" Opcode="0x0ED9"/>
+    <Packet Name="CMQuickCompleteNpcWork" Opcode="0x0ECC"/>
+    <Packet Name="CMCancelNextNpcWork" Opcode="0x0BC8"/>
+    <Packet Name="CMWorkerChangeSkillNo" Opcode="0x1057"/>
+    <Packet Name="CMWorkerChangeSkillNoOne" Opcode="0x0E33"/>
+    <Packet Name="CMWorkerChangeWorkingState" Opcode="0x0E95"/>
+    <Packet Name="CMAddLevelAllWorker" Opcode="0x0DB4"/>
+    <Packet Name="CMAiDebugInfo" Opcode="0x0FA6"/>
+    <Packet Name="CMCharacterInfo" Opcode="0x12CA"/>
+    <Packet Name="CMDetectCharacter" Opcode="0x1168"/>
+    <Packet Name="CMFriendList" Opcode="0x0BFB"/>
+    <Packet Name="CMAddFriendList" Opcode="0x0D23"/>
+    <Packet Name="CMAddFriend" Opcode="0x0FF5"/>
+    <Packet Name="CMAddFriends" Opcode="0x0CAC"/>
+    <Packet Name="CMAcceptAddFriend" Opcode="0x0C4C"/>
+    <Packet Name="CMRefuseAddFriend" Opcode="0x10CF"/>
+    <Packet Name="CMDeleteFriend" Opcode="0x0CF0"/>
+    <Packet Name="CMAddFriendGroup" Opcode="0x0E48"/>
+    <Packet Name="CMRenameFriendGroup" Opcode="0x0F74"/>
+    <Packet Name="CMMoveFriendGroup" Opcode="0x10D7"/>
+    <Packet Name="CMGetAuctionTime" Opcode="0x0C46"/>
+    <Packet Name="CMRegisterItemAuctionGoodsVer2" Opcode="0x0DE5"/>
+    <Packet Name="CMListAuctionGoodsVer2" Opcode="0x0D61"/>
+    <Packet Name="CMBidAuctionGoodsVer2" Opcode="0x122D"/>
+    <Packet Name="CMBuyItemNow" Opcode="0x1234"/>
+    <Packet Name="CMListMyItemAuctionGoods" Opcode="0x1289"/>
+    <Packet Name="CMListMyBidInfo" Opcode="0x0FFD"/>
+    <Packet Name="CMListMyBuyItem" Opcode="0x1118"/>
+    <Packet Name="CMGetSuccessBidPrice" Opcode="0x0EA8"/>
+    <Packet Name="CMGetSuccessBidAuctionGoods" Opcode="0x0CAA"/>
+    <Packet Name="CMFailAuctionGoods" Opcode="0x0C65"/>
+    <Packet Name="CMFailBid" Opcode="0x1100"/>
+    <Packet Name="CMListBuyAuction" Opcode="0x0D65"/>
+    <Packet Name="CMRegisterServantAuctionGoodsVer2" Opcode="0x0DD3"/>
+    <Packet Name="CMCancelServantAuctionGoodsVer2" Opcode="0x0D60"/>
+    <Packet Name="CMPopServantPriceAuctionGoodsVer2" Opcode="0x0D73"/>
+    <Packet Name="CMBuyItNowServantAuctionGoodsVer2" Opcode="0x0BDA"/>
+    <Packet Name="CMRegisterWorkerAuctionGoodsVer2" Opcode="0x0CB8"/>
+    <Packet Name="CMCancelWorkerAuctionGoodsVer2" Opcode="0x0EBD"/>
+    <Packet Name="CMBuyItNowWorkerAuctionGoodsVer2" Opcode="0x0C6A"/>
+    <Packet Name="CMPopWorkerPriceAuctionGoodsVer2" Opcode="0x0FE4"/>
+    <Packet Name="CMRegisterPetAuctionGoodsVer2" Opcode="0x112C"/>
+    <Packet Name="CMCancelPetAuctionGoodsVer2" Opcode="0x115A"/>
+    <Packet Name="CMBuyPetAuctionGoodsVer2" Opcode="0x0FE3"/>
+    <Packet Name="CMPopSellPricePetAuctionGoodsVer2" Opcode="0x1082"/>
+    <Packet Name="CMListTradeTapRate" Opcode="0x0E3F"/>
+    <Packet Name="CMPassAuctionTime" Opcode="0x10AA"/>
+    <Packet Name="CMRestartAuction" Opcode="0x0C23"/>
+    <Packet Name="CMEndAuction" Opcode="0x0D9A"/>
+    <Packet Name="CMStartAlchemy" Opcode="0x0DCB"/>
+    <Packet Name="CMListAlchemyRecord" Opcode="0x0FB1"/>
+    <Packet Name="CMMailList" Opcode="0x0F41"/>
+    <Packet Name="CMMailDetail" Opcode="0x0EEC"/>
+    <Packet Name="CMMailGetItem" Opcode="0x0EB0"/>
+    <Packet Name="CMMailGetAllItem" Opcode="0x0DFE"/>
+    <Packet Name="CMMailRemove" Opcode="0x0EE1"/>
+    <Packet Name="CMMailSend" Opcode="0x0C2F"/>
+    <Packet Name="CMGetWebBenefit" Opcode="0x1089"/>
+    <Packet Name="CMStartSympathetic" Opcode="0x0FBF"/>
+    <Packet Name="CMActorStatus" Opcode="0x12A3"/>
+    <Packet Name="CMNotifyNonAllyActor" Opcode="0x11FF"/>
+    <Packet Name="CMStartSupportTradeForManager" Opcode="0x0C47"/>
+    <Packet Name="CMSetTerritorySupplyOn" Opcode="0x103F"/>
+    <Packet Name="CMUseTentItem" Opcode="0x0CC8"/>
+    <Packet Name="CMInstallTentCarriedOnVehicle" Opcode="0x0DB1"/>
+    <Packet Name="CMUseInstallationItem" Opcode="0x1056"/>
+    <Packet Name="CMControlSiegeObjectStart" Opcode="0x0C42"/>
+    <Packet Name="CMControlSiegeObjectFinish" Opcode="0x0F77"/>
+    <Packet Name="CMUninstallInstallation" Opcode="0x0C69"/>
+    <Packet Name="CMMoveInstallation" Opcode="0x11A4"/>
+    <Packet Name="CMChangeHouseholdGateState" Opcode="0x0F5E"/>
+    <Packet Name="CMGetFixedHouseholdGateKey" Opcode="0x1197"/>
+    <Packet Name="CMGetInstallationList" Opcode="0x1278">
+      <States>
+        <AUTHED/>
+        <ENTERED/>
+      </States>
+    </Packet>
+    <Packet Name="CMGetPetListByHouse" Opcode="0x12CB"/>
+    <Packet Name="CMRentInnRoom" Opcode="0x0D06"/>
+    <Packet Name="CMUpdateMaidActionIndexInfo" Opcode="0x0F6C"/>
+    <Packet Name="CMUpdateMaidNameInfo" Opcode="0x0E3A"/>
+    <Packet Name="CMNotifySummonMaidInfo" Opcode="0x0BBB"/>
+    <Packet Name="CMNotifyCallHandlerMaidInfo" Opcode="0x1222"/>
+    <Packet Name="CMRequestInstallationBusiness" Opcode="0x126A"/>
+    <Packet Name="CMSetBusinessInfo" Opcode="0x0C06"/>
+    <Packet Name="CMGetBuffFromInstallation" Opcode="0x0CF8"/>
+    <Packet Name="CMRegisterLottery" Opcode="0x0C86"/>
+    <Packet Name="CMDrawForWinners" Opcode="0x10BF"/>
+    <Packet Name="CMRequestVendorBusiness" Opcode="0x1181"/>
+    <Packet Name="CMSetVendorBusinessActive" Opcode="0x109E"/>
+    <Packet Name="CMSetFixedBusinessInfo" Opcode="0x10A5"/>
+    <Packet Name="CMSetFixedVendingMachineInfo" Opcode="0x0F18"/>
+    <Packet Name="CMResetFixedVendingMachineInfo" Opcode="0x0D24"/>
+    <Packet Name="CMBuyFromFixedVendingMachine" Opcode="0x117A"/>
+    <Packet Name="CMSellToFixedVendingMachine" Opcode="0x114F"/>
+    <Packet Name="CMGetBusinessInfoFromFixedCongignmentSale" Opcode="0x0C7E"/>
+    <Packet Name="CMRegisterToFixedCongignmentSale" Opcode="0x0C21"/>
+    <Packet Name="CMBuyFromFixedConsignmentSale" Opcode="0x12DD"/>
+    <Packet Name="CMRetrieveFromFixedConsignmentSale" Opcode="0x0C2C"/>
+    <Packet Name="CMMyListFromFixedConsignment" Opcode="0x0CE6"/>
+    <Packet Name="CMGetHoldingMoneyFromVendor" Opcode="0x0EC4"/>
+    <Packet Name="CMDepositMoneyToVendorBusiness" Opcode="0x0C0C"/>
+    <Packet Name="CMWithdrawMoneyToVendorBusiness" Opcode="0x0F27"/>
+    <Packet Name="CMUseRoomService" Opcode="0x130B"/>
+    <Packet Name="CMHouseRankerList" Opcode="0x106F"/>
+    <Packet Name="CMVisitableHouseList" Opcode="0x131B"/>
+    <Packet Name="CMSetGuildHouseItemExchangeKey" Opcode="0x0EFF"/>
+    <Packet Name="CMClearGuildHouseItemExchangeKey" Opcode="0x0CBD"/>
+    <Packet Name="CMRequestJukebox" Opcode="0x10A6"/>
+    <Packet Name="CMSealServant" Opcode="0x0F19"/>
+    <Packet Name="CMUnsealServant" Opcode="0x0E6F"/>
+    <Packet Name="CMRecoveryServant" Opcode="0x115E"/>
+    <Packet Name="CMReviveServant" Opcode="0x12B7"/>
+    <Packet Name="CMChangeServantToReward" Opcode="0x0BCB"/>
+    <Packet Name="CMChangeServantName" Opcode="0x0DE1"/>
+    <Packet Name="CMChangeServantSkill" Opcode="0x119D"/>
+    <Packet Name="CMListServantInfo" Opcode="0x1028"/>
+    <Packet Name="CMTamingServant" Opcode="0x0C98"/>
+    <Packet Name="CMRegisterServantVehicleByItem" Opcode="0x0F12"/>
+    <Packet Name="CMRegisterServantVehicle" Opcode="0x130C"/>
+    <Packet Name="CMDeathServant" Opcode="0x0E8A"/>
+    <Packet Name="CMStartServantMating" Opcode="0x0C56"/>
+    <Packet Name="CMGetServantMatingChildInfo" Opcode="0x0F97"/>
+    <Packet Name="CMResultServantMating" Opcode="0x1294"/>
+    <Packet Name="CMCompleteServantMating" Opcode="0x0F0A"/>
+    <Packet Name="CMVehicleEquipOnOff" Opcode="0x0F85"/>
+    <Packet Name="CMAvataEquipOnOff" Opcode="0x12FA"/>
+    <Packet Name="CMBattleHelmOnOff" Opcode="0x1134"/>
+    <Packet Name="CMCloakOnOff" Opcode="0x1204"/>
+    <Packet Name="CMTradeGameStart" Opcode="0x11B0"/>
+    <Packet Name="CMTradeGameDice" Opcode="0x0F01"/>
+    <Packet Name="CMTradeGameEnd" Opcode="0x0D48"/>
+    <Packet Name="CMTradeGameReStart" Opcode="0x0BDF"/>
+    <Packet Name="CMListDeliveryItem" Opcode="0x0E9C"/>
+    <Packet Name="CMAddDeliveryItem" Opcode="0x118D"/>
+    <Packet Name="CMReceiveDeliveryItem" Opcode="0x0E2E"/>
+    <Packet Name="CMCancelDeliveryItem" Opcode="0x0E16"/>
+    <Packet Name="CMReservePcDelivery" Opcode="0x0C2E"/>
+    <Packet Name="CMStartOfferingDelivery" Opcode="0x0E09"/>
+    <Packet Name="CMSetDelivererMoveSpeed" Opcode="0x0E41"/>
+    <Packet Name="CMControlOfferingDeliveryForManager" Opcode="0x0E90"/>
+    <Packet Name="CMMatchInfo" Opcode="0x0CC3"/>
+    <Packet Name="CMRegisterMatch" Opcode="0x1257"/>
+    <Packet Name="CMUnRegisterMatch" Opcode="0x1144"/>
+    <Packet Name="CMRaceCheckPoint" Opcode="0x1231"/>
+    <Packet Name="CMOperateGate" Opcode="0x0EFE"/>
+    <Packet Name="CMSetCharacterAbility" Opcode="0x0E22"/>
+    <Packet Name="CMCreateItemToInvectory" Opcode="0x0DDF"/>
+    <Packet Name="CMXigncodeSecurityData" Opcode="0x1052"/>
+    <Packet Name="CMSendAiHandlerToVehicle" Opcode="0x10FE"/>
+    <Packet Name="CMChatEffect" Opcode="0x103C"/>
+    <Packet Name="CMSendAiHandlerToAllNpcInServer" Opcode="0x0EDA"/>
+    <Packet Name="CMListLifeRank" Opcode="0x11ED"/>
+    <Packet Name="CMSendPositionGuide" Opcode="0x0EB1"/>
+    <Packet Name="CMDeletePositionGuide" Opcode="0x0DD6"/>
+    <Packet Name="CMTickTradeTerm" Opcode="0x0C79"/>
+    <Packet Name="CMListPlayingPlayerCount" Opcode="0x0BC6"/>
+    <Packet Name="CMResetSupplyShopItemCount" Opcode="0x0F44"/>
+    <Packet Name="CMSupplyShopControl" Opcode="0x0D9E"/>
+    <Packet Name="CMRefreshCacheData" Opcode="0x0DE9"/>
+    <Packet Name="CMSaveSocialActionConfig" Opcode="0x111C"/>
+    <Packet Name="CMSaveChatMacro" Opcode="0x11B8"/>
+    <Packet Name="CMMoveChannel" Opcode="0x10F5"/>
+    <Packet Name="CMGetChallengeReward" Opcode="0x10D3"/>
+    <Packet Name="CMSetChallengeTimeWeekend" Opcode="0x0E14"/>
+    <Packet Name="CMAttendanceReward" Opcode="0x0D13"/>
+    <Packet Name="CMOnAttendance" Opcode="0x0C3C"/>
+    <Packet Name="CMReadJournal" Opcode="0x1109"/>
+    <Packet Name="CMWriteJournalPlayCutScene" Opcode="0x1212"/>
+    <Packet Name="CMRecentJournal" Opcode="0x0D02"/>
+    <Packet Name="CMListItemBodyAtItemMarket" Opcode="0x0BFA"/>
+    <Packet Name="CMRegisterItemAtItemMarket" Opcode="0x1070"/>
+    <Packet Name="CMUnregisterItemAtItemMarket" Opcode="0x1033"/>
+    <Packet Name="CMBuyItemAtItemMarket" Opcode="0x111F"/>
+    <Packet Name="CMBuyItemAtItemMarketByGm" Opcode="0x0D95"/>
+    <Packet Name="CMWithdrawTradedMoneyAtItemMarket" Opcode="0x120C"/>
+    <Packet Name="CMListRegisterItemsAtItemMarket" Opcode="0x10C5"/>
+    <Packet Name="CMListReservationPurchaseAtItemMarket" Opcode="0x0DA0"/>
+    <Packet Name="CMRegisterReservationPurchaseAtItemMarket" Opcode="0x12C0"/>
+    <Packet Name="CMCancelReservationPurchaseAtItemMarket" Opcode="0x10D1"/>
+    <Packet Name="CMChangeReservationRate" Opcode="0x0FEA"/>
+    <Packet Name="CMChangeReservationPurchaseUserCount" Opcode="0x0E50"/>
+    <Packet Name="CMUpdateTickAtItemMarket" Opcode="0x0DBA"/>
+    <Packet Name="CMChangeTickAtItemMarket" Opcode="0x0FCB"/>
+    <Packet Name="CMChangePriceAtItemMarket" Opcode="0x1074"/>
+    <Packet Name="CMChangeVariedPercentAsNoTradedAtItemMarket" Opcode="0x1183"/>
+    <Packet Name="CMChangeSellListAtItemMarket" Opcode="0x1230"/>
+    <Packet Name="CMChangeDisplayablePricePercent" Opcode="0x0D27"/>
+    <Packet Name="CMListSellInfoAtItemMarketByParty" Opcode="0x1044"/>
+    <Packet Name="CMListMySellInfoAtItemMarketByParty" Opcode="0x0BC0"/>
+    <Packet Name="CMBuyItemAtItemMarketByParty" Opcode="0x12CC"/>
+    <Packet Name="CMDiceItemAtItemMarketByParty" Opcode="0x12B5"/>
+    <Packet Name="CMRegisterItemAtItemMarketByParty" Opcode="0x0F06"/>
+    <Packet Name="CMBuyItemAtItemMarketByPartyByGm" Opcode="0x114E"/>
+    <Packet Name="CMListSellInfoAtItemMarketByPartyForGm" Opcode="0x1067"/>
+    <Packet Name="CMSetRenderHelm" Opcode="0x0E08"/>
+    <Packet Name="CMSetRenderUnderwear" Opcode="0x0E4F"/>
+    <Packet Name="CMSetShowNameWhenCamouflage" Opcode="0x0D26"/>
+    <Packet Name="CMSetAddedExperience" Opcode="0x0D0F"/>
+    <Packet Name="CMControlServerOption" Opcode="0x0C5D"/>
+    <Packet Name="CMChangeGuildMemberCount" Opcode="0x0EFD"/>
+    <Packet Name="CMClearServantDeadCount" Opcode="0x11F1"/>
+    <Packet Name="CMClearServantMatingCount" Opcode="0x10BE"/>
+    <Packet Name="CMImprintServant" Opcode="0x1210"/>
+    <Packet Name="CMLinkServant" Opcode="0x1148"/>
+    <Packet Name="CMChangeFormServant" Opcode="0x0C53"/>
+    <Packet Name="CMSetTaxFromAdmin" Opcode="0x0CA8"/>
+    <Packet Name="CMSetRegisterServantDelayFromAdmin" Opcode="0x101F"/>
+    <Packet Name="CMExpControlToField" Opcode="0x1108"/>
+    <Packet Name="CMMixServant" Opcode="0x10B5"/>
+    <Packet Name="CMSetAddRealTimeForManager" Opcode="0x0C3D"/>
+    <Packet Name="CMChangeSkillBuffModuleParam" Opcode="0x11FA"/>
+    <Packet Name="CMChangeServerExpAndItemDropPercent" Opcode="0x0F04"/>
+    <Packet Name="CMIncreaseExperienceToExplorationNode" Opcode="0x104B"/>
+    <Packet Name="CMListDeclareGuildWarToMyGuild" Opcode="0x0FD1"/>
+    <Packet Name="CMItemChange" Opcode="0x1224"/>
+    <Packet Name="CMExchangeItemToClass" Opcode="0x0E28"/>
+    <Packet Name="CMAcquirTitleForGM" Opcode="0x0EF8"/>
+    <Packet Name="CMListMatchPointRank" Opcode="0x0F29">
+      <States>
+        <AUTHED/>
+        <ENTERED/>
+        <CONNECTED/>
+      </States>
+    </Packet>
+    <Packet Name="CMJoinLocalWar" Opcode="0x1290"/>
+    <Packet Name="CMUnjoinLocalWar" Opcode="0x0D75"/>
+    <Packet Name="CMAlchemyUpgrade" Opcode="0x0D29"/>
+    <Packet Name="CMAlchemyEvolve" Opcode="0x1180"/>
+    <Packet Name="CMStartServantSkillExpTraining" Opcode="0x0C38"/>
+    <Packet Name="CMEndServantSkillExpTraining" Opcode="0x0C59"/>
+    <Packet Name="CMConvertEnchantFailCountToItem" Opcode="0x0F6B"/>
+    <Packet Name="CMForgetServantSkill" Opcode="0x104D"/>
+    <Packet Name="CMExtractItemFromExtractionCount" Opcode="0x0E39"/>
+    <Packet Name="CMSetItemExperience" Opcode="0x0E65"/>
+    <Packet Name="CMLockTalkNpc" Opcode="0x0D5E"/>
+    <Packet Name="CMListContentsRank" Opcode="0x0CC5"/>
+    <Packet Name="CMUpdateLocalWarStatus" Opcode="0x126D"/>
+    <Packet Name="CMDestroyGuildVehicle" Opcode="0x10E0"/>
+    <Packet Name="CMRequestPvPBattle" Opcode="0x1106"/>
+    <Packet Name="CMAcceptPvPBattle" Opcode="0x0E4D"/>
+    <Packet Name="CMCancelPvPBattle" Opcode="0x101A"/>
+    <Packet Name="CMSetCompetitionHostForManager" Opcode="0x0E3B"/>
+    <Packet Name="CMEnterCompetitionHost" Opcode="0x118F"/>
+    <Packet Name="CMRequestInviteCompetition" Opcode="0x12A7"/>
+    <Packet Name="CMResponseInviteCompetition" Opcode="0x0D6A"/>
+    <Packet Name="CMListCompetitionEntryPlayer" Opcode="0x10A8"/>
+    <Packet Name="CMLeaveCompetitionEntryPlayer" Opcode="0x1287"/>
+    <Packet Name="CMCompetitionSetTeam" Opcode="0x105E"/>
+    <Packet Name="CMCompetitionStartFight" Opcode="0x10DA"/>
+    <Packet Name="CMRebirthCompetitonPlayer" Opcode="0x1071"/>
+    <Packet Name="CMResponseMoveToPositionInArena" Opcode="0x0CC6"/>
+    <Packet Name="CMCompetitionMatchTimeOut" Opcode="0x0F48"/>
+    <Packet Name="CMRequestJoinCompetition" Opcode="0x121B"/>
+    <Packet Name="CMResponseJoinCompetition" Opcode="0x12AB"/>
+    <Packet Name="CMListCompetitionJoinWaitPlayer" Opcode="0x0C01"/>
+    <Packet Name="CMCompetitionChangeMatchMode" Opcode="0x0F75"/>
+    <Packet Name="CMResetCompetitionBeforeFight" Opcode="0x0C96"/>
+    <Packet Name="CMChangeCompetitionOption" Opcode="0x1014"/>
+    <Packet Name="CMResetCompetitionAll" Opcode="0x0F2F"/>
+    <Packet Name="CMCompetitionMatchDoneCheck" Opcode="0x0EE0"/>
+    <Packet Name="CMCompetitionMatchState" Opcode="0x0CEC"/>
+    <Packet Name="CMCompetitionReservation" Opcode="0x0DB7"/>
+    <Packet Name="CMTransferCompetitonHost" Opcode="0x1207"/>
+    <Packet Name="CMTransferAcceptCompetitonHost" Opcode="0x125A"/>
+    <Packet Name="CMArshaReservationList" Opcode="0x108E"/>
+    <Packet Name="CMChangeAssistant" Opcode="0x11AE"/>
+    <Packet Name="CMSetGuildNotice" Opcode="0x0C4A"/>
+    <Packet Name="CMSetAutoLevelUp" Opcode="0x10AE"/>
+    <Packet Name="CMSellWarehouseItemToSystem" Opcode="0x1225"/>
+    <Packet Name="CMExtendExpirationPeriod" Opcode="0x12C9"/>
+    <Packet Name="CMTeleportPosWhereUseReturnStone" Opcode="0x0EFB"/>
+    <Packet Name="CMTeleportPosWhereUseCompass" Opcode="0x0EB7"/>
+    <Packet Name="CMKickForSiege" Opcode="0x12B3"/>
+    <Packet Name="CMCheckMoveChannelForManager" Opcode="0x0C80"/>
+    <Packet Name="CMChangeCpuBusyRate" Opcode="0x100E"/>
+    <Packet Name="CMChangeSendRequestLimit" Opcode="0x100D"/>
+    <Packet Name="CMChangeMaxActiveCountOfThread" Opcode="0x0C51"/>
+    <Packet Name="CMLoginUserToVoiceChatServer" Opcode="0x0F7E"/>
+    <Packet Name="CMVoiceChat" Opcode="0x0C5C"/>
+    <Packet Name="CMVoiceChatState" Opcode="0x0E67"/>
+    <Packet Name="CMVoiceChatRoomList" Opcode="0x11DC"/>
+    <Packet Name="CMCreateVoiceChatRoomToChattingServer" Opcode="0x0C33"/>
+    <Packet Name="CMEnterOrLeaveVoiceChatRoomToChattingServer" Opcode="0x11AA"/>
+    <Packet Name="CMEnterVoiceChatRoom" Opcode="0x0CCF"/>
+    <Packet Name="CMLeaveVoiceChatRoom" Opcode="0x11BC"/>
+    <Packet Name="CMSetServantSkillExpForGM" Opcode="0x12C7"/>
+    <Packet Name="CMUpdateExpirationTitle" Opcode="0x1163"/>
+    <Packet Name="CMChangeName" Opcode="0x0FD6"/>
+    <Packet Name="CMSetFloatFishing" Opcode="0x0DF2"/>
+    <Packet Name="CMSetFloatFishingPoint" Opcode="0x0E79"/>
+    <Packet Name="CMSetImmediatelyRespawnMonster" Opcode="0x1002"/>
+    <Packet Name="CMChangeSkillAwakeningBitFlag" Opcode="0x10CC"/>
+    <Packet Name="CMSetInstallableGuildMemberCount" Opcode="0x10BB"/>
+    <Packet Name="CMBuyCashItemInfoNotify" Opcode="0x0D7A"/>
+    <Packet Name="CMUseChannelBattleExpItem" Opcode="0x0D0C"/>
+    <Packet Name="CMChangeAwakenSkill" Opcode="0x1105"/>
+    <Packet Name="CMControlWorkerTradeSwitchForManager" Opcode="0x0D7D"/>
+    <Packet Name="CMExchangeWorkerTradeMoney" Opcode="0x0F4A"/>
+    <Packet Name="CMCollectWorkerTradeMoney" Opcode="0x0F49"/>
+    <Packet Name="CMEmployWorker" Opcode="0x11F4"/>
+    <Packet Name="CMCreateTradeGroup" Opcode="0x0D89"/>
+    <Packet Name="CMSetWorkerInTradeGroup" Opcode="0x0E84"/>
+    <Packet Name="CMSetRealWorker" Opcode="0x0FFC"/>
+    <Packet Name="CMUnsetRealWorker" Opcode="0x102D"/>
+    <Packet Name="CMListWorkerTradeItemMaster" Opcode="0x0E94"/>
+    <Packet Name="CMStartTradeGroup" Opcode="0x12DC"/>
+    <Packet Name="CMAcceptWorkerTradeObtainElement" Opcode="0x126B"/>
+    <Packet Name="CMChangeWorkerTradeSpeed" Opcode="0x0C90"/>
+    <Packet Name="CMItemExchangeBattleAndSkillExp" Opcode="0x0E44"/>
+    <Packet Name="CMClearGuildServantDeadCount" Opcode="0x1005"/>
+    <Packet Name="CMAddServerTimeForManager" Opcode="0x11F8"/>
+    <Packet Name="CMOpenSealItemBox" Opcode="0x0D53"/>
+    <Packet Name="CMRestrictSiegeAreaForGm" Opcode="0x0E7A"/>
+    <Packet Name="CMForceStopSiegeForGm" Opcode="0x12F8"/>
+    <Packet Name="CMSetSummaryStateAtItemMarketForGM" Opcode="0x101B"/>
+    <Packet Name="CMTeleportToSiegeTent" Opcode="0x0C00"/>
+    <Packet Name="CMPopInventoryBagItemToInventory" Opcode="0x0D8E"/>
+    <Packet Name="CMClearGuildSkill" Opcode="0x0D7F"/>
+    <Packet Name="CMRegisterCoupon" Opcode="0x0CED"/>
+    <Packet Name="CMDeleteCoupon" Opcode="0x0C18"/>
+    <Packet Name="CMCreateCoupon" Opcode="0x0C1B"/>
+    <Packet Name="CMAllowCouponUse" Opcode="0x1085"/>
+    <Packet Name="CMUpgradeItem" Opcode="0x11EA"/>
+    <Packet Name="CMStartStallionSkillExpTraining" Opcode="0x0E1E"/>
+    <Packet Name="CMEndStallionSkillExpTraining" Opcode="0x0D8A"/>
+    <Packet Name="CMUpdateRandomShopInfo" Opcode="0x116F"/>
+    <Packet Name="CMIncreaseStallionSkillExpByItem" Opcode="0x0C31"/>
+    <Packet Name="CMCompleteStallionTraining" Opcode="0x120E"/>
+    <Packet Name="CMResurrectionServant" Opcode="0x12D4"/>
+    <Packet Name="CMChangeNineTierHorseAcquiredRate" Opcode="0x0D50"/>
+    <Packet Name="CMChangeServantMarketBuyDelayTime" Opcode="0x0CB4"/>
+    <Packet Name="CMSetServantMarketExpiredTime" Opcode="0x0FB8"/>
+    <Packet Name="CMSavageDefenceJoin" Opcode="0x0BD8"/>
+    <Packet Name="CMSavageDefenceTossCoin" Opcode="0x11EB"/>
+    <Packet Name="CMSavageDefenceBuyItem" Opcode="0x108F"/>
+    <Packet Name="CMSavageDefenceStatus" Opcode="0x0BE5"/>
+    <Packet Name="CMRegisterServantCampingTent" Opcode="0x103B"/>
+    <Packet Name="CMSealServantCampingTent" Opcode="0x11F3"/>
+    <Packet Name="CMUnsealServantCampingTent" Opcode="0x10C3"/>
+    <Packet Name="CMRecruitParty" Opcode="0x0FA7"/>
+    <Packet Name="CMCancelRecruitPartyMember" Opcode="0x0BE7"/>
+    <Packet Name="CMListPartyRecruitmentInfo" Opcode="0x1161"/>
+    <Packet Name="CMJoinPartyRecruitment" Opcode="0x0D6C"/>
+    <Packet Name="CMSetGuildNo" Opcode="0x122F"/>
+    <Packet Name="CMJoinPvpBattleGround" Opcode="0x1217"/>
+    <Packet Name="CMUnJoinPvpBattleGround" Opcode="0x0F4D"/>
+  </ClientPackets>
+  <ServerPackets>
+    <Packet MaxSize="0" MinSize="0" Name="SMSetFrameworkInformation" Opcode="0x03EB"/>
+    <Packet MaxSize="0" MinSize="0" Name="SMNak" Opcode="0x03F3"/>
+    <Packet MaxSize="16284" MinSize="8" Name="SMAddPlayers" Opcode="0x0BBA"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddMonsters" Opcode="0x106C"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddNpcs" Opcode="0x131E"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddDeadBodys" Opcode="0x0DFB"/>
+    <Packet MaxSize="4807" MinSize="7" Name="SMAddGraves" Opcode="0x10DB"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddVehicles" Opcode="0x0FA3"/>
+    <Packet MaxSize="16284" MinSize="10" Name="SMAddCollectInfo" Opcode="0x0F1E"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddTents" Opcode="0x0E81"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddInstallations" Opcode="0x122C"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddGate" Opcode="0x1048"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddInstanceObject" Opcode="0x0F6A"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMAddAlteregos" Opcode="0x0EAE"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMRemoveActor" Opcode="0x0EA0"/>
+    <Packet MaxSize="9" MinSize="9" Name="SMRemoveCollectInfo" Opcode="0x12A4"/>
+    <Packet MaxSize="64" MinSize="64" Name="SMMovePlayer" Opcode="0x1202"/>
+    <Packet MaxSize="26" MinSize="26" Name="SMMovePlayerNak" Opcode="0x0FC6"/>
+    <Packet MaxSize="164" MinSize="164" Name="SMStartCharacterMoving" Opcode="0x0F93"/>
+    <Packet MaxSize="39" MinSize="39" Name="SMStopNonPlayerMoving" Opcode="0x1317"/>
+    <Packet MaxSize="34" MinSize="34" Name="SMPlayerDirection" Opcode="0x0C3B"/>
+    <Packet MaxSize="39" MinSize="39" Name="SMTurnNonPlayer" Opcode="0x12E0"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMMoveNonPlayer" Opcode="0x0E32"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMMoveSiegeTent" Opcode="0x11FE"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMBeginDelayedLogout" Opcode="0x0F17"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMRemoveCancelCharacterFromField" Opcode="0x0DBE"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMRemoveCancelCharacterFromFieldNak" Opcode="0x0DA7"/>
+    <Packet MaxSize="2264" MinSize="2264" Name="SMCreateCharacterToField" Opcode="0x10FA"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMCreateCharacterToFieldNak" Opcode="0x1027"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMRemoveCharacterFromField" Opcode="0x115B"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMRemoveCharacterFromFieldNak" Opcode="0x0F02"/>
+    <Packet MaxSize="16284" MinSize="8" Name="SMGetTradeShopItemsCount" Opcode="0x12F9"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMResetTradeShopItemsCount" Opcode="0x10B4"/>
+    <Packet MaxSize="16284" MinSize="15" Name="SMGetNormalShopItems" Opcode="0x11D3"/>
+    <Packet MaxSize="16284" MinSize="19" Name="SMGetTradeShopItems" Opcode="0x1123"/>
+    <Packet MaxSize="16284" MinSize="12" Name="SMRepurchaseItems" Opcode="0x1030"/>
+    <Packet MaxSize="16284" MinSize="9" Name="SMGetDroppedItems" Opcode="0x0C49"/>
+    <Packet MaxSize="16284" MinSize="22" Name="SMAddItemToInventory" Opcode="0x0EDF"/>
+    <Packet MaxSize="16284" MinSize="20" Name="SMEraseInventoryItem" Opcode="0x1245"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMVaryMoney" Opcode="0x0E60"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMBuyItemInShop" Opcode="0x0E6C"/>
+    <Packet MaxSize="21" MinSize="21" Name="SMPickupDroppedItem" Opcode="0x1097"/>
+    <Packet MaxSize="16284" MinSize="28" Name="SMChangePartyInventorySlots" Opcode="0x128D"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMAskUseItem" Opcode="0x1269"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMUseItemNak" Opcode="0x108C"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMUseSummonItemNak" Opcode="0x0CCD"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMTradeAdvantage" Opcode="0x1122"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMItemClearVested" Opcode="0x115C"/>
+    <Packet MaxSize="5" MinSize="5" Name="SMItemCarveSeal" Opcode="0x102A"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMItemTransferLifeExperience" Opcode="0x0CAE"/>
+    <Packet MaxSize="93" MinSize="93" Name="SMBroadcastGetItem" Opcode="0x1185"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListCashProductBuyCount" Opcode="0x0F7F"/>
+    <Packet MaxSize="90" MinSize="90" Name="SMChargeUser" Opcode="0x0C0D"/>
+    <Packet MaxSize="16284" MinSize="9" Name="SMVariedItemCountInShop" Opcode="0x10BD"/>
+    <Packet MaxSize="40" MinSize="40" Name="SMEnchantItem" Opcode="0x0CB5"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMUpdateEnchantFailCount" Opcode="0x0FF7"/>
+    <Packet MaxSize="25" MinSize="25" Name="SMWeakenItem" Opcode="0x0F96"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMExtractBlackStone" Opcode="0x0FDF"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMRepairItem" Opcode="0x0F5A"/>
+    <Packet MaxSize="13" MinSize="13" Name="SMUpdateEndurance" Opcode="0x0BD4"/>
+    <Packet MaxSize="16284" MinSize="8" Name="SMQuestItemInDeadBody" Opcode="0x12EB"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMSetCannonBallCount" Opcode="0x0C45"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMRepeatCollectItem" Opcode="0x1311"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMManufactureItem" Opcode="0x0C9B"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMDropItemPosition" Opcode="0x10E5"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMLanternItemExpiration" Opcode="0x1215"/>
+    <Packet MaxSize="29" MinSize="29" Name="SMDyeItem" Opcode="0x0C17"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMImproveItem" Opcode="0x0C78"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListPalette" Opcode="0x127F"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMPopPalette" Opcode="0x1001"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMUpdatePalette" Opcode="0x1016"/>
+    <Packet MaxSize="9" MinSize="9" Name="SMExchangeItemSlotInInventory" Opcode="0x0DA5"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMInventorySlotCount" Opcode="0x0D85"/>
+    <Packet MaxSize="5" MinSize="5" Name="SMWarehouseSlotCount" Opcode="0x0BE9"/>
+    <Packet MaxSize="2007" MinSize="7" Name="SMPrepareItemBox" Opcode="0x12A0"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMOpenItemBox" Opcode="0x0C93"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMOpenItemBoxNak" Opcode="0x0D44"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMCombineDyeItem" Opcode="0x1160"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMTradeItemCount" Opcode="0x0F94"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMTradeSupplyCount" Opcode="0x11E6"/>
+    <Packet MaxSize="50" MinSize="50" Name="SMNotifyVariableTradeItem" Opcode="0x10A3"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMPushJewelToSocket" Opcode="0x10CA"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMPopJewelFromSocket" Opcode="0x1293"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMHelpRewardMail" Opcode="0x0D6E"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMDeactivePetInfo" Opcode="0x1117"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMActivePetPublicInfo" Opcode="0x0DE3"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMActivePetPrivateInfo" Opcode="0x10BA"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMUnregisterPet" Opcode="0x0EE6"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMSealPet" Opcode="0x11D6"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMPetUseSkill" Opcode="0x0D03"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMUpdatePetHungry" Opcode="0x0FEB"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMChangeLookPet" Opcode="0x11D8"/>
+    <Packet MaxSize="74" MinSize="74" Name="SMAddPetSkillExperienceRate" Opcode="0x0E99"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMSetWp" Opcode="0x0FEE"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListMentalCard" Opcode="0x116C"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMCreateCard" Opcode="0x0EEE"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMRemoveCard" Opcode="0x130D"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMMakeThemeBook" Opcode="0x0C75"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMFixedCharge" Opcode="0x0C92"/>
+    <Packet MaxSize="231" MinSize="231" Name="SMGetCreateUserInformationToAuthenticServer" Opcode="0x0C87"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMLoginUserToAuthenticServer" Opcode="0x12B6"/>
+    <Packet MaxSize="420" MinSize="420" Name="SMLoginUserToAuthenticServerNak" Opcode="0x0EBE"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMRegisterNickNameToAuthenticServer" Opcode="0x0C10"/>
+    <Packet MaxSize="16284" MinSize="16" Name="SMGetWorldInformations" Opcode="0x0C9C"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMChangeServerBusyState" Opcode="0x0CCC"/>
+    <Packet MaxSize="16284" MinSize="3" Name="SMMyRoleList" Opcode="0x0F9F"/>
+    <Packet MaxSize="16284" MinSize="111" Name="SMLoginUserToFieldServer" Opcode="0x0F82"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMExitFieldServerToServerSelection" Opcode="0x1136"/>
+    <Packet MaxSize="16284" MinSize="114" Name="SMGetContentServiceInfo" Opcode="0x0EBB"/>
+    <Packet MaxSize="163" MinSize="163" Name="SMGetPasswordFromManagerServer" Opcode="0x1006"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMLoginUserToManagerServer" Opcode="0x0DDE"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMGetServerInformationFromManagerServer" Opcode="0x0EE9"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListServerInformationFromManager" Opcode="0x0E6B"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMServerInformation" Opcode="0x0CDD"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMForciblyLogout" Opcode="0x0D17"/>
+    <Packet MaxSize="16284" MinSize="3" Name="SMPlayingUserCountList" Opcode="0x0F28"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMChangeMovePacketSendTerm" Opcode="0x0CFB"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMResetMentalCard" Opcode="0x120D"/>
+    <Packet MaxSize="30" MinSize="30" Name="SMDecreaseEndurance" Opcode="0x1309"/>
+    <Packet MaxSize="126" MinSize="126" Name="SMGetUserNickNameByCharacterName" Opcode="0x0D28"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMChangeSendRotationThreshold" Opcode="0x0F99"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMClearGuildSkillCoolTimeForManager" Opcode="0x0E21"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMClearPlayerSkillCoolTimeForManager" Opcode="0x1094"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMCash" Opcode="0x12E1"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMListCashItem" Opcode="0x0FEC"/>
+    <Packet MaxSize="16284" MinSize="143" Name="SMBuyCashItem" Opcode="0x117F"/>
+    <Packet MaxSize="172" MinSize="172" Name="SMPaymentPassword" Opcode="0x1068"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMUpdateTitleKey" Opcode="0x0BDC"/>
+    <Packet MaxSize="3101" MinSize="3101" Name="SMEnterPlayerCharacterToField" Opcode="0x103D"/>
+    <Packet MaxSize="31" MinSize="31" Name="SMEnterPlayerCharacterToFieldComplete" Opcode="0x10DD"/>
+    <Packet MaxSize="416" MinSize="416" Name="SMPlayerCharacterBlockedInformation" Opcode="0x1235"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMExitFieldToCharacterSelection" Opcode="0x131F"/>
+    <Packet MaxSize="16284" MinSize="27" Name="SMWaitToEnterToField" Opcode="0x11EC"/>
+    <Packet MaxSize="16284" MinSize="15" Name="SMListWaitingUserCount" Opcode="0x0F56"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMCancelFieldEnterWaiting" Opcode="0x1128"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMVaryCharacterSlotCount" Opcode="0x0FBE"/>
+    <Packet MaxSize="661" MinSize="661" Name="SMSetPlayerCharacterMemo" Opcode="0x0C25"/>
+    <Packet MaxSize="42" MinSize="42" Name="SMSetPlayTime" Opcode="0x1260"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListEnchantFailCountOfMyCharacter" Opcode="0x1243"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMLoadField" Opcode="0x11DD"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMLoadFieldComplete" Opcode="0x100A"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMLoadFieldCompleteNak" Opcode="0x10FF"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMUpdateCharacterCustomizing" Opcode="0x125F"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMUpdateCharacterCustomizingNak" Opcode="0x0FD2"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMUpdateCustomizationFreeBuff" Opcode="0x101E"/>
+    <Packet MaxSize="141" MinSize="141" Name="SMStartAction" Opcode="0x12F1"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMStartActionNak" Opcode="0x0FE0"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMStartEmergencyEvade" Opcode="0x0DB9"/>
+    <Packet MaxSize="58" MinSize="58" Name="SMActionRefresh" Opcode="0x0DFF"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMActionRotate" Opcode="0x0EAD"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMNetworkPosition" Opcode="0x0E53"/>
+    <Packet MaxSize="43" MinSize="43" Name="SMShootCannonAttack" Opcode="0x0F61"/>
+    <Packet MaxSize="92" MinSize="92" Name="SMNotifyCannonShootPosition" Opcode="0x0C5F"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMHideAction" Opcode="0x0D4A"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMHideActionAndActiveFreeCam" Opcode="0x0C68"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMSetNpcActionForClientSpawn" Opcode="0x0CF9"/>
+    <Packet MaxSize="2007" MinSize="2007" Name="SMUpdateSkillPreset" Opcode="0x1050"/>
+    <Packet MaxSize="2007" MinSize="2007" Name="SMApplySkillPreset" Opcode="0x10CB"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMSkillList" Opcode="0x11D7"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMChangeToggleSkillState" Opcode="0x0D56"/>
+    <Packet MaxSize="40" MinSize="40" Name="SMApplyActiveBuff" Opcode="0x0E5D"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMUnapplyActiveBuff" Opcode="0x0E57"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMAddAppliedActiveBuffs" Opcode="0x0ED2"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMAddUsableActiveSkills" Opcode="0x0DCF"/>
+    <Packet MaxSize="37" MinSize="37" Name="SMApplyActionRestriction" Opcode="0x0D41"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMClearSkills" Opcode="0x124C"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMClearSkillPartly" Opcode="0x0FB7"/>
+    <Packet MaxSize="17" MinSize="17" Name="SMLearnSkill" Opcode="0x0EB3"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMSkillAwakening" Opcode="0x0C73"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMSkillAwakenReset" Opcode="0x128E"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMAnswerSkill" Opcode="0x108D"/>
+    <Packet MaxSize="767" MinSize="767" Name="SMQuickSlotList" Opcode="0x0FAA"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMPlayerPublicInfoSet" Opcode="0x12BC"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMSetPieceCountPartialSkill" Opcode="0x0F76"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMCoolTimeList" Opcode="0x0D9B"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMReservedLearningSkill" Opcode="0x1310"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListFishTopRankingHead" Opcode="0x0FFF"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListFishTopRankingBody" Opcode="0x0C9D"/>
+    <Packet MaxSize="66" MinSize="66" Name="SMHitPartHpSet" Opcode="0x0C4F"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMCanUseSkillByCombineWave" Opcode="0x0C0E"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMUpdateCombineWaveForMonster" Opcode="0x0C50"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMRetrieveCombineWave" Opcode="0x0DAB"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMBeCompleteLoopCombineWave" Opcode="0x10D8"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMCancelLoopCombineWave" Opcode="0x106D"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMVaryAdrenalin" Opcode="0x0EAC"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMEnablePvP" Opcode="0x109B"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMSetTendency" Opcode="0x0DA2"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMSetPreemptiveStrike" Opcode="0x0D88"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMSetMurdererState" Opcode="0x0DE2"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMEnableAdrenalin" Opcode="0x0F1C"/>
+    <Packet MaxSize="126" MinSize="126" Name="SMBroadcastArrest" Opcode="0x0EB2"/>
+    <Packet MaxSize="182" MinSize="182" Name="SMPlayerLogOnOff" Opcode="0x0CB6"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMUpdateFires" Opcode="0x0CCA"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMUpdateWeatherManager" Opcode="0x126C"/>
+    <Packet MaxSize="16284" MinSize="12" Name="SMInitializeWeatherData" Opcode="0x0EA4"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMInitializeRegionWeatherData" Opcode="0x0BC2"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMAddDynamicWeathers" Opcode="0x0F08"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMAddWeatherChangeQuerys" Opcode="0x11E8"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMClearDynamicWeathers" Opcode="0x0C48"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMChangeWeathers" Opcode="0x1175"/>
+    <Packet MaxSize="43" MinSize="43" Name="SMSetGameTime" Opcode="0x0D6F"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMSetEncounterWeather" Opcode="0x12E7"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMUsableInstallationForExchange" Opcode="0x1142"/>
+    <Packet MaxSize="16284" MinSize="18" Name="SMDoItemExchangeWithSystem" Opcode="0x1039"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMRequestItemExchangeWithPlayer" Opcode="0x0E7B"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMRespondItemExchangeWithPlayer" Opcode="0x1075"/>
+    <Packet MaxSize="115" MinSize="115" Name="SMRegisterItemExchangeWithPlayer" Opcode="0x1172"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMLockItemExchangeWithPlayer" Opcode="0x0CA3"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMUnlockItemExchangeWithPlayer" Opcode="0x123E"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMAssureItemExchangeWithPlayer" Opcode="0x0E03"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMCompleteItemExchangeWithPlayer" Opcode="0x1267"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMCancelItemExchangeWithPlayer" Opcode="0x0FBA"/>
+    <Packet MaxSize="2979" MinSize="2979" Name="SMGetAllEquipSlot" Opcode="0x1162"/>
+    <Packet MaxSize="16284" MinSize="143" Name="SMEquipItem" Opcode="0x0E10"/>
+    <Packet MaxSize="134" MinSize="134" Name="SMUnequipItem" Opcode="0x0C40"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMEraseEquipItem" Opcode="0x0F8C"/>
+    <Packet MaxSize="9" MinSize="9" Name="SMVaryEquipItemEndurance" Opcode="0x1130"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMRefreshWarehouseItem" Opcode="0x0DDB"/>
+    <Packet MaxSize="16284" MinSize="23" Name="SMAddItemToWarehouse" Opcode="0x0EC2"/>
+    <Packet MaxSize="21" MinSize="21" Name="SMEraseWarehouseItem" Opcode="0x0BF3"/>
+    <Packet MaxSize="68" MinSize="68" Name="SMAskInviteParty" Opcode="0x0C66"/>
+    <Packet MaxSize="68" MinSize="68" Name="SMRefuseInviteParty" Opcode="0x12E5"/>
+    <Packet MaxSize="90" MinSize="90" Name="SMPartyNewMember" Opcode="0x0E0D"/>
+    <Packet MaxSize="16284" MinSize="18" Name="SMPartyMembers" Opcode="0x10E4"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMWithdrawParty" Opcode="0x1277"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMChangePartyLeader" Opcode="0x1125"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMChangeLooting" Opcode="0x10EA"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMChangeDistributionOption" Opcode="0x0FD8"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMPartyMemberPickupItem" Opcode="0x1248"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListGuildUnjoinedPlayer" Opcode="0x12AA"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMChangeGuildJoinMode" Opcode="0x0CFD"/>
+    <Packet MaxSize="72" MinSize="72" Name="SMDestroyGuild" Opcode="0x11D0"/>
+    <Packet MaxSize="16284" MinSize="247" Name="SMGetGuildInformation" Opcode="0x0F64"/>
+    <Packet MaxSize="180" MinSize="180" Name="SMLoginGuild" Opcode="0x0F90"/>
+    <Packet MaxSize="162" MinSize="162" Name="SMLogoutGuild" Opcode="0x0D10"/>
+    <Packet MaxSize="16284" MinSize="12" Name="SMNotifyGuildLog" Opcode="0x0D3C"/>
+    <Packet MaxSize="376" MinSize="376" Name="SMNotifyGuildInfo" Opcode="0x0E01"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMListSiegeWarScore" Opcode="0x0F68"/>
+    <Packet MaxSize="150" MinSize="150" Name="SMJoinSiegeWarScore" Opcode="0x0F72"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMDisjoinSiegeWarScore" Opcode="0x0BCC"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListSiegeGuild" Opcode="0x10F7"/>
+    <Packet MaxSize="34" MinSize="34" Name="SMAllowGuildBustCall" Opcode="0x104C"/>
+    <Packet MaxSize="152" MinSize="152" Name="SMGuildWebInfoByGuildName" Opcode="0x0C36"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListEncyclopedia" Opcode="0x0F63"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMUpdateEncyclopedia" Opcode="0x10D6"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMDoPhysicalAttack" Opcode="0x1124"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMRevivePlayer" Opcode="0x1058"/>
+    <Packet MaxSize="25" MinSize="25" Name="SMDiePlayer" Opcode="0x0F9C"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMDieNonPlayer" Opcode="0x1147"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMVehicleDropRider" Opcode="0x0E29"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMClearRiderActor" Opcode="0x1211"/>
+    <Packet MaxSize="277" MinSize="277" Name="SMRespondToJoinGuild" Opcode="0x0D79"/>
+    <Packet MaxSize="31" MinSize="31" Name="SMNotifyToJoinGuildOrAlliance" Opcode="0x12E6"/>
+    <Packet MaxSize="221" MinSize="221" Name="SMAskInviteGuild" Opcode="0x0E73"/>
+    <Packet MaxSize="76" MinSize="76" Name="SMRefuseInviteGuild" Opcode="0x113E"/>
+    <Packet MaxSize="30" MinSize="30" Name="SMDisjoinGuild" Opcode="0x0E19"/>
+    <Packet MaxSize="26" MinSize="26" Name="SMNotifyToDisjoinGuildOrAlliance" Opcode="0x0F83"/>
+    <Packet MaxSize="31" MinSize="31" Name="SMChangeGuildMemberGrade" Opcode="0x0C8C"/>
+    <Packet MaxSize="23" MinSize="23" Name="SMChangeProtectGuildMember" Opcode="0x10A7"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMChangeProtectGuildMemberNear" Opcode="0x12D6"/>
+    <Packet MaxSize="13" MinSize="13" Name="SMGuildSkillPoint" Opcode="0x119E"/>
+    <Packet MaxSize="16284" MinSize="12" Name="SMGuildSkillList" Opcode="0x0BD9"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMLearnGuildSkill" Opcode="0x0C7A"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMClearGuildSkill" Opcode="0x0DED"/>
+    <Packet MaxSize="244" MinSize="244" Name="SMListWarringGuild" Opcode="0x0E7C"/>
+    <Packet MaxSize="143" MinSize="143" Name="SMDeclareGuildWar" Opcode="0x1083"/>
+    <Packet MaxSize="143" MinSize="143" Name="SMWaitForDeclareGuildWar" Opcode="0x0D7C"/>
+    <Packet MaxSize="80" MinSize="80" Name="SMRequestGuildWar" Opcode="0x0E9A"/>
+    <Packet MaxSize="65" MinSize="65" Name="SMRefuseGuildWar" Opcode="0x0CBF"/>
+    <Packet MaxSize="142" MinSize="142" Name="SMStopGuildWar" Opcode="0x1308"/>
+    <Packet MaxSize="244" MinSize="244" Name="SMUpdateWarringGuild" Opcode="0x12E8"/>
+    <Packet MaxSize="220" MinSize="220" Name="SMListGuildDuel" Opcode="0x0F89"/>
+    <Packet MaxSize="92" MinSize="92" Name="SMRequestGuildDuel" Opcode="0x1236"/>
+    <Packet MaxSize="162" MinSize="162" Name="SMAcceptGuildDuel" Opcode="0x10CE"/>
+    <Packet MaxSize="65" MinSize="65" Name="SMRefuseGuildDuel" Opcode="0x1073"/>
+    <Packet MaxSize="23" MinSize="23" Name="SMGuildDuelScore" Opcode="0x0E86"/>
+    <Packet MaxSize="158" MinSize="158" Name="SMStopGuildDuel" Opcode="0x1115"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMExpelMemberFromGuild" Opcode="0x0F88"/>
+    <Packet MaxSize="25" MinSize="25" Name="SMAttackedKingOrLordTent" Opcode="0x0C6D"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMVaryJoinableGuildMemberCount" Opcode="0x0D1B"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMVaryProtectGuildMemberCount" Opcode="0x0E4B"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMUseGuildSkill" Opcode="0x0E6A"/>
+    <Packet MaxSize="26" MinSize="26" Name="SMNotifyGuildTendency" Opcode="0x110E"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMNotifyGuildCheer" Opcode="0x1304"/>
+    <Packet MaxSize="513" MinSize="513" Name="SMUpdateGuildBoardMessage" Opcode="0x0EEA"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMOccupySiege" Opcode="0x0F03"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMReleaseSiege" Opcode="0x119F"/>
+    <Packet MaxSize="16284" MinSize="19" Name="SMStartSiege" Opcode="0x1254"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMStopSiege" Opcode="0x0EA3"/>
+    <Packet MaxSize="216" MinSize="216" Name="SMPlayerKill" Opcode="0x0BC5"/>
+    <Packet MaxSize="146" MinSize="146" Name="SMSiegeTentChange" Opcode="0x1274"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMSiegeTentCount" Opcode="0x0C2A"/>
+    <Packet MaxSize="76" MinSize="76" Name="SMSiegeScore" Opcode="0x1146"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMWarScore" Opcode="0x0C13"/>
+    <Packet MaxSize="148" MinSize="148" Name="SMGetTaxAmount" Opcode="0x0C9A"/>
+    <Packet MaxSize="41" MinSize="41" Name="SMChangeTaxRate" Opcode="0x0C6E"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMGetTaxForSiege" Opcode="0x11C1"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMSetRegionProductivity" Opcode="0x0CAD"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMChangeUserAffiliatedTerritory" Opcode="0x0D57"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMSetAffiliatedUserCount" Opcode="0x0C05"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMUpdateSiegeGuildTentDestroyed" Opcode="0x1040"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMNotifyOccupiedMinorSiegeTotalCount" Opcode="0x1154"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMContactNpc" Opcode="0x0C55"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMFailContactNpc" Opcode="0x0DAC"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMDeliverTalk" Opcode="0x0FCE"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMSetEscort" Opcode="0x0EAB"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMReadyMentalGame" Opcode="0x0F0D"/>
+    <Packet MaxSize="98" MinSize="98" Name="SMUpdateCurrentState" Opcode="0x1042"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMStartCard" Opcode="0x1008"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMTryCard" Opcode="0x10B7"/>
+    <Packet MaxSize="9" MinSize="9" Name="SMResultMentalGame" Opcode="0x0BEB"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMRestartMentalGame" Opcode="0x11D1"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMEndMentalGame" Opcode="0x0C7F"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMProgressingQuestList" Opcode="0x1232"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMClearedQuestList" Opcode="0x0E68"/>
+    <Packet MaxSize="303" MinSize="303" Name="SMListCheckedQuest" Opcode="0x107E"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMAcceptQuest" Opcode="0x0DC1"/>
+    <Packet MaxSize="26" MinSize="26" Name="SMUpdateQuest" Opcode="0x113F"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMCompleteQuest" Opcode="0x105D"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMGiveupQuest" Opcode="0x0CBB"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMQuestManagerClear" Opcode="0x0D5A"/>
+    <Packet MaxSize="0" MinSize="0" Name="SMQuestManagerReset" Opcode="0x0D2B"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMQuestSearchResult" Opcode="0x126E"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMQuestSearchStart" Opcode="0x0BFE"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMOpenDetectPlayer" Opcode="0x0E9D"/>
+    <Packet MaxSize="256" MinSize="204" Name="SMShowCutScene" Opcode="0x12DE"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMStartProfiling" Opcode="0x0E2B"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMEndProfiling" Opcode="0x11EF"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMStartAskKnowledge" Opcode="0x109F"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMCompleteTutorial" Opcode="0x129D"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListGuildQuest" Opcode="0x0FA8"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListOtherGuildQuest" Opcode="0x116B"/>
+    <Packet MaxSize="17" MinSize="17" Name="SMAcceptGuildQuest" Opcode="0x1279"/>
+    <Packet MaxSize="169" MinSize="169" Name="SMUpdateGuildQuest" Opcode="0x0EF6"/>
+    <Packet MaxSize="76" MinSize="76" Name="SMCompleteGuildQuest" Opcode="0x1271"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMGiveupGuildQuest" Opcode="0x0F70"/>
+    <Packet MaxSize="27" MinSize="27" Name="SMListQuestSelectType" Opcode="0x11D5"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMListQuestSortType" Opcode="0x11AC"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListHouseForTownManagement" Opcode="0x0EC1"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListHouseLargeCraft" Opcode="0x0D9C"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMBuyHouseForTownManagement" Opcode="0x127C"/>
+    <Packet MaxSize="25" MinSize="25" Name="SMChangeHouseUseTypeForTownManagement" Opcode="0x10A2"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMReturnHouseForTownManagement" Opcode="0x0E89"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMSetMyHouseForTownManagement" Opcode="0x0E49"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMSetHouseLargeCraftExchange" Opcode="0x0CC4"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMCompleteUseTypeByPearl" Opcode="0x0E7D"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMExplorePointList" Opcode="0x0F43"/>
+    <Packet MaxSize="17" MinSize="17" Name="SMUpdateExplorePoint" Opcode="0x0C97"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMExplorationInfo" Opcode="0x0CAB"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMUpdateExplorationPoint" Opcode="0x0BF6"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMRegisterExplorationNode" Opcode="0x113A"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMUpgradeExplorationNode" Opcode="0x0D51"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMWhisperNak" Opcode="0x0F40"/>
+    <Packet MaxSize="777" MinSize="77" Name="SMChat" Opcode="0x0E82"/>
+    <Packet MaxSize="321" MinSize="321" Name="SMAiKillNotifier" Opcode="0x1281"/>
+    <Packet MaxSize="77" MinSize="77" Name="SMAiWorldNotifier" Opcode="0x0C5E"/>
+    <Packet MaxSize="714" MinSize="14" Name="SMFriendChat" Opcode="0x1069"/>
+    <Packet MaxSize="822" MinSize="122" Name="SMChatWithItem" Opcode="0x0C4E"/>
+    <Packet MaxSize="721" MinSize="721" Name="SMUpdateWaitComment" Opcode="0x10B0"/>
+    <Packet MaxSize="64" MinSize="64" Name="SMBlockChatByUser" Opcode="0x0E0A"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMUpdateStamina" Opcode="0x0C27"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMUpdateGuardGauge" Opcode="0x0ECF"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMSupportPointList" Opcode="0x0E5C"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMUpdateSupportPoint" Opcode="0x0F79"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListIntimacy" Opcode="0x12DF"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMUpdateIntimacy" Opcode="0x0D8C"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMPlantDynamicAdd" Opcode="0x0F3B"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMPlantDynamicDel" Opcode="0x0E06"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMPlantInfo" Opcode="0x10C2"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMPlantUpgrade" Opcode="0x0F91"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMPlantRemove" Opcode="0x10EC"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMPlantWithdraw" Opcode="0x0DC3"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMAddMyNpcWorker" Opcode="0x1265"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMAddNpcWorkerWorking" Opcode="0x1189"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMStopPlantWorkingToNpcWorker" Opcode="0x0D86"/>
+    <Packet MaxSize="49" MinSize="49" Name="SMChangedWorkerStatus" Opcode="0x12D8"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMRestartPlantWorkingToNpcWorker" Opcode="0x0DDA"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMDeleteMyNpcWorker" Opcode="0x123C"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMActionPointMyNpcWorker" Opcode="0x11F9"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMChangePcWorkingStatus" Opcode="0x0CE2"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMCancelNextNpcWork" Opcode="0x0FFA"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMNpcWorkerUpgrade" Opcode="0x0EA1"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMWorkerChangeSkillNo" Opcode="0x110D"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMWorkerChangeSkillNoOne" Opcode="0x0F0F"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMWorkerChangeWorkingState" Opcode="0x0DAE"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMChangeWorkingCount" Opcode="0x0DD4"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMCharacterInfo" Opcode="0x1220"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMCharacterFlashBang" Opcode="0x12A2"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMDetectCharacter" Opcode="0x0CB3"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMFriendList" Opcode="0x0D04"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMAddFriendList" Opcode="0x12D3"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMFriendGroupList" Opcode="0x0FDD"/>
+    <Packet MaxSize="72" MinSize="72" Name="SMAddFriend" Opcode="0x1102"/>
+    <Packet MaxSize="162" MinSize="162" Name="SMAcceptAddFriend" Opcode="0x0FC7"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMRefuseAddFriend" Opcode="0x0EE7"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMDeleteFriend" Opcode="0x1198"/>
+    <Packet MaxSize="66" MinSize="66" Name="SMAddFriendGroup" Opcode="0x12F3"/>
+    <Packet MaxSize="66" MinSize="66" Name="SMRenameFriendGroup" Opcode="0x11C7"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMMoveFriendGroup" Opcode="0x0BE2"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMNewFriend" Opcode="0x112E"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMNewRequestFriend" Opcode="0x0E4C"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMGetAuctionTime" Opcode="0x12B2"/>
+    <Packet MaxSize="27" MinSize="27" Name="SMRegisterItemAuctionGoodsVer2" Opcode="0x0E4E"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMRegisterItemAuctionGoodsFromWareHouse" Opcode="0x0D82"/>
+    <Packet MaxSize="210" MinSize="210" Name="SMListHouseAuctionGoodsVer2" Opcode="0x0BDB"/>
+    <Packet MaxSize="586" MinSize="586" Name="SMListItemAuctionGoodsVer2" Opcode="0x0E25"/>
+    <Packet MaxSize="29" MinSize="29" Name="SMBidAuctionGoodsVer2" Opcode="0x11DB"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListMyItemAuctionGoods" Opcode="0x0F53"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListMyBidInfo" Opcode="0x1229"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListMyItemBidInfo" Opcode="0x0EB9"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListMyBuyItem" Opcode="0x0F7D"/>
+    <Packet MaxSize="206" MinSize="206" Name="SMListBuyAuction" Opcode="0x128C"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMSellBuyAuction" Opcode="0x0DE4"/>
+    <Packet MaxSize="145" MinSize="145" Name="SMAuctionInfo" Opcode="0x12B8"/>
+    <Packet MaxSize="1650" MinSize="1650" Name="SMListServantMatingAuctionGoodsVer2" Opcode="0x0E80"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListMyServantMatingAuctionGoodsVer2" Opcode="0x10B6"/>
+    <Packet MaxSize="27" MinSize="27" Name="SMRegisterServantAuctionGoodsVer2" Opcode="0x0CA1"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMCancelServantAuctionGoodsVer2" Opcode="0x0CEF"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMPopServantPriceAuctionGoodsVer2" Opcode="0x127A"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMBuyItNowServantAuctionGoodsVer2" Opcode="0x0D87"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMRegisterServantAuctionGoodsVer2Nak" Opcode="0x12DB"/>
+    <Packet MaxSize="342" MinSize="342" Name="SMListWorkerAuctionGoodsVer2" Opcode="0x0F2B"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListMyWorkerAuctionGoodsVer2" Opcode="0x0CFA"/>
+    <Packet MaxSize="26" MinSize="26" Name="SMRegisterWorkerAuctionGoodsVer2" Opcode="0x0C37"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMCancelWorkerAuctionGoodsVer2" Opcode="0x0C61"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMBuyItNowWorkerAuctionGoodsVer2" Opcode="0x0CDA"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMPopWorkerPriceAuctionGoodsVer2" Opcode="0x12CE"/>
+    <Packet MaxSize="230" MinSize="230" Name="SMListPetAuctionGoodsVer2" Opcode="0x0C41"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListMyPetAuctionGoodsVer2" Opcode="0x0FA5"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMRegisterPetAuctionGoodsVer2" Opcode="0x1099"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMCancelPetAuctionGoodsVer2" Opcode="0x0D4F"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMBuyPetAuctionGoodsVer2" Opcode="0x1206"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMPopSellPricePetAuctionGoodsVer2" Opcode="0x0CFE"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListTradeTapRate" Opcode="0x1241"/>
+    <Packet MaxSize="89" MinSize="89" Name="SMBidTerritoryTradeAuthority" Opcode="0x1063"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMStartAlchemy" Opcode="0x0D5C"/>
+    <Packet MaxSize="16284" MinSize="9" Name="SMListAlchemyRecord" Opcode="0x0FA4"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMMailList" Opcode="0x0C1A"/>
+    <Packet MaxSize="995" MinSize="995" Name="SMMailDetail" Opcode="0x1107"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMMailGetItem" Opcode="0x0CE1"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMMailRemove" Opcode="0x1297"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMMailSend" Opcode="0x0C35"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMNewMail" Opcode="0x0BF1"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMStockMarketRequestListItems" Opcode="0x0F5B"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMStockMarketListMyRequest" Opcode="0x12AC"/>
+    <Packet MaxSize="50" MinSize="50" Name="SMSetCharacterPublicPoints" Opcode="0x0E24"/>
+    <Packet MaxSize="43" MinSize="43" Name="SMSetCharacterRelatedPoints" Opcode="0x129A"/>
+    <Packet MaxSize="16284" MinSize="20" Name="SMSetCharacterCurrentRelatedPoints" Opcode="0x0FC4"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMSetMyServantPoints" Opcode="0x0EE8"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMSetStunPoints" Opcode="0x0F07"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMSetSubResourcePoints" Opcode="0x0F7C"/>
+    <Packet MaxSize="48" MinSize="48" Name="SMSetCharacterPrivatePoints" Opcode="0x0C32"/>
+    <Packet MaxSize="28" MinSize="28" Name="SMSetSkillPiece" Opcode="0x1009"/>
+    <Packet MaxSize="62" MinSize="62" Name="SMSetCharacterStatPoint" Opcode="0x1263"/>
+    <Packet MaxSize="59" MinSize="59" Name="SMSetCharacterStats" Opcode="0x12FF"/>
+    <Packet MaxSize="36" MinSize="36" Name="SMSetServantStats" Opcode="0x0EAA"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMSetCharacterSpeeds" Opcode="0x1060"/>
+    <Packet MaxSize="51" MinSize="51" Name="SMSetCharacterLevels" Opcode="0x0CE7"/>
+    <Packet MaxSize="31" MinSize="31" Name="SMSetCharacterTeamAndGuild" Opcode="0x0ECA"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMSetCharacterSkillPoints" Opcode="0x0C15"/>
+    <Packet MaxSize="13" MinSize="13" Name="SMCollectableCount" Opcode="0x0D70"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMMonsterCollectableCount" Opcode="0x0CFC"/>
+    <Packet MaxSize="34" MinSize="34" Name="SMSetCharacterProductStats" Opcode="0x0DF9"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMSetCharacterProductSkillPoints" Opcode="0x1036"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMStartSympathetic" Opcode="0x128F"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMActorStatusNak" Opcode="0x1239"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMMonsterActorStatus" Opcode="0x0EF7"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMPlayerActorStatus" Opcode="0x0F2D"/>
+    <Packet MaxSize="16284" MinSize="16" Name="SMAggroInformation" Opcode="0x0D33"/>
+    <Packet MaxSize="152" MinSize="152" Name="SMNotifyNonAllyActor" Opcode="0x0BED"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMDisappearNonAllyActor" Opcode="0x0FFE"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMTerritoryTradePlayer" Opcode="0x0F69"/>
+    <Packet MaxSize="17" MinSize="17" Name="SMSupplyTerritoryStart" Opcode="0x0E1F"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMSupplyShopRefresh" Opcode="0x11A5"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMWorldmapMonsterPos" Opcode="0x1003"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMTentInformation" Opcode="0x0C71"/>
+    <Packet MaxSize="16284" MinSize="86" Name="SMTentHarvestInformation" Opcode="0x0CF3"/>
+    <Packet MaxSize="16284" MinSize="92" Name="SMInstanceObjectInformation" Opcode="0x0F14"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMUnoccupyHouseholdFixed" Opcode="0x1021"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListFixedHouseInfoOwnerBeing" Opcode="0x0BF9"/>
+    <Packet MaxSize="16284" MinSize="17" Name="SMListFixedHouseInstallations" Opcode="0x12AF"/>
+    <Packet MaxSize="16284" MinSize="12" Name="SMGetPetListByHouse" Opcode="0x0FEF"/>
+    <Packet MaxSize="32" MinSize="32" Name="SMUnoccupyFixedHouseInstallation" Opcode="0x0C62"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMMaidInfoTotal" Opcode="0x0FC9"/>
+    <Packet MaxSize="34" MinSize="34" Name="SMAddMaidInfo" Opcode="0x1095"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMDelMaidInfo" Opcode="0x0FD4"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMDelMaidInfoByHouseholdNo" Opcode="0x0E8E"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMUpdateMaidInfo" Opcode="0x10E1"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMUpdateMaidActionIndexInfo" Opcode="0x12D7"/>
+    <Packet MaxSize="74" MinSize="74" Name="SMUpdateMaidNameInfo" Opcode="0x0C60"/>
+    <Packet MaxSize="32" MinSize="32" Name="SMNotifySummonMaidInfo" Opcode="0x1004"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMNotifyCallHandlerMaidInfo" Opcode="0x0D2F"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMHouseBusinessInfo" Opcode="0x1121"/>
+    <Packet MaxSize="16284" MinSize="20" Name="SMListFromVendingMachine" Opcode="0x0D35"/>
+    <Packet MaxSize="16284" MinSize="20" Name="SMListFromConsignmentSale" Opcode="0x1053"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMPleaseSetBusinessInfo" Opcode="0x0ED6"/>
+    <Packet MaxSize="47" MinSize="47" Name="SMSetVendingMachineInfo" Opcode="0x0F6D"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMResetVendingMachineInfo" Opcode="0x0F3F"/>
+    <Packet MaxSize="38" MinSize="38" Name="SMGetBusinessInfoFromCongignmentSale" Opcode="0x0CE0"/>
+    <Packet MaxSize="16284" MinSize="20" Name="SMMyListFromConsignmentSale" Opcode="0x0C3F"/>
+    <Packet MaxSize="26" MinSize="26" Name="SMGetHoldingMoney" Opcode="0x0F9B"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMRegisterLottery" Opcode="0x107B"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMDrawForWinners" Opcode="0x0EA7"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListMyVendor" Opcode="0x0E3E"/>
+    <Packet MaxSize="13" MinSize="13" Name="SMVendorBusinessInfo" Opcode="0x0F4C"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListFromFixedVendingMachine" Opcode="0x12E2"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListFromFixedConsignmentSale" Opcode="0x0E02"/>
+    <Packet MaxSize="33" MinSize="33" Name="SMSetFixedVendingMachineInfo" Opcode="0x0FA0"/>
+    <Packet MaxSize="5" MinSize="5" Name="SMResetFixedVendingMachineInfo" Opcode="0x0D7B"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMGetBusinessInfoFromFixedCongignmentSale" Opcode="0x1193"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMMyListFromFixedConsignmentSale" Opcode="0x0E5F"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMGetHoldingMoneyFromVendor" Opcode="0x0D63"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMTopRankerHouseList" Opcode="0x0CEE"/>
+    <Packet MaxSize="86" MinSize="86" Name="SMChangeInteriorSensePoint" Opcode="0x0EFA"/>
+    <Packet MaxSize="1174" MinSize="1174" Name="SMHouseRankerList" Opcode="0x0CEB"/>
+    <Packet MaxSize="16284" MinSize="8" Name="SMVisitableHouseList" Opcode="0x121E"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMVisitHouse" Opcode="0x0E45"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMSetGuildHouseItemExchangeKey" Opcode="0x0F9A"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMClearGuildHouseItemExchangeKey" Opcode="0x0DB5"/>
+    <Packet MaxSize="85" MinSize="85" Name="SMCompleteToGuildHouseLargeCraft" Opcode="0x0DA8"/>
+    <Packet MaxSize="16284" MinSize="12" Name="SMAddGuildHouseCraftList" Opcode="0x0CB9"/>
+    <Packet MaxSize="16284" MinSize="12" Name="SMDailyWorkingCountList" Opcode="0x0CBE"/>
+    <Packet MaxSize="13" MinSize="13" Name="SMRequestJukebox" Opcode="0x0C03"/>
+    <Packet MaxSize="21" MinSize="21" Name="SMSealServant" Opcode="0x110A"/>
+    <Packet MaxSize="17" MinSize="17" Name="SMUnsealServant" Opcode="0x12AD"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMRecoveryServant" Opcode="0x0FCF"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMChangeServantToReward" Opcode="0x0FF9"/>
+    <Packet MaxSize="72" MinSize="72" Name="SMChangeServantName" Opcode="0x0BEE"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMChangeServantSkill" Opcode="0x0F95"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListServantInfo" Opcode="0x0D1A"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMTamingServant" Opcode="0x0BE4"/>
+    <Packet MaxSize="2982" MinSize="2982" Name="SMServantEquipItemList" Opcode="0x11CA"/>
+    <Packet MaxSize="31" MinSize="31" Name="SMSetServantLevels" Opcode="0x122A"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMSetCharacterWeight" Opcode="0x126F"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMSetDeadBodyRevive" Opcode="0x0DE7"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMSetInstanceNo" Opcode="0x0CD0"/>
+    <Packet MaxSize="30" MinSize="30" Name="SMSetInstanceSummonActor" Opcode="0x0D49"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMResetInstanceSummonActor" Opcode="0x1223"/>
+    <Packet MaxSize="16284" MinSize="8" Name="SMServantSkillList" Opcode="0x0F4E"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMSetServantSkillExp" Opcode="0x0E85"/>
+    <Packet MaxSize="98" MinSize="98" Name="SMEnterServantComplete" Opcode="0x114C"/>
+    <Packet MaxSize="30" MinSize="30" Name="SMStartServantMating" Opcode="0x0ED7"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMGetServantMatingChildInfo" Opcode="0x1264"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMResultServantMating" Opcode="0x0EB5"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMCompleteServantMating" Opcode="0x0E51"/>
+    <Packet MaxSize="35" MinSize="35" Name="SMRideOnVehicle" Opcode="0x129E"/>
+    <Packet MaxSize="318" MinSize="318" Name="SMListUnsealVehicle" Opcode="0x0D18"/>
+    <Packet MaxSize="30" MinSize="30" Name="SMVehicleEquipOnOff" Opcode="0x0D39"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMAvataEquipOnOff" Opcode="0x11A1"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMTradeGameStart" Opcode="0x11FB"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMTradeGameDice" Opcode="0x1098"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMTradeGameEnd" Opcode="0x127D"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListDeliveryItem" Opcode="0x11AF"/>
+    <Packet MaxSize="33" MinSize="33" Name="SMAddDeliveryItem" Opcode="0x0D34"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMReceiveDeliveryItem" Opcode="0x1034"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMCancelDeliveryItem" Opcode="0x0CBC"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMDelivererPassRegion" Opcode="0x107F"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMReservePcDelivery" Opcode="0x0BE0"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMNotifyMatchState" Opcode="0x0F87"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMMatchInfo" Opcode="0x0E3C"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMRegisterMatch" Opcode="0x10C0"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMUnRegisterMatch" Opcode="0x0EF3"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMStartMatch" Opcode="0x0E23"/>
+    <Packet MaxSize="104" MinSize="104" Name="SMPvpResult" Opcode="0x104E"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMSetRaceCourse" Opcode="0x0DDD"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMRaceCheckPoint" Opcode="0x0F81"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMRaceState" Opcode="0x0DBC"/>
+    <Packet MaxSize="782" MinSize="782" Name="SMRaceResult" Opcode="0x10C8"/>
+    <Packet MaxSize="68" MinSize="68" Name="SMRaceNotifyPassCheckPoint" Opcode="0x114A"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMFishingTime" Opcode="0x0DD9"/>
+    <Packet MaxSize="4106" MinSize="4106" Name="SMGameGuardCSAuth" Opcode="0x1140"/>
+    <Packet MaxSize="518" MinSize="518" Name="SMXigncodeSecurityData" Opcode="0x12E9"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMChatEffect" Opcode="0x1116"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMUpdateCurrentSessionCount" Opcode="0x0E46"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMVaryBreathGage" Opcode="0x12B4"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMBreathGaugeStateChange" Opcode="0x11B1"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMLifeExperienceInformation" Opcode="0x0FE1"/>
+    <Packet MaxSize="34" MinSize="34" Name="SMFitnessExperienceInformation" Opcode="0x0F34"/>
+    <Packet MaxSize="66" MinSize="66" Name="SMListFitnessExperience" Opcode="0x131C"/>
+    <Packet MaxSize="4691" MinSize="4691" Name="SMListLifeRank" Opcode="0x12D0"/>
+    <Packet MaxSize="154" MinSize="154" Name="SMBroadcastLifeExperience" Opcode="0x0D47"/>
+    <Packet MaxSize="23" MinSize="23" Name="SMSendPositionGuide" Opcode="0x0CA4"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMDeletePositionGuide" Opcode="0x0C29"/>
+    <Packet MaxSize="26" MinSize="26" Name="SMSendSelfHpRate" Opcode="0x1275"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMListPlayingPlayerCount" Opcode="0x0F66"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMListSpawnedNonPcCount" Opcode="0x0E34"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMListItemLifeCount" Opcode="0x0C0A"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMListCashMallCount" Opcode="0x1179"/>
+    <Packet MaxSize="880" MinSize="880" Name="SMRefreshPcCustomizationCache" Opcode="0x0FC5"/>
+    <Packet MaxSize="16284" MinSize="20" Name="SMRefreshPcLearnedActiveSkillsCache" Opcode="0x0CCB"/>
+    <Packet MaxSize="759" MinSize="759" Name="SMRefreshPcEquipSlotCache" Opcode="0x0EF4"/>
+    <Packet MaxSize="482" MinSize="482" Name="SMRefreshUserBasicCache" Opcode="0x11F2"/>
+    <Packet MaxSize="86" MinSize="86" Name="SMRefreshPcBasicCache" Opcode="0x1029"/>
+    <Packet MaxSize="720" MinSize="720" Name="SMRefreshPcNonSavedCache" Opcode="0x11E0"/>
+    <Packet MaxSize="229" MinSize="229" Name="SMRefreshVehicleBasicCache" Opcode="0x131D"/>
+    <Packet MaxSize="560" MinSize="560" Name="SMRefreshVehicleEquipSlotCache" Opcode="0x0EB4"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMRefreshGuildSeqNo" Opcode="0x11E5"/>
+    <Packet MaxSize="1144" MinSize="1144" Name="SMRefreshGuildBasicCache" Opcode="0x0E74"/>
+    <Packet MaxSize="14414" MinSize="14414" Name="SMRefreshGuildMarkCache" Opcode="0x10F1"/>
+    <Packet MaxSize="607" MinSize="607" Name="SMLoadCustomizedKeys" Opcode="0x0DA4"/>
+    <Packet MaxSize="203" MinSize="203" Name="SMLoadGameOption" Opcode="0x1259"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMLoadSocialActionConfig" Opcode="0x0FDA"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMLoadChatMacro" Opcode="0x0CD8"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMMoveChannel" Opcode="0x1049"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMUpdateAccessibleServer" Opcode="0x11AD"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMAcquiredTitles" Opcode="0x1312"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMAcquiredTitle" Opcode="0x0DB3"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListProgressChallenge" Opcode="0x0D21"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListCompleteChallenge" Opcode="0x0ED1"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListChallengeReward" Opcode="0x114B"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMUpdateChallenge" Opcode="0x12FC"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMCompleteChallengeReward" Opcode="0x12AE"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMGetChallengeReward" Opcode="0x0FF1"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMAttendance" Opcode="0x0CE4"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMAttendanceReward" Opcode="0x1041"/>
+    <Packet MaxSize="16284" MinSize="14" Name="SMReadJournal" Opcode="0x0F5D"/>
+    <Packet MaxSize="128" MinSize="128" Name="SMAcquiredJournal" Opcode="0x1171"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMRecentJournal" Opcode="0x12C1"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListItemMasterAtItemMarket" Opcode="0x10EF"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListItemHeaderAtItemMarket" Opcode="0x12BE"/>
+    <Packet MaxSize="16284" MinSize="18" Name="SMListItemBodyAtItemMarket" Opcode="0x1247"/>
+    <Packet MaxSize="16284" MinSize="14" Name="SMListRegisterItemsAtItemMarket" Opcode="0x0F98"/>
+    <Packet MaxSize="98" MinSize="98" Name="SMBroadcastRegisterItemAtItemMarket" Opcode="0x10DE"/>
+    <Packet MaxSize="16284" MinSize="14" Name="SMListReservationPurchaseAtItemMarket" Opcode="0x123F"/>
+    <Packet MaxSize="54" MinSize="54" Name="SMNotifyItemMarketInfo" Opcode="0x12EA"/>
+    <Packet MaxSize="16284" MinSize="14" Name="SMListSellInfoAtItemMarketByParty" Opcode="0x0D16"/>
+    <Packet MaxSize="46" MinSize="46" Name="SMNotifyItemMarketByPartyInfo" Opcode="0x0F2C"/>
+    <Packet MaxSize="344" MinSize="344" Name="SMNotifyDiceEndItemMarketByParty" Opcode="0x0E5A"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMBroadcastRegisterItemAtItemMarketByParty" Opcode="0x0D3A"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMPlayerAddSummonList" Opcode="0x0CA0"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMPlayerDelSummonList" Opcode="0x1250"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMSetRenderHelm" Opcode="0x1026"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMSetRenderUnderwear" Opcode="0x1051"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMSetShowNameWhenCamouflage" Opcode="0x0BF7"/>
+    <Packet MaxSize="5" MinSize="5" Name="SMControlServerOption" Opcode="0x1303"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMGuildMemberLevelUp" Opcode="0x0F50"/>
+    <Packet MaxSize="23" MinSize="23" Name="SMGuildMemberLifeLevelUp" Opcode="0x0FB3"/>
+    <Packet MaxSize="23" MinSize="23" Name="SMGuildMemberGetEnchantItem" Opcode="0x117E"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMClearServantDeadCount" Opcode="0x0C3A"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMClearServantMatingCount" Opcode="0x120A"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMImprintServant" Opcode="0x1188"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMLinkServant" Opcode="0x10E8"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMChangeFormServant" Opcode="0x0BBF"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListDontSpawnToManager" Opcode="0x0DEF"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListDontDropItemToManager" Opcode="0x0C28"/>
+    <Packet MaxSize="16284" MinSize="7" Name="SMListItemMarketInformationToManager" Opcode="0x0CD6"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMMiniGameSyncCommon" Opcode="0x0C52"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMSkillAwakenList" Opcode="0x12DA"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMMixServant" Opcode="0x10F6"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMSetAddRealTimeForManager" Opcode="0x1088"/>
+    <Packet MaxSize="302" MinSize="302" Name="SMTopLifeRanking" Opcode="0x0E96"/>
+    <Packet MaxSize="152" MinSize="152" Name="SMChangeServerExpAndItemDropPercent" Opcode="0x11E1"/>
+    <Packet MaxSize="750" MinSize="750" Name="SMListGuildTopRanking" Opcode="0x0FC2"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMIncreaseExperienceToExplorationNode" Opcode="0x107D"/>
+    <Packet MaxSize="2005" MinSize="5" Name="SMListItemGroupToManager" Opcode="0x0D68"/>
+    <Packet MaxSize="2007" MinSize="7" Name="SMChangeItemGroup" Opcode="0x1159"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListDeclareGuildWarToMyGuild" Opcode="0x102C"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMItemChange" Opcode="0x0E54"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMExchangeItemToClass" Opcode="0x1065"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMVariExtendSlot" Opcode="0x10F3"/>
+    <Packet MaxSize="4695" MinSize="4695" Name="SMListMatchPointRank" Opcode="0x0C22"/>
+    <Packet MaxSize="23" MinSize="23" Name="SMJoinLocalWar" Opcode="0x118B"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMUnjoinLocalWar" Opcode="0x1090"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMUpdateLocalWar" Opcode="0x0E0C"/>
+    <Packet MaxSize="142" MinSize="142" Name="SMNotifyMultiKillLocalWar" Opcode="0x0DEC"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMAlchemyUpgrade" Opcode="0x1208"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMAlchemyEvolve" Opcode="0x1054"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMStartServantSkillExpTraining" Opcode="0x0F1D"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMEndServantSkillExpTraining" Opcode="0x0C08"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMConvertEnchantFailCountToItem" Opcode="0x10A1"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMForgetServantSkill" Opcode="0x0C88"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMExtractItemFromExtractionCount" Opcode="0x1092"/>
+    <Packet MaxSize="5170" MinSize="5170" Name="SMListContentsBattleRank" Opcode="0x0E42"/>
+    <Packet MaxSize="5170" MinSize="5170" Name="SMListContentsMoneyRank" Opcode="0x12BB"/>
+    <Packet MaxSize="62" MinSize="62" Name="SMTopContentsRanking" Opcode="0x0D32"/>
+    <Packet MaxSize="5054" MinSize="5054" Name="SMListContentsLocalWarRank" Opcode="0x0F33"/>
+    <Packet MaxSize="42" MinSize="42" Name="SMTopMatchRanking" Opcode="0x1032"/>
+    <Packet MaxSize="1482" MinSize="1482" Name="SMTopLocalWarPlayerInfo" Opcode="0x109A"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMUpdateLocalwarState" Opcode="0x1079"/>
+    <Packet MaxSize="142" MinSize="142" Name="SMNotifyLocalWarInfo" Opcode="0x110F"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMNotifyLocalwarAdvantage" Opcode="0x1155"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMUpdateLocalWarStatus" Opcode="0x0FC1"/>
+    <Packet MaxSize="20" MinSize="20" Name="SMGuildVehicleInfo" Opcode="0x0DFA"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMAskPvPBattle" Opcode="0x0DA9"/>
+    <Packet MaxSize="4" MinSize="4" Name="SMAcceptPvPBattle" Opcode="0x0F7B"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMCancelPvPBattle" Opcode="0x0C99"/>
+    <Packet MaxSize="81" MinSize="81" Name="SMRequestInviteCompetition" Opcode="0x0FDE"/>
+    <Packet MaxSize="64" MinSize="64" Name="SMResponseInviteCompetitionDenied" Opcode="0x0E07"/>
+    <Packet MaxSize="16284" MinSize="14" Name="SMListCompetitionEntryPlayer" Opcode="0x11E3"/>
+    <Packet MaxSize="161" MinSize="161" Name="SMNewCompetitionEntryPlayer" Opcode="0x0D0D"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMLeaveCompetitionEntryPlayer" Opcode="0x11B2"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMUpdateCompetitionInfo" Opcode="0x10A9"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMCompetitionHostChanged" Opcode="0x0BF8"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMCompetitionLeave" Opcode="0x1276"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMCompetitionFightChange" Opcode="0x0E8F"/>
+    <Packet MaxSize="43" MinSize="43" Name="SMCompetitionMatchResult" Opcode="0x1061"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMCompetitionScoreInformation" Opcode="0x0C8F"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMCompetitionMatchTimeOut" Opcode="0x1103"/>
+    <Packet MaxSize="140" MinSize="140" Name="SMRequestJoinCompetition" Opcode="0x0DE6"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListCompetitionJoinWaitPlayer" Opcode="0x1228"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMCompetitionChangeMatchMode" Opcode="0x0D5D"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMChangeCompetitionOption" Opcode="0x1320"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMUpdateCompetitionUserHpInfo" Opcode="0x104F"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMUpdateCompetitionUserDead" Opcode="0x0D62"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMCompetitionMatchDoneCheck" Opcode="0x0F57"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMCompetitionMatchState" Opcode="0x0D2E"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMResponseCompetitionJoinDenied" Opcode="0x11C0"/>
+    <Packet MaxSize="83" MinSize="83" Name="SMCompetitionReservation" Opcode="0x0D4B"/>
+    <Packet MaxSize="134" MinSize="134" Name="SMTransferAcceptCompetitonHost" Opcode="0x0D43"/>
+    <Packet MaxSize="548" MinSize="548" Name="SMArshaReservationList" Opcode="0x0C5A"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMChangeAssistant" Opcode="0x0E69"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMNotifyUseSkill" Opcode="0x0D7E"/>
+    <Packet MaxSize="616" MinSize="616" Name="SMNotifyGuildNotice" Opcode="0x1013"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMRegisterGuildServant" Opcode="0x118C"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMSetAutoLevelUp" Opcode="0x0EF2"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMSellWarehouseItemToSystem" Opcode="0x0C3E"/>
+    <Packet MaxSize="64" MinSize="64" Name="SMCantFindWhisperPlayer" Opcode="0x0EDC"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMCantUpdateAutoLevelUp" Opcode="0x0E0B"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMExtendExpirationPeriod" Opcode="0x0D80"/>
+    <Packet MaxSize="28" MinSize="28" Name="SMUseReturnStone" Opcode="0x0D36"/>
+    <Packet MaxSize="38" MinSize="38" Name="SMUseCompass" Opcode="0x11B4"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMExpirationBuffUpdate" Opcode="0x0C07"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMSellTradeItemPricePercent" Opcode="0x0D9D"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMLoginUserToVoiceChatServer" Opcode="0x1137"/>
+    <Packet MaxSize="4842" MinSize="42" Name="SMVoiceChat" Opcode="0x0D0E"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMVoiceChatState" Opcode="0x1164"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMVoiceChatLogout" Opcode="0x1139"/>
+    <Packet MaxSize="16284" MinSize="9" Name="SMVoiceChatRoomList" Opcode="0x0FF2"/>
+    <Packet MaxSize="34" MinSize="34" Name="SMCreateVoiceChatRoom" Opcode="0x0CB2"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMEnterVoiceChatRoom" Opcode="0x112F"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMLeaveVoiceChatRoom" Opcode="0x1321"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMForceLeaveVoiceChatRoom" Opcode="0x1195"/>
+    <Packet MaxSize="16284" MinSize="13" Name="SMVoiceChatRoomInfo" Opcode="0x0CFF"/>
+    <Packet MaxSize="11" MinSize="11" Name="SMSetServantSkillExpForGM" Opcode="0x11C2"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMUpdateExpirationTitle" Opcode="0x0F15"/>
+    <Packet MaxSize="3" MinSize="3" Name="SMChangeName" Opcode="0x11D9"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMUpdateFloatFishing" Opcode="0x0FAC"/>
+    <Packet MaxSize="8" MinSize="8" Name="SMChangeSkillAwakeningBitFlag" Opcode="0x0DA3"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMNotifySkillAwakeningInfo" Opcode="0x1112"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMAddGuardTypeBuffModuleParam" Opcode="0x0DAD"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMBuyCashItemInfoNotify" Opcode="0x0D37"/>
+    <Packet MaxSize="138" MinSize="138" Name="SMSetChannelBattleExpItemInfo" Opcode="0x1251"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMChangeAwakenSkill" Opcode="0x0BF4"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMListWorkerTradeItemMaster" Opcode="0x1199"/>
+    <Packet MaxSize="180" MinSize="180" Name="SMNotifyTradeCompanyInfo" Opcode="0x0CDC"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListWorkerTradeGroup" Opcode="0x0C82"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMUpdateTradeGroup" Opcode="0x0C6F"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListWorkerTradeLog" Opcode="0x117D"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMListWorkerTradeObtainItem" Opcode="0x0D78"/>
+    <Packet MaxSize="54" MinSize="54" Name="SMNotifyWorkerTradeInfo" Opcode="0x1015"/>
+    <Packet MaxSize="24" MinSize="24" Name="SMItemExchangeBattleAndSkillExp" Opcode="0x0DF3"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMClearGuildServantDeadCount" Opcode="0x0ED4"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMAddServerTimeForManager" Opcode="0x0EDE"/>
+    <Packet MaxSize="6" MinSize="6" Name="SMOpenSealItemBox" Opcode="0x0C7B"/>
+    <Packet MaxSize="73" MinSize="73" Name="SMRegistOtherGuildServant" Opcode="0x1157"/>
+    <Packet MaxSize="34" MinSize="34" Name="SMTeleportToSiegeTent" Opcode="0x0F59"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMAddItemToInventoryBag" Opcode="0x0CD2"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMEraseInventoryBagItem" Opcode="0x0CA2"/>
+    <Packet MaxSize="16284" MinSize="5" Name="SMCoupon" Opcode="0x121D"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMDeleteCoupon" Opcode="0x0EAF"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMUpgradeItem" Opcode="0x10C6"/>
+    <Packet MaxSize="18" MinSize="18" Name="SMStartStallionSkillExpTraining" Opcode="0x125C"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMEndStallionSkillExpTraining" Opcode="0x12E3"/>
+    <Packet MaxSize="22" MinSize="22" Name="SMUpdateRandomShopInfo" Opcode="0x0D2C"/>
+    <Packet MaxSize="15" MinSize="15" Name="SMIncreaseStallionSkillExpByItem" Opcode="0x113D"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMCompleteStallionTraining" Opcode="0x10C9"/>
+    <Packet MaxSize="19" MinSize="19" Name="SMResurrectionServant" Opcode="0x0E78"/>
+    <Packet MaxSize="16" MinSize="16" Name="SMBroadcastRegisterServantAtAuction" Opcode="0x118A"/>
+    <Packet MaxSize="12" MinSize="12" Name="SMBroadcastRegisterWorkerAtAuction" Opcode="0x0BC3"/>
+    <Packet MaxSize="7" MinSize="7" Name="SMSavageDefenceJoin" Opcode="0x0F4B"/>
+    <Packet MaxSize="14" MinSize="14" Name="SMSavageDefenceCountCoin" Opcode="0x1318"/>
+    <Packet MaxSize="16284" MinSize="4" Name="SMSavageDefenceStatus" Opcode="0x0F20"/>
+    <Packet MaxSize="162" MinSize="162" Name="SMRecruitParty" Opcode="0x11A2"/>
+    <Packet MaxSize="2" MinSize="2" Name="SMCancelRecruitPartyMember" Opcode="0x0D15"/>
+    <Packet MaxSize="16284" MinSize="6" Name="SMListPartyRecruitmentInfo" Opcode="0x1149"/>
+    <Packet MaxSize="73" MinSize="73" Name="SMJoinRecruitmentParty" Opcode="0x1031"/>
+    <Packet MaxSize="10" MinSize="10" Name="SMNotifyPvpBattleGround" Opcode="0x0D5B"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMChangeCompetitionUseItemMode" Opcode="0x0D22"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMSavageDefenceNextWave" Opcode="0x0D59"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMClearWorkerUpgradePoint" Opcode="0x0FF8"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMUpdateUserProfileInfo" Opcode="0x12FE"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMChangeTeamName" Opcode="0x0C76"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMListTimeAttackRank" Opcode="0x11BB"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMUpdateSoulCollectorItem" Opcode="0x10FC"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMStartTimeAttack" Opcode="0x12F0"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMEndTimeAttack" Opcode="0x12A6"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMSavageDefenceDeadInfo" Opcode="0x11C3"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMGetAdventureInfo" Opcode="0x1151"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMReconnectAuthenticKey" Opcode="0x0D91"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMNotifyEffectBuffInfo" Opcode="0x0D83"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMjoinGuildBattle" Opcode="0x108B"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMChangeGuildBattlestate" Opcode="0x0F45"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMGetCharacterNameUsingCamp" Opcode="0x11B5"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMPcRoomAuth" Opcode="0x0FF0"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMDanceStart" Opcode="0x0F3D"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMDanceStop" Opcode="0x11CC"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMSavageDefenceFail" Opcode="0x0FB2"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMRequestGuildBattleInfo" Opcode="0x103A"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMSavageDefenceSpawnBossMonster" Opcode="0x0D11"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMSavageDefenceEndGame" Opcode="0x0D0B"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMSavageDefenceTowerHpRate" Opcode="0x1295"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMVolunteerTeamNo" Opcode="0x1076"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMEnterVolunteer" Opcode="0x0C54"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMLeaveVolunteer" Opcode="0x10EB"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMListVolunteer" Opcode="0x0DDC"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMStartVolunteer" Opcode="0x1177"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMEndVolunteer" Opcode="0x123D"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMBeginRecruitVolunteer" Opcode="0x0F24"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMVolunteerInfo" Opcode="0x10ED"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMAttendanceFail" Opcode="0x12A1"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMEventSetFromOrder" Opcode="0x1104"/>
+    <Packet MaxSize="null" MinSize="null" Name="SMTellMe" Opcode="0x0E8C"/>
+  </ServerPackets>
+</Protocol>

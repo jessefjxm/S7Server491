@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="auto_map">
+<WaypointList>
+	<Waypoint Key="1" Name="Velia_enterance" PosX="-1067.78" PosY="-899" PosZ="-3073.88" Property="ground"/>
+	<Waypoint Key="3" Name="velia_exit" PosX="-2640.9" PosY="-899" PosZ="-3863.19" Property="ground"/>
+	<Waypoint Key="5" Name="old_town_enterance" PosX="-2214.99" PosY="-899" PosZ="-2512.57" Property="ground"/>
+	<Waypoint Key="7" Name="old_town_exit" PosX="-3383.24" PosY="-899" PosZ="-2905.5" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="1" TargetWaypoint="3"/>
+	<Link SourceWaypoint="3" TargetWaypoint="1"/>
+	<Link SourceWaypoint="3" TargetWaypoint="5"/>
+	<Link SourceWaypoint="5" TargetWaypoint="3"/>
+	<Link SourceWaypoint="5" TargetWaypoint="7"/>
+	<Link SourceWaypoint="7" TargetWaypoint="5"/>
+</LinkList>
+<GroupList/>
+<RouteList/>
+</WaypointData>

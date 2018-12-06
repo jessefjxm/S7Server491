@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_southeast_lizard_1">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11518" Name="Cal_SouthEast_Lizard_1_001" PosX="-220052" PosY="1324.19" PosZ="-170574" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11519" Name="Cal_SouthEast_Lizard_1_002" PosX="-218983" PosY="1479.74" PosZ="-169739" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11520" Name="Cal_SouthEast_Lizard_1_003" PosX="-217980" PosY="2177.24" PosZ="-169741" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11521" Name="Cal_SouthEast_Lizard_1_004" PosX="-217700" PosY="2212.39" PosZ="-169369" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11522" Name="Cal_SouthEast_Lizard_1_005" PosX="-217327" PosY="2401.99" PosZ="-169299" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11523" Name="Cal_SouthEast_Lizard_1_006" PosX="-217103" PosY="2577.71" PosZ="-169107" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11518" TargetWaypoint="11519"/>
+	<Link SourceWaypoint="11519" TargetWaypoint="11518"/>
+	<Link SourceWaypoint="11519" TargetWaypoint="11520"/>
+	<Link SourceWaypoint="11520" TargetWaypoint="11519"/>
+	<Link SourceWaypoint="11520" TargetWaypoint="11521"/>
+	<Link SourceWaypoint="11521" TargetWaypoint="11520"/>
+	<Link SourceWaypoint="11521" TargetWaypoint="11522"/>
+	<Link SourceWaypoint="11522" TargetWaypoint="11521"/>
+	<Link SourceWaypoint="11522" TargetWaypoint="11523"/>
+	<Link SourceWaypoint="11523" TargetWaypoint="11522"/>
+</LinkList>
+<GroupList>
+	<Group Key="66" Name="Cal_SouthEast_Lizard_1"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

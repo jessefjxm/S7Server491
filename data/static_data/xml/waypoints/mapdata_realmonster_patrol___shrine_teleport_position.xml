@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="shrine_teleport_position">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39557" Name="Shrine_001" PosX="-383929" PosY="41186.4" PosZ="-305685" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39558" Name="Shrine_002" PosX="-399605" PosY="45245.3" PosZ="-312108" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39559" Name="Shrine_003" PosX="-400982" PosY="47966.4" PosZ="-306419" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39560" Name="Shrine_004" PosX="-391810" PosY="43362.4" PosZ="-300138" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39561" Name="Shrine_005" PosX="-374213" PosY="40201.3" PosZ="-294732" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39562" Name="Shrine_006" PosX="-384168" PosY="41186.5" PosZ="-305881" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39563" Name="Shrine_007" PosX="-399219" PosY="45242.2" PosZ="-312022" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39564" Name="Shrine_008" PosX="-400433" PosY="47970.9" PosZ="-306348" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39565" Name="Shrine_009" PosX="-391385" PosY="43371.1" PosZ="-300603" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39566" Name="Shrine_010" PosX="-374385" PosY="40203.5" PosZ="-295091" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40061" Name="Shrine_011" PosX="-377245" PosY="41745.4" PosZ="-290243" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40062" Name="Shrine_012" PosX="-376075" PosY="40136.5" PosZ="-295319" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40063" Name="Shrine_013" PosX="-373568" PosY="40108.9" PosZ="-296607" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40064" Name="Shrine_014" PosX="-372406" PosY="40154.3" PosZ="-294089" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40065" Name="Shrine_015" PosX="-374938" PosY="40141.5" PosZ="-293043" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40066" Name="shrine_016" PosX="-377723" PosY="40291" PosZ="-293681" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40067" Name="shrine_017" PosX="-370479" PosY="40245" PosZ="-296252" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40068" Name="Shrine_018" PosX="-374257" PosY="40261" PosZ="-291191" Property="none"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="39557" TargetWaypoint="39558"/>
+	<Link SourceWaypoint="39558" TargetWaypoint="39557"/>
+	<Link SourceWaypoint="39558" TargetWaypoint="39559"/>
+	<Link SourceWaypoint="39559" TargetWaypoint="39558"/>
+	<Link SourceWaypoint="39559" TargetWaypoint="39560"/>
+	<Link SourceWaypoint="39559" TargetWaypoint="39564"/>
+	<Link SourceWaypoint="39560" TargetWaypoint="39559"/>
+	<Link SourceWaypoint="39560" TargetWaypoint="39561"/>
+	<Link SourceWaypoint="39560" TargetWaypoint="39565"/>
+	<Link SourceWaypoint="39561" TargetWaypoint="39560"/>
+	<Link SourceWaypoint="39561" TargetWaypoint="39566"/>
+	<Link SourceWaypoint="39562" TargetWaypoint="39563"/>
+	<Link SourceWaypoint="39563" TargetWaypoint="39562"/>
+	<Link SourceWaypoint="39564" TargetWaypoint="39559"/>
+	<Link SourceWaypoint="39565" TargetWaypoint="39560"/>
+	<Link SourceWaypoint="39566" TargetWaypoint="39561"/>
+	<Link SourceWaypoint="40062" TargetWaypoint="40063"/>
+	<Link SourceWaypoint="40063" TargetWaypoint="40062"/>
+	<Link SourceWaypoint="40064" TargetWaypoint="40065"/>
+	<Link SourceWaypoint="40065" TargetWaypoint="40064"/>
+	<Link SourceWaypoint="40066" TargetWaypoint="40067"/>
+	<Link SourceWaypoint="40067" TargetWaypoint="40066"/>
+	<Link SourceWaypoint="40067" TargetWaypoint="40068"/>
+	<Link SourceWaypoint="40068" TargetWaypoint="40067"/>
+</LinkList>
+<GroupList>
+	<Group Key="199" Name="Shrine_Teleport_Position"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

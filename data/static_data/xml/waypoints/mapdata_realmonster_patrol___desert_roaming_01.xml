@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="desert_roaming_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37227" Name="Desert_Roaming_01_01" PosX="763135" PosY="10144.3" PosZ="-43552.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37228" Name="Desert_Roaming_01_02" PosX="763005" PosY="9837.16" PosZ="-44921.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37229" Name="Desert_Roaming_01_03" PosX="762927" PosY="9255.08" PosZ="-46346.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37230" Name="Desert_Roaming_01_04" PosX="762897" PosY="8785.13" PosZ="-47495.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37231" Name="Desert_Roaming_01_05" PosX="762986" PosY="8249.62" PosZ="-48590.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37232" Name="Desert_Roaming_01_06" PosX="763203" PosY="7792.46" PosZ="-49680.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37233" Name="Desert_Roaming_01_07" PosX="763703" PosY="7576.04" PosZ="-50683.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37234" Name="Desert_Roaming_01_08" PosX="764314" PosY="7493.84" PosZ="-51649.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37235" Name="Desert_Roaming_01_09" PosX="765244" PosY="7698.06" PosZ="-52381.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37236" Name="Desert_Roaming_01_10" PosX="766415" PosY="7892.5" PosZ="-52517.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37237" Name="Desert_Roaming_01_11" PosX="767782" PosY="7935.99" PosZ="-52514.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37238" Name="Desert_Roaming_01_12" PosX="769687" PosY="8213.35" PosZ="-52430.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37239" Name="Desert_Roaming_01_13" PosX="770355" PosY="8309.7" PosZ="-52412.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37240" Name="Desert_Roaming_01_14" PosX="771343" PosY="8454.57" PosZ="-52470.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37241" Name="Desert_Roaming_01_15" PosX="772407" PosY="8662.7" PosZ="-52588.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37242" Name="Desert_Roaming_01_16" PosX="773327" PosY="8978.97" PosZ="-52712.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37243" Name="Desert_Roaming_01_17" PosX="774061" PosY="9287.17" PosZ="-52741.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37244" Name="Desert_Roaming_01_18" PosX="774922" PosY="9598.87" PosZ="-52670.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37245" Name="Desert_Roaming_01_19" PosX="775861" PosY="9857.73" PosZ="-52589.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37246" Name="Desert_Roaming_01_20" PosX="776866" PosY="10159.4" PosZ="-52429.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37247" Name="Desert_Roaming_01_21" PosX="777732" PosY="10447.7" PosZ="-52436.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37248" Name="Desert_Roaming_01_22" PosX="778668" PosY="10683.4" PosZ="-52635.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37249" Name="Desert_Roaming_01_23" PosX="779520" PosY="10954.2" PosZ="-52679.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37250" Name="Desert_Roaming_01_24" PosX="780175" PosY="11100.4" PosZ="-52700.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37251" Name="Desert_Roaming_01_25" PosX="780660" PosY="11159" PosZ="-52730.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37252" Name="Desert_Roaming_01_26" PosX="781391" PosY="11151.4" PosZ="-52663.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37253" Name="Desert_Roaming_01_27" PosX="782329" PosY="10935.3" PosZ="-52672" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37254" Name="Desert_Roaming_01_28" PosX="783745" PosY="10508.1" PosZ="-52561.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37255" Name="Desert_Roaming_01_29" PosX="784631" PosY="10442.2" PosZ="-52502.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37256" Name="Desert_Roaming_01_30" PosX="785494" PosY="10473.6" PosZ="-52546.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37257" Name="Desert_Roaming_01_31" PosX="786531" PosY="10630.7" PosZ="-52624.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37258" Name="Desert_Roaming_01_32" PosX="787280" PosY="10827.5" PosZ="-52558.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37259" Name="Desert_Roaming_01_33" PosX="788095" PosY="10972.9" PosZ="-52564.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37260" Name="Desert_Roaming_01_34" PosX="789276" PosY="10954.7" PosZ="-52484.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37261" Name="Desert_Roaming_01_35" PosX="790539" PosY="10981.2" PosZ="-52440.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37262" Name="Desert_Roaming_01_36" PosX="791586" PosY="11043.6" PosZ="-52405.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37263" Name="Desert_Roaming_01_37" PosX="792671" PosY="11249.2" PosZ="-52293" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37264" Name="Desert_Roaming_01_38" PosX="793728" PosY="11383.5" PosZ="-52143.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37265" Name="Desert_Roaming_01_39" PosX="794674" PosY="11530.6" PosZ="-52031.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37266" Name="Desert_Roaming_01_40" PosX="795679" PosY="11711.5" PosZ="-51942.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37267" Name="Desert_Roaming_01_41" PosX="797458" PosY="11904.9" PosZ="-51727.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37268" Name="Desert_Roaming_01_42" PosX="798336" PosY="11932.4" PosZ="-51643.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37269" Name="Desert_Roaming_01_43" PosX="799095" PosY="11954.7" PosZ="-51627.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37270" Name="Desert_Roaming_01_44" PosX="800352" PosY="12075.5" PosZ="-51470.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37271" Name="Desert_Roaming_01_45" PosX="801728" PosY="12233.9" PosZ="-51317.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37272" Name="Desert_Roaming_01_46" PosX="803450" PosY="12594.5" PosZ="-50937.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37273" Name="Desert_Roaming_01_47" PosX="805239" PosY="12925.4" PosZ="-50525.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37274" Name="Desert_Roaming_01_48" PosX="806194" PosY="13081.1" PosZ="-50495.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37275" Name="Desert_Roaming_01_49" PosX="807188" PosY="13340" PosZ="-50495.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37276" Name="Desert_Roaming_01_50" PosX="807938" PosY="13513.6" PosZ="-50560.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37277" Name="Desert_Roaming_01_51" PosX="808610" PosY="13772.5" PosZ="-50628.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37278" Name="Desert_Roaming_01_52" PosX="809172" PosY="14092.4" PosZ="-50632.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37279" Name="Desert_Roaming_01_53" PosX="809823" PosY="14345.6" PosZ="-50577.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37280" Name="Desert_Roaming_01_54" PosX="810499" PosY="14551.6" PosZ="-50530.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37281" Name="Desert_Roaming_01_55" PosX="811085" PosY="14765.5" PosZ="-50519.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37282" Name="Desert_Roaming_01_56" PosX="811549" PosY="14998.7" PosZ="-50523.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37283" Name="Desert_Roaming_01_57" PosX="812147" PosY="15164.1" PosZ="-50499.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37284" Name="Desert_Roaming_01_58" PosX="812921" PosY="15367.7" PosZ="-50420.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37285" Name="Desert_Roaming_01_59" PosX="813721" PosY="15520.2" PosZ="-50293.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37286" Name="Desert_Roaming_01_60" PosX="814545" PosY="15592.2" PosZ="-50045.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37287" Name="Desert_Roaming_01_61" PosX="815502" PosY="15567.6" PosZ="-49558.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37288" Name="Desert_Roaming_01_62" PosX="816348" PosY="15462.9" PosZ="-49097.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37289" Name="Desert_Roaming_01_63" PosX="817486" PosY="15234.8" PosZ="-48306.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37290" Name="Desert_Roaming_01_64" PosX="818600" PosY="14991.9" PosZ="-47316.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37291" Name="Desert_Roaming_01_65" PosX="819288" PosY="14886.9" PosZ="-46776.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37292" Name="Desert_Roaming_01_66" PosX="820137" PosY="14854.1" PosZ="-46285.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37293" Name="Desert_Roaming_01_67" PosX="821101" PosY="14886.8" PosZ="-45724.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37294" Name="Desert_Roaming_01_68" PosX="821939" PosY="14912" PosZ="-44948.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37295" Name="Desert_Roaming_01_69" PosX="822945" PosY="15093.8" PosZ="-44237.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37296" Name="Desert_Roaming_01_70" PosX="823898" PosY="15397" PosZ="-43687.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37297" Name="Desert_Roaming_01_71" PosX="824862" PosY="15885.2" PosZ="-43301.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37298" Name="Desert_Roaming_01_72" PosX="826096" PosY="16495" PosZ="-42841.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37299" Name="Desert_Roaming_01_73" PosX="826891" PosY="16673.8" PosZ="-42359.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37300" Name="Desert_Roaming_01_74" PosX="827589" PosY="16564.4" PosZ="-41715.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37301" Name="Desert_Roaming_01_75" PosX="827954" PosY="16367.6" PosZ="-41325.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37302" Name="Desert_Roaming_01_76" PosX="828333" PosY="16067.5" PosZ="-40856.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37303" Name="Desert_Roaming_01_77" PosX="828746" PosY="15664.6" PosZ="-40238.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37304" Name="Desert_Roaming_01_78" PosX="828938" PosY="15330.1" PosZ="-39839.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37305" Name="Desert_Roaming_01_79" PosX="829171" PosY="14860.6" PosZ="-39386.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37306" Name="Desert_Roaming_01_80" PosX="829585" PosY="14059.7" PosZ="-38518.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37307" Name="Desert_Roaming_01_81" PosX="830222" PosY="13103.7" PosZ="-37471.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37308" Name="Desert_Roaming_01_82" PosX="831304" PosY="12076.8" PosZ="-36349.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37309" Name="Desert_Roaming_01_83" PosX="832080" PosY="11602.6" PosZ="-35345.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37310" Name="Desert_Roaming_01_84" PosX="832607" PosY="11420.5" PosZ="-34472.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37311" Name="Desert_Roaming_01_85" PosX="832974" PosY="11362.2" PosZ="-33637.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37312" Name="Desert_Roaming_01_86" PosX="833214" PosY="11201.8" PosZ="-32527.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37313" Name="Desert_Roaming_01_87" PosX="833472" PosY="11005.2" PosZ="-31320.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37314" Name="Desert_Roaming_01_88" PosX="834005" PosY="11070.3" PosZ="-30084.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37315" Name="Desert_Roaming_01_89" PosX="834336" PosY="11098" PosZ="-29282.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37316" Name="Desert_Roaming_01_90" PosX="834708" PosY="11092.1" PosZ="-28198.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37317" Name="Desert_Roaming_01_91" PosX="834937" PosY="11051.7" PosZ="-27408.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37318" Name="Desert_Roaming_01_92" PosX="835042" PosY="11020.9" PosZ="-26622.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37319" Name="Desert_Roaming_01_93" PosX="835343" PosY="10988.6" PosZ="-25489.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37320" Name="Desert_Roaming_01_94" PosX="835516" PosY="10873.9" PosZ="-23534" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37321" Name="Desert_Roaming_01_95" PosX="835600" PosY="10825" PosZ="-22292.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37322" Name="Desert_Roaming_01_96" PosX="835683" PosY="10876.4" PosZ="-21099.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37323" Name="Desert_Roaming_01_97" PosX="835762" PosY="11029.6" PosZ="-19649.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37324" Name="Desert_Roaming_01_98" PosX="835765" PosY="11151.7" PosZ="-18122.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37325" Name="Desert_Roaming_01_99" PosX="835795" PosY="11179.1" PosZ="-16611.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37326" Name="Desert_Roaming_01_100" PosX="835721" PosY="11129.6" PosZ="-15012.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37327" Name="Desert_Roaming_01_101" PosX="835427" PosY="10972.2" PosZ="-13350.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37328" Name="Desert_Roaming_01_102" PosX="835128" PosY="10978.1" PosZ="-11976.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37329" Name="Desert_Roaming_01_103" PosX="835134" PosY="11018.1" PosZ="-10677.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37330" Name="Desert_Roaming_01_104" PosX="835476" PosY="10993.2" PosZ="-8842.71" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37331" Name="Desert_Roaming_01_105" PosX="835790" PosY="10685.2" PosZ="-7212.59" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37332" Name="Desert_Roaming_01_106" PosX="836213" PosY="10383.4" PosZ="-5781.82" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37333" Name="Desert_Roaming_01_107" PosX="836806" PosY="10324.5" PosZ="-4452.33" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37334" Name="Desert_Roaming_01_108" PosX="837170" PosY="9969.64" PosZ="-2259.35" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37335" Name="Desert_Roaming_01_109" PosX="836852" PosY="9955.76" PosZ="206.739" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37336" Name="Desert_Roaming_01_110" PosX="836465" PosY="10331" PosZ="2207.78" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37337" Name="Desert_Roaming_01_111" PosX="836108" PosY="10734.8" PosZ="4782.24" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37338" Name="Desert_Roaming_01_112" PosX="835771" PosY="10797" PosZ="7197.66" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37339" Name="Desert_Roaming_01_113" PosX="835489" PosY="10998.5" PosZ="9019.52" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37340" Name="Desert_Roaming_01_114" PosX="835338" PosY="11177.4" PosZ="10309.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37341" Name="Desert_Roaming_01_115" PosX="835134" PosY="11497.2" PosZ="11778.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37342" Name="Desert_Roaming_01_116" PosX="834387" PosY="11525.5" PosZ="13118.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37343" Name="Desert_Roaming_01_117" PosX="833157" PosY="11383.2" PosZ="14543.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37344" Name="Desert_Roaming_01_118" PosX="831414" PosY="11191.8" PosZ="16215.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37345" Name="Desert_Roaming_01_119" PosX="830139" PosY="11298.5" PosZ="17251.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37346" Name="Desert_Roaming_01_120" PosX="828393" PosY="11465.2" PosZ="18883.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37347" Name="Desert_Roaming_01_121" PosX="826039" PosY="11907.3" PosZ="20373.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37348" Name="Desert_Roaming_01_122" PosX="824806" PosY="12420.5" PosZ="21078.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37349" Name="Desert_Roaming_01_123" PosX="823257" PosY="13142.2" PosZ="21958.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37350" Name="Desert_Roaming_01_124" PosX="822009" PosY="13578.7" PosZ="23025.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37351" Name="Desert_Roaming_01_125" PosX="820729" PosY="13781.8" PosZ="23801.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37352" Name="Desert_Roaming_01_126" PosX="819847" PosY="13345.4" PosZ="24484.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37353" Name="Desert_Roaming_01_127" PosX="819031" PosY="12843.2" PosZ="24935.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37354" Name="Desert_Roaming_01_128" PosX="817822" PosY="12109.9" PosZ="25486" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37355" Name="Desert_Roaming_01_129" PosX="816715" PosY="11679.6" PosZ="26027.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37356" Name="Desert_Roaming_01_130" PosX="815809" PosY="11332.5" PosZ="26597" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37357" Name="Desert_Roaming_01_131" PosX="814130" PosY="10765" PosZ="27444" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37358" Name="Desert_Roaming_01_132" PosX="813108" PosY="10504.8" PosZ="28092.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37359" Name="Desert_Roaming_01_133" PosX="811448" PosY="10350.8" PosZ="28753.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37360" Name="Desert_Roaming_01_134" PosX="810031" PosY="10447.3" PosZ="29249" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37361" Name="Desert_Roaming_01_135" PosX="808179" PosY="10567.4" PosZ="30143.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37362" Name="Desert_Roaming_01_136" PosX="807134" PosY="10723.3" PosZ="30592" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37363" Name="Desert_Roaming_01_137" PosX="806025" PosY="11019.6" PosZ="31032.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37364" Name="Desert_Roaming_01_138" PosX="805265" PosY="11139.1" PosZ="31323.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37365" Name="Desert_Roaming_01_139" PosX="804482" PosY="11066.1" PosZ="31533.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37366" Name="Desert_Roaming_01_140" PosX="803081" PosY="10831.1" PosZ="31790.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37367" Name="Desert_Roaming_01_141" PosX="801538" PosY="10475.9" PosZ="32025.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37368" Name="Desert_Roaming_01_142" PosX="799971" PosY="10258.4" PosZ="32501.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37369" Name="Desert_Roaming_01_143" PosX="798770" PosY="10166.5" PosZ="32677.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37370" Name="Desert_Roaming_01_144" PosX="796756" PosY="10220.5" PosZ="32331.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37371" Name="Desert_Roaming_01_145" PosX="794619" PosY="10342.7" PosZ="31634.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37372" Name="Desert_Roaming_01_146" PosX="792589" PosY="10721.5" PosZ="30794.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37373" Name="Desert_Roaming_01_147" PosX="790858" PosY="11102.4" PosZ="30677.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37374" Name="Desert_Roaming_01_148" PosX="790101" PosY="11198.2" PosZ="30501.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37375" Name="Desert_Roaming_01_149" PosX="789250" PosY="11068.5" PosZ="30199.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37376" Name="Desert_Roaming_01_150" PosX="788269" PosY="10937.4" PosZ="29923.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37377" Name="Desert_Roaming_01_151" PosX="787132" PosY="10943.5" PosZ="29500" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37378" Name="Desert_Roaming_01_152" PosX="786291" PosY="10914.1" PosZ="28982.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37379" Name="Desert_Roaming_01_153" PosX="784934" PosY="10854.4" PosZ="28255.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37380" Name="Desert_Roaming_01_154" PosX="783347" PosY="10670.3" PosZ="27285.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37381" Name="Desert_Roaming_01_155" PosX="781875" PosY="10530.5" PosZ="26101.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37382" Name="Desert_Roaming_01_156" PosX="780358" PosY="10839.2" PosZ="25464.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37383" Name="Desert_Roaming_01_157" PosX="779320" PosY="11244.3" PosZ="25191.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37384" Name="Desert_Roaming_01_158" PosX="778248" PosY="11574.3" PosZ="24771.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37385" Name="Desert_Roaming_01_159" PosX="777040" PosY="12005.8" PosZ="24323.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37386" Name="Desert_Roaming_01_160" PosX="776411" PosY="12209" PosZ="24041.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37387" Name="Desert_Roaming_01_161" PosX="775777" PosY="12261.5" PosZ="23672.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37388" Name="Desert_Roaming_01_162" PosX="775116" PosY="12210.2" PosZ="23320.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37389" Name="Desert_Roaming_01_163" PosX="774609" PosY="12170.7" PosZ="22933.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37390" Name="Desert_Roaming_01_164" PosX="773875" PosY="12156.6" PosZ="22223.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37391" Name="Desert_Roaming_01_165" PosX="773389" PosY="12250.9" PosZ="21731.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37392" Name="Desert_Roaming_01_166" PosX="772917" PosY="12367.5" PosZ="21262" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37393" Name="Desert_Roaming_01_167" PosX="772348" PosY="12145.2" PosZ="20488.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37394" Name="Desert_Roaming_01_168" PosX="771922" PosY="11949" PosZ="19939.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37395" Name="Desert_Roaming_01_169" PosX="771495" PosY="11557.9" PosZ="19280.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37396" Name="Desert_Roaming_01_170" PosX="771153" PosY="11379.1" PosZ="18793" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37397" Name="Desert_Roaming_01_171" PosX="770762" PosY="11212.2" PosZ="18175.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37398" Name="Desert_Roaming_01_172" PosX="770418" PosY="11173.2" PosZ="17532.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37399" Name="Desert_Roaming_01_173" PosX="770030" PosY="11318.4" PosZ="16818.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37400" Name="Desert_Roaming_01_174" PosX="769739" PosY="11430.2" PosZ="16305.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37401" Name="Desert_Roaming_01_175" PosX="769388" PosY="11593.4" PosZ="15683.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37402" Name="Desert_Roaming_01_176" PosX="768761" PosY="11665.7" PosZ="14678.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37403" Name="Desert_Roaming_01_177" PosX="768345" PosY="11669.7" PosZ="14026.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37404" Name="Desert_Roaming_01_178" PosX="768023" PosY="11664.3" PosZ="13448.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37405" Name="Desert_Roaming_01_179" PosX="767720" PosY="11655.2" PosZ="12863" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37406" Name="Desert_Roaming_01_180" PosX="767383" PosY="11672.1" PosZ="12162.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37407" Name="Desert_Roaming_01_181" PosX="767088" PosY="11708.9" PosZ="11287.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37408" Name="Desert_Roaming_01_182" PosX="766879" PosY="11756.2" PosZ="10649.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37409" Name="Desert_Roaming_01_183" PosX="766578" PosY="11825.2" PosZ="9985.42" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37410" Name="Desert_Roaming_01_184" PosX="766403" PosY="11901.9" PosZ="9282.21" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37411" Name="Desert_Roaming_01_185" PosX="766175" PosY="12031.5" PosZ="8416.77" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37412" Name="Desert_Roaming_01_186" PosX="765934" PosY="12219.6" PosZ="7701.87" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37413" Name="Desert_Roaming_01_187" PosX="765762" PosY="12445.3" PosZ="7141.07" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37414" Name="Desert_Roaming_01_188" PosX="765624" PosY="12599.7" PosZ="6614.44" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37415" Name="Desert_Roaming_01_189" PosX="765572" PosY="12681.8" PosZ="6089.46" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37416" Name="Desert_Roaming_01_190" PosX="765597" PosY="12712.1" PosZ="5519.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37417" Name="Desert_Roaming_01_191" PosX="765685" PosY="12570.7" PosZ="4668.87" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37418" Name="Desert_Roaming_01_192" PosX="765982" PosY="12133.4" PosZ="3099.61" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37419" Name="Desert_Roaming_01_193" PosX="766347" PosY="11816.4" PosZ="1702.46" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37420" Name="Desert_Roaming_01_194" PosX="766455" PosY="11825.7" PosZ="1035.42" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37421" Name="Desert_Roaming_01_195" PosX="766658" PosY="11954.7" PosZ="363.233" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37422" Name="Desert_Roaming_01_196" PosX="766548" PosY="12030.9" PosZ="-305.433" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37423" Name="Desert_Roaming_01_197" PosX="766647" PosY="12121.9" PosZ="-871.137" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37424" Name="Desert_Roaming_01_198" PosX="766759" PosY="12154.3" PosZ="-1450.28" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37425" Name="Desert_Roaming_01_199" PosX="766919" PosY="12035.4" PosZ="-2199.17" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37426" Name="Desert_Roaming_01_200" PosX="767010" PosY="11823.2" PosZ="-3592.29" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37427" Name="Desert_Roaming_01_201" PosX="766960" PosY="11735" PosZ="-4601.87" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37428" Name="Desert_Roaming_01_202" PosX="766873" PosY="11746.7" PosZ="-5524.68" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37429" Name="Desert_Roaming_01_203" PosX="766755" PosY="11672.5" PosZ="-6589.43" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37430" Name="Desert_Roaming_01_204" PosX="766531" PosY="11668.2" PosZ="-7659.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37431" Name="Desert_Roaming_01_205" PosX="766245" PosY="11624.1" PosZ="-9254.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37432" Name="Desert_Roaming_01_206" PosX="766021" PosY="11585.9" PosZ="-10158.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37433" Name="Desert_Roaming_01_207" PosX="765668" PosY="11477.5" PosZ="-11551.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37434" Name="Desert_Roaming_01_208" PosX="765405" PosY="11326.6" PosZ="-12921.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37435" Name="Desert_Roaming_01_209" PosX="765131" PosY="11090.6" PosZ="-14598.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37436" Name="Desert_Roaming_01_210" PosX="764778" PosY="10834" PosZ="-16336.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37437" Name="Desert_Roaming_01_211" PosX="764479" PosY="10651.4" PosZ="-17653.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37438" Name="Desert_Roaming_01_212" PosX="764256" PosY="10467.8" PosZ="-18905.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37439" Name="Desert_Roaming_01_213" PosX="764171" PosY="10334.9" PosZ="-19934.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37440" Name="Desert_Roaming_01_214" PosX="764001" PosY="10247" PosZ="-21013" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37441" Name="Desert_Roaming_01_215" PosX="763878" PosY="10078.3" PosZ="-22254.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37442" Name="Desert_Roaming_01_216" PosX="763697" PosY="9995.65" PosZ="-23288.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37443" Name="Desert_Roaming_01_217" PosX="763488" PosY="9938.32" PosZ="-24541.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37444" Name="Desert_Roaming_01_218" PosX="763356" PosY="9863.04" PosZ="-25962.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37445" Name="Desert_Roaming_01_219" PosX="763244" PosY="9770.53" PosZ="-27354.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37446" Name="Desert_Roaming_01_220" PosX="763069" PosY="9703.48" PosZ="-28955.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37447" Name="Desert_Roaming_01_221" PosX="762725" PosY="9800.96" PosZ="-30703.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37448" Name="Desert_Roaming_01_222" PosX="762532" PosY="10062.9" PosZ="-32052.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37449" Name="Desert_Roaming_01_223" PosX="762557" PosY="10300.3" PosZ="-33356.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37450" Name="Desert_Roaming_01_224" PosX="762505" PosY="10492.9" PosZ="-34594.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37451" Name="Desert_Roaming_01_225" PosX="762492" PosY="10525.9" PosZ="-35738.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37452" Name="Desert_Roaming_01_226" PosX="762462" PosY="10512.7" PosZ="-36790.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37453" Name="Desert_Roaming_01_227" PosX="762514" PosY="10485.3" PosZ="-38195.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37454" Name="Desert_Roaming_01_228" PosX="762523" PosY="10488.6" PosZ="-39898.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37455" Name="Desert_Roaming_01_229" PosX="762711" PosY="10436.3" PosZ="-41322.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37456" Name="Desert_Roaming_01_230" PosX="762908" PosY="10320.1" PosZ="-42435.9" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="37227" TargetWaypoint="37228"/>
+	<Link SourceWaypoint="37228" TargetWaypoint="37229"/>
+	<Link SourceWaypoint="37229" TargetWaypoint="37230"/>
+	<Link SourceWaypoint="37230" TargetWaypoint="37231"/>
+	<Link SourceWaypoint="37231" TargetWaypoint="37232"/>
+	<Link SourceWaypoint="37232" TargetWaypoint="37233"/>
+	<Link SourceWaypoint="37233" TargetWaypoint="37234"/>
+	<Link SourceWaypoint="37234" TargetWaypoint="37235"/>
+	<Link SourceWaypoint="37235" TargetWaypoint="37236"/>
+	<Link SourceWaypoint="37236" TargetWaypoint="37237"/>
+	<Link SourceWaypoint="37237" TargetWaypoint="37238"/>
+	<Link SourceWaypoint="37238" TargetWaypoint="37239"/>
+	<Link SourceWaypoint="37239" TargetWaypoint="37240"/>
+	<Link SourceWaypoint="37240" TargetWaypoint="37241"/>
+	<Link SourceWaypoint="37241" TargetWaypoint="37242"/>
+	<Link SourceWaypoint="37242" TargetWaypoint="37243"/>
+	<Link SourceWaypoint="37243" TargetWaypoint="37244"/>
+	<Link SourceWaypoint="37244" TargetWaypoint="37245"/>
+	<Link SourceWaypoint="37245" TargetWaypoint="37246"/>
+	<Link SourceWaypoint="37246" TargetWaypoint="37247"/>
+	<Link SourceWaypoint="37247" TargetWaypoint="37248"/>
+	<Link SourceWaypoint="37248" TargetWaypoint="37249"/>
+	<Link SourceWaypoint="37249" TargetWaypoint="37250"/>
+	<Link SourceWaypoint="37250" TargetWaypoint="37251"/>
+	<Link SourceWaypoint="37251" TargetWaypoint="37252"/>
+	<Link SourceWaypoint="37252" TargetWaypoint="37253"/>
+	<Link SourceWaypoint="37253" TargetWaypoint="37254"/>
+	<Link SourceWaypoint="37254" TargetWaypoint="37255"/>
+	<Link SourceWaypoint="37255" TargetWaypoint="37256"/>
+	<Link SourceWaypoint="37256" TargetWaypoint="37257"/>
+	<Link SourceWaypoint="37257" TargetWaypoint="37258"/>
+	<Link SourceWaypoint="37258" TargetWaypoint="37259"/>
+	<Link SourceWaypoint="37259" TargetWaypoint="37260"/>
+	<Link SourceWaypoint="37260" TargetWaypoint="37261"/>
+	<Link SourceWaypoint="37261" TargetWaypoint="37262"/>
+	<Link SourceWaypoint="37262" TargetWaypoint="37263"/>
+	<Link SourceWaypoint="37263" TargetWaypoint="37264"/>
+	<Link SourceWaypoint="37264" TargetWaypoint="37265"/>
+	<Link SourceWaypoint="37265" TargetWaypoint="37266"/>
+	<Link SourceWaypoint="37266" TargetWaypoint="37267"/>
+	<Link SourceWaypoint="37267" TargetWaypoint="37268"/>
+	<Link SourceWaypoint="37268" TargetWaypoint="37269"/>
+	<Link SourceWaypoint="37269" TargetWaypoint="37270"/>
+	<Link SourceWaypoint="37270" TargetWaypoint="37271"/>
+	<Link SourceWaypoint="37271" TargetWaypoint="37272"/>
+	<Link SourceWaypoint="37272" TargetWaypoint="37273"/>
+	<Link SourceWaypoint="37273" TargetWaypoint="37274"/>
+	<Link SourceWaypoint="37274" TargetWaypoint="37275"/>
+	<Link SourceWaypoint="37275" TargetWaypoint="37276"/>
+	<Link SourceWaypoint="37276" TargetWaypoint="37277"/>
+	<Link SourceWaypoint="37277" TargetWaypoint="37278"/>
+	<Link SourceWaypoint="37278" TargetWaypoint="37279"/>
+	<Link SourceWaypoint="37279" TargetWaypoint="37280"/>
+	<Link SourceWaypoint="37280" TargetWaypoint="37281"/>
+	<Link SourceWaypoint="37281" TargetWaypoint="37282"/>
+	<Link SourceWaypoint="37282" TargetWaypoint="37283"/>
+	<Link SourceWaypoint="37283" TargetWaypoint="37284"/>
+	<Link SourceWaypoint="37284" TargetWaypoint="37285"/>
+	<Link SourceWaypoint="37285" TargetWaypoint="37286"/>
+	<Link SourceWaypoint="37286" TargetWaypoint="37287"/>
+	<Link SourceWaypoint="37287" TargetWaypoint="37288"/>
+	<Link SourceWaypoint="37288" TargetWaypoint="37289"/>
+	<Link SourceWaypoint="37289" TargetWaypoint="37290"/>
+	<Link SourceWaypoint="37290" TargetWaypoint="37291"/>
+	<Link SourceWaypoint="37291" TargetWaypoint="37292"/>
+	<Link SourceWaypoint="37292" TargetWaypoint="37293"/>
+	<Link SourceWaypoint="37293" TargetWaypoint="37294"/>
+	<Link SourceWaypoint="37294" TargetWaypoint="37295"/>
+	<Link SourceWaypoint="37295" TargetWaypoint="37296"/>
+	<Link SourceWaypoint="37296" TargetWaypoint="37297"/>
+	<Link SourceWaypoint="37297" TargetWaypoint="37298"/>
+	<Link SourceWaypoint="37298" TargetWaypoint="37299"/>
+	<Link SourceWaypoint="37299" TargetWaypoint="37300"/>
+	<Link SourceWaypoint="37300" TargetWaypoint="37301"/>
+	<Link SourceWaypoint="37301" TargetWaypoint="37302"/>
+	<Link SourceWaypoint="37302" TargetWaypoint="37303"/>
+	<Link SourceWaypoint="37303" TargetWaypoint="37304"/>
+	<Link SourceWaypoint="37304" TargetWaypoint="37305"/>
+	<Link SourceWaypoint="37305" TargetWaypoint="37306"/>
+	<Link SourceWaypoint="37306" TargetWaypoint="37307"/>
+	<Link SourceWaypoint="37307" TargetWaypoint="37308"/>
+	<Link SourceWaypoint="37308" TargetWaypoint="37309"/>
+	<Link SourceWaypoint="37309" TargetWaypoint="37310"/>
+	<Link SourceWaypoint="37310" TargetWaypoint="37311"/>
+	<Link SourceWaypoint="37311" TargetWaypoint="37312"/>
+	<Link SourceWaypoint="37312" TargetWaypoint="37313"/>
+	<Link SourceWaypoint="37313" TargetWaypoint="37314"/>
+	<Link SourceWaypoint="37314" TargetWaypoint="37315"/>
+	<Link SourceWaypoint="37315" TargetWaypoint="37316"/>
+	<Link SourceWaypoint="37316" TargetWaypoint="37317"/>
+	<Link SourceWaypoint="37317" TargetWaypoint="37318"/>
+	<Link SourceWaypoint="37318" TargetWaypoint="37319"/>
+	<Link SourceWaypoint="37319" TargetWaypoint="37320"/>
+	<Link SourceWaypoint="37320" TargetWaypoint="37321"/>
+	<Link SourceWaypoint="37321" TargetWaypoint="37322"/>
+	<Link SourceWaypoint="37322" TargetWaypoint="37323"/>
+	<Link SourceWaypoint="37323" TargetWaypoint="37324"/>
+	<Link SourceWaypoint="37324" TargetWaypoint="37325"/>
+	<Link SourceWaypoint="37325" TargetWaypoint="37326"/>
+	<Link SourceWaypoint="37326" TargetWaypoint="37327"/>
+	<Link SourceWaypoint="37327" TargetWaypoint="37328"/>
+	<Link SourceWaypoint="37328" TargetWaypoint="37329"/>
+	<Link SourceWaypoint="37329" TargetWaypoint="37330"/>
+	<Link SourceWaypoint="37330" TargetWaypoint="37331"/>
+	<Link SourceWaypoint="37331" TargetWaypoint="37332"/>
+	<Link SourceWaypoint="37332" TargetWaypoint="37333"/>
+	<Link SourceWaypoint="37333" TargetWaypoint="37334"/>
+	<Link SourceWaypoint="37334" TargetWaypoint="37335"/>
+	<Link SourceWaypoint="37335" TargetWaypoint="37336"/>
+	<Link SourceWaypoint="37336" TargetWaypoint="37337"/>
+	<Link SourceWaypoint="37337" TargetWaypoint="37338"/>
+	<Link SourceWaypoint="37338" TargetWaypoint="37339"/>
+	<Link SourceWaypoint="37339" TargetWaypoint="37340"/>
+	<Link SourceWaypoint="37340" TargetWaypoint="37341"/>
+	<Link SourceWaypoint="37341" TargetWaypoint="37342"/>
+	<Link SourceWaypoint="37342" TargetWaypoint="37343"/>
+	<Link SourceWaypoint="37343" TargetWaypoint="37344"/>
+	<Link SourceWaypoint="37344" TargetWaypoint="37345"/>
+	<Link SourceWaypoint="37345" TargetWaypoint="37346"/>
+	<Link SourceWaypoint="37346" TargetWaypoint="37347"/>
+	<Link SourceWaypoint="37347" TargetWaypoint="37348"/>
+	<Link SourceWaypoint="37348" TargetWaypoint="37349"/>
+	<Link SourceWaypoint="37349" TargetWaypoint="37350"/>
+	<Link SourceWaypoint="37350" TargetWaypoint="37351"/>
+	<Link SourceWaypoint="37351" TargetWaypoint="37352"/>
+	<Link SourceWaypoint="37352" TargetWaypoint="37353"/>
+	<Link SourceWaypoint="37353" TargetWaypoint="37354"/>
+	<Link SourceWaypoint="37354" TargetWaypoint="37355"/>
+	<Link SourceWaypoint="37355" TargetWaypoint="37356"/>
+	<Link SourceWaypoint="37356" TargetWaypoint="37357"/>
+	<Link SourceWaypoint="37357" TargetWaypoint="37358"/>
+	<Link SourceWaypoint="37358" TargetWaypoint="37359"/>
+	<Link SourceWaypoint="37359" TargetWaypoint="37360"/>
+	<Link SourceWaypoint="37360" TargetWaypoint="37361"/>
+	<Link SourceWaypoint="37361" TargetWaypoint="37362"/>
+	<Link SourceWaypoint="37362" TargetWaypoint="37363"/>
+	<Link SourceWaypoint="37363" TargetWaypoint="37364"/>
+	<Link SourceWaypoint="37364" TargetWaypoint="37365"/>
+	<Link SourceWaypoint="37365" TargetWaypoint="37366"/>
+	<Link SourceWaypoint="37366" TargetWaypoint="37367"/>
+	<Link SourceWaypoint="37367" TargetWaypoint="37368"/>
+	<Link SourceWaypoint="37368" TargetWaypoint="37369"/>
+	<Link SourceWaypoint="37369" TargetWaypoint="37370"/>
+	<Link SourceWaypoint="37370" TargetWaypoint="37371"/>
+	<Link SourceWaypoint="37371" TargetWaypoint="37372"/>
+	<Link SourceWaypoint="37372" TargetWaypoint="37373"/>
+	<Link SourceWaypoint="37373" TargetWaypoint="37374"/>
+	<Link SourceWaypoint="37374" TargetWaypoint="37375"/>
+	<Link SourceWaypoint="37375" TargetWaypoint="37376"/>
+	<Link SourceWaypoint="37376" TargetWaypoint="37377"/>
+	<Link SourceWaypoint="37377" TargetWaypoint="37378"/>
+	<Link SourceWaypoint="37378" TargetWaypoint="37379"/>
+	<Link SourceWaypoint="37379" TargetWaypoint="37380"/>
+	<Link SourceWaypoint="37380" TargetWaypoint="37381"/>
+	<Link SourceWaypoint="37381" TargetWaypoint="37382"/>
+	<Link SourceWaypoint="37382" TargetWaypoint="37383"/>
+	<Link SourceWaypoint="37383" TargetWaypoint="37384"/>
+	<Link SourceWaypoint="37384" TargetWaypoint="37385"/>
+	<Link SourceWaypoint="37385" TargetWaypoint="37386"/>
+	<Link SourceWaypoint="37386" TargetWaypoint="37387"/>
+	<Link SourceWaypoint="37387" TargetWaypoint="37388"/>
+	<Link SourceWaypoint="37388" TargetWaypoint="37389"/>
+	<Link SourceWaypoint="37389" TargetWaypoint="37390"/>
+	<Link SourceWaypoint="37390" TargetWaypoint="37391"/>
+	<Link SourceWaypoint="37391" TargetWaypoint="37392"/>
+	<Link SourceWaypoint="37392" TargetWaypoint="37393"/>
+	<Link SourceWaypoint="37393" TargetWaypoint="37394"/>
+	<Link SourceWaypoint="37394" TargetWaypoint="37395"/>
+	<Link SourceWaypoint="37395" TargetWaypoint="37396"/>
+	<Link SourceWaypoint="37396" TargetWaypoint="37397"/>
+	<Link SourceWaypoint="37397" TargetWaypoint="37398"/>
+	<Link SourceWaypoint="37398" TargetWaypoint="37399"/>
+	<Link SourceWaypoint="37399" TargetWaypoint="37400"/>
+	<Link SourceWaypoint="37400" TargetWaypoint="37401"/>
+	<Link SourceWaypoint="37401" TargetWaypoint="37402"/>
+	<Link SourceWaypoint="37402" TargetWaypoint="37403"/>
+	<Link SourceWaypoint="37403" TargetWaypoint="37404"/>
+	<Link SourceWaypoint="37404" TargetWaypoint="37405"/>
+	<Link SourceWaypoint="37405" TargetWaypoint="37406"/>
+	<Link SourceWaypoint="37406" TargetWaypoint="37407"/>
+	<Link SourceWaypoint="37407" TargetWaypoint="37408"/>
+	<Link SourceWaypoint="37408" TargetWaypoint="37409"/>
+	<Link SourceWaypoint="37409" TargetWaypoint="37410"/>
+	<Link SourceWaypoint="37410" TargetWaypoint="37411"/>
+	<Link SourceWaypoint="37411" TargetWaypoint="37412"/>
+	<Link SourceWaypoint="37412" TargetWaypoint="37413"/>
+	<Link SourceWaypoint="37413" TargetWaypoint="37414"/>
+	<Link SourceWaypoint="37414" TargetWaypoint="37415"/>
+	<Link SourceWaypoint="37415" TargetWaypoint="37416"/>
+	<Link SourceWaypoint="37416" TargetWaypoint="37417"/>
+	<Link SourceWaypoint="37417" TargetWaypoint="37418"/>
+	<Link SourceWaypoint="37418" TargetWaypoint="37419"/>
+	<Link SourceWaypoint="37419" TargetWaypoint="37420"/>
+	<Link SourceWaypoint="37420" TargetWaypoint="37421"/>
+	<Link SourceWaypoint="37421" TargetWaypoint="37422"/>
+	<Link SourceWaypoint="37422" TargetWaypoint="37423"/>
+	<Link SourceWaypoint="37423" TargetWaypoint="37424"/>
+	<Link SourceWaypoint="37424" TargetWaypoint="37425"/>
+	<Link SourceWaypoint="37425" TargetWaypoint="37426"/>
+	<Link SourceWaypoint="37426" TargetWaypoint="37427"/>
+	<Link SourceWaypoint="37427" TargetWaypoint="37428"/>
+	<Link SourceWaypoint="37428" TargetWaypoint="37429"/>
+	<Link SourceWaypoint="37429" TargetWaypoint="37430"/>
+	<Link SourceWaypoint="37430" TargetWaypoint="37431"/>
+	<Link SourceWaypoint="37431" TargetWaypoint="37432"/>
+	<Link SourceWaypoint="37432" TargetWaypoint="37433"/>
+	<Link SourceWaypoint="37433" TargetWaypoint="37434"/>
+	<Link SourceWaypoint="37434" TargetWaypoint="37435"/>
+	<Link SourceWaypoint="37435" TargetWaypoint="37436"/>
+	<Link SourceWaypoint="37436" TargetWaypoint="37437"/>
+	<Link SourceWaypoint="37437" TargetWaypoint="37438"/>
+	<Link SourceWaypoint="37438" TargetWaypoint="37439"/>
+	<Link SourceWaypoint="37439" TargetWaypoint="37440"/>
+	<Link SourceWaypoint="37440" TargetWaypoint="37441"/>
+	<Link SourceWaypoint="37441" TargetWaypoint="37442"/>
+	<Link SourceWaypoint="37442" TargetWaypoint="37443"/>
+	<Link SourceWaypoint="37443" TargetWaypoint="37444"/>
+	<Link SourceWaypoint="37444" TargetWaypoint="37445"/>
+	<Link SourceWaypoint="37445" TargetWaypoint="37446"/>
+	<Link SourceWaypoint="37446" TargetWaypoint="37447"/>
+	<Link SourceWaypoint="37447" TargetWaypoint="37448"/>
+	<Link SourceWaypoint="37448" TargetWaypoint="37449"/>
+	<Link SourceWaypoint="37449" TargetWaypoint="37450"/>
+	<Link SourceWaypoint="37450" TargetWaypoint="37451"/>
+	<Link SourceWaypoint="37451" TargetWaypoint="37452"/>
+	<Link SourceWaypoint="37452" TargetWaypoint="37453"/>
+	<Link SourceWaypoint="37453" TargetWaypoint="37454"/>
+	<Link SourceWaypoint="37454" TargetWaypoint="37455"/>
+	<Link SourceWaypoint="37455" TargetWaypoint="37456"/>
+	<Link SourceWaypoint="37456" TargetWaypoint="37227"/>
+</LinkList>
+<GroupList>
+	<Group Key="173" Name="Desert_Roaming_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

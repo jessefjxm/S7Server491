@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="eventworldboss_teleport_position">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39568" Name="Event_001" PosX="52586.8" PosY="600.159" PosZ="-190656" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39569" Name="Event_003" PosX="-142508" PosY="18893.9" PosZ="48262.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39570" Name="Event_004" PosX="529142" PosY="5857.22" PosZ="162306" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39571" Name="Event_002" PosX="729658" PosY="11627.2" PosZ="3690.02" Property="ground"/>
+</WaypointList>
+<LinkList/>
+<GroupList>
+	<Group Key="200" Name="EventWorldBoss_Teleport_Position"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

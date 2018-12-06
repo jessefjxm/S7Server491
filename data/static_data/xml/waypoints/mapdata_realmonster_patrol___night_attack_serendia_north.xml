@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="night_attack_serendia_north">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="884" Name="night_attack_01" PosX="38565.8" PosY="-513.07" PosZ="-11155.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="885" Name="night_attack_02" PosX="37439.6" PosY="-541.019" PosZ="-11110.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="886" Name="night_attack_03" PosX="36036.9" PosY="-552.721" PosZ="-10881.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="887" Name="night_attack_04" PosX="34147.9" PosY="-452.461" PosZ="-12003.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="888" Name="night_attack_05" PosX="31268.1" PosY="-209.579" PosZ="-11908.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="889" Name="night_attack_06" PosX="29725.5" PosY="-42.8857" PosZ="-11722.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="890" Name="night_attack_07" PosX="38310.7" PosY="-591.825" PosZ="-10194.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="891" Name="night_attack_08" PosX="36763.8" PosY="-608.809" PosZ="-9500.02" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="892" Name="night_attack_09" PosX="34808.4" PosY="-610.546" PosZ="-8810.97" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="893" Name="night_attack_10" PosX="32686.4" PosY="-566.87" PosZ="-8449.91" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="884" TargetWaypoint="885"/>
+	<Link SourceWaypoint="884" TargetWaypoint="890"/>
+	<Link SourceWaypoint="885" TargetWaypoint="884"/>
+	<Link SourceWaypoint="885" TargetWaypoint="886"/>
+	<Link SourceWaypoint="886" TargetWaypoint="885"/>
+	<Link SourceWaypoint="886" TargetWaypoint="887"/>
+	<Link SourceWaypoint="887" TargetWaypoint="886"/>
+	<Link SourceWaypoint="887" TargetWaypoint="888"/>
+	<Link SourceWaypoint="888" TargetWaypoint="887"/>
+	<Link SourceWaypoint="888" TargetWaypoint="889"/>
+	<Link SourceWaypoint="889" TargetWaypoint="888"/>
+	<Link SourceWaypoint="890" TargetWaypoint="891"/>
+	<Link SourceWaypoint="890" TargetWaypoint="884"/>
+	<Link SourceWaypoint="891" TargetWaypoint="890"/>
+	<Link SourceWaypoint="891" TargetWaypoint="892"/>
+	<Link SourceWaypoint="892" TargetWaypoint="891"/>
+	<Link SourceWaypoint="892" TargetWaypoint="893"/>
+	<Link SourceWaypoint="893" TargetWaypoint="892"/>
+</LinkList>
+<GroupList>
+	<Group Key="1" Name="night_attack_serendia_north"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

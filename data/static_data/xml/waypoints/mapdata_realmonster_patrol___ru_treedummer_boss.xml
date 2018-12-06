@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="ru_treedummer_boss">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33518" Name="ru_treedummer_boss_001" PosX="-49166.5" PosY="-4256.77" PosZ="27242.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33519" Name="ru_treedummer_boss_002" PosX="-288999" PosY="10952.8" PosZ="-109655" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33520" Name="ru_treedummer_boss_003" PosX="-390458" PosY="2919.27" PosZ="-160162" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="33518" TargetWaypoint="33519"/>
+	<Link SourceWaypoint="33519" TargetWaypoint="33518"/>
+	<Link SourceWaypoint="33519" TargetWaypoint="33520"/>
+	<Link SourceWaypoint="33520" TargetWaypoint="33519"/>
+</LinkList>
+<GroupList>
+	<Group Key="162" Name="Ru_TreeDummer_Boss"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

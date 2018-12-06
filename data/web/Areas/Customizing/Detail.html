@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script src="/Areas/Customizing/common/js/view.js"></script>
+<link href="/Areas/Customizing/common/css/view.css?v=2" rel="stylesheet"/>
+
+<script>
+    var str = '';
+
+    $(document).ready(function () {
+        common.openPage();
+
+        common.initToggleSwitch();
+
+        var data = [{
+            "C_customizingNo": 8377,
+            "C_customizingCategoryCode": 5,
+            "C_customizingImage1": "/userimg/Customizing/ScreenShot/2016/8/21/cms_1_16082107452423212.jpg",
+            "C_customizingImage2": "/userimg/Customizing/ScreenShot/2016/8/21/cms_2_16082107452423212.jpg",
+            "C_customizingFile": "/userimg/Customizing/Data/2016/8/21/0_160821074524248512.bdc",
+            "C_customizingTitle": "rrr2",
+            "C_customizingDescription": "rrr2",
+            "C_userNo": 378962,
+            "C_userNickname": "Lasevich",
+            "C_characterNo": 0,
+            "C_characterName": null,
+            "C_classType": 0,
+            "C_viewCount": 6,
+            "C_commentCount": 0,
+            "C_downloadCount": 1,
+            "C_LikeCount": 1,
+            "C_regdate": "\/Date(1471808724277)\/",
+            "C_isMine": "Y",
+            "C_guildno": 30000000000010137,
+            "C_guildName": "Admin",
+            "C_author": "Lasevich"
+        }];
+
+        if (data.length > 0) {
+            data[0].C_guildno = "30000000000010137";
+            initPage(data[0]);
+        }
+        else
+            initPage();
+        common.closePage();
+    });
+
+</script>
+<div id="view" class="container">
+    <form id="viewForm" method="post" action="">
+        <input name="__RequestVerificationToken" type="hidden"
+               value="qV-rxBEYRL6ESaVFy6X5w2J47MoCcdBOuoxwZMITg34OQMUh7XyUEJ5m_emGJMUFxVt6lKMyKpgJIc1xrLF1XB41gXdRoYYWyvGo93aS2jA1"/>
+        <input type="hidden" id="isWriter" value=""/>
+        <input type="hidden" name="customizingNo" id="customizingNo" value="0"/>
+        <input type="hidden" name="userNickname" id="userNickname" value=""/>
+        <input type="hidden" name="classType" id="classType" value=""/>
+        <input type="hidden" name="characterName" id="characterName" value=""/>
+        <input type="hidden" name="characterNo" id="characterNo" value="0"/>
+
+        <input type="hidden" name="customizingCommentNo" id="customizingCommentNo" value=""/>
+        <input type="hidden" name="customizingComment" id="customizingComment" value=""/>
+
+        <a href="" class="cmApply"></a>
+    </form>
+    <input type="hidden" id="page" value="1"/>
+    <input type="hidden" id="length" value="0"/>
+    <input type="hidden" id="pageSize" value="12"/>
+    <input type="hidden" id="totalPage" value="0"/>
+
+    <div id="searchBox">
+        <div class="classImage">
+            <img src="" data-tooltip="">
+        </div>
+        <div class="titleArea">
+            <span class="name"></span>
+            <div class="userNickname_date_view_comment">
+                <div class="chaterName userNickname"></div>
+                <div class="date"></div>
+                <div class="view"><img src="/Areas/Customizing/common/img/icn_eye.png"
+                                       data-tooltip="WEB_CUSTOMIZING_VIEW_COUNT"/><span></span></div>
+                <div class="comment"><img src="/Areas/Customizing/common/img/icn_comment.png"
+                                          data-tooltip="WEB_CUSTOMIZING_COMMENT"/><span></span></div>
+            </div>
+        </div>
+        <div class="switchArea">
+            <div class="gallery"><span data-str="WEB_CUSTOMIZING_GALLERY_SIGN_UP"> </span><input type="checkbox"
+                                                                                                 class="switch galleryOnOff"/>
+            </div>
+            <div class="code"><span data-str="WEB_CUSTOMIZING_TEXT_CODE"></span><span class="customizingNo"></span>
+            </div>
+            <a class="helpBox" data-tooltip="WEB_CUSTOMIZING_TEXT_HELP" data-tooltip-position="right"><span>?</span></a>
+        </div>
+    </div>
+    <a class="btnBack">
+        <div><img src="/Areas/Customizing/common/img/icn_back.png"/></div>
+        <span data-str="WEB_CUSTOMIZING_PREV"> </span>
+    </a>
+    <div class="scroll">
+        <div class="imageArea">
+            <div class="imageBox">
+                <div id="_customizingImage1" style="width:100%; height:100%; "></div>
+                <div class="bottom">
+                    <img src="/Areas/Customizing/common/img/icn_camera.png"/><span
+                        data-str="WEB_CUSTOMIZING_TEXT_SCREEN_N_CUSTOMIZING_SHARE"> </span>
+                </div>
+            </div>
+            <div class="imageBox" style="right: -12px;">
+                <div id="_customizingImage2" style="width:100%; height:100%; "></div>
+                <div class="bottom">
+                    <img src="/Areas/Customizing/common/img/icn_camera.png"/><span
+                        data-str="WEB_CUSTOMIZING_TEXT_SCREEN_N_CUSTOMIZING_SHARE"> </span>
+                </div>
+            </div>
+        </div>
+        <div class="btnArea" style="position:relative;">
+            <div class="author"><span data-str="WEB_CUSTOMIZING_AUTHOR"></span> :</div>
+            <div class="btn apply" data-color="0c460d">
+                <span data-str="WEB_CUSTOMIZING_CUSTOMIZING_APPLY"> </span>
+                <img src="/Areas/Customizing/common/img/apply.png"/>
+                <span class="count"></span>
+            </div>
+        </div>
+        <div class="descriptionArea">
+            <span></span>
+        </div>
+        <div class="btnArea like_facebook">
+            <a class="btn like" data-color="3d382d"><img src="/Areas/Customizing/common/img/like.png"/><i></i></a>
+            <a class="btn facebook hide" data-color="1a2d53"><img src="/Areas/Customizing/common/img/icn_facebook.png"/><span
+                    style="top:0;" data-str="WEB_CUSTOMIZING_CUSTOMIZING_SHARE"> </span></a>
+        </div>
+        <div class="btnArea modify_delete">
+            <a class="btn btnHide" data-color="3d382d" data-str="WEB_CUSTOMIZING_HIDE"> </a>
+            <a class="btn btnModify" data-color="3d382d" data-str="WEB_CUSTOMIZING_MODIFY"> </a>
+            <a class="btn btnDelete" data-color="3d382d" data-str="WEB_CUSTOMIZING_DELETE"> </a>
+        </div>
+        <div class="commentArea">
+            <form id="commentForm" method="post" action="">
+                <div class="table">
+
+                </div>
+            </form>
+            <div id="paging"></div>
+        </div>
+        <div class="btnArea back">
+            <a class="btnBack"><img src="/Areas/Customizing/common/img/icn_back.png"/><span
+                    data-str="WEB_CUSTOMIZING_PREV"> </span></a>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

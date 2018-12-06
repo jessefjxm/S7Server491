@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_southeast_lizard_8">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11843" Name="Cal_SouthEast_Lizard_8_001" PosX="-215351" PosY="-380.565" PosZ="-179871" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11844" Name="Cal_SouthEast_Lizard_8_002" PosX="-215314" PosY="-562.542" PosZ="-179045" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11845" Name="Cal_SouthEast_Lizard_8_003" PosX="-215096" PosY="-707.951" PosZ="-178377" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11846" Name="Cal_SouthEast_Lizard_8_004" PosX="-214653" PosY="-807.5" PosZ="-177851" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11847" Name="Cal_SouthEast_Lizard_8_005" PosX="-213922" PosY="-943.862" PosZ="-177202" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11848" Name="Cal_SouthEast_Lizard_8_006" PosX="-212850" PosY="-1100.14" PosZ="-176556" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11849" Name="Cal_SouthEast_Lizard_8_007" PosX="-212141" PosY="-1180.4" PosZ="-176488" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11850" Name="Cal_SouthEast_Lizard_8_008" PosX="-211126" PosY="-1321.06" PosZ="-176554" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11851" Name="Cal_SouthEast_Lizard_8_009" PosX="-209895" PosY="-1474.88" PosZ="-177138" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11852" Name="Cal_SouthEast_Lizard_8_010" PosX="-208747" PosY="-1525.45" PosZ="-177716" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11853" Name="Cal_SouthEast_Lizard_8_011" PosX="-207692" PosY="-1527.99" PosZ="-177908" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11854" Name="Cal_SouthEast_Lizard_8_012" PosX="-206741" PosY="-1574.58" PosZ="-177789" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11855" Name="Cal_SouthEast_Lizard_8_013" PosX="-205013" PosY="-2048.15" PosZ="-177202" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11856" Name="Cal_SouthEast_Lizard_8_014" PosX="-202997" PosY="-2275.15" PosZ="-177097" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11857" Name="Cal_SouthEast_Lizard_8_015" PosX="-201801" PosY="-2388.3" PosZ="-177002" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11858" Name="Cal_SouthEast_Lizard_8_016" PosX="-199876" PosY="-2528.26" PosZ="-176439" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11859" Name="Cal_SouthEast_Lizard_8_017" PosX="-198563" PosY="-2485.03" PosZ="-176218" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11860" Name="Cal_SouthEast_Lizard_8_018" PosX="-197846" PosY="-2575.51" PosZ="-175395" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11861" Name="Cal_SouthEast_Lizard_8_019" PosX="-197980" PosY="-2997.89" PosZ="-172017" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11862" Name="Cal_SouthEast_Lizard_8_020" PosX="-196934" PosY="-3039.38" PosZ="-170674" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11863" Name="Cal_SouthEast_Lizard_8_021" PosX="-196535" PosY="-3037.74" PosZ="-169160" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11843" TargetWaypoint="11844"/>
+	<Link SourceWaypoint="11844" TargetWaypoint="11843"/>
+	<Link SourceWaypoint="11844" TargetWaypoint="11845"/>
+	<Link SourceWaypoint="11845" TargetWaypoint="11844"/>
+	<Link SourceWaypoint="11845" TargetWaypoint="11846"/>
+	<Link SourceWaypoint="11846" TargetWaypoint="11845"/>
+	<Link SourceWaypoint="11846" TargetWaypoint="11847"/>
+	<Link SourceWaypoint="11847" TargetWaypoint="11846"/>
+	<Link SourceWaypoint="11847" TargetWaypoint="11848"/>
+	<Link SourceWaypoint="11848" TargetWaypoint="11847"/>
+	<Link SourceWaypoint="11848" TargetWaypoint="11849"/>
+	<Link SourceWaypoint="11849" TargetWaypoint="11848"/>
+	<Link SourceWaypoint="11849" TargetWaypoint="11850"/>
+	<Link SourceWaypoint="11850" TargetWaypoint="11849"/>
+	<Link SourceWaypoint="11850" TargetWaypoint="11851"/>
+	<Link SourceWaypoint="11851" TargetWaypoint="11850"/>
+	<Link SourceWaypoint="11851" TargetWaypoint="11852"/>
+	<Link SourceWaypoint="11852" TargetWaypoint="11851"/>
+	<Link SourceWaypoint="11852" TargetWaypoint="11853"/>
+	<Link SourceWaypoint="11853" TargetWaypoint="11852"/>
+	<Link SourceWaypoint="11853" TargetWaypoint="11854"/>
+	<Link SourceWaypoint="11854" TargetWaypoint="11853"/>
+	<Link SourceWaypoint="11854" TargetWaypoint="11855"/>
+	<Link SourceWaypoint="11855" TargetWaypoint="11854"/>
+	<Link SourceWaypoint="11855" TargetWaypoint="11856"/>
+	<Link SourceWaypoint="11856" TargetWaypoint="11855"/>
+	<Link SourceWaypoint="11856" TargetWaypoint="11857"/>
+	<Link SourceWaypoint="11857" TargetWaypoint="11856"/>
+	<Link SourceWaypoint="11857" TargetWaypoint="11858"/>
+	<Link SourceWaypoint="11858" TargetWaypoint="11857"/>
+	<Link SourceWaypoint="11858" TargetWaypoint="11859"/>
+	<Link SourceWaypoint="11859" TargetWaypoint="11858"/>
+	<Link SourceWaypoint="11859" TargetWaypoint="11860"/>
+	<Link SourceWaypoint="11860" TargetWaypoint="11859"/>
+	<Link SourceWaypoint="11860" TargetWaypoint="11861"/>
+	<Link SourceWaypoint="11861" TargetWaypoint="11860"/>
+	<Link SourceWaypoint="11861" TargetWaypoint="11862"/>
+	<Link SourceWaypoint="11862" TargetWaypoint="11861"/>
+	<Link SourceWaypoint="11862" TargetWaypoint="11863"/>
+	<Link SourceWaypoint="11863" TargetWaypoint="11862"/>
+</LinkList>
+<GroupList>
+	<Group Key="74" Name="Cal_SouthEast_Lizard_8"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

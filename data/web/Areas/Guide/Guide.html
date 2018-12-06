@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+    <script src="/Common/js/jquery-2.1.4.min.js"></script>
+    <script src="/Common/js/coherent.js"></script>
+    <script src="/Common/js/common.js"></script>
+
+    <link href="/Common/css/common.css" rel="stylesheet"/>
+    <link href="/Areas/Guide/Common/css/guide.css" rel="stylesheet"/>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script>
+    $(document).ready(function () {
+        var languageCode = pearl.common.getLanguageCode().languageCode;
+        var key = [];
+
+        // 메뉴 목록 다를 경우..
+        //if (languageCode == 'ru-RU')
+        //    // 의뢰 / 의뢰 / 의뢰 / 거래소 / 채집 / 가공 / 요리 / 연금 / 조련 / 무역 / 낚시 / 수렵
+        //    key = ['guide', 'guide', 'guide', 'itemmarket', 'gather', 'manufacture', 'cook', 'alchemy', 'mating', 'trade', 'fish', 'hunt'];
+
+        // 의뢰 / 칼페온사냥 / 메디아사냥 / 거래소 / 채집 / 가공 / 요리 / 연금 / 조련 / 무역 / 낚시 / 수렵
+        key = ['guide', 'calpheon', 'media', 'itemmarket', 'gather', 'manufacture', 'cook', 'alchemy', 'mating', 'trade', 'fish', 'hunt'];
+
+        var obj = {
+            'guide': ['WEB_GUIDE_QUEST_GUIDE', 'WEBHELPER_50LV_GUIDE'],
+            'calpheon': ['WEB_GUIDE_CALPHEON_HUNTING_BOOK', 'WEBHELPER_CALPHEON'],
+            'media': ['WEB_GUIDE_MEDIA_HUNTING_BOOK', 'WEBHELPER_MEDIA'],
+            'itemmarket': ['WEB_GUIDE_USING_DEALMARKET', 'WEBHELPER_LIFE_LEVELUPGUIDE_ITEMMARKET'],
+            'gather': ['WEB_GUIDE_START_GATHER', 'WEBHELPER_LIFE_LEVELUPGUIDE_GATHERING'],
+            'manufacture': ['WEB_GUIDE_START_MANUFACTURE', 'WEBHELPER_LIFE_LEVELUPGUIDE_MANUFACTURE'],
+            'cook': ['WEB_GUIDE_START_COOK', 'WEBHELPER_LIFE_LEVELUPGUIDE_COOK'],
+            'alchemy': ['WEB_GUIDE_START_ALCHEMY', 'WEBHELPER_LIFE_HIGh_CLASS_ALCHEMY'],
+            'mating': ['WEB_GUIDE_START_MATING', 'WEBHELPER_LIFE_OBEDIENCE'],
+            'trade': ['WEB_GUIDE_START_TRADE', 'WEBHELPER_LIFE_LEVELUPGUIDE_TRADEMARKET'],
+            'fish': ['WEB_GUIDE_START_FISH', 'WEBHELPER_LIFE_HIGh_CLASS_FISHING'],
+            'hunt': ['WEB_GUIDE_SRART_HUNT', 'WEBHELPER_LIFE_HUNTING']
+        }
+
+        $('#container .content ul').empty();
+        $.each(key, function (k, v) {
+            $('#container .content ul').append('<li><a href="javascript:void(0)" class="' + v + '" data-attr="tab' + k + '"><span class="bold" data-str="' + obj[v][0] + '" data-url="' + obj[v][1] + '"></span></a></li>');
+        });
+
+        var arrString = {
+            'WEB_GUIDE_LV50_GUIDE': '',
+            'WEB_GUIDE_CONGRATULATION': '',
+            'WEB_GUIDE_ADVENTURE_BEGINS': '',
+            'WEB_GUIDE_PAGE_GUIDE': '',
+            'WEB_GUIDE_QUEST_GUIDE': '',
+            'WEB_GUIDE_CALPHEON_HUNTING_BOOK': '',
+            'WEB_GUIDE_MEDIA_HUNTING_BOOK': '',
+            'WEB_GUIDE_USING_DEALMARKET': '',
+            'WEB_GUIDE_START_GATHER': '',
+            'WEB_GUIDE_START_MANUFACTURE': '',
+            'WEB_GUIDE_START_COOK': '',
+            'WEB_GUIDE_START_ALCHEMY': '',
+            'WEB_GUIDE_START_MATING': '',
+            'WEB_GUIDE_START_TRADE': '',
+            'WEB_GUIDE_START_FISH': '',
+            'WEB_GUIDE_SRART_HUNT': '',
+            'WEB_GUIDE_QUEST': '',
+            'WEB_GUIDE_CALPHEON': '',
+            'WEB_GUIDE_MEDIA': '',
+            'WEB_GUIDE_DEALMARKET': '',
+            'WEB_GUIDE_GATHER': '',
+            'WEB_GUIDE_MANUFACTURE': '',
+            'WEB_GUIDE_COOK': '',
+            'WEB_GUIDE_ALCHEMY': '',
+            'WEB_GUIDE_MATING': '',
+            'WEB_GUIDE_TRADE': '',
+            'WEB_GUIDE_FISH': '',
+            'WEB_GUIDE_HUNT': '',
+            'WEB_GUIDE_TODAY_CLOSE': '',
+            'WEB_GUIDE_CLOSE': ''
+        }
+        pearl.common.openPage(arrString);
+
+        pearl.common.closePage();
+    });
+
+    // 도움말 창 열기
+    $(document).on('click', '.content a', function (e) {
+        engine.call('ToClient_DoLua', 'Panel_WebControl_LevelUpGuide("' + $(this).children('span').attr('data-url') + '")');
+    });
+
+    // 오늘하루 그만보기
+    $(document).on('click', '.btnTodayClose', function (e) {
+        engine.call('ToClient_DoLua', 'LevelupGuide_CheckForDay()');
+    });
+
+    // 닫기
+    $(document).on('click', '.btnClose', function (e) {
+        engine.call('ToClient_DoLua', 'HandleClicked_LevelupGuide_Close()');
+    });
+</script>
+
+<div id="wrap" class="main">
+    <!-- header -->
+    <div id="header" class="ir"><h1 data-str="WEB_GUIDE_LV50_GUIDE"></h1></div>
+    <!--// header -->
+    <!-- container -->
+    <div id="container">
+        <div class="titArea">
+            <div class="text">
+                <img src="/Areas/Guide/Common/img/tit_lv50.png"/>
+                <div>
+                    <span class="bold" data-str="WEB_GUIDE_CONGRATULATION"></span><br/>
+                    <span class="bold" data-str="WEB_GUIDE_ADVENTURE_BEGINS"></span>
+                </div>
+            </div>
+            <div>
+                <div class="bold" data-str="WEB_GUIDE_PAGE_GUIDE">
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <nav>
+                <ul></ul>
+            </nav>
+        </div>
+        <div class="btnArea">
+            <a href="javascript:void(0)" class="btnTodayClose bold"><em data-str="WEB_GUIDE_TODAY_CLOSE"></em></a>
+            <a href="javascript:void(0)" class="btnClose bold"><em data-str="WEB_GUIDE_CLOSE"></em></a>
+        </div>
+    </div>
+    <!--// container -->
+</div>
+
+
+<style>
+
+    @font-face {
+        font-family: 'custom';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+        url('/Common/font/naeu.woff') format('woff2'),
+        url('/Common/font/naeu.woff') format('woff'),
+        url('/Common/font/naeu.woff') format('truetype'),
+        local('나눔고딕'),
+        local('Arial');
+    }
+
+    @font-face {
+        font-family: 'custom bold';
+        font-style: normal;
+        /*font-weight: 700;*/
+        src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+        url('/Common/font/naeu.woff') format('woff2'),
+        url('/Common/font/naeu.woff') format('woff'),
+        url('/Common/font/naeu.woff') format('truetype'),
+        local('나눔고딕 Bold'),
+        local('Arial Black');
+    }
+</style>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_southeast_lizard_2">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11524" Name="Cal_SouthEast_Lizard_2_001" PosX="-219443" PosY="1053.52" PosZ="-171483" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11525" Name="Cal_SouthEast_Lizard_2_002" PosX="-219691" PosY="1404.26" PosZ="-170167" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11526" Name="Cal_SouthEast_Lizard_2_003" PosX="-220305" PosY="1503.5" PosZ="-169342" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11527" Name="Cal_SouthEast_Lizard_2_004" PosX="-220619" PosY="2006.17" PosZ="-168660" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11528" Name="Cal_SouthEast_Lizard_2_005" PosX="-220228" PosY="2258.66" PosZ="-168349" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11529" Name="Cal_SouthEast_Lizard_2_006" PosX="-220372" PosY="2353.19" PosZ="-168185" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11530" Name="Cal_SouthEast_Lizard_2_007" PosX="-220357" PosY="2419.21" PosZ="-167856" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11524" TargetWaypoint="11525"/>
+	<Link SourceWaypoint="11525" TargetWaypoint="11524"/>
+	<Link SourceWaypoint="11525" TargetWaypoint="11526"/>
+	<Link SourceWaypoint="11526" TargetWaypoint="11525"/>
+	<Link SourceWaypoint="11526" TargetWaypoint="11527"/>
+	<Link SourceWaypoint="11527" TargetWaypoint="11526"/>
+	<Link SourceWaypoint="11527" TargetWaypoint="11528"/>
+	<Link SourceWaypoint="11528" TargetWaypoint="11527"/>
+	<Link SourceWaypoint="11528" TargetWaypoint="11529"/>
+	<Link SourceWaypoint="11529" TargetWaypoint="11528"/>
+	<Link SourceWaypoint="11529" TargetWaypoint="11530"/>
+	<Link SourceWaypoint="11530" TargetWaypoint="11529"/>
+</LinkList>
+<GroupList>
+	<Group Key="67" Name="Cal_SouthEast_Lizard_2"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

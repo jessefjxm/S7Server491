@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_boar_3">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11376" Name="Cal_Boar_3_001" PosX="-366394" PosY="503.209" PosZ="-106167" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11377" Name="Cal_Boar_3_002" PosX="-364624" PosY="124.015" PosZ="-105685" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11378" Name="Cal_Boar_3_003" PosX="-364578" PosY="341.975" PosZ="-106967" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11379" Name="Cal_Boar_3_004" PosX="-365204" PosY="460.181" PosZ="-107747" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11380" Name="Cal_Boar_3_005" PosX="-366515" PosY="215.26" PosZ="-109607" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11381" Name="Cal_Boar_3_006" PosX="-366113" PosY="438.814" PosZ="-111681" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11382" Name="Cal_Boar_3_007" PosX="-364930" PosY="321.578" PosZ="-112041" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11383" Name="Cal_Boar_3_008" PosX="-364412" PosY="338.259" PosZ="-112896" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11384" Name="Cal_Boar_3_009" PosX="-365782" PosY="194.103" PosZ="-113919" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11385" Name="Cal_Boar_3_010" PosX="-367314" PosY="317.485" PosZ="-113903" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11386" Name="Cal_Boar_3_011" PosX="-368391" PosY="560.152" PosZ="-114790" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11387" Name="Cal_Boar_3_012" PosX="-370082" PosY="869.166" PosZ="-113822" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11388" Name="Cal_Boar_3_013" PosX="-369405" PosY="721.357" PosZ="-111553" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11376" TargetWaypoint="11377"/>
+	<Link SourceWaypoint="11377" TargetWaypoint="11376"/>
+	<Link SourceWaypoint="11377" TargetWaypoint="11378"/>
+	<Link SourceWaypoint="11378" TargetWaypoint="11377"/>
+	<Link SourceWaypoint="11378" TargetWaypoint="11379"/>
+	<Link SourceWaypoint="11379" TargetWaypoint="11378"/>
+	<Link SourceWaypoint="11379" TargetWaypoint="11380"/>
+	<Link SourceWaypoint="11380" TargetWaypoint="11379"/>
+	<Link SourceWaypoint="11380" TargetWaypoint="11381"/>
+	<Link SourceWaypoint="11381" TargetWaypoint="11380"/>
+	<Link SourceWaypoint="11381" TargetWaypoint="11382"/>
+	<Link SourceWaypoint="11382" TargetWaypoint="11381"/>
+	<Link SourceWaypoint="11382" TargetWaypoint="11383"/>
+	<Link SourceWaypoint="11383" TargetWaypoint="11382"/>
+	<Link SourceWaypoint="11383" TargetWaypoint="11384"/>
+	<Link SourceWaypoint="11384" TargetWaypoint="11383"/>
+	<Link SourceWaypoint="11384" TargetWaypoint="11385"/>
+	<Link SourceWaypoint="11385" TargetWaypoint="11384"/>
+	<Link SourceWaypoint="11385" TargetWaypoint="11386"/>
+	<Link SourceWaypoint="11386" TargetWaypoint="11385"/>
+	<Link SourceWaypoint="11386" TargetWaypoint="11387"/>
+	<Link SourceWaypoint="11387" TargetWaypoint="11386"/>
+	<Link SourceWaypoint="11387" TargetWaypoint="11388"/>
+	<Link SourceWaypoint="11388" TargetWaypoint="11387"/>
+</LinkList>
+<GroupList>
+	<Group Key="48" Name="Cal_Boar_3"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

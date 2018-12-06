@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_southeast_dragon">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11531" Name="Cal_Dragon_1_001" PosX="-231601" PosY="8949.45" PosZ="-182105" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11532" Name="Cal_Dragon_1_002" PosX="-222347" PosY="8138.63" PosZ="-188835" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11533" Name="Cal_Dragon_1_003" PosX="-216595" PosY="6006.71" PosZ="-187237" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11534" Name="Cal_Dragon_1_004" PosX="-210031" PosY="4271.57" PosZ="-178066" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11535" Name="Cal_Dragon_1_005" PosX="-212244" PosY="5221.07" PosZ="-169234" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11536" Name="Cal_Dragon_1_006" PosX="-218369" PosY="8021.26" PosZ="-163182" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11537" Name="Cal_Dragon_1_007" PosX="-228506" PosY="10125.8" PosZ="-162697" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11538" Name="Cal_Dragon_1_008" PosX="-235984" PosY="9428.6" PosZ="-165842" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11539" Name="Cal_Dragon_1_009" PosX="-240849" PosY="9597.13" PosZ="-170578" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11540" Name="Cal_Dragon_1_010" PosX="-242649" PosY="8893.76" PosZ="-179135" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11541" Name="Cal_Drgon_1_011" PosX="-237906" PosY="8698.5" PosZ="-184701" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11542" Name="Cal_Drgon_1_012" PosX="-234451" PosY="8775.36" PosZ="-186445" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11543" Name="Cal_Drgon_1_013" PosX="-227430" PosY="9367.96" PosZ="-185948" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11544" Name="Cal_Drgon_1_014" PosX="-223688" PosY="9256.11" PosZ="-183106" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11545" Name="Cal_Drgon_1_015" PosX="-223633" PosY="9123.86" PosZ="-177287" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11546" Name="Cal_Drgon_1_016" PosX="-226750" PosY="8095.84" PosZ="-172908" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11547" Name="Cal_Drgon_1_017" PosX="-230422" PosY="6781.47" PosZ="-172900" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11548" Name="Cal_Drgon_1_018" PosX="-233371" PosY="7277.32" PosZ="-175762" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11549" Name="Cal_Drgon_1_019" PosX="-233634" PosY="8322.98" PosZ="-179660" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12365" Name="Cal_Wyvern_0_001" PosX="-258055" PosY="201.814" PosZ="-187837" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12366" Name="Cal_Wyvern_0_002" PosX="-229359" PosY="3943.05" PosZ="-154759" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12367" Name="Cal_Wyvern_0_003" PosX="-212560" PosY="1449.22" PosZ="-183627" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11531" TargetWaypoint="11532"/>
+	<Link SourceWaypoint="11532" TargetWaypoint="11533"/>
+	<Link SourceWaypoint="11533" TargetWaypoint="11534"/>
+	<Link SourceWaypoint="11534" TargetWaypoint="11535"/>
+	<Link SourceWaypoint="11534" TargetWaypoint="12367"/>
+	<Link SourceWaypoint="11535" TargetWaypoint="11536"/>
+	<Link SourceWaypoint="11536" TargetWaypoint="11537"/>
+	<Link SourceWaypoint="11537" TargetWaypoint="11538"/>
+	<Link SourceWaypoint="11537" TargetWaypoint="12366"/>
+	<Link SourceWaypoint="11538" TargetWaypoint="11539"/>
+	<Link SourceWaypoint="11539" TargetWaypoint="11540"/>
+	<Link SourceWaypoint="11540" TargetWaypoint="11541"/>
+	<Link SourceWaypoint="11540" TargetWaypoint="12365"/>
+	<Link SourceWaypoint="11541" TargetWaypoint="11542"/>
+	<Link SourceWaypoint="11542" TargetWaypoint="11543"/>
+	<Link SourceWaypoint="11543" TargetWaypoint="11544"/>
+	<Link SourceWaypoint="11544" TargetWaypoint="11545"/>
+	<Link SourceWaypoint="11545" TargetWaypoint="11546"/>
+	<Link SourceWaypoint="11546" TargetWaypoint="11547"/>
+	<Link SourceWaypoint="11547" TargetWaypoint="11548"/>
+	<Link SourceWaypoint="11548" TargetWaypoint="11549"/>
+	<Link SourceWaypoint="11549" TargetWaypoint="11531"/>
+	<Link SourceWaypoint="12365" TargetWaypoint="11540"/>
+	<Link SourceWaypoint="12366" TargetWaypoint="11537"/>
+	<Link SourceWaypoint="12367" TargetWaypoint="11534"/>
+</LinkList>
+<GroupList>
+	<Group Key="68" Name="Cal_SouthEast_Dragon"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

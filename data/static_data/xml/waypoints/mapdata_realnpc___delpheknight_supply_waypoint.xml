@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="npc" subName="delpheknight_supply_waypoint">
+<WaypointList>
+	<Waypoint IsSubWaypoint="False" Key="6984" Name="DelpheKnight_Supply_Waypoint_001" PosX="-132892" PosY="14449.1" PosZ="-40860.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6985" Name="DelpheKnight_Supply_Waypoint_002" PosX="-133799" PosY="14311.8" PosZ="-39381" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6986" Name="DelpheKnight_Supply_Waypoint_003" PosX="-132893" PosY="14164.2" PosZ="-38194.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6987" Name="DelpheKnight_Supply_Waypoint_004" PosX="-133494" PosY="13807.2" PosZ="-36265.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6988" Name="DelpheKnight_Supply_Waypoint_005" PosX="-133646" PosY="13666" PosZ="-34702.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6989" Name="DelpheKnight_Supply_Waypoint_006" PosX="-133504" PosY="13556.2" PosZ="-33173.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6990" Name="DelpheKnight_Supply_Waypoint_007" PosX="-133244" PosY="13429.1" PosZ="-32619.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6991" Name="DelpheKnight_Supply_Waypoint_008" PosX="-133056" PosY="13351.5" PosZ="-32233.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6992" Name="DelpheKnight_Supply_Waypoint_009" PosX="-132645" PosY="13085.9" PosZ="-31089.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6993" Name="DelpheKnight_Supply_Waypoint_010" PosX="-132350" PosY="13110.9" PosZ="-30268.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6994" Name="DelpheKnight_Supply_Waypoint_011" PosX="-132018" PosY="13373.7" PosZ="-29348.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6995" Name="DelpheKnight_Supply_Waypoint_012" PosX="-131912" PosY="13417.1" PosZ="-28997.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6996" Name="DelpheKnight_Supply_Waypoint_013" PosX="-131438" PosY="13409.6" PosZ="-27580.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6997" Name="DelpheKnight_Supply_Waypoint_014" PosX="-130807" PosY="13452.2" PosZ="-26791.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6998" Name="DelpheKnight_Supply_Waypoint_015" PosX="-130516" PosY="13430.5" PosZ="-25985.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="6999" Name="DelpheKnight_Supply_Waypoint_016" PosX="-130089" PosY="13433.9" PosZ="-25133" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7000" Name="DelpheKnight_Supply_Waypoint_017" PosX="-129589" PosY="13407.4" PosZ="-23879.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7001" Name="DelpheKnight_Supply_Waypoint_018" PosX="-128935" PosY="13337.1" PosZ="-23440.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7002" Name="DelpheKnight_Supply_Waypoint_019" PosX="-128809" PosY="13332.4" PosZ="-23003.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7003" Name="DelpheKnight_Supply_Waypoint_020" PosX="-128808" PosY="13263.2" PosZ="-22814.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7004" Name="DelpheKnight_Supply_Waypoint_021" PosX="-128888" PosY="13087" PosZ="-22427.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7005" Name="DelpheKnight_Supply_Waypoint_022" PosX="-129066" PosY="13062.1" PosZ="-22227.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7006" Name="DelpheKnight_Supply_Waypoint_023" PosX="-129141" PosY="12608.6" PosZ="-21371.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7007" Name="DelpheKnight_Supply_Waypoint_024" PosX="-128836" PosY="12596.6" PosZ="-21138" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7008" Name="DelpheKnight_Supply_Waypoint_025" PosX="-128098" PosY="12293.2" PosZ="-20993.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7009" Name="DelpheKnight_Supply_Waypoint_026" PosX="-127390" PosY="12337.5" PosZ="-20625.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7010" Name="DelpheKnight_Supply_Waypoint_027" PosX="-126892" PosY="12420.7" PosZ="-19953.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7011" Name="DelpheKnight_Supply_Waypoint_028" PosX="-126159" PosY="12541.3" PosZ="-19273.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7012" Name="DelpheKnight_Supply_Waypoint_029" PosX="-125447" PosY="12605.9" PosZ="-18623.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7013" Name="DelpheKnight_Supply_Waypoint_030" PosX="-124723" PosY="12596.3" PosZ="-17992" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7014" Name="DelpheKnight_Supply_Waypoint_031" PosX="-124489" PosY="12357.1" PosZ="-16701.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7015" Name="DelpheKnight_Supply_Waypoint_032" PosX="-124380" PosY="11982.8" PosZ="-14760.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7016" Name="DelpheKnight_Supply_Waypoint_033" PosX="-123668" PosY="11727.5" PosZ="-13868.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7017" Name="DelpheKnight_Supply_Waypoint_034" PosX="-122531" PosY="11551.3" PosZ="-13519.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7018" Name="DelpheKnight_Supply_Waypoint_035" PosX="-121375" PosY="11227.9" PosZ="-12524.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7019" Name="DelpheKnight_Supply_Waypoint_036" PosX="-120509" PosY="10789.7" PosZ="-11088.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7020" Name="DelpheKnight_Supply_Waypoint_037" PosX="-120679" PosY="10148.6" PosZ="-9149.04" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7021" Name="DelpheKnight_Supply_Waypoint_038" PosX="-121003" PosY="9772.72" PosZ="-7921.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7022" Name="DelpheKnight_Supply_Waypoint_039" PosX="-121238" PosY="9303.39" PosZ="-6312.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7023" Name="DelpheKnight_Supply_Waypoint_040" PosX="-121898" PosY="8712.89" PosZ="-4587.62" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7024" Name="DelpheKnight_Supply_Waypoint_041" PosX="-122438" PosY="8350.91" PosZ="-3229.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7025" Name="DelpheKnight_Supply_Waypoint_042" PosX="-123055" PosY="7850.13" PosZ="-1633.51" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7026" Name="DelpheKnight_Supply_Waypoint_043" PosX="-123131" PosY="7609.24" PosZ="-923.635" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7027" Name="DelpheKnight_Supply_Waypoint_044" PosX="-123908" PosY="7246.56" PosZ="175.018" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7028" Name="DelpheKnight_Supply_Waypoint_045" PosX="-123991" PosY="6917.09" PosZ="1581.53" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7029" Name="DelpheKnight_Supply_Waypoint_046" PosX="-123720" PosY="6791.62" PosZ="2784.92" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7030" Name="DelpheKnight_Supply_Waypoint_047" PosX="-123608" PosY="6764.1" PosZ="3367.62" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7031" Name="DelpheKnight_Supply_Waypoint_048" PosX="-123350" PosY="6769.02" PosZ="3174.06" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7032" Name="DelpheKnight_Supply_Waypoint_049" PosX="-123657" PosY="6925.56" PosZ="1707.82" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7033" Name="DelpheKnight_Supply_Waypoint_050" PosX="-123678" PosY="7073.03" PosZ="928.732" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7034" Name="DelpheKnight_Supply_Waypoint_051" PosX="-123473" PosY="7328.8" PosZ="2.71619" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7035" Name="DelpheKnight_Supply_Waypoint_052" PosX="-122859" PosY="7604.11" PosZ="-746.019" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7036" Name="DelpheKnight_Supply_Waypoint_053" PosX="-122652" PosY="7876.2" PosZ="-1534.54" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7037" Name="DelpheKnight_Supply_Waypoint_054" PosX="-122215" PosY="8351.37" PosZ="-3151.16" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7038" Name="DelpheKnight_Supply_Waypoint_055" PosX="-121463" PosY="8724.45" PosZ="-4522.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7039" Name="DelpheKnight_Supply_Waypoint_056" PosX="-120898" PosY="9251.08" PosZ="-6055.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7178" Name="DelpheKnight_Supply_Waypoint_057" PosX="-120543" PosY="9582.58" PosZ="-7263.18" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7179" Name="DelpheKnight_Supply_Waypoint_058" PosX="-120142" PosY="9972.58" PosZ="-8610.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7180" Name="DelpheKnight_Supply_Waypoint_059" PosX="-120024" PosY="10511.3" PosZ="-10284.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7181" Name="DelpheKnight_Supply_Waypoint_060" PosX="-120134" PosY="10827.2" PosZ="-11105.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7182" Name="DelpheKnight_Supply_Waypoint_061" PosX="-120763" PosY="11180.8" PosZ="-12398.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7183" Name="DelpheKnight_Supply_Waypoint_062" PosX="-121636" PosY="11400.4" PosZ="-13347.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7184" Name="DelpheKnight_Supply_Waypoint_063" PosX="-122395" PosY="11648" PosZ="-13937.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7185" Name="DelpheKnight_Supply_Waypoint_064" PosX="-123319" PosY="11773" PosZ="-14260.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7186" Name="DelpheKnight_Supply_Waypoint_065" PosX="-123803" PosY="11953.4" PosZ="-15013.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7189" Name="DelpheKnight_Supply_Waypoint_066" PosX="-123922" PosY="12336.5" PosZ="-16596" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7190" Name="DelpheKnight_Supply_Waypoint_067" PosX="-124426" PosY="12633.9" PosZ="-18303.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7191" Name="DelpheKnight_Supply_Waypoint_068" PosX="-125364" PosY="12593.4" PosZ="-19130.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7192" Name="DelpheKnight_Supply_Waypoint_069" PosX="-126468" PosY="12472.8" PosZ="-20064.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7193" Name="DelpheKnight_Supply_Waypoint_070" PosX="-127152" PosY="12387.8" PosZ="-20893.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7194" Name="DelpheKnight_Supply_Waypoint_071" PosX="-127958" PosY="12285.5" PosZ="-21197.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7195" Name="DelpheKnight_Supply_Waypoint_Add_001" PosX="-129127" PosY="12604.3" PosZ="-21121.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7196" Name="DelpheKnight_Supply_Waypoint_072" PosX="-128647" PosY="12571.9" PosZ="-21396.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7197" Name="DelpheKnight_Supply_Waypoint_073" PosX="-128966" PosY="12673.9" PosZ="-21475.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7198" Name="DelpheKnight_Supply_Waypoint_074" PosX="-128856" PosY="13069.2" PosZ="-22131.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7199" Name="DelpheKnight_Supply_Waypoint_075" PosX="-128599" PosY="13252" PosZ="-22687.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7200" Name="DelpheKnight_Supply_Waypoint_076" PosX="-128430" PosY="13339.2" PosZ="-23115.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7201" Name="DelpheKnight_Supply_Waypoint_077" PosX="-128612" PosY="13343.2" PosZ="-23601.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7202" Name="DelpheKnight_Supply_Waypoint_078" PosX="-129256" PosY="13384.4" PosZ="-24117.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7203" Name="DelpheKnight_Supply_Waypoint_079" PosX="-129595" PosY="13424.6" PosZ="-25161.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7204" Name="DelpheKnight_Supply_Waypoint_080" PosX="-130063" PosY="13427" PosZ="-26263" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7205" Name="DelpheKnight_Supply_Waypoint_081" PosX="-130516" PosY="13408.8" PosZ="-27107.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7206" Name="DelpheKnight_Supply_Waypoint_082" PosX="-131096" PosY="13403.4" PosZ="-27888.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7207" Name="DelpheKnight_Supply_Waypoint_083" PosX="-131659" PosY="13400.7" PosZ="-29091.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7208" Name="DelpheKnight_Supply_Waypoint_084" PosX="-131831" PosY="13365.2" PosZ="-29436.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7209" Name="DelpheKnight_Supply_Waypoint_085" PosX="-132141" PosY="13110.4" PosZ="-30346.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7210" Name="DelpheKnight_Supply_Waypoint_086" PosX="-132438" PosY="13086.2" PosZ="-31164.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7211" Name="DelpheKnight_Supply_Waypoint_087" PosX="-132827" PosY="13366.5" PosZ="-32306.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7212" Name="DelpheKnight_Supply_Waypoint_088" PosX="-132993" PosY="13439" PosZ="-32747" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7213" Name="DelpheKnight_Supply_Waypoint_089" PosX="-133079" PosY="13529.3" PosZ="-33258.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7214" Name="DelpheKnight_Supply_Waypoint_090" PosX="-133205" PosY="13659.1" PosZ="-34876" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7215" Name="DelpheKnight_Supply_Waypoint_091" PosX="-133148" PosY="13792.5" PosZ="-36151.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7216" Name="DelpheKnight_Supply_Waypoint_092" PosX="-132302" PosY="14174.7" PosZ="-38224.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7217" Name="DelpheKnight_Supply_Waypoint_093" PosX="-133032" PosY="14328" PosZ="-39495.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="7218" Name="DelpheKnight_Supply_Waypoint_094" PosX="-132455" PosY="14449.1" PosZ="-40553.5" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="6984" TargetWaypoint="6985"/>
+	<Link SourceWaypoint="6985" TargetWaypoint="6986"/>
+	<Link SourceWaypoint="6986" TargetWaypoint="6987"/>
+	<Link SourceWaypoint="6987" TargetWaypoint="6988"/>
+	<Link SourceWaypoint="6988" TargetWaypoint="6989"/>
+	<Link SourceWaypoint="6989" TargetWaypoint="6990"/>
+	<Link SourceWaypoint="6990" TargetWaypoint="6991"/>
+	<Link SourceWaypoint="6991" TargetWaypoint="6992"/>
+	<Link SourceWaypoint="6992" TargetWaypoint="6993"/>
+	<Link SourceWaypoint="6993" TargetWaypoint="6994"/>
+	<Link SourceWaypoint="6994" TargetWaypoint="6995"/>
+	<Link SourceWaypoint="6995" TargetWaypoint="6996"/>
+	<Link SourceWaypoint="6996" TargetWaypoint="6997"/>
+	<Link SourceWaypoint="6997" TargetWaypoint="6998"/>
+	<Link SourceWaypoint="6998" TargetWaypoint="6999"/>
+	<Link SourceWaypoint="6999" TargetWaypoint="7000"/>
+	<Link SourceWaypoint="7000" TargetWaypoint="7001"/>
+	<Link SourceWaypoint="7001" TargetWaypoint="7002"/>
+	<Link SourceWaypoint="7002" TargetWaypoint="7003"/>
+	<Link SourceWaypoint="7003" TargetWaypoint="7004"/>
+	<Link SourceWaypoint="7004" TargetWaypoint="7005"/>
+	<Link SourceWaypoint="7005" TargetWaypoint="7006"/>
+	<Link SourceWaypoint="7006" TargetWaypoint="7195"/>
+	<Link SourceWaypoint="7007" TargetWaypoint="7008"/>
+	<Link SourceWaypoint="7008" TargetWaypoint="7009"/>
+	<Link SourceWaypoint="7009" TargetWaypoint="7010"/>
+	<Link SourceWaypoint="7010" TargetWaypoint="7011"/>
+	<Link SourceWaypoint="7011" TargetWaypoint="7012"/>
+	<Link SourceWaypoint="7012" TargetWaypoint="7013"/>
+	<Link SourceWaypoint="7013" TargetWaypoint="7014"/>
+	<Link SourceWaypoint="7014" TargetWaypoint="7015"/>
+	<Link SourceWaypoint="7015" TargetWaypoint="7016"/>
+	<Link SourceWaypoint="7016" TargetWaypoint="7017"/>
+	<Link SourceWaypoint="7017" TargetWaypoint="7018"/>
+	<Link SourceWaypoint="7018" TargetWaypoint="7019"/>
+	<Link SourceWaypoint="7019" TargetWaypoint="7020"/>
+	<Link SourceWaypoint="7020" TargetWaypoint="7021"/>
+	<Link SourceWaypoint="7021" TargetWaypoint="7022"/>
+	<Link SourceWaypoint="7022" TargetWaypoint="7023"/>
+	<Link SourceWaypoint="7023" TargetWaypoint="7024"/>
+	<Link SourceWaypoint="7024" TargetWaypoint="7025"/>
+	<Link SourceWaypoint="7025" TargetWaypoint="7026"/>
+	<Link SourceWaypoint="7026" TargetWaypoint="7027"/>
+	<Link SourceWaypoint="7027" TargetWaypoint="7028"/>
+	<Link SourceWaypoint="7028" TargetWaypoint="7029"/>
+	<Link SourceWaypoint="7029" TargetWaypoint="7030"/>
+	<Link SourceWaypoint="7030" TargetWaypoint="7031"/>
+	<Link SourceWaypoint="7031" TargetWaypoint="7032"/>
+	<Link SourceWaypoint="7032" TargetWaypoint="7033"/>
+	<Link SourceWaypoint="7033" TargetWaypoint="7034"/>
+	<Link SourceWaypoint="7034" TargetWaypoint="7035"/>
+	<Link SourceWaypoint="7035" TargetWaypoint="7036"/>
+	<Link SourceWaypoint="7036" TargetWaypoint="7037"/>
+	<Link SourceWaypoint="7037" TargetWaypoint="7038"/>
+	<Link SourceWaypoint="7038" TargetWaypoint="7039"/>
+	<Link SourceWaypoint="7039" TargetWaypoint="7178"/>
+	<Link SourceWaypoint="7178" TargetWaypoint="7179"/>
+	<Link SourceWaypoint="7179" TargetWaypoint="7180"/>
+	<Link SourceWaypoint="7180" TargetWaypoint="7181"/>
+	<Link SourceWaypoint="7181" TargetWaypoint="7182"/>
+	<Link SourceWaypoint="7182" TargetWaypoint="7183"/>
+	<Link SourceWaypoint="7183" TargetWaypoint="7184"/>
+	<Link SourceWaypoint="7184" TargetWaypoint="7185"/>
+	<Link SourceWaypoint="7185" TargetWaypoint="7186"/>
+	<Link SourceWaypoint="7186" TargetWaypoint="7189"/>
+	<Link SourceWaypoint="7189" TargetWaypoint="7190"/>
+	<Link SourceWaypoint="7190" TargetWaypoint="7191"/>
+	<Link SourceWaypoint="7191" TargetWaypoint="7192"/>
+	<Link SourceWaypoint="7192" TargetWaypoint="7193"/>
+	<Link SourceWaypoint="7193" TargetWaypoint="7192"/>
+	<Link SourceWaypoint="7193" TargetWaypoint="7194"/>
+	<Link SourceWaypoint="7194" TargetWaypoint="7193"/>
+	<Link SourceWaypoint="7194" TargetWaypoint="7196"/>
+	<Link SourceWaypoint="7195" TargetWaypoint="7007"/>
+	<Link SourceWaypoint="7196" TargetWaypoint="7197"/>
+	<Link SourceWaypoint="7197" TargetWaypoint="7198"/>
+	<Link SourceWaypoint="7198" TargetWaypoint="7199"/>
+	<Link SourceWaypoint="7199" TargetWaypoint="7200"/>
+	<Link SourceWaypoint="7200" TargetWaypoint="7201"/>
+	<Link SourceWaypoint="7201" TargetWaypoint="7202"/>
+	<Link SourceWaypoint="7202" TargetWaypoint="7203"/>
+	<Link SourceWaypoint="7203" TargetWaypoint="7204"/>
+	<Link SourceWaypoint="7204" TargetWaypoint="7205"/>
+	<Link SourceWaypoint="7205" TargetWaypoint="7206"/>
+	<Link SourceWaypoint="7206" TargetWaypoint="7207"/>
+	<Link SourceWaypoint="7207" TargetWaypoint="7208"/>
+	<Link SourceWaypoint="7208" TargetWaypoint="7209"/>
+	<Link SourceWaypoint="7209" TargetWaypoint="7210"/>
+	<Link SourceWaypoint="7210" TargetWaypoint="7211"/>
+	<Link SourceWaypoint="7211" TargetWaypoint="7212"/>
+	<Link SourceWaypoint="7212" TargetWaypoint="7213"/>
+	<Link SourceWaypoint="7213" TargetWaypoint="7214"/>
+	<Link SourceWaypoint="7214" TargetWaypoint="7215"/>
+	<Link SourceWaypoint="7215" TargetWaypoint="7216"/>
+	<Link SourceWaypoint="7216" TargetWaypoint="7217"/>
+	<Link SourceWaypoint="7217" TargetWaypoint="7218"/>
+	<Link SourceWaypoint="7218" TargetWaypoint="6984"/>
+</LinkList>
+<GroupList>
+	<Group Key="3" Name="DelpheKnight_Supply_Waypoint"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

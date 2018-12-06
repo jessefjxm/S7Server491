@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="raiten_teleport_position_3">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39461" Name="raiten_teleport_3_001" PosX="899444" PosY="8412.33" PosZ="-35465.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39462" Name="raiten_teleport_3_002" PosX="900931" PosY="10415.2" PosZ="-10824.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39463" Name="raiten_teleport_3_003" PosX="901320" PosY="11668.8" PosZ="5776.89" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39464" Name="raiten_teleport_3_004" PosX="901435" PosY="15360.1" PosZ="35449.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39465" Name="raiten_teleport_3_005" PosX="901832" PosY="16936.9" PosZ="57808.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39466" Name="raiten_teleport_3_006" PosX="923908" PosY="14759.7" PosZ="59001.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39467" Name="raiten_teleport_3_007" PosX="923895" PosY="14217.8" PosZ="36716.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39468" Name="raiten_teleport_3_008" PosX="926761" PosY="11650" PosZ="4991.02" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39469" Name="raiten_teleport_3_009" PosX="927156" PosY="6400" PosZ="-18135.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39470" Name="raiten_teleport_3_010" PosX="926816" PosY="7030.04" PosZ="-34948.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39471" Name="raiten_teleport_3_011" PosX="955770" PosY="6648.86" PosZ="-34098.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39472" Name="raiten_teleport_3_012" PosX="928407" PosY="7662.55" PosZ="-8737.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39473" Name="raiten_teleport_3_013" PosX="953907" PosY="9791.97" PosZ="-10542.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39474" Name="raiten_teleport_3_014" PosX="929346" PosY="11574" PosZ="9614.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39475" Name="raiten_teleport_3_015" PosX="970619" PosY="7600.89" PosZ="-45451" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39476" Name="raiten_teleport_3_016" PosX="984837" PosY="8988.02" PosZ="-23282" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39477" Name="raiten_teleport_3_017" PosX="1.00058e+06" PosY="7982.73" PosZ="-59010" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39478" Name="raiten_teleport_3_018" PosX="1.02309e+06" PosY="6373.12" PosZ="-50362.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39479" Name="raiten_teleport_3_019" PosX="1.00965e+06" PosY="9020.7" PosZ="-27721.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39480" Name="raiten_teleport_3_020" PosX="1.04508e+06" PosY="8247.34" PosZ="-61747.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39481" Name="raiten_teleport_3_021" PosX="1.07014e+06" PosY="10955.1" PosZ="-71619.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39482" Name="raiten_teleport_3_022" PosX="1.08447e+06" PosY="9956.7" PosZ="-56262.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39483" Name="raiten_teleport_3_023" PosX="1.08366e+06" PosY="9636.7" PosZ="-31851.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39484" Name="raiten_teleport_3_024" PosX="1.10474e+06" PosY="10272.6" PosZ="-22829.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39485" Name="raiten_teleport_3_025" PosX="1.0797e+06" PosY="9659" PosZ="-6250.31" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39486" Name="raiten_teleport_3_026" PosX="1.10003e+06" PosY="10106.9" PosZ="14877.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39487" Name="raiten_teleport_3_027" PosX="1.11496e+06" PosY="11960.4" PosZ="-257.038" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39488" Name="raiten_teleport_3_028" PosX="1.07606e+06" PosY="10910" PosZ="23735.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39489" Name="raiten_teleport_3_029" PosX="1.10634e+06" PosY="11116" PosZ="39014.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39490" Name="raiten_teleport_3_030" PosX="1.13229e+06" PosY="10004.4" PosZ="58715.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39491" Name="raiten_teleport_3_031" PosX="1.10275e+06" PosY="10847.8" PosZ="67085.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39492" Name="raiten_teleport_3_032" PosX="1.07227e+06" PosY="11634.3" PosZ="43203.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39493" Name="raiten_teleport_3_033" PosX="1.08375e+06" PosY="12314.6" PosZ="80442.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39494" Name="raiten_teleport_3_034" PosX="1.1568e+06" PosY="12028.4" PosZ="57839.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39495" Name="raiten_teleport_3_035" PosX="1.15014e+06" PosY="9711.97" PosZ="103546" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39496" Name="raiten_teleport_3_036" PosX="1.12549e+06" PosY="12982.6" PosZ="128430" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39497" Name="raiten_teleport_3_037" PosX="1.09808e+06" PosY="13289.9" PosZ="117476" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39498" Name="raiten_teleport_3_038" PosX="1.07774e+06" PosY="14531.6" PosZ="103570" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39499" Name="raiten_teleport_3_039" PosX="1.05582e+06" PosY="13834.2" PosZ="67819.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39500" Name="raiten_teleport_3_040" PosX="1.03683e+06" PosY="13184.6" PosZ="108623" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39501" Name="raiten_teleport_3_041" PosX="1.00395e+06" PosY="8638.02" PosZ="82847.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39502" Name="raiten_teleport_3_042" PosX="978085" PosY="7120.69" PosZ="69890.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39503" Name="raiten_teleport_3_043" PosX="959290" PosY="10345.2" PosZ="81555" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39504" Name="raiten_teleport_3_044" PosX="965265" PosY="11725.7" PosZ="44026.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39505" Name="raiten_teleport_3_045" PosX="982934" PosY="14343.7" PosZ="25047.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39506" Name="raiten_teleport_3_046" PosX="949775" PosY="14250.4" PosZ="18980.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39507" Name="raiten_teleport_3_047" PosX="1.02915e+06" PosY="8536.79" PosZ="-19770.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39508" Name="raiten_teleport_3_048" PosX="1.04186e+06" PosY="6870.28" PosZ="10546.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39509" Name="raiten_teleport_3_049" PosX="1.03025e+06" PosY="9359.97" PosZ="30978.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39510" Name="raiten_teleport_3_050" PosX="1.00112e+06" PosY="12232.2" PosZ="6558.74" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="39462" TargetWaypoint="39463"/>
+	<Link SourceWaypoint="39463" TargetWaypoint="39462"/>
+	<Link SourceWaypoint="39463" TargetWaypoint="39464"/>
+	<Link SourceWaypoint="39464" TargetWaypoint="39463"/>
+	<Link SourceWaypoint="39464" TargetWaypoint="39465"/>
+	<Link SourceWaypoint="39465" TargetWaypoint="39464"/>
+	<Link SourceWaypoint="39465" TargetWaypoint="39466"/>
+	<Link SourceWaypoint="39466" TargetWaypoint="39465"/>
+	<Link SourceWaypoint="39466" TargetWaypoint="39467"/>
+	<Link SourceWaypoint="39467" TargetWaypoint="39466"/>
+	<Link SourceWaypoint="39467" TargetWaypoint="39468"/>
+	<Link SourceWaypoint="39468" TargetWaypoint="39467"/>
+	<Link SourceWaypoint="39468" TargetWaypoint="39469"/>
+	<Link SourceWaypoint="39469" TargetWaypoint="39468"/>
+	<Link SourceWaypoint="39469" TargetWaypoint="39470"/>
+	<Link SourceWaypoint="39470" TargetWaypoint="39469"/>
+	<Link SourceWaypoint="39470" TargetWaypoint="39471"/>
+	<Link SourceWaypoint="39471" TargetWaypoint="39470"/>
+	<Link SourceWaypoint="39471" TargetWaypoint="39472"/>
+	<Link SourceWaypoint="39472" TargetWaypoint="39471"/>
+	<Link SourceWaypoint="39472" TargetWaypoint="39473"/>
+	<Link SourceWaypoint="39473" TargetWaypoint="39472"/>
+	<Link SourceWaypoint="39473" TargetWaypoint="39474"/>
+	<Link SourceWaypoint="39474" TargetWaypoint="39473"/>
+	<Link SourceWaypoint="39474" TargetWaypoint="39475"/>
+	<Link SourceWaypoint="39475" TargetWaypoint="39474"/>
+	<Link SourceWaypoint="39475" TargetWaypoint="39476"/>
+	<Link SourceWaypoint="39476" TargetWaypoint="39475"/>
+	<Link SourceWaypoint="39476" TargetWaypoint="39477"/>
+	<Link SourceWaypoint="39477" TargetWaypoint="39476"/>
+	<Link SourceWaypoint="39477" TargetWaypoint="39478"/>
+	<Link SourceWaypoint="39478" TargetWaypoint="39477"/>
+	<Link SourceWaypoint="39478" TargetWaypoint="39479"/>
+	<Link SourceWaypoint="39479" TargetWaypoint="39478"/>
+	<Link SourceWaypoint="39479" TargetWaypoint="39480"/>
+	<Link SourceWaypoint="39480" TargetWaypoint="39479"/>
+	<Link SourceWaypoint="39480" TargetWaypoint="39481"/>
+	<Link SourceWaypoint="39481" TargetWaypoint="39480"/>
+	<Link SourceWaypoint="39481" TargetWaypoint="39482"/>
+	<Link SourceWaypoint="39482" TargetWaypoint="39481"/>
+	<Link SourceWaypoint="39482" TargetWaypoint="39483"/>
+	<Link SourceWaypoint="39483" TargetWaypoint="39482"/>
+	<Link SourceWaypoint="39483" TargetWaypoint="39484"/>
+	<Link SourceWaypoint="39484" TargetWaypoint="39483"/>
+	<Link SourceWaypoint="39484" TargetWaypoint="39485"/>
+	<Link SourceWaypoint="39485" TargetWaypoint="39484"/>
+	<Link SourceWaypoint="39485" TargetWaypoint="39486"/>
+	<Link SourceWaypoint="39486" TargetWaypoint="39485"/>
+	<Link SourceWaypoint="39486" TargetWaypoint="39487"/>
+	<Link SourceWaypoint="39487" TargetWaypoint="39486"/>
+	<Link SourceWaypoint="39487" TargetWaypoint="39488"/>
+	<Link SourceWaypoint="39488" TargetWaypoint="39487"/>
+	<Link SourceWaypoint="39488" TargetWaypoint="39489"/>
+	<Link SourceWaypoint="39489" TargetWaypoint="39488"/>
+	<Link SourceWaypoint="39489" TargetWaypoint="39490"/>
+	<Link SourceWaypoint="39490" TargetWaypoint="39489"/>
+	<Link SourceWaypoint="39490" TargetWaypoint="39491"/>
+	<Link SourceWaypoint="39491" TargetWaypoint="39490"/>
+	<Link SourceWaypoint="39491" TargetWaypoint="39492"/>
+	<Link SourceWaypoint="39492" TargetWaypoint="39491"/>
+	<Link SourceWaypoint="39492" TargetWaypoint="39493"/>
+	<Link SourceWaypoint="39493" TargetWaypoint="39492"/>
+	<Link SourceWaypoint="39494" TargetWaypoint="39495"/>
+	<Link SourceWaypoint="39495" TargetWaypoint="39494"/>
+	<Link SourceWaypoint="39495" TargetWaypoint="39496"/>
+	<Link SourceWaypoint="39496" TargetWaypoint="39495"/>
+	<Link SourceWaypoint="39496" TargetWaypoint="39497"/>
+	<Link SourceWaypoint="39497" TargetWaypoint="39496"/>
+	<Link SourceWaypoint="39497" TargetWaypoint="39498"/>
+	<Link SourceWaypoint="39498" TargetWaypoint="39497"/>
+	<Link SourceWaypoint="39498" TargetWaypoint="39499"/>
+	<Link SourceWaypoint="39499" TargetWaypoint="39498"/>
+	<Link SourceWaypoint="39499" TargetWaypoint="39500"/>
+	<Link SourceWaypoint="39500" TargetWaypoint="39499"/>
+	<Link SourceWaypoint="39500" TargetWaypoint="39501"/>
+	<Link SourceWaypoint="39501" TargetWaypoint="39500"/>
+	<Link SourceWaypoint="39501" TargetWaypoint="39502"/>
+	<Link SourceWaypoint="39502" TargetWaypoint="39501"/>
+	<Link SourceWaypoint="39502" TargetWaypoint="39503"/>
+	<Link SourceWaypoint="39503" TargetWaypoint="39502"/>
+	<Link SourceWaypoint="39503" TargetWaypoint="39504"/>
+	<Link SourceWaypoint="39504" TargetWaypoint="39503"/>
+	<Link SourceWaypoint="39504" TargetWaypoint="39505"/>
+	<Link SourceWaypoint="39505" TargetWaypoint="39504"/>
+	<Link SourceWaypoint="39505" TargetWaypoint="39506"/>
+	<Link SourceWaypoint="39506" TargetWaypoint="39505"/>
+	<Link SourceWaypoint="39506" TargetWaypoint="39507"/>
+	<Link SourceWaypoint="39507" TargetWaypoint="39506"/>
+	<Link SourceWaypoint="39507" TargetWaypoint="39508"/>
+	<Link SourceWaypoint="39508" TargetWaypoint="39507"/>
+	<Link SourceWaypoint="39508" TargetWaypoint="39509"/>
+	<Link SourceWaypoint="39509" TargetWaypoint="39508"/>
+	<Link SourceWaypoint="39509" TargetWaypoint="39510"/>
+	<Link SourceWaypoint="39510" TargetWaypoint="39509"/>
+</LinkList>
+<GroupList>
+	<Group Key="195" Name="Raiten_Teleport_Position_3"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

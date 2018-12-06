@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="camalion_04">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39874" Name="CamaLion_04_001" PosX="-417109" PosY="-1082.54" PosZ="-447349" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39875" Name="CamaLion_04_002" PosX="-417746" PosY="-1012.79" PosZ="-448733" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39876" Name="CamaLion_04_003" PosX="-418251" PosY="-992.22" PosZ="-450055" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39877" Name="CamaLion_04_004" PosX="-417998" PosY="-929.613" PosZ="-451846" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39878" Name="CamaLion_04_005" PosX="-417136" PosY="-692.476" PosZ="-453163" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39879" Name="CamaLion_04_006" PosX="-416323" PosY="-514.38" PosZ="-454087" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39880" Name="CamaLion_04_007" PosX="-414680" PosY="-459.021" PosZ="-454503" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39881" Name="CamaLion_04_008" PosX="-413248" PosY="-390.963" PosZ="-454022" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39882" Name="CamaLion_04_009" PosX="-411795" PosY="-288.975" PosZ="-453618" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39883" Name="CamaLion_04_010" PosX="-410416" PosY="-229.134" PosZ="-452914" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39884" Name="CamaLion_04_011" PosX="-408896" PosY="-96.9854" PosZ="-451807" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39885" Name="CamaLion_04_012" PosX="-407659" PosY="218.597" PosZ="-450057" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39886" Name="CamaLion_04_013" PosX="-406473" PosY="-122.374" PosZ="-448378" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39887" Name="CamaLion_04_014" PosX="-406947" PosY="-481.089" PosZ="-446461" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39888" Name="CamaLion_04_015" PosX="-408777" PosY="-575.388" PosZ="-445887" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39889" Name="CamaLion_04_016" PosX="-410760" PosY="-775.233" PosZ="-445985" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39890" Name="CamaLion_04_017" PosX="-412399" PosY="-909.656" PosZ="-446428" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39891" Name="CamaLion_04_018" PosX="-414246" PosY="-1084.74" PosZ="-446794" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39892" Name="CamaLion_04_019" PosX="-415706" PosY="-1082.9" PosZ="-446890" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="39874" TargetWaypoint="39875"/>
+	<Link SourceWaypoint="39875" TargetWaypoint="39876"/>
+	<Link SourceWaypoint="39876" TargetWaypoint="39877"/>
+	<Link SourceWaypoint="39877" TargetWaypoint="39878"/>
+	<Link SourceWaypoint="39878" TargetWaypoint="39879"/>
+	<Link SourceWaypoint="39879" TargetWaypoint="39880"/>
+	<Link SourceWaypoint="39880" TargetWaypoint="39881"/>
+	<Link SourceWaypoint="39881" TargetWaypoint="39882"/>
+	<Link SourceWaypoint="39882" TargetWaypoint="39883"/>
+	<Link SourceWaypoint="39883" TargetWaypoint="39884"/>
+	<Link SourceWaypoint="39884" TargetWaypoint="39885"/>
+	<Link SourceWaypoint="39885" TargetWaypoint="39886"/>
+	<Link SourceWaypoint="39886" TargetWaypoint="39887"/>
+	<Link SourceWaypoint="39887" TargetWaypoint="39888"/>
+	<Link SourceWaypoint="39888" TargetWaypoint="39889"/>
+	<Link SourceWaypoint="39889" TargetWaypoint="39890"/>
+	<Link SourceWaypoint="39890" TargetWaypoint="39891"/>
+	<Link SourceWaypoint="39891" TargetWaypoint="39892"/>
+	<Link SourceWaypoint="39892" TargetWaypoint="39874"/>
+</LinkList>
+<GroupList>
+	<Group Key="207" Name="CamaLion_04"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

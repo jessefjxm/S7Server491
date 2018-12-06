@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script src="/Areas/Customizing/common/js/rank.js"></script>
+<link href="/Areas/Customizing/common/css/rank.css" rel="stylesheet"/>
+
+<script>
+    $(document).ready(function () {
+        common.openPage();
+
+        initPage();
+
+        common.closePage();
+    });
+</script>
+<div id="rank" class="container scroll">
+    <div id="searchBox">
+        <div class="label" data-str="WEB_CUSTOMIZING_TEXT_CLASS"></div>
+        <a class="btnAll allSelect" data-selector="on" data-color="1d1b17"><span
+                data-str="WEB_CUSTOMIZING_TEXT_ALL"> </span></a>
+
+        <hr/>
+        <div class="label" data-str="WEB_CUSTOMIZING_SEARCH_TIME"></div>
+        <div class="search">
+            <div class="radioArea">
+            </div>
+        </div>
+    </div>
+    <h1 class="textArea arial">
+        <span class="border arial bold" data-str="WEB_CUSTOMIZING_TEXT_DOWNLOAD_TOP_50"> </span>
+        <span class="text arial bold" data-str="WEB_CUSTOMIZING_TEXT_DOWNLOAD_TOP_50"> </span>
+        <span class="shadow arial bold" data-str="WEB_CUSTOMIZING_TEXT_DOWNLOAD_TOP_50"> </span>
+    </h1>
+    <div class="cmArea" data-formatType="searchFormat">
+        <div class="CMBox">
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

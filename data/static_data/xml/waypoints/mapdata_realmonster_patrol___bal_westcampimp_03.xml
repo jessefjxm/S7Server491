@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="bal_westcampimp_03">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1006" Name="n_att02_01" PosX="-70893" PosY="-4208.03" PosZ="44668.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1007" Name="n_att02_02" PosX="-71737" PosY="-4173.77" PosZ="44457.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1008" Name="n_att02_03" PosX="-72577.8" PosY="-4172.15" PosZ="44610.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1009" Name="n_att02_04" PosX="-71231.3" PosY="-4213.85" PosZ="44822.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1010" Name="n_att02_05" PosX="-75468.5" PosY="-4109.08" PosZ="45331.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1011" Name="n_att02_06" PosX="-71421.6" PosY="-4245.77" PosZ="45673.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1012" Name="n_att02_07" PosX="-71886.7" PosY="-4265.41" PosZ="46024" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1013" Name="n_att02_08" PosX="-72666.6" PosY="-4279.47" PosZ="46546.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12320" Name="Bal_Imp_056" PosX="-73130.8" PosY="-4170.48" PosZ="44771.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12321" Name="Bal_Imp_057" PosX="-74125.7" PosY="-4134.61" PosZ="44939.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12322" Name="Bal_Imp_058" PosX="-74777.5" PosY="-4117.43" PosZ="45118.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12323" Name="Bal_Imp_059" PosX="-73256.6" PosY="-4114.38" PosZ="44317.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12324" Name="Bal_Imp_060" PosX="-73852.5" PosY="-4049.19" PosZ="44171.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12325" Name="Bal_Imp_061" PosX="-74627.9" PosY="-3972.02" PosZ="44171.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12326" Name="Bal_Imp_062" PosX="-75551.5" PosY="-3969.45" PosZ="44176.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12327" Name="Bal_Imp_063" PosX="-73331.3" PosY="-4275.73" PosZ="46950.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12328" Name="Bal_Imp_064" PosX="-74131.9" PosY="-4274.79" PosZ="47117.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12329" Name="Bal_Imp_065" PosX="-73972" PosY="-4256.99" PosZ="47739.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12330" Name="Bal_Imp_066" PosX="-75217.3" PosY="-4284.82" PosZ="48147.9" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="1006" TargetWaypoint="1009"/>
+	<Link SourceWaypoint="1007" TargetWaypoint="1008"/>
+	<Link SourceWaypoint="1007" TargetWaypoint="1009"/>
+	<Link SourceWaypoint="1008" TargetWaypoint="1007"/>
+	<Link SourceWaypoint="1008" TargetWaypoint="12320"/>
+	<Link SourceWaypoint="1008" TargetWaypoint="12323"/>
+	<Link SourceWaypoint="1009" TargetWaypoint="1006"/>
+	<Link SourceWaypoint="1009" TargetWaypoint="1007"/>
+	<Link SourceWaypoint="1009" TargetWaypoint="1011"/>
+	<Link SourceWaypoint="1010" TargetWaypoint="12322"/>
+	<Link SourceWaypoint="1011" TargetWaypoint="1012"/>
+	<Link SourceWaypoint="1011" TargetWaypoint="1009"/>
+	<Link SourceWaypoint="1012" TargetWaypoint="1011"/>
+	<Link SourceWaypoint="1012" TargetWaypoint="1013"/>
+	<Link SourceWaypoint="1013" TargetWaypoint="1012"/>
+	<Link SourceWaypoint="1013" TargetWaypoint="12327"/>
+	<Link SourceWaypoint="12320" TargetWaypoint="1008"/>
+	<Link SourceWaypoint="12320" TargetWaypoint="12321"/>
+	<Link SourceWaypoint="12321" TargetWaypoint="12320"/>
+	<Link SourceWaypoint="12321" TargetWaypoint="12322"/>
+	<Link SourceWaypoint="12322" TargetWaypoint="12321"/>
+	<Link SourceWaypoint="12322" TargetWaypoint="1010"/>
+	<Link SourceWaypoint="12323" TargetWaypoint="1008"/>
+	<Link SourceWaypoint="12323" TargetWaypoint="12324"/>
+	<Link SourceWaypoint="12324" TargetWaypoint="12323"/>
+	<Link SourceWaypoint="12324" TargetWaypoint="12325"/>
+	<Link SourceWaypoint="12325" TargetWaypoint="12324"/>
+	<Link SourceWaypoint="12325" TargetWaypoint="12326"/>
+	<Link SourceWaypoint="12326" TargetWaypoint="12325"/>
+	<Link SourceWaypoint="12327" TargetWaypoint="1013"/>
+	<Link SourceWaypoint="12327" TargetWaypoint="12328"/>
+	<Link SourceWaypoint="12327" TargetWaypoint="12329"/>
+	<Link SourceWaypoint="12328" TargetWaypoint="12327"/>
+	<Link SourceWaypoint="12329" TargetWaypoint="12327"/>
+	<Link SourceWaypoint="12329" TargetWaypoint="12330"/>
+	<Link SourceWaypoint="12330" TargetWaypoint="12329"/>
+</LinkList>
+<GroupList>
+	<Group Key="12" Name="Bal_WestCampImp_03"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="npc" subName="westguardcamp_roaming_route">
+<WaypointList>
+	<Waypoint IsSubWaypoint="False" Key="1092" Name="WestGuardCamp_Roaming_Route_001" PosX="-68157.3" PosY="-4263.08" PosZ="43364.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1093" Name="WestGuardCamp_Roaming_Route_002" PosX="-67680" PosY="-4304.73" PosZ="43133.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1094" Name="WestGuardCamp_Roaming_Route_003" PosX="-67136.5" PosY="-4344.61" PosZ="42802.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1095" Name="WestGuardCamp_Roaming_Route_004" PosX="-66480" PosY="-4357.55" PosZ="42422.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1096" Name="WestGuardCamp_Roaming_Route_005" PosX="-65541.6" PosY="-4366.01" PosZ="42181.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1097" Name="WestGuardCamp_Roaming_Route_006" PosX="-64607" PosY="-4381" PosZ="42214" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1098" Name="WestGuardCamp_Roaming_Route_007" PosX="-63427.7" PosY="-4360.34" PosZ="42564.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1099" Name="WestGuardCamp_Roaming_Route_008" PosX="-62645.3" PosY="-4338.62" PosZ="43386.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1100" Name="WestGuardCamp_Roaming_Route_009" PosX="-61676.9" PosY="-4313.52" PosZ="44378.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1101" Name="WestGuardCamp_Roaming_Route_010" PosX="-60630.9" PosY="-4234.25" PosZ="45129.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1102" Name="WestGuardCamp_Roaming_Route_011" PosX="-59885.4" PosY="-4220.04" PosZ="45458.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1103" Name="WestGuardCamp_Roaming_Route_012" PosX="-58915" PosY="-4212.48" PosZ="45750.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1104" Name="WestGuardCamp_Roaming_Route_013" PosX="-57503.9" PosY="-4215.03" PosZ="45825.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1105" Name="WestGuardCamp_Roaming_Route_014" PosX="-56497.8" PosY="-4226.54" PosZ="45785.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1106" Name="WestGuardCamp_Roaming_Route_015" PosX="-63976.6" PosY="-4356.91" PosZ="41505.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1107" Name="WestGuardCamp_Roaming_Route_016" PosX="-64079" PosY="-4347.69" PosZ="40663.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1108" Name="WestGuardCamp_Roaming_Route_017" PosX="-64076.8" PosY="-4346.94" PosZ="39689.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1109" Name="WestGuardCamp_Roaming_Route_018" PosX="-63955.3" PosY="-4349.84" PosZ="38845.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1110" Name="WestGuardCamp_Roaming_Route_019" PosX="-63906.9" PosY="-4306.62" PosZ="37897.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1111" Name="WestGuardCamp_Roaming_Route_020" PosX="-63856.3" PosY="-4181.17" PosZ="37099" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1112" Name="WestGuardCamp_Roaming_Route_021" PosX="-63892.8" PosY="-4037.66" PosZ="35963.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1113" Name="WestGuardCamp_Roaming_Route_022" PosX="-62807" PosY="-3797.56" PosZ="35719.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1114" Name="WestGuardCamp_Roaming_Route_023" PosX="-61735.3" PosY="-3667.07" PosZ="35694.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1115" Name="WestGuardCamp_Roaming_Route_024" PosX="-60572.5" PosY="-3535.64" PosZ="35753.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1116" Name="WestGuardCamp_Roaming_Route_025" PosX="-59622.9" PosY="-3521.9" PosZ="36309.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1117" Name="WestGuardCamp_Roaming_Route_026" PosX="-58678.4" PosY="-3526.34" PosZ="37004.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1118" Name="WestGuardCamp_Roaming_Route_027" PosX="-58134.8" PosY="-3532.5" PosZ="37812.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1119" Name="WestGuardCamp_Roaming_Route_028" PosX="-58211.5" PosY="-3500.95" PosZ="38283.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1120" Name="WestGuardCamp_Roaming_Route_029" PosX="-58194.8" PosY="-3655.7" PosZ="38834.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1121" Name="WestGuardCamp_Roaming_Route_030" PosX="-58010.3" PosY="-3746.53" PosZ="39474.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1122" Name="WestGuardCamp_Roaming_Route_031" PosX="-58079.1" PosY="-3860.73" PosZ="40462.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1123" Name="WestGuardCamp_Roaming_Route_032" PosX="-58083.7" PosY="-3901.1" PosZ="41284" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1124" Name="WestGuardCamp_Roaming_Route_033" PosX="-57503" PosY="-3970.4" PosZ="41674.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1125" Name="WestGuardCamp_Roaming_Route_034" PosX="-56673.7" PosY="-3942.13" PosZ="42074.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1127" Name="WestGuardCamp_Roaming_Route_036" PosX="-56218.3" PosY="-3892.95" PosZ="43128.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1128" Name="WestGuardCamp_Roaming_Route_037" PosX="-56374.1" PosY="-3893.87" PosZ="43685.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1129" Name="WestGuardCamp_Roaming_Route_038" PosX="-56531.3" PosY="-3885.49" PosZ="44012" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1130" Name="WestGuardCamp_Roaming_Route_039" PosX="-56551.1" PosY="-3860.13" PosZ="44371.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1131" Name="WestGuardCamp_Roaming_Route_040" PosX="-56494.5" PosY="-4185.73" PosZ="44836.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1132" Name="WestGuardCamp_Roaming_Route_041" PosX="-56502.7" PosY="-4211.45" PosZ="45291.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1133" Name="WestGuardCamp_Roaming_Route_042" PosX="-56393" PosY="-4219.54" PosZ="46440.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1134" Name="WestGuardCamp_Roaming_Route_043" PosX="-56283.8" PosY="-4146.92" PosZ="46915.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1135" Name="WestGuardCamp_Roaming_Route_044" PosX="-56411.8" PosY="-3979.66" PosZ="47452.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1136" Name="WestGuardCamp_Roaming_Route_045" PosX="-56687.5" PosY="-3954.16" PosZ="47835.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1137" Name="WestGuardCamp_Roaming_Route_046" PosX="-57243.5" PosY="-3933.63" PosZ="48001.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1138" Name="WestGuardCamp_Roaming_Route_047" PosX="-58049.2" PosY="-3902.86" PosZ="48099.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1139" Name="WestGuardCamp_Roaming_Route_048" PosX="-58700" PosY="-3862.13" PosZ="47787.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1140" Name="WestGuardCamp_Roaming_Route_049" PosX="-59186.5" PosY="-3840.23" PosZ="47495.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1141" Name="WestGuardCamp_Roaming_Route_050" PosX="-59812.6" PosY="-3851.57" PosZ="47259.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1142" Name="WestGuardCamp_Roaming_Route_051" PosX="-60423.3" PosY="-3857.57" PosZ="47234.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1143" Name="WestGuardCamp_Roaming_Route_052" PosX="-61114.2" PosY="-3875.38" PosZ="47159.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1144" Name="WestGuardCamp_Roaming_Route_053" PosX="-61658.2" PosY="-3866.78" PosZ="47149.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1145" Name="WestGuardCamp_Roaming_Route_054" PosX="-62155.8" PosY="-3837.22" PosZ="47239" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1146" Name="WestGuardCamp_Roaming_Route_055" PosX="-62718.6" PosY="-3817.26" PosZ="47379.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1147" Name="WestGuardCamp_Roaming_Route_056" PosX="-63308.8" PosY="-3836.5" PosZ="47406.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1148" Name="WestGuardCamp_Roaming_Route_057" PosX="-63744.1" PosY="-3838.64" PosZ="47196.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1149" Name="WestGuardCamp_Roaming_Route_058" PosX="-64147" PosY="-3830.8" PosZ="46685.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1150" Name="WestGuardCamp_Roaming_Route_059" PosX="-64544.9" PosY="-3831.8" PosZ="46379.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1151" Name="WestGuardCamp_Roaming_Route_060" PosX="-64957.5" PosY="-3839.35" PosZ="46075.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1152" Name="WestGuardCamp_Roaming_Route_061" PosX="-65444.4" PosY="-3889.35" PosZ="45783.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1153" Name="WestGuardCamp_Roaming_Route_062" PosX="-65908.7" PosY="-3981.22" PosZ="45747.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1154" Name="WestGuardCamp_Roaming_Route_063" PosX="-66351.7" PosY="-4016.55" PosZ="45567.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1155" Name="WestGuardCamp_Roaming_Route_064" PosX="-66712.3" PosY="-4031.04" PosZ="45169.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1156" Name="WestGuardCamp_Roaming_Route_065" PosX="-66767.3" PosY="-4019.97" PosZ="44824.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1157" Name="WestGuardCamp_Roaming_Route_066" PosX="-66742.2" PosY="-4021.2" PosZ="44377.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1158" Name="WestGuardCamp_Roaming_Route_067" PosX="-66563.1" PosY="-4217.61" PosZ="43847.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1159" Name="WestGuardCamp_Roaming_Route_068" PosX="-66599.5" PosY="-4312.87" PosZ="43420.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1160" Name="WestGuardCamp_Roaming_Route_069" PosX="-64522.1" PosY="-4359.98" PosZ="43015.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1161" Name="WestGuardCamp_Roaming_Route_070" PosX="-64287.1" PosY="-4319.74" PosZ="43248.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1162" Name="WestGuardCamp_Roaming_Route_071" PosX="-64174.5" PosY="-4176.05" PosZ="43812.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1163" Name="WestGuardCamp_Roaming_Route_072" PosX="-64053.2" PosY="-4118.7" PosZ="44292" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1164" Name="WestGuardCamp_Roaming_Route_073" PosX="-63907.1" PosY="-4093.65" PosZ="44794.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1165" Name="WestGuardCamp_Roaming_Route_074" PosX="-64058" PosY="-4048.41" PosZ="45297.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1166" Name="WestGuardCamp_Roaming_Route_075" PosX="-64372.8" PosY="-4008.33" PosZ="45732.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1167" Name="WestGuardCamp_Roaming_Route_076" PosX="-64510.9" PosY="-3882.52" PosZ="46103.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1168" Name="WestGuardCamp_Roaming_Route_077" PosX="-63493.6" PosY="-4076.57" PosZ="44601" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1169" Name="WestGuardCamp_Roaming_Route_078" PosX="-63023.4" PosY="-4075.81" PosZ="44807.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1170" Name="WestGuardCamp_Roaming_Route_079" PosX="-62638.3" PosY="-4108.98" PosZ="45056" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1171" Name="WestGuardCamp_Roaming_Route_080" PosX="-62357.3" PosY="-4118.42" PosZ="45171.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1172" Name="WestGuardCamp_Roaming_Route_081" PosX="-61894.7" PosY="-4288.84" PosZ="44894.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1173" Name="WestGuardCamp_Roaming_Route_082" PosX="-62016.8" PosY="-4148.74" PosZ="45380.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1174" Name="WestGuardCamp_Roaming_Route_083" PosX="-61590.5" PosY="-4196.59" PosZ="45658.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1175" Name="WestGuardCamp_Roaming_Route_084" PosX="-61608.5" PosY="-4048.64" PosZ="46139.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1176" Name="WestGuardCamp_Roaming_Route_085" PosX="-61648.4" PosY="-3918.62" PosZ="46465" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1177" Name="WestGuardCamp_Roaming_Route_086" PosX="-61466.2" PosY="-4267.74" PosZ="45156.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1178" Name="WestGuardCamp_Roaming_Route_087" PosX="-62010.4" PosY="-4339.02" PosZ="43990.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1179" Name="WestGuardCamp_Roaming_Route_088" PosX="-61702.4" PosY="-4283.67" PosZ="43700.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1180" Name="WestGuardCamp_Roaming_Route_089" PosX="-61362.9" PosY="-4148.57" PosZ="43424.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1181" Name="WestGuardCamp_Roaming_Route_090" PosX="-60982.2" PosY="-4017.24" PosZ="43078.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1182" Name="WestGuardCamp_Roaming_Route_091" PosX="-60844.8" PosY="-3980.51" PosZ="42942.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1183" Name="WestGuardCamp_Roaming_Route_092" PosX="-60302.4" PosY="-4012.4" PosZ="42732.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1184" Name="WestGuardCamp_Roaming_Route_093" PosX="-59689.9" PosY="-4009.52" PosZ="42532.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1185" Name="WestGuardCamp_Roaming_Route_094" PosX="-58888.7" PosY="-3973.66" PosZ="42274.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1186" Name="WestGuardCamp_Roaming_Route_095" PosX="-58432.8" PosY="-3988.61" PosZ="41816.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1187" Name="WestGuardCamp_Roaming_Route_096" PosX="-62995.6" PosY="-4285.85" PosZ="42044.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1188" Name="WestGuardCamp_Roaming_Route_097" PosX="-62540.2" PosY="-4127.63" PosZ="41856.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1189" Name="WestGuardCamp_Roaming_Route_098" PosX="-62195.1" PosY="-4029.79" PosZ="41758.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1190" Name="WestGuardCamp_Roaming_Route_099" PosX="-61916.1" PosY="-3981.89" PosZ="41654.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1191" Name="WestGuardCamp_Roaming_Route_100" PosX="-61092.5" PosY="-4008.25" PosZ="41234.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1192" Name="WestGuardCamp_Roaming_Route_101" PosX="-60381" PosY="-4030.58" PosZ="41794.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1205" Name="WestGuardCamp_Roaming_Route_048_01" PosX="-58727.1" PosY="-3907.15" PosZ="48548.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1206" Name="WestGuardCamp_Roaming_Route_048_02" PosX="-58717.4" PosY="-3770.5" PosZ="48746.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1207" Name="WestGuardCamp_Roaming_Route_048_03" PosX="-58703.1" PosY="-3770.5" PosZ="48850.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1208" Name="WestGuardCamp_Roaming_Route_048_04" PosX="-58775.1" PosY="-3746.5" PosZ="48869.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1209" Name="WestGuardCamp_Roaming_Route_048_05" PosX="-58884.8" PosY="-3678.15" PosZ="48900.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1210" Name="WestGuardCamp_Roaming_Route_048_06" PosX="-59246" PosY="-3678.15" PosZ="49093.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1211" Name="WestGuardCamp_Roaming_Route_Stop3" PosX="-59114.9" PosY="-3678.15" PosZ="48857.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1212" Name="WestGuardCamp_Roaming_Route_Stop4" PosX="-59540.4" PosY="-3678.15" PosZ="49069.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1213" Name="WestGuardCamp_Roaming_Route_Stop5" PosX="-57902.2" PosY="-3877.98" PosZ="47528.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1214" Name="WestGuardCamp_Roaming_Route_Stop6" PosX="-60825.7" PosY="-3862.71" PosZ="47736" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1215" Name="WestGuardCamp_Roaming_Route_056_01" PosX="-63558" PosY="-3783.3" PosZ="47838.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1216" Name="WestGuardCamp_Roaming_Route_056_02" PosX="-63757.2" PosY="-3732.99" PosZ="48212.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1217" Name="WestGuardCamp_Roaming_Route_Stop7" PosX="-63910.4" PosY="-3738.95" PosZ="48442.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1218" Name="WestGuardCamp_Roaming_Route_Stop8" PosX="-64069.6" PosY="-3804.11" PosZ="47253.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1219" Name="WestGuardCamp_Roaming_Route_060_01" PosX="-65183.2" PosY="-3823.85" PosZ="46424.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1220" Name="WestGuardCamp_Roaming_Route_060_02" PosX="-65414.5" PosY="-3824.41" PosZ="46676.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1221" Name="WestGuardCamp_Roaming_Route_Stop9" PosX="-65746.7" PosY="-3847.92" PosZ="46393.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1222" Name="WestGuardCamp_Roaming_Route_Stop10" PosX="-65223" PosY="-3827.18" PosZ="46836.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1223" Name="WestGuardCamp_Roaming_Route_059_01" PosX="-64159.5" PosY="-3899.45" PosZ="46227.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1224" Name="WestGuardCamp_Roaming_Route_059_02" PosX="-64076.1" PosY="-3813.74" PosZ="46131.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1225" Name="WestGuardCamp_Roaming_Route_059_03" PosX="-63994.1" PosY="-3807.16" PosZ="46027.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1226" Name="WestGuardCamp_Roaming_Route_059_04" PosX="-63976.1" PosY="-3799.77" PosZ="46059.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1227" Name="WestGuardCamp_Roaming_Route_059_05" PosX="-63775.1" PosY="-3726.44" PosZ="46227" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1228" Name="WestGuardCamp_Roaming_Route_059_06" PosX="-63530" PosY="-3715.34" PosZ="46251.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1229" Name="WestGuardCamp_Roaming_Route_Stop11" PosX="-63639.1" PosY="-3715.34" PosZ="46402.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1230" Name="WestGuardCamp_Roaming_Route_Stop12" PosX="-63290" PosY="-3718" PosZ="46507" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1231" Name="WestGuardCamp_Roaming_Route_062_01" PosX="-66039.1" PosY="-3964.73" PosZ="46134.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1232" Name="WestGuardCamp_Roaming_Route_062_02" PosX="-66296.6" PosY="-3949.42" PosZ="46435.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1233" Name="WestGuardCamp_Roaming_Route_062_03" PosX="-66394.8" PosY="-3860.12" PosZ="46548.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1234" Name="WestGuardCamp_Roaming_Route_062_04" PosX="-66481" PosY="-3860.12" PosZ="46633.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1235" Name="WestGuardCamp_Roaming_Route_062_05" PosX="-66538.8" PosY="-3836.12" PosZ="46591" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1236" Name="WestGuardCamp_Roaming_Route_062_06" PosX="-66613.5" PosY="-3767.67" PosZ="46516.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1237" Name="WestGuardCamp_Roaming_Route_062_07" PosX="-66938.2" PosY="-3767.67" PosZ="46347.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1238" Name="WestGuardCamp_Roaming_Route_Stop13" PosX="-66861.7" PosY="-3767.67" PosZ="46245.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1239" Name="WestGuardCamp_Roaming_Route_Stop14" PosX="-67140" PosY="-3767.67" PosZ="46053.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1252" Name="WestGuardCamp_Roaming_Route_Stop18" PosX="-67262.1" PosY="-4038.48" PosZ="45115.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1253" Name="WestGuardCamp_Roaming_Route_Stop19" PosX="-68492.8" PosY="-4209.42" PosZ="42451.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1254" Name="WestGuardCamp_Roaming_Route_Stop20" PosX="-66951.5" PosY="-4328.66" PosZ="41641.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1255" Name="WestGuardCamp_Roaming_Route_Stop21" PosX="-64922.4" PosY="-4353.59" PosZ="41489.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1256" Name="WestGuardCamp_Roaming_Route_Stop22" PosX="-65279.8" PosY="-3936.63" PosZ="36078.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1268" Name="WestGuardCamp_Roaming_Route_023_01" PosX="-61403.8" PosY="-3637.82" PosZ="35116.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1269" Name="WestGuardCamp_Roaming_Route_023_02" PosX="-61134.6" PosY="-3598.02" PosZ="34520.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1270" Name="WestGuardCamp_Roaming_Route_023_03" PosX="-61059.4" PosY="-3496.39" PosZ="34365.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1271" Name="WestGuardCamp_Roaming_Route_023_04" PosX="-61127.5" PosY="-3448.39" PosZ="34137.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1272" Name="WestGuardCamp_Roaming_Route_023_05" PosX="-61208.4" PosY="-3407.07" PosZ="34135.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1273" Name="WestGuardCamp_Roaming_Route_023_06" PosX="-61315.7" PosY="-3407.07" PosZ="34119.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1274" Name="WestGuardCamp_Roaming_Route_Stop25" PosX="-61704.3" PosY="-3407.07" PosZ="34070.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1275" Name="WestGuardCamp_Roaming_Route_024_01" PosX="-60414" PosY="-3252.46" PosZ="35404" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1276" Name="WestGuardCamp_Roaming_Route_024_02" PosX="-60313.8" PosY="-3230.46" PosZ="35132.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1277" Name="WestGuardCamp_Roaming_Route_Stop26" PosX="-60213.8" PosY="-3230.46" PosZ="34815.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1278" Name="WestGuardCamp_Roaming_Route_027_01" PosX="-57651.8" PosY="-3532.16" PosZ="38186.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1279" Name="WestGuardCamp_Roaming_Route_027_02" PosX="-57491.9" PosY="-3397.3" PosZ="38110.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1280" Name="WestGuardCamp_Roaming_Route_027_03" PosX="-57382.6" PosY="-3382.95" PosZ="38053.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1281" Name="WestGuardCamp_Roaming_Route_027_04" PosX="-57338.9" PosY="-3381.3" PosZ="38125.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1282" Name="WestGuardCamp_Roaming_Route_027_05" PosX="-57273.6" PosY="-3297.08" PosZ="38232.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1283" Name="WestGuardCamp_Roaming_Route_Stop27" PosX="-57076.2" PosY="-3297.08" PosZ="38690.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1284" Name="WestGuardCamp_Roaming_Route_Stop28" PosX="-56828.1" PosY="-3291.73" PosZ="39246.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1285" Name="WestGuardCamp_Roaming_Route_034_01" PosX="-56412.1" PosY="-3764.27" PosZ="41539.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1286" Name="WestGuardCamp_Roaming_Route_034_02" PosX="-56403" PosY="-3690.9" PosZ="41228.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1287" Name="WestGuardCamp_Roaming_Route_034_03" PosX="-56345.6" PosY="-3679.13" PosZ="41086.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1288" Name="WestGuardCamp_Roaming_Route_034_04" PosX="-56583.7" PosY="-3640.12" PosZ="40615.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1289" Name="WestGuardCamp_Roaming_Route_034_05" PosX="-56891.3" PosY="-3582.32" PosZ="40330" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1290" Name="WestGuardCamp_Roaming_Route_034_06" PosX="-57045.6" PosY="-3552.65" PosZ="40043.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1291" Name="WestGuardCamp_Roaming_Route_034_07" PosX="-56916.8" PosY="-3541.56" PosZ="39998.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1292" Name="WestGuardCamp_Roaming_Route_034_08" PosX="-56739.1" PosY="-3397.56" PosZ="39911.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1293" Name="WestGuardCamp_Roaming_Route_034_09" PosX="-56620.7" PosY="-3381.56" PosZ="39850.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1294" Name="WestGuardCamp_Roaming_Route_034_10" PosX="-56641.2" PosY="-3381.56" PosZ="39756.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1295" Name="WestGuardCamp_Roaming_Route_034_11" PosX="-56676" PosY="-3291.73" PosZ="39639.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1296" Name="WestGuardCamp_Roaming_Route_Stop29" PosX="-57463.6" PosY="-3539.03" PosZ="39541.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1297" Name="WestGuardCamp_Roaming_Route_Stop30" PosX="-57633.9" PosY="-3532.65" PosZ="39072" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1298" Name="WestGuardCamp_Roaming_Route_Stop31" PosX="-59635.8" PosY="-3979.06" PosZ="43142.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1299" Name="WestGuardCamp_Roaming_Route_Stop32" PosX="-58876" PosY="-3967.48" PosZ="43477.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1300" Name="WestGuardCamp_Roaming_Route_Stop33" PosX="-58183.5" PosY="-3962.12" PosZ="43418.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1301" Name="WestGuardCamp_Roaming_Route_Stop34" PosX="-58153.7" PosY="-3940.02" PosZ="44357" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1302" Name="WestGuardCamp_Roaming_Route_Stop35" PosX="-58166" PosY="-3967.3" PosZ="43018" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1303" Name="WestGuardCamp_Roaming_Route_Stop36" PosX="-59899" PosY="-4012.58" PosZ="41448.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1304" Name="WestGuardCamp_Roaming_Route_Stop37" PosX="-60451" PosY="-3998.88" PosZ="40773.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1305" Name="WestGuardCamp_Roaming_Route_Stop38" PosX="-60966.1" PosY="-4030.05" PosZ="42053.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1306" Name="WestGuardCamp_Roaming_Route_Stop39" PosX="-61314.6" PosY="-3986.44" PosZ="40327.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1307" Name="WestGuardCamp_Roaming_Route_035_01" PosX="-55959.4" PosY="-3847.14" PosZ="42614.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1308" Name="WestGuardCamp_Roaming_Route_035_02" PosX="-55687.3" PosY="-3644.76" PosZ="42586.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1309" Name="WestGuardCamp_Roaming_Route_035_03" PosX="-55557" PosY="-3639.14" PosZ="42547.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1310" Name="WestGuardCamp_Roaming_Route_035_04" PosX="-55569.9" PosY="-3639.14" PosZ="42474.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1311" Name="WestGuardCamp_Roaming_Route_035_05" PosX="-55585.7" PosY="-3543.89" PosZ="42356.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1312" Name="WestGuardCamp_Roaming_Route_Stop40" PosX="-55601.5" PosY="-3543.89" PosZ="41990.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1313" Name="WestGuardCamp_Roaming_Route_035_06" PosX="-55695.2" PosY="-3543.89" PosZ="41620" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1314" Name="WestGuardCamp_Roaming_Route_035_07" PosX="-55751.6" PosY="-3636.08" PosZ="41480.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1315" Name="WestGuardCamp_Roaming_Route_035_08" PosX="-55764.8" PosY="-3636.08" PosZ="41426.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1316" Name="WestGuardCamp_Roaming_Route_035_09" PosX="-55880.4" PosY="-3636.08" PosZ="41455.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="1317" Name="WestGuardCamp_Roaming_Route_035_10" PosX="-56018.1" PosY="-3739.25" PosZ="41497.5" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="1092" TargetWaypoint="1093"/>
+	<Link SourceWaypoint="1092" TargetWaypoint="1253"/>
+	<Link SourceWaypoint="1093" TargetWaypoint="1092"/>
+	<Link SourceWaypoint="1093" TargetWaypoint="1094"/>
+	<Link SourceWaypoint="1093" TargetWaypoint="1159"/>
+	<Link SourceWaypoint="1094" TargetWaypoint="1093"/>
+	<Link SourceWaypoint="1094" TargetWaypoint="1095"/>
+	<Link SourceWaypoint="1094" TargetWaypoint="1159"/>
+	<Link SourceWaypoint="1095" TargetWaypoint="1094"/>
+	<Link SourceWaypoint="1095" TargetWaypoint="1096"/>
+	<Link SourceWaypoint="1095" TargetWaypoint="1159"/>
+	<Link SourceWaypoint="1095" TargetWaypoint="1254"/>
+	<Link SourceWaypoint="1096" TargetWaypoint="1095"/>
+	<Link SourceWaypoint="1096" TargetWaypoint="1097"/>
+	<Link SourceWaypoint="1097" TargetWaypoint="1096"/>
+	<Link SourceWaypoint="1097" TargetWaypoint="1098"/>
+	<Link SourceWaypoint="1097" TargetWaypoint="1106"/>
+	<Link SourceWaypoint="1097" TargetWaypoint="1160"/>
+	<Link SourceWaypoint="1097" TargetWaypoint="1255"/>
+	<Link SourceWaypoint="1098" TargetWaypoint="1097"/>
+	<Link SourceWaypoint="1098" TargetWaypoint="1099"/>
+	<Link SourceWaypoint="1098" TargetWaypoint="1106"/>
+	<Link SourceWaypoint="1098" TargetWaypoint="1187"/>
+	<Link SourceWaypoint="1099" TargetWaypoint="1098"/>
+	<Link SourceWaypoint="1099" TargetWaypoint="1178"/>
+	<Link SourceWaypoint="1100" TargetWaypoint="1101"/>
+	<Link SourceWaypoint="1100" TargetWaypoint="1172"/>
+	<Link SourceWaypoint="1100" TargetWaypoint="1177"/>
+	<Link SourceWaypoint="1100" TargetWaypoint="1178"/>
+	<Link SourceWaypoint="1101" TargetWaypoint="1100"/>
+	<Link SourceWaypoint="1101" TargetWaypoint="1102"/>
+	<Link SourceWaypoint="1101" TargetWaypoint="1177"/>
+	<Link SourceWaypoint="1102" TargetWaypoint="1101"/>
+	<Link SourceWaypoint="1102" TargetWaypoint="1103"/>
+	<Link SourceWaypoint="1103" TargetWaypoint="1102"/>
+	<Link SourceWaypoint="1103" TargetWaypoint="1104"/>
+	<Link SourceWaypoint="1104" TargetWaypoint="1103"/>
+	<Link SourceWaypoint="1104" TargetWaypoint="1105"/>
+	<Link SourceWaypoint="1105" TargetWaypoint="1104"/>
+	<Link SourceWaypoint="1105" TargetWaypoint="1132"/>
+	<Link SourceWaypoint="1105" TargetWaypoint="1133"/>
+	<Link SourceWaypoint="1106" TargetWaypoint="1097"/>
+	<Link SourceWaypoint="1106" TargetWaypoint="1098"/>
+	<Link SourceWaypoint="1106" TargetWaypoint="1107"/>
+	<Link SourceWaypoint="1106" TargetWaypoint="1255"/>
+	<Link SourceWaypoint="1107" TargetWaypoint="1106"/>
+	<Link SourceWaypoint="1107" TargetWaypoint="1108"/>
+	<Link SourceWaypoint="1108" TargetWaypoint="1107"/>
+	<Link SourceWaypoint="1108" TargetWaypoint="1109"/>
+	<Link SourceWaypoint="1109" TargetWaypoint="1108"/>
+	<Link SourceWaypoint="1109" TargetWaypoint="1110"/>
+	<Link SourceWaypoint="1110" TargetWaypoint="1109"/>
+	<Link SourceWaypoint="1110" TargetWaypoint="1111"/>
+	<Link SourceWaypoint="1111" TargetWaypoint="1110"/>
+	<Link SourceWaypoint="1111" TargetWaypoint="1112"/>
+	<Link SourceWaypoint="1112" TargetWaypoint="1111"/>
+	<Link SourceWaypoint="1112" TargetWaypoint="1113"/>
+	<Link SourceWaypoint="1112" TargetWaypoint="1256"/>
+	<Link SourceWaypoint="1113" TargetWaypoint="1112"/>
+	<Link SourceWaypoint="1113" TargetWaypoint="1114"/>
+	<Link SourceWaypoint="1114" TargetWaypoint="1113"/>
+	<Link SourceWaypoint="1114" TargetWaypoint="1115"/>
+	<Link SourceWaypoint="1114" TargetWaypoint="1268"/>
+	<Link SourceWaypoint="1115" TargetWaypoint="1114"/>
+	<Link SourceWaypoint="1115" TargetWaypoint="1116"/>
+	<Link SourceWaypoint="1115" TargetWaypoint="1275"/>
+	<Link SourceWaypoint="1116" TargetWaypoint="1115"/>
+	<Link SourceWaypoint="1116" TargetWaypoint="1117"/>
+	<Link SourceWaypoint="1117" TargetWaypoint="1116"/>
+	<Link SourceWaypoint="1117" TargetWaypoint="1118"/>
+	<Link SourceWaypoint="1118" TargetWaypoint="1117"/>
+	<Link SourceWaypoint="1118" TargetWaypoint="1119"/>
+	<Link SourceWaypoint="1118" TargetWaypoint="1278"/>
+	<Link SourceWaypoint="1118" TargetWaypoint="1297"/>
+	<Link SourceWaypoint="1119" TargetWaypoint="1118"/>
+	<Link SourceWaypoint="1119" TargetWaypoint="1120"/>
+	<Link SourceWaypoint="1120" TargetWaypoint="1119"/>
+	<Link SourceWaypoint="1120" TargetWaypoint="1121"/>
+	<Link SourceWaypoint="1121" TargetWaypoint="1120"/>
+	<Link SourceWaypoint="1121" TargetWaypoint="1122"/>
+	<Link SourceWaypoint="1122" TargetWaypoint="1121"/>
+	<Link SourceWaypoint="1122" TargetWaypoint="1123"/>
+	<Link SourceWaypoint="1123" TargetWaypoint="1122"/>
+	<Link SourceWaypoint="1123" TargetWaypoint="1124"/>
+	<Link SourceWaypoint="1123" TargetWaypoint="1186"/>
+	<Link SourceWaypoint="1124" TargetWaypoint="1123"/>
+	<Link SourceWaypoint="1124" TargetWaypoint="1125"/>
+	<Link SourceWaypoint="1125" TargetWaypoint="1124"/>
+	<Link SourceWaypoint="1125" TargetWaypoint="1285"/>
+	<Link SourceWaypoint="1127" TargetWaypoint="1128"/>
+	<Link SourceWaypoint="1128" TargetWaypoint="1127"/>
+	<Link SourceWaypoint="1128" TargetWaypoint="1129"/>
+	<Link SourceWaypoint="1129" TargetWaypoint="1128"/>
+	<Link SourceWaypoint="1129" TargetWaypoint="1130"/>
+	<Link SourceWaypoint="1130" TargetWaypoint="1129"/>
+	<Link SourceWaypoint="1130" TargetWaypoint="1131"/>
+	<Link SourceWaypoint="1131" TargetWaypoint="1130"/>
+	<Link SourceWaypoint="1131" TargetWaypoint="1132"/>
+	<Link SourceWaypoint="1132" TargetWaypoint="1131"/>
+	<Link SourceWaypoint="1132" TargetWaypoint="1105"/>
+	<Link SourceWaypoint="1133" TargetWaypoint="1105"/>
+	<Link SourceWaypoint="1133" TargetWaypoint="1134"/>
+	<Link SourceWaypoint="1134" TargetWaypoint="1133"/>
+	<Link SourceWaypoint="1134" TargetWaypoint="1135"/>
+	<Link SourceWaypoint="1135" TargetWaypoint="1134"/>
+	<Link SourceWaypoint="1135" TargetWaypoint="1136"/>
+	<Link SourceWaypoint="1136" TargetWaypoint="1135"/>
+	<Link SourceWaypoint="1136" TargetWaypoint="1137"/>
+	<Link SourceWaypoint="1137" TargetWaypoint="1136"/>
+	<Link SourceWaypoint="1137" TargetWaypoint="1138"/>
+	<Link SourceWaypoint="1137" TargetWaypoint="1213"/>
+	<Link SourceWaypoint="1138" TargetWaypoint="1137"/>
+	<Link SourceWaypoint="1138" TargetWaypoint="1139"/>
+	<Link SourceWaypoint="1139" TargetWaypoint="1138"/>
+	<Link SourceWaypoint="1139" TargetWaypoint="1140"/>
+	<Link SourceWaypoint="1139" TargetWaypoint="1205"/>
+	<Link SourceWaypoint="1140" TargetWaypoint="1139"/>
+	<Link SourceWaypoint="1140" TargetWaypoint="1141"/>
+	<Link SourceWaypoint="1141" TargetWaypoint="1140"/>
+	<Link SourceWaypoint="1141" TargetWaypoint="1142"/>
+	<Link SourceWaypoint="1142" TargetWaypoint="1141"/>
+	<Link SourceWaypoint="1142" TargetWaypoint="1143"/>
+	<Link SourceWaypoint="1143" TargetWaypoint="1142"/>
+	<Link SourceWaypoint="1143" TargetWaypoint="1144"/>
+	<Link SourceWaypoint="1143" TargetWaypoint="1214"/>
+	<Link SourceWaypoint="1144" TargetWaypoint="1143"/>
+	<Link SourceWaypoint="1144" TargetWaypoint="1145"/>
+	<Link SourceWaypoint="1145" TargetWaypoint="1144"/>
+	<Link SourceWaypoint="1145" TargetWaypoint="1146"/>
+	<Link SourceWaypoint="1146" TargetWaypoint="1145"/>
+	<Link SourceWaypoint="1146" TargetWaypoint="1147"/>
+	<Link SourceWaypoint="1147" TargetWaypoint="1146"/>
+	<Link SourceWaypoint="1147" TargetWaypoint="1148"/>
+	<Link SourceWaypoint="1147" TargetWaypoint="1215"/>
+	<Link SourceWaypoint="1148" TargetWaypoint="1147"/>
+	<Link SourceWaypoint="1148" TargetWaypoint="1149"/>
+	<Link SourceWaypoint="1148" TargetWaypoint="1218"/>
+	<Link SourceWaypoint="1149" TargetWaypoint="1148"/>
+	<Link SourceWaypoint="1149" TargetWaypoint="1150"/>
+	<Link SourceWaypoint="1150" TargetWaypoint="1149"/>
+	<Link SourceWaypoint="1150" TargetWaypoint="1151"/>
+	<Link SourceWaypoint="1150" TargetWaypoint="1167"/>
+	<Link SourceWaypoint="1150" TargetWaypoint="1223"/>
+	<Link SourceWaypoint="1151" TargetWaypoint="1150"/>
+	<Link SourceWaypoint="1151" TargetWaypoint="1152"/>
+	<Link SourceWaypoint="1151" TargetWaypoint="1167"/>
+	<Link SourceWaypoint="1151" TargetWaypoint="1219"/>
+	<Link SourceWaypoint="1152" TargetWaypoint="1151"/>
+	<Link SourceWaypoint="1152" TargetWaypoint="1153"/>
+	<Link SourceWaypoint="1153" TargetWaypoint="1152"/>
+	<Link SourceWaypoint="1153" TargetWaypoint="1154"/>
+	<Link SourceWaypoint="1153" TargetWaypoint="1231"/>
+	<Link SourceWaypoint="1154" TargetWaypoint="1153"/>
+	<Link SourceWaypoint="1154" TargetWaypoint="1155"/>
+	<Link SourceWaypoint="1155" TargetWaypoint="1154"/>
+	<Link SourceWaypoint="1155" TargetWaypoint="1156"/>
+	<Link SourceWaypoint="1155" TargetWaypoint="1252"/>
+	<Link SourceWaypoint="1156" TargetWaypoint="1155"/>
+	<Link SourceWaypoint="1156" TargetWaypoint="1157"/>
+	<Link SourceWaypoint="1157" TargetWaypoint="1156"/>
+	<Link SourceWaypoint="1157" TargetWaypoint="1158"/>
+	<Link SourceWaypoint="1158" TargetWaypoint="1157"/>
+	<Link SourceWaypoint="1158" TargetWaypoint="1159"/>
+	<Link SourceWaypoint="1159" TargetWaypoint="1158"/>
+	<Link SourceWaypoint="1159" TargetWaypoint="1093"/>
+	<Link SourceWaypoint="1159" TargetWaypoint="1094"/>
+	<Link SourceWaypoint="1159" TargetWaypoint="1095"/>
+	<Link SourceWaypoint="1160" TargetWaypoint="1097"/>
+	<Link SourceWaypoint="1160" TargetWaypoint="1161"/>
+	<Link SourceWaypoint="1161" TargetWaypoint="1160"/>
+	<Link SourceWaypoint="1161" TargetWaypoint="1162"/>
+	<Link SourceWaypoint="1162" TargetWaypoint="1161"/>
+	<Link SourceWaypoint="1162" TargetWaypoint="1163"/>
+	<Link SourceWaypoint="1163" TargetWaypoint="1162"/>
+	<Link SourceWaypoint="1163" TargetWaypoint="1164"/>
+	<Link SourceWaypoint="1163" TargetWaypoint="1168"/>
+	<Link SourceWaypoint="1164" TargetWaypoint="1163"/>
+	<Link SourceWaypoint="1164" TargetWaypoint="1165"/>
+	<Link SourceWaypoint="1165" TargetWaypoint="1164"/>
+	<Link SourceWaypoint="1165" TargetWaypoint="1166"/>
+	<Link SourceWaypoint="1166" TargetWaypoint="1165"/>
+	<Link SourceWaypoint="1166" TargetWaypoint="1167"/>
+	<Link SourceWaypoint="1167" TargetWaypoint="1166"/>
+	<Link SourceWaypoint="1167" TargetWaypoint="1150"/>
+	<Link SourceWaypoint="1167" TargetWaypoint="1151"/>
+	<Link SourceWaypoint="1168" TargetWaypoint="1163"/>
+	<Link SourceWaypoint="1168" TargetWaypoint="1169"/>
+	<Link SourceWaypoint="1169" TargetWaypoint="1168"/>
+	<Link SourceWaypoint="1169" TargetWaypoint="1170"/>
+	<Link SourceWaypoint="1170" TargetWaypoint="1169"/>
+	<Link SourceWaypoint="1170" TargetWaypoint="1171"/>
+	<Link SourceWaypoint="1171" TargetWaypoint="1170"/>
+	<Link SourceWaypoint="1171" TargetWaypoint="1172"/>
+	<Link SourceWaypoint="1171" TargetWaypoint="1173"/>
+	<Link SourceWaypoint="1172" TargetWaypoint="1171"/>
+	<Link SourceWaypoint="1172" TargetWaypoint="1100"/>
+	<Link SourceWaypoint="1172" TargetWaypoint="1177"/>
+	<Link SourceWaypoint="1173" TargetWaypoint="1171"/>
+	<Link SourceWaypoint="1173" TargetWaypoint="1174"/>
+	<Link SourceWaypoint="1174" TargetWaypoint="1173"/>
+	<Link SourceWaypoint="1174" TargetWaypoint="1175"/>
+	<Link SourceWaypoint="1174" TargetWaypoint="1177"/>
+	<Link SourceWaypoint="1175" TargetWaypoint="1174"/>
+	<Link SourceWaypoint="1175" TargetWaypoint="1176"/>
+	<Link SourceWaypoint="1176" TargetWaypoint="1175"/>
+	<Link SourceWaypoint="1177" TargetWaypoint="1174"/>
+	<Link SourceWaypoint="1177" TargetWaypoint="1100"/>
+	<Link SourceWaypoint="1177" TargetWaypoint="1101"/>
+	<Link SourceWaypoint="1177" TargetWaypoint="1172"/>
+	<Link SourceWaypoint="1178" TargetWaypoint="1100"/>
+	<Link SourceWaypoint="1178" TargetWaypoint="1099"/>
+	<Link SourceWaypoint="1178" TargetWaypoint="1179"/>
+	<Link SourceWaypoint="1179" TargetWaypoint="1178"/>
+	<Link SourceWaypoint="1179" TargetWaypoint="1180"/>
+	<Link SourceWaypoint="1180" TargetWaypoint="1179"/>
+	<Link SourceWaypoint="1180" TargetWaypoint="1181"/>
+	<Link SourceWaypoint="1181" TargetWaypoint="1180"/>
+	<Link SourceWaypoint="1181" TargetWaypoint="1182"/>
+	<Link SourceWaypoint="1182" TargetWaypoint="1181"/>
+	<Link SourceWaypoint="1182" TargetWaypoint="1183"/>
+	<Link SourceWaypoint="1183" TargetWaypoint="1182"/>
+	<Link SourceWaypoint="1183" TargetWaypoint="1184"/>
+	<Link SourceWaypoint="1184" TargetWaypoint="1183"/>
+	<Link SourceWaypoint="1184" TargetWaypoint="1185"/>
+	<Link SourceWaypoint="1184" TargetWaypoint="1192"/>
+	<Link SourceWaypoint="1184" TargetWaypoint="1298"/>
+	<Link SourceWaypoint="1184" TargetWaypoint="1300"/>
+	<Link SourceWaypoint="1185" TargetWaypoint="1184"/>
+	<Link SourceWaypoint="1185" TargetWaypoint="1186"/>
+	<Link SourceWaypoint="1186" TargetWaypoint="1185"/>
+	<Link SourceWaypoint="1186" TargetWaypoint="1123"/>
+	<Link SourceWaypoint="1187" TargetWaypoint="1098"/>
+	<Link SourceWaypoint="1187" TargetWaypoint="1188"/>
+	<Link SourceWaypoint="1188" TargetWaypoint="1187"/>
+	<Link SourceWaypoint="1188" TargetWaypoint="1189"/>
+	<Link SourceWaypoint="1189" TargetWaypoint="1188"/>
+	<Link SourceWaypoint="1189" TargetWaypoint="1190"/>
+	<Link SourceWaypoint="1190" TargetWaypoint="1189"/>
+	<Link SourceWaypoint="1190" TargetWaypoint="1191"/>
+	<Link SourceWaypoint="1191" TargetWaypoint="1190"/>
+	<Link SourceWaypoint="1191" TargetWaypoint="1192"/>
+	<Link SourceWaypoint="1191" TargetWaypoint="1304"/>
+	<Link SourceWaypoint="1191" TargetWaypoint="1305"/>
+	<Link SourceWaypoint="1191" TargetWaypoint="1306"/>
+	<Link SourceWaypoint="1192" TargetWaypoint="1191"/>
+	<Link SourceWaypoint="1192" TargetWaypoint="1184"/>
+	<Link SourceWaypoint="1192" TargetWaypoint="1303"/>
+	<Link SourceWaypoint="1192" TargetWaypoint="1305"/>
+	<Link SourceWaypoint="1205" TargetWaypoint="1139"/>
+	<Link SourceWaypoint="1205" TargetWaypoint="1206"/>
+	<Link SourceWaypoint="1206" TargetWaypoint="1205"/>
+	<Link SourceWaypoint="1206" TargetWaypoint="1207"/>
+	<Link SourceWaypoint="1207" TargetWaypoint="1206"/>
+	<Link SourceWaypoint="1207" TargetWaypoint="1208"/>
+	<Link SourceWaypoint="1208" TargetWaypoint="1207"/>
+	<Link SourceWaypoint="1208" TargetWaypoint="1209"/>
+	<Link SourceWaypoint="1209" TargetWaypoint="1208"/>
+	<Link SourceWaypoint="1209" TargetWaypoint="1210"/>
+	<Link SourceWaypoint="1210" TargetWaypoint="1209"/>
+	<Link SourceWaypoint="1210" TargetWaypoint="1211"/>
+	<Link SourceWaypoint="1210" TargetWaypoint="1212"/>
+	<Link SourceWaypoint="1211" TargetWaypoint="1210"/>
+	<Link SourceWaypoint="1212" TargetWaypoint="1210"/>
+	<Link SourceWaypoint="1213" TargetWaypoint="1137"/>
+	<Link SourceWaypoint="1214" TargetWaypoint="1143"/>
+	<Link SourceWaypoint="1215" TargetWaypoint="1147"/>
+	<Link SourceWaypoint="1215" TargetWaypoint="1216"/>
+	<Link SourceWaypoint="1216" TargetWaypoint="1215"/>
+	<Link SourceWaypoint="1216" TargetWaypoint="1217"/>
+	<Link SourceWaypoint="1217" TargetWaypoint="1216"/>
+	<Link SourceWaypoint="1218" TargetWaypoint="1148"/>
+	<Link SourceWaypoint="1219" TargetWaypoint="1151"/>
+	<Link SourceWaypoint="1219" TargetWaypoint="1220"/>
+	<Link SourceWaypoint="1220" TargetWaypoint="1219"/>
+	<Link SourceWaypoint="1220" TargetWaypoint="1221"/>
+	<Link SourceWaypoint="1220" TargetWaypoint="1222"/>
+	<Link SourceWaypoint="1221" TargetWaypoint="1220"/>
+	<Link SourceWaypoint="1222" TargetWaypoint="1220"/>
+	<Link SourceWaypoint="1223" TargetWaypoint="1150"/>
+	<Link SourceWaypoint="1223" TargetWaypoint="1224"/>
+	<Link SourceWaypoint="1224" TargetWaypoint="1223"/>
+	<Link SourceWaypoint="1224" TargetWaypoint="1225"/>
+	<Link SourceWaypoint="1225" TargetWaypoint="1224"/>
+	<Link SourceWaypoint="1225" TargetWaypoint="1226"/>
+	<Link SourceWaypoint="1226" TargetWaypoint="1225"/>
+	<Link SourceWaypoint="1226" TargetWaypoint="1227"/>
+	<Link SourceWaypoint="1227" TargetWaypoint="1226"/>
+	<Link SourceWaypoint="1227" TargetWaypoint="1228"/>
+	<Link SourceWaypoint="1228" TargetWaypoint="1227"/>
+	<Link SourceWaypoint="1228" TargetWaypoint="1229"/>
+	<Link SourceWaypoint="1228" TargetWaypoint="1230"/>
+	<Link SourceWaypoint="1229" TargetWaypoint="1228"/>
+	<Link SourceWaypoint="1230" TargetWaypoint="1228"/>
+	<Link SourceWaypoint="1231" TargetWaypoint="1153"/>
+	<Link SourceWaypoint="1231" TargetWaypoint="1232"/>
+	<Link SourceWaypoint="1232" TargetWaypoint="1231"/>
+	<Link SourceWaypoint="1232" TargetWaypoint="1233"/>
+	<Link SourceWaypoint="1233" TargetWaypoint="1232"/>
+	<Link SourceWaypoint="1233" TargetWaypoint="1234"/>
+	<Link SourceWaypoint="1234" TargetWaypoint="1233"/>
+	<Link SourceWaypoint="1234" TargetWaypoint="1235"/>
+	<Link SourceWaypoint="1235" TargetWaypoint="1234"/>
+	<Link SourceWaypoint="1235" TargetWaypoint="1236"/>
+	<Link SourceWaypoint="1236" TargetWaypoint="1235"/>
+	<Link SourceWaypoint="1236" TargetWaypoint="1237"/>
+	<Link SourceWaypoint="1237" TargetWaypoint="1236"/>
+	<Link SourceWaypoint="1237" TargetWaypoint="1238"/>
+	<Link SourceWaypoint="1237" TargetWaypoint="1239"/>
+	<Link SourceWaypoint="1238" TargetWaypoint="1237"/>
+	<Link SourceWaypoint="1239" TargetWaypoint="1237"/>
+	<Link SourceWaypoint="1252" TargetWaypoint="1155"/>
+	<Link SourceWaypoint="1253" TargetWaypoint="1092"/>
+	<Link SourceWaypoint="1254" TargetWaypoint="1095"/>
+	<Link SourceWaypoint="1255" TargetWaypoint="1097"/>
+	<Link SourceWaypoint="1255" TargetWaypoint="1106"/>
+	<Link SourceWaypoint="1256" TargetWaypoint="1112"/>
+	<Link SourceWaypoint="1268" TargetWaypoint="1114"/>
+	<Link SourceWaypoint="1268" TargetWaypoint="1269"/>
+	<Link SourceWaypoint="1269" TargetWaypoint="1268"/>
+	<Link SourceWaypoint="1269" TargetWaypoint="1270"/>
+	<Link SourceWaypoint="1270" TargetWaypoint="1269"/>
+	<Link SourceWaypoint="1270" TargetWaypoint="1271"/>
+	<Link SourceWaypoint="1271" TargetWaypoint="1270"/>
+	<Link SourceWaypoint="1271" TargetWaypoint="1272"/>
+	<Link SourceWaypoint="1272" TargetWaypoint="1271"/>
+	<Link SourceWaypoint="1272" TargetWaypoint="1273"/>
+	<Link SourceWaypoint="1273" TargetWaypoint="1272"/>
+	<Link SourceWaypoint="1273" TargetWaypoint="1274"/>
+	<Link SourceWaypoint="1274" TargetWaypoint="1273"/>
+	<Link SourceWaypoint="1275" TargetWaypoint="1115"/>
+	<Link SourceWaypoint="1275" TargetWaypoint="1276"/>
+	<Link SourceWaypoint="1276" TargetWaypoint="1275"/>
+	<Link SourceWaypoint="1276" TargetWaypoint="1277"/>
+	<Link SourceWaypoint="1277" TargetWaypoint="1276"/>
+	<Link SourceWaypoint="1278" TargetWaypoint="1118"/>
+	<Link SourceWaypoint="1278" TargetWaypoint="1279"/>
+	<Link SourceWaypoint="1279" TargetWaypoint="1278"/>
+	<Link SourceWaypoint="1279" TargetWaypoint="1280"/>
+	<Link SourceWaypoint="1280" TargetWaypoint="1279"/>
+	<Link SourceWaypoint="1280" TargetWaypoint="1281"/>
+	<Link SourceWaypoint="1281" TargetWaypoint="1280"/>
+	<Link SourceWaypoint="1281" TargetWaypoint="1282"/>
+	<Link SourceWaypoint="1282" TargetWaypoint="1281"/>
+	<Link SourceWaypoint="1282" TargetWaypoint="1283"/>
+	<Link SourceWaypoint="1283" TargetWaypoint="1282"/>
+	<Link SourceWaypoint="1283" TargetWaypoint="1284"/>
+	<Link SourceWaypoint="1284" TargetWaypoint="1283"/>
+	<Link SourceWaypoint="1284" TargetWaypoint="1295"/>
+	<Link SourceWaypoint="1285" TargetWaypoint="1125"/>
+	<Link SourceWaypoint="1285" TargetWaypoint="1286"/>
+	<Link SourceWaypoint="1285" TargetWaypoint="1317"/>
+	<Link SourceWaypoint="1286" TargetWaypoint="1285"/>
+	<Link SourceWaypoint="1286" TargetWaypoint="1287"/>
+	<Link SourceWaypoint="1286" TargetWaypoint="1317"/>
+	<Link SourceWaypoint="1287" TargetWaypoint="1286"/>
+	<Link SourceWaypoint="1287" TargetWaypoint="1288"/>
+	<Link SourceWaypoint="1288" TargetWaypoint="1287"/>
+	<Link SourceWaypoint="1288" TargetWaypoint="1289"/>
+	<Link SourceWaypoint="1289" TargetWaypoint="1288"/>
+	<Link SourceWaypoint="1289" TargetWaypoint="1290"/>
+	<Link SourceWaypoint="1290" TargetWaypoint="1289"/>
+	<Link SourceWaypoint="1290" TargetWaypoint="1291"/>
+	<Link SourceWaypoint="1290" TargetWaypoint="1296"/>
+	<Link SourceWaypoint="1291" TargetWaypoint="1290"/>
+	<Link SourceWaypoint="1291" TargetWaypoint="1292"/>
+	<Link SourceWaypoint="1292" TargetWaypoint="1291"/>
+	<Link SourceWaypoint="1292" TargetWaypoint="1293"/>
+	<Link SourceWaypoint="1293" TargetWaypoint="1292"/>
+	<Link SourceWaypoint="1293" TargetWaypoint="1294"/>
+	<Link SourceWaypoint="1294" TargetWaypoint="1293"/>
+	<Link SourceWaypoint="1294" TargetWaypoint="1295"/>
+	<Link SourceWaypoint="1295" TargetWaypoint="1294"/>
+	<Link SourceWaypoint="1295" TargetWaypoint="1284"/>
+	<Link SourceWaypoint="1296" TargetWaypoint="1290"/>
+	<Link SourceWaypoint="1296" TargetWaypoint="1297"/>
+	<Link SourceWaypoint="1297" TargetWaypoint="1296"/>
+	<Link SourceWaypoint="1297" TargetWaypoint="1118"/>
+	<Link SourceWaypoint="1298" TargetWaypoint="1184"/>
+	<Link SourceWaypoint="1298" TargetWaypoint="1299"/>
+	<Link SourceWaypoint="1299" TargetWaypoint="1298"/>
+	<Link SourceWaypoint="1299" TargetWaypoint="1300"/>
+	<Link SourceWaypoint="1300" TargetWaypoint="1299"/>
+	<Link SourceWaypoint="1300" TargetWaypoint="1184"/>
+	<Link SourceWaypoint="1300" TargetWaypoint="1301"/>
+	<Link SourceWaypoint="1300" TargetWaypoint="1302"/>
+	<Link SourceWaypoint="1301" TargetWaypoint="1300"/>
+	<Link SourceWaypoint="1302" TargetWaypoint="1300"/>
+	<Link SourceWaypoint="1303" TargetWaypoint="1192"/>
+	<Link SourceWaypoint="1304" TargetWaypoint="1191"/>
+	<Link SourceWaypoint="1305" TargetWaypoint="1192"/>
+	<Link SourceWaypoint="1305" TargetWaypoint="1191"/>
+	<Link SourceWaypoint="1306" TargetWaypoint="1191"/>
+	<Link SourceWaypoint="1307" TargetWaypoint="1308"/>
+	<Link SourceWaypoint="1308" TargetWaypoint="1307"/>
+	<Link SourceWaypoint="1308" TargetWaypoint="1309"/>
+	<Link SourceWaypoint="1309" TargetWaypoint="1308"/>
+	<Link SourceWaypoint="1309" TargetWaypoint="1310"/>
+	<Link SourceWaypoint="1310" TargetWaypoint="1309"/>
+	<Link SourceWaypoint="1310" TargetWaypoint="1311"/>
+	<Link SourceWaypoint="1311" TargetWaypoint="1310"/>
+	<Link SourceWaypoint="1311" TargetWaypoint="1312"/>
+	<Link SourceWaypoint="1312" TargetWaypoint="1311"/>
+	<Link SourceWaypoint="1312" TargetWaypoint="1313"/>
+	<Link SourceWaypoint="1313" TargetWaypoint="1312"/>
+	<Link SourceWaypoint="1313" TargetWaypoint="1314"/>
+	<Link SourceWaypoint="1314" TargetWaypoint="1313"/>
+	<Link SourceWaypoint="1314" TargetWaypoint="1315"/>
+	<Link SourceWaypoint="1315" TargetWaypoint="1314"/>
+	<Link SourceWaypoint="1315" TargetWaypoint="1316"/>
+	<Link SourceWaypoint="1316" TargetWaypoint="1315"/>
+	<Link SourceWaypoint="1316" TargetWaypoint="1317"/>
+	<Link SourceWaypoint="1317" TargetWaypoint="1316"/>
+	<Link SourceWaypoint="1317" TargetWaypoint="1285"/>
+	<Link SourceWaypoint="1317" TargetWaypoint="1286"/>
+</LinkList>
+<GroupList>
+	<Group Key="2" Name="WestGuardCamp_Roaming_Route"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="ogreking">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="40077" Name="OrgeKing_01" PosX="-399063" PosY="9188.36" PosZ="-103240" Property="ground"/>
+</WaypointList>
+<LinkList/>
+<GroupList>
+	<Group Key="212" Name="OgreKing"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

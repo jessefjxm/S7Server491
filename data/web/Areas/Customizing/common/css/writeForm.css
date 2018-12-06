@@ -1,0 +1,43 @@
+#writeForm.container { padding: 15px 5px 15px 10px; height: calc(100% - 5px); overflow-y: auto; box-sizing: border-box; margin-top:5px; }
+
+#writeForm #searchBox { margin-bottom:10px;}
+#writeForm #searchBox > div { display: inline-block; vertical-align: middle; }
+#writeForm #searchBox .classImage img { vertical-align: middle; }
+#writeForm #searchBox .custimizingtitle { margin: 0 10px 0 5px; }
+#writeForm #searchBox .custimizingtitle input { background-color: #282622; border: 1px solid #58544d; border-radius: 2px; width: 419px; height: 33px; padding: 0 10px; color: #A29E94; font-size: 12px; }
+#writeForm #searchBox .custimizingtitle input::-webkit-input-placeholder { color: #57544e; }
+#writeForm #searchBox .userNickName { color: #919191; font-size: 16px; }
+#writeForm #searchBox .gallery { vertical-align: middle; font-size: 12px; color: #ffa200; display: inline-block; position: absolute; right: 0; top: 0; padding: 21px 0; height: 100%; box-sizing: border-box; }
+#writeForm #searchBox .gallery span { vertical-align: middle; }
+#writeForm #searchBox hr { border: none; border-top: 1px solid #2e2c28; padding: 0; margin: 10px 0; }
+#writeForm #searchBox .category { color: #dad7cf; font-size: 14px; padding: 5px; width: 100%; }
+#writeForm #searchBox .category span { color: #676767; font-size: 14px; vertical-align: middle; }
+#writeForm #searchBox .category .radioArea { display: inline-block; margin-left: 10px; }
+/*
+#writeForm #searchBox .category .radioArea div { display: inline-block; margin: 0 10px 0 0; }
+#writeForm #searchBox .category .radioArea div > span { color: #dad7cf; font-size: 14px; }
+#writeForm #searchBox .category .radioArea input { display: none; }
+#writeForm #searchBox .category .radioArea label { border-radius: 50px; display: inline-block; position: relative; width: 18px; height: 18px; border: 2px solid #626262; vertical-align: middle; box-sizing: border-box; text-align: center; margin: 0 10px 0 0; }
+#writeForm #searchBox .category .radioArea input:checked + label:after { content: ''; width: 8px; height: 8px; border-radius: 50px; display: inline-block; background: #e68507; position: absolute; left: 3px; top: 3px; }*/
+
+#writeForm .imageArea { width: 100%; display: inline-block; margin-bottom: 15px; }
+#writeForm .imageBox { background: linear-gradient(120deg,#68665f, #3c3b37); overflow: hidden; width: calc(420px / 10 * 9.7); height: calc(440px / 10 * 9.7); border: 1px solid; border-radius: 10px; box-sizing: border-box; position: relative; float: left; }
+#writeForm .imageBox:before { content: ''; display: inline-block; width: 100%; height: 100%; position: absolute; top: 0; left: 0; box-shadow: inset 0 0 0 1px #908379; border-radius: 10px; }
+#writeForm .imageBox .top:before { content: ''; display: inline-block; width: 100%; height: 100%; position: absolute; top: 0; left: 0; box-shadow: inset 0 0 0 1px #908379; border-radius: 10px; }
+#writeForm .imageBox > div { width: 100%; height: 100%; position: absolute; }
+#writeForm .imageBox .top { z-index: 1; }
+#writeForm .imageBox .top .btnDelete { position: absolute; right: 10px; top: 10px; display: inline-block; background: url(/Areas/Customizing/common/img/icn_delete.png) no-repeat; background-size: cover; width: 18px; height: 18px; opacity: 0.5; cursor: pointer; }
+#writeForm .imageBox .top .btnReScreenshot { width: 103px; height: 38px; line-height: 38px; color: #d1d1d1; font-size: 16px; z-index: 2; position: absolute; top: inherit; bottom: 10px; margin: 0 auto; left: 0; right: 0; }
+/*#writeForm .imageBox .top > div { width:100%; height:100%;  }*/
+#writeForm .imageBox .top img { width: 100%; }
+#writeForm .imageBox .bottom { z-index: 0; top: 0; bottom: 0; margin: auto; height: 100px; vertical-align: middle; text-align: center; }
+#writeForm .imageBox .bottom img { vertical-align: middle; }
+#writeForm .imageBox .bottom span { vertical-align: middle; color: #d1d1d1; font-size: 16px; padding-left: 7px; }
+#writeForm .imageBox .bottom .btnScreenshot { margin-top: 10px; width: 133px; height: 58px; line-height: 58px; color: #d1d1d1; font-size: 20px; z-index: 0; }
+
+#writeForm .descriptionArea { width: calc(100% - 10px); }
+#writeForm .descriptionArea textarea { color: #A29E94; font-size: 14px; width: 100%; box-sizing: border-box; padding: 10px; border: 1px solid #61605e; height: 132px; background-color: #3d3c3a; box-shadow: inset 0 0 10px rgba(0,0,0,0.3); resize: none; line-height: 20px; }
+#writeForm .descriptionArea textarea::-webkit-input-placeholder { color: #72706a; }
+#writeForm .buttonArea .btnSave { width: 103px; height: 38px; line-height: 38px; color: #d1d1d1; font-size: 16px; }
+#writeForm .buttonArea .btnCancel { width: 103px; height: 38px; line-height: 38px; color: #d1d1d1; font-size: 16px; }
+#writeForm .buttonArea { text-align: center; padding: 20px 0 10px 0; }

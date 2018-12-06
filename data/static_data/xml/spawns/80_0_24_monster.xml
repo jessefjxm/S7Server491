@@ -1,0 +1,47 @@
+<SpawnPlacementList>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="1045070.0" Y="328914.0" Z="20582.3"/>
+        <Direction>-0.366433195274675</Direction>
+        <UseSpawnGroup SpawnCharacterKey="21207" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="1035980.0" Y="315410.0" Z="16701.3"/>
+        <Direction>2.62631164486233</Direction>
+        <UseSpawnGroup SpawnCharacterKey="21238" SpawnQuantity="1"/>
+        <Function>1</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="1051030.0" Y="337850.0" Z="19257.4"/>
+        <Direction>1.209029340155</Direction>
+        <UseSpawnGroup SpawnCharacterKey="21244" SpawnQuantity="1"/>
+        <Function>66</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="1051860.0" Y="337779.0" Z="19288.3"/>
+        <Direction>-0.0355989058593538</Direction>
+        <UseSpawnGroup SpawnCharacterKey="21244" SpawnQuantity="1"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="1050420.0" Y="337054.0" Z="19464.7"/>
+        <Direction>-2.96495322075715</Direction>
+        <UseSpawnGroup SpawnCharacterKey="21244" SpawnQuantity="1"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="1051470.0" Y="338150.0" Z="19182.7"/>
+        <Direction>-1.35543862404435</Direction>
+        <UseSpawnGroup SpawnCharacterKey="21244" SpawnQuantity="1"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+</SpawnPlacementList>

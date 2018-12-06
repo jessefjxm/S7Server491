@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<style type="text/css">
+    #blind {
+        padding: 0;
+        box-sizing: border-box;
+        background-color: white;
+    }
+
+    #blind .small_container {
+        width: 80%;
+        height: 80%;
+        box-sizing: border-box;
+        border: 9px solid #b2b9c1;
+        padding: 46px 50px;
+        padding-top: 80px;
+        box-shadow: inset 0 0 0 1px #8694a4;
+        margin: 20px auto;
+    }
+
+    #blind .title {
+        font-family: 'custom';
+        font-size: 24px;
+    }
+
+    #blind .subtext {
+        font-size: 17px;
+    }
+
+    #blind .small_container .hr {
+        width: 100%;
+        height: 2px;
+        background-color: #3086ae;
+        margin: 10px 0;
+    }
+
+    #blind .btnClose:hover {
+        box-shadow: 150px 0 0 0 rgba(0, 0, 0, 0.05) inset;
+    }
+
+    #blind .btnClose {
+        border: 1px solid #cacaca;
+        background: linear-gradient(#fff, #ebebeb);
+        padding: 10px 35px;
+        cursor: pointer;
+        display: inline-block;
+        margin: 50px 100px;
+    }
+
+    #blind .btnClose:active {
+        background: linear-gradient(#ebebeb, #fff);
+    }
+</style>
+<script>
+    $(document).ready(function (e) {
+        var arrString = {
+            'WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO': '',
+            'WEB_GUILDINFO_BLIND_TITLE': '',
+            'WEB_GUILDINFO_BLIND_TEXT': ''
+        };
+        pearl.common.openPage(arrString);
+
+        var guildNo = "30000000000009649";
+        $('#guildNo').val(guildNo);
+
+        pearl.common.closePage();
+    });
+</script>
+<div id="blind" class="container">
+    <input type="hidden" class="noTrans" name="guildNo" id="guildNo"/>
+
+    <i class="settings hide" data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO"
+       data-tooltip-position="right"></i>
+
+    <span class="title bold" data-str="WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO"> </span>
+    <div class="hr"></div>
+    <div class="small_container">
+        <div style="float:left; padding-right:25px; box-sizing:border-box; width:15%;">
+            <img src="/Areas/GuildInfo/common/img/content/error.png" alt=""/>
+        </div>
+        <div style="float:left; box-sizing:border-box; width:85%;">
+            <div class="title" data-str="WEB_GUILDINFO_BLIND_TITLE"></div>
+            <div class="hr"></div>
+            <div class="subtext" data-str="WEB_GUILDINFO_BLIND_TEXT"></div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

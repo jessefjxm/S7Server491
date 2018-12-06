@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="npc" subName="npc_shepherd_dog">
+<WaypointList>
+	<Waypoint IsSubWaypoint="False" Key="10823" Name="NPC_Shepherd_Dog_001" PosX="15929.7" PosY="-1330.2" PosZ="-59559.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10824" Name="NPC_Shepherd_Dog_002" PosX="15769.6" PosY="-1310.37" PosZ="-60090.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10825" Name="NPC_Shepherd_Dog_003" PosX="15507.8" PosY="-1304.54" PosZ="-61186.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10826" Name="NPC_Shepherd_Dog_004" PosX="14780" PosY="-1295.7" PosZ="-61820.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10827" Name="NPC_Shepherd_Dog_005" PosX="13604.4" PosY="-1347.11" PosZ="-62088.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10828" Name="NPC_Shepherd_Dog_006" PosX="12371.4" PosY="-1511.52" PosZ="-62431.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10829" Name="NPC_Shepherd_Dog_007" PosX="11341" PosY="-1608.75" PosZ="-61514.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10830" Name="NPC_Shepherd_Dog_008" PosX="11140.5" PosY="-1757.98" PosZ="-60188.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10831" Name="NPC_Shepherd_Dog_009" PosX="11453.4" PosY="-1794.21" PosZ="-59018.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10832" Name="NPC_Shepherd_Dog_010" PosX="12207.4" PosY="-1729.1" PosZ="-59752.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10833" Name="NPC_Shepherd_Dog_011" PosX="13240.5" PosY="-1651.75" PosZ="-59341.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10834" Name="NPC_Shepherd_Dog_012" PosX="14291.9" PosY="-1562.61" PosZ="-58804.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10835" Name="NPC_Shepherd_Dog_013" PosX="15139.7" PosY="-1420.67" PosZ="-59284.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10836" Name="NPC_Shepherd_Dog_014" PosX="10663.3" PosY="-1885.06" PosZ="-58599.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10837" Name="NPC_Shepherd_Dog_015" PosX="9904.82" PosY="-1946.58" PosZ="-58531.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10838" Name="NPC_Shepherd_Dog_016" PosX="8951.11" PosY="-1998.5" PosZ="-58588.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10839" Name="NPC_Shepherd_Dog_017" PosX="7947.21" PosY="-2059.24" PosZ="-58460.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10840" Name="NPC_Shepherd_Dog_018" PosX="6920.05" PosY="-2030.16" PosZ="-58606.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10841" Name="NPC_Shepherd_Dog_019" PosX="5733.21" PosY="-2117.63" PosZ="-57760.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10842" Name="NPC_Shepherd_Dog_020" PosX="4864.75" PosY="-2193.09" PosZ="-57040.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10843" Name="NPC_Shepherd_Dog_021" PosX="4435.16" PosY="-2334.55" PosZ="-56007.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10844" Name="NPC_Shepherd_Dog_022" PosX="3929.66" PosY="-2445.59" PosZ="-54885" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10845" Name="NPC_Shepherd_Dog_023" PosX="11701.9" PosY="-1534.13" PosZ="-62895.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10846" Name="NPC_Shepherd_Dog_024" PosX="11365.7" PosY="-1488.73" PosZ="-63893.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10847" Name="NPC_Shepherd_Dog_025" PosX="11008.1" PosY="-1419.38" PosZ="-64569.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10848" Name="NPC_Shepherd_Dog_026" PosX="10330.4" PosY="-1378.69" PosZ="-64781.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10849" Name="NPC_Shepherd_Dog_027" PosX="9379.76" PosY="-1440.89" PosZ="-64443.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10850" Name="NPC_Shepherd_Dog_028" PosX="8709.08" PosY="-1415.01" PosZ="-64599.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10851" Name="NPC_Shepherd_Dog_029" PosX="7654.05" PosY="-1390.17" PosZ="-64735.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10852" Name="NPC_Shepherd_Dog_030" PosX="6692.38" PosY="-1339.66" PosZ="-65102.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10853" Name="NPC_Shepherd_Dog_031" PosX="5806.38" PosY="-1236.05" PosZ="-64945.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10854" Name="NPC_Shepherd_Dog_032" PosX="5485.63" PosY="-1189.55" PosZ="-65392.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10855" Name="NPC_Shepherd_Dog_033" PosX="5189.46" PosY="-1167.72" PosZ="-64726.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10856" Name="NPC_Shepherd_Dog_034" PosX="4812.75" PosY="-1149.54" PosZ="-64379.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10857" Name="NPC_Shepherd_Dog_035" PosX="4537.18" PosY="-1097.05" PosZ="-64350.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10858" Name="NPC_Shepherd_Dog_036" PosX="3934.41" PosY="-984.323" PosZ="-64527.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10859" Name="NPC_Shepherd_Dog_037" PosX="3369.91" PosY="-885.521" PosZ="-64894.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10860" Name="NPC_Shepherd_Dog_038" PosX="2900.79" PosY="-848.953" PosZ="-65058.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10861" Name="NPC_Shepherd_Dog_039" PosX="2777.65" PosY="-853.012" PosZ="-65846.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10862" Name="NPC_Shepherd_Dog_040" PosX="13675.8" PosY="-1749.49" PosZ="-57864.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10863" Name="NPC_Shepherd_Dog_041" PosX="13530.3" PosY="-1875.48" PosZ="-56973.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10864" Name="NPC_Shepherd_Dog_042" PosX="13520.7" PosY="-2005.83" PosZ="-56291.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10865" Name="NPC_Shepherd_Dog_043" PosX="13555" PosY="-2118.98" PosZ="-55515.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10866" Name="NPC_Shepherd_Dog_044" PosX="12990.5" PosY="-1880.84" PosZ="-57170.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10867" Name="NPC_Shepherd_Dog_045" PosX="12435.9" PosY="-1940.93" PosZ="-57048.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10868" Name="NPC_Shepherd_Dog_046" PosX="12039.5" PosY="-1993.88" PosZ="-57005.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10869" Name="NPC_Shepherd_Dog_047" PosX="13908.1" PosY="-1837.71" PosZ="-56928.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10870" Name="NPC_Shepherd_Dog_048" PosX="14393.3" PosY="-1880.25" PosZ="-56561.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10871" Name="NPC_Shepherd_Dog_049" PosX="13631.2" PosY="-2230.32" PosZ="-54725.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10872" Name="NPC_Shepherd_Dog_050" PosX="13548.7" PosY="-2388.08" PosZ="-53876.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10873" Name="NPC_Shepherd_Dog_051" PosX="13541.6" PosY="-2535.1" PosZ="-53146.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10874" Name="NPC_Shepherd_Dog_052" PosX="13392.1" PosY="-2627.88" PosZ="-52635.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10875" Name="NPC_Shepherd_Dog_053" PosX="13805.8" PosY="-2721.6" PosZ="-51720.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10876" Name="NPC_Shepherd_Dog_054" PosX="12517.3" PosY="-2694.01" PosZ="-52092.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10877" Name="NPC_Shepherd_Dog_055" PosX="11677.6" PosY="-2696.66" PosZ="-52199.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10878" Name="NPC_Shepherd_Dog_056" PosX="10828.3" PosY="-2716.41" PosZ="-52092.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10879" Name="NPC_Shepherd_Dog_057" PosX="9935.88" PosY="-2738.02" PosZ="-52080.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10880" Name="NPC_Shepherd_Dog_058" PosX="8974.4" PosY="-2757.61" PosZ="-52029.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10881" Name="NPC_Shepherd_Dog_059" PosX="8018.84" PosY="-2765.82" PosZ="-52120.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10882" Name="NPC_Shepherd_Dog_060" PosX="7144.52" PosY="-2767.19" PosZ="-52162.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10883" Name="NPC_Shepherd_Dog_061" PosX="6101.43" PosY="-2770.47" PosZ="-52035.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10884" Name="NPC_Shepherd_Dog_062" PosX="5370.57" PosY="-2768.7" PosZ="-52087" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10885" Name="NPC_Shepherd_Dog_063" PosX="4887.32" PosY="-2755.77" PosZ="-52415" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10886" Name="NPC_Shepherd_Dog_064" PosX="4460.52" PosY="-2694.93" PosZ="-52920.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10887" Name="NPC_Shepherd_Dog_065" PosX="4272.55" PosY="-2614.6" PosZ="-53463.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10888" Name="NPC_Shepherd_Dog_066" PosX="4114.35" PosY="-2515.99" PosZ="-54055.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10889" Name="NPC_Shepherd_Dog_067" PosX="14885.4" PosY="-2747.39" PosZ="-51601.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10890" Name="NPC_Shepherd_Dog_068" PosX="16061.6" PosY="-2776.99" PosZ="-51477.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10891" Name="NPC_Shepherd_Dog_069" PosX="17108.2" PosY="-2764.51" PosZ="-51618.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10892" Name="NPC_Shepherd_Dog_070" PosX="19892.8" PosY="-2724.69" PosZ="-53114" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10893" Name="NPC_Shepherd_Dog_071" PosX="19467.2" PosY="-2774.48" PosZ="-51944" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10894" Name="NPC_Shepherd_Dog_072" PosX="20974.9" PosY="-2761.31" PosZ="-53247.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10895" Name="NPC_Shepherd_Dog_073" PosX="19888.7" PosY="-2481.99" PosZ="-54294.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10896" Name="NPC_Shepherd_Dog_074" PosX="19187.6" PosY="-2197.07" PosZ="-55002.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10897" Name="NPC_Shepherd_Dog_075" PosX="18882.2" PosY="-2040.02" PosZ="-55445.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10898" Name="NPC_Shepherd_Dog_076" PosX="18707.2" PosY="-1890.05" PosZ="-56074.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10899" Name="NPC_Shepherd_Dog_077" PosX="18527.9" PosY="-1772.07" PosZ="-56605.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10900" Name="NPC_Shepherd_Dog_078" PosX="18143.9" PosY="-1631.61" PosZ="-57133.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10901" Name="NPC_Shepherd_Dog_079" PosX="17877.5" PosY="-1526.53" PosZ="-57532.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10902" Name="NPC_Shepherd_Dog_080" PosX="17545.2" PosY="-1391.71" PosZ="-58111.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10903" Name="NPC_Shepherd_Dog_081" PosX="16972.3" PosY="-1334.1" PosZ="-58726.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10904" Name="NPC_Shepherd_Dog_082" PosX="16454" PosY="-1322.41" PosZ="-59128" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10905" Name="NPC_Shepherd_Dog_083" PosX="5056.88" PosY="-1229.21" PosZ="-63992.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10906" Name="NPC_Shepherd_Dog_084" PosX="5274.88" PosY="-1291.33" PosZ="-63542.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10907" Name="NPC_Shepherd_Dog_085" PosX="5494.74" PosY="-1336.85" PosZ="-62979.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10908" Name="NPC_Shepherd_Dog_086" PosX="5663.56" PosY="-1382.87" PosZ="-62474.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10909" Name="NPC_Shepherd_Dog_087" PosX="5883.19" PosY="-1469.6" PosZ="-62035" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10910" Name="NPC_Shepherd_Dog_088" PosX="6181.35" PosY="-1611.77" PosZ="-61429.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10911" Name="NPC_Shepherd_Dog_089" PosX="6421.62" PosY="-1722.14" PosZ="-60656.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10912" Name="NPC_Shepherd_Dog_090" PosX="6608.9" PosY="-1844.36" PosZ="-59786.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="10913" Name="NPC_Shepherd_Dog_091" PosX="6835.64" PosY="-1972.73" PosZ="-58964.8" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="10823" TargetWaypoint="10824"/>
+	<Link SourceWaypoint="10823" TargetWaypoint="10835"/>
+	<Link SourceWaypoint="10823" TargetWaypoint="10904"/>
+	<Link SourceWaypoint="10824" TargetWaypoint="10823"/>
+	<Link SourceWaypoint="10824" TargetWaypoint="10825"/>
+	<Link SourceWaypoint="10824" TargetWaypoint="10826"/>
+	<Link SourceWaypoint="10825" TargetWaypoint="10824"/>
+	<Link SourceWaypoint="10825" TargetWaypoint="10826"/>
+	<Link SourceWaypoint="10826" TargetWaypoint="10825"/>
+	<Link SourceWaypoint="10826" TargetWaypoint="10827"/>
+	<Link SourceWaypoint="10826" TargetWaypoint="10824"/>
+	<Link SourceWaypoint="10827" TargetWaypoint="10826"/>
+	<Link SourceWaypoint="10827" TargetWaypoint="10828"/>
+	<Link SourceWaypoint="10828" TargetWaypoint="10827"/>
+	<Link SourceWaypoint="10828" TargetWaypoint="10829"/>
+	<Link SourceWaypoint="10828" TargetWaypoint="10845"/>
+	<Link SourceWaypoint="10829" TargetWaypoint="10828"/>
+	<Link SourceWaypoint="10829" TargetWaypoint="10830"/>
+	<Link SourceWaypoint="10829" TargetWaypoint="10845"/>
+	<Link SourceWaypoint="10830" TargetWaypoint="10829"/>
+	<Link SourceWaypoint="10830" TargetWaypoint="10831"/>
+	<Link SourceWaypoint="10831" TargetWaypoint="10830"/>
+	<Link SourceWaypoint="10831" TargetWaypoint="10832"/>
+	<Link SourceWaypoint="10831" TargetWaypoint="10836"/>
+	<Link SourceWaypoint="10832" TargetWaypoint="10831"/>
+	<Link SourceWaypoint="10832" TargetWaypoint="10833"/>
+	<Link SourceWaypoint="10833" TargetWaypoint="10832"/>
+	<Link SourceWaypoint="10833" TargetWaypoint="10834"/>
+	<Link SourceWaypoint="10833" TargetWaypoint="10862"/>
+	<Link SourceWaypoint="10834" TargetWaypoint="10833"/>
+	<Link SourceWaypoint="10834" TargetWaypoint="10835"/>
+	<Link SourceWaypoint="10834" TargetWaypoint="10862"/>
+	<Link SourceWaypoint="10835" TargetWaypoint="10834"/>
+	<Link SourceWaypoint="10835" TargetWaypoint="10823"/>
+	<Link SourceWaypoint="10836" TargetWaypoint="10831"/>
+	<Link SourceWaypoint="10836" TargetWaypoint="10837"/>
+	<Link SourceWaypoint="10837" TargetWaypoint="10836"/>
+	<Link SourceWaypoint="10837" TargetWaypoint="10838"/>
+	<Link SourceWaypoint="10838" TargetWaypoint="10837"/>
+	<Link SourceWaypoint="10838" TargetWaypoint="10839"/>
+	<Link SourceWaypoint="10839" TargetWaypoint="10838"/>
+	<Link SourceWaypoint="10839" TargetWaypoint="10840"/>
+	<Link SourceWaypoint="10839" TargetWaypoint="10841"/>
+	<Link SourceWaypoint="10840" TargetWaypoint="10839"/>
+	<Link SourceWaypoint="10840" TargetWaypoint="10841"/>
+	<Link SourceWaypoint="10840" TargetWaypoint="10913"/>
+	<Link SourceWaypoint="10841" TargetWaypoint="10840"/>
+	<Link SourceWaypoint="10841" TargetWaypoint="10842"/>
+	<Link SourceWaypoint="10841" TargetWaypoint="10839"/>
+	<Link SourceWaypoint="10842" TargetWaypoint="10841"/>
+	<Link SourceWaypoint="10842" TargetWaypoint="10843"/>
+	<Link SourceWaypoint="10843" TargetWaypoint="10842"/>
+	<Link SourceWaypoint="10843" TargetWaypoint="10844"/>
+	<Link SourceWaypoint="10844" TargetWaypoint="10843"/>
+	<Link SourceWaypoint="10844" TargetWaypoint="10888"/>
+	<Link SourceWaypoint="10845" TargetWaypoint="10828"/>
+	<Link SourceWaypoint="10845" TargetWaypoint="10829"/>
+	<Link SourceWaypoint="10845" TargetWaypoint="10846"/>
+	<Link SourceWaypoint="10846" TargetWaypoint="10845"/>
+	<Link SourceWaypoint="10846" TargetWaypoint="10847"/>
+	<Link SourceWaypoint="10847" TargetWaypoint="10846"/>
+	<Link SourceWaypoint="10847" TargetWaypoint="10848"/>
+	<Link SourceWaypoint="10848" TargetWaypoint="10847"/>
+	<Link SourceWaypoint="10848" TargetWaypoint="10849"/>
+	<Link SourceWaypoint="10849" TargetWaypoint="10848"/>
+	<Link SourceWaypoint="10849" TargetWaypoint="10850"/>
+	<Link SourceWaypoint="10850" TargetWaypoint="10849"/>
+	<Link SourceWaypoint="10850" TargetWaypoint="10851"/>
+	<Link SourceWaypoint="10851" TargetWaypoint="10850"/>
+	<Link SourceWaypoint="10851" TargetWaypoint="10852"/>
+	<Link SourceWaypoint="10852" TargetWaypoint="10851"/>
+	<Link SourceWaypoint="10852" TargetWaypoint="10853"/>
+	<Link SourceWaypoint="10853" TargetWaypoint="10852"/>
+	<Link SourceWaypoint="10853" TargetWaypoint="10854"/>
+	<Link SourceWaypoint="10853" TargetWaypoint="10855"/>
+	<Link SourceWaypoint="10854" TargetWaypoint="10853"/>
+	<Link SourceWaypoint="10854" TargetWaypoint="10855"/>
+	<Link SourceWaypoint="10855" TargetWaypoint="10853"/>
+	<Link SourceWaypoint="10855" TargetWaypoint="10854"/>
+	<Link SourceWaypoint="10855" TargetWaypoint="10856"/>
+	<Link SourceWaypoint="10855" TargetWaypoint="10905"/>
+	<Link SourceWaypoint="10856" TargetWaypoint="10855"/>
+	<Link SourceWaypoint="10856" TargetWaypoint="10857"/>
+	<Link SourceWaypoint="10857" TargetWaypoint="10856"/>
+	<Link SourceWaypoint="10857" TargetWaypoint="10858"/>
+	<Link SourceWaypoint="10857" TargetWaypoint="10905"/>
+	<Link SourceWaypoint="10858" TargetWaypoint="10857"/>
+	<Link SourceWaypoint="10858" TargetWaypoint="10859"/>
+	<Link SourceWaypoint="10859" TargetWaypoint="10858"/>
+	<Link SourceWaypoint="10859" TargetWaypoint="10860"/>
+	<Link SourceWaypoint="10860" TargetWaypoint="10859"/>
+	<Link SourceWaypoint="10860" TargetWaypoint="10861"/>
+	<Link SourceWaypoint="10861" TargetWaypoint="10860"/>
+	<Link SourceWaypoint="10862" TargetWaypoint="10834"/>
+	<Link SourceWaypoint="10862" TargetWaypoint="10833"/>
+	<Link SourceWaypoint="10862" TargetWaypoint="10863"/>
+	<Link SourceWaypoint="10862" TargetWaypoint="10866"/>
+	<Link SourceWaypoint="10862" TargetWaypoint="10869"/>
+	<Link SourceWaypoint="10863" TargetWaypoint="10862"/>
+	<Link SourceWaypoint="10863" TargetWaypoint="10864"/>
+	<Link SourceWaypoint="10863" TargetWaypoint="10866"/>
+	<Link SourceWaypoint="10863" TargetWaypoint="10869"/>
+	<Link SourceWaypoint="10864" TargetWaypoint="10863"/>
+	<Link SourceWaypoint="10864" TargetWaypoint="10865"/>
+	<Link SourceWaypoint="10864" TargetWaypoint="10869"/>
+	<Link SourceWaypoint="10865" TargetWaypoint="10864"/>
+	<Link SourceWaypoint="10865" TargetWaypoint="10871"/>
+	<Link SourceWaypoint="10866" TargetWaypoint="10862"/>
+	<Link SourceWaypoint="10866" TargetWaypoint="10863"/>
+	<Link SourceWaypoint="10866" TargetWaypoint="10867"/>
+	<Link SourceWaypoint="10867" TargetWaypoint="10866"/>
+	<Link SourceWaypoint="10867" TargetWaypoint="10868"/>
+	<Link SourceWaypoint="10868" TargetWaypoint="10867"/>
+	<Link SourceWaypoint="10869" TargetWaypoint="10863"/>
+	<Link SourceWaypoint="10869" TargetWaypoint="10864"/>
+	<Link SourceWaypoint="10869" TargetWaypoint="10862"/>
+	<Link SourceWaypoint="10869" TargetWaypoint="10870"/>
+	<Link SourceWaypoint="10870" TargetWaypoint="10869"/>
+	<Link SourceWaypoint="10871" TargetWaypoint="10865"/>
+	<Link SourceWaypoint="10871" TargetWaypoint="10872"/>
+	<Link SourceWaypoint="10872" TargetWaypoint="10871"/>
+	<Link SourceWaypoint="10872" TargetWaypoint="10873"/>
+	<Link SourceWaypoint="10873" TargetWaypoint="10872"/>
+	<Link SourceWaypoint="10873" TargetWaypoint="10874"/>
+	<Link SourceWaypoint="10874" TargetWaypoint="10873"/>
+	<Link SourceWaypoint="10874" TargetWaypoint="10875"/>
+	<Link SourceWaypoint="10874" TargetWaypoint="10876"/>
+	<Link SourceWaypoint="10875" TargetWaypoint="10874"/>
+	<Link SourceWaypoint="10875" TargetWaypoint="10876"/>
+	<Link SourceWaypoint="10875" TargetWaypoint="10889"/>
+	<Link SourceWaypoint="10876" TargetWaypoint="10874"/>
+	<Link SourceWaypoint="10876" TargetWaypoint="10877"/>
+	<Link SourceWaypoint="10876" TargetWaypoint="10875"/>
+	<Link SourceWaypoint="10877" TargetWaypoint="10876"/>
+	<Link SourceWaypoint="10877" TargetWaypoint="10878"/>
+	<Link SourceWaypoint="10878" TargetWaypoint="10877"/>
+	<Link SourceWaypoint="10878" TargetWaypoint="10879"/>
+	<Link SourceWaypoint="10879" TargetWaypoint="10878"/>
+	<Link SourceWaypoint="10879" TargetWaypoint="10880"/>
+	<Link SourceWaypoint="10880" TargetWaypoint="10879"/>
+	<Link SourceWaypoint="10880" TargetWaypoint="10881"/>
+	<Link SourceWaypoint="10881" TargetWaypoint="10880"/>
+	<Link SourceWaypoint="10881" TargetWaypoint="10882"/>
+	<Link SourceWaypoint="10882" TargetWaypoint="10881"/>
+	<Link SourceWaypoint="10882" TargetWaypoint="10883"/>
+	<Link SourceWaypoint="10883" TargetWaypoint="10882"/>
+	<Link SourceWaypoint="10883" TargetWaypoint="10884"/>
+	<Link SourceWaypoint="10884" TargetWaypoint="10883"/>
+	<Link SourceWaypoint="10884" TargetWaypoint="10885"/>
+	<Link SourceWaypoint="10885" TargetWaypoint="10884"/>
+	<Link SourceWaypoint="10885" TargetWaypoint="10886"/>
+	<Link SourceWaypoint="10886" TargetWaypoint="10885"/>
+	<Link SourceWaypoint="10886" TargetWaypoint="10887"/>
+	<Link SourceWaypoint="10887" TargetWaypoint="10886"/>
+	<Link SourceWaypoint="10887" TargetWaypoint="10888"/>
+	<Link SourceWaypoint="10888" TargetWaypoint="10887"/>
+	<Link SourceWaypoint="10888" TargetWaypoint="10844"/>
+	<Link SourceWaypoint="10889" TargetWaypoint="10875"/>
+	<Link SourceWaypoint="10889" TargetWaypoint="10890"/>
+	<Link SourceWaypoint="10890" TargetWaypoint="10889"/>
+	<Link SourceWaypoint="10890" TargetWaypoint="10891"/>
+	<Link SourceWaypoint="10891" TargetWaypoint="10890"/>
+	<Link SourceWaypoint="10891" TargetWaypoint="10893"/>
+	<Link SourceWaypoint="10892" TargetWaypoint="10895"/>
+	<Link SourceWaypoint="10892" TargetWaypoint="10893"/>
+	<Link SourceWaypoint="10893" TargetWaypoint="10894"/>
+	<Link SourceWaypoint="10893" TargetWaypoint="10891"/>
+	<Link SourceWaypoint="10893" TargetWaypoint="10892"/>
+	<Link SourceWaypoint="10894" TargetWaypoint="10893"/>
+	<Link SourceWaypoint="10894" TargetWaypoint="10895"/>
+	<Link SourceWaypoint="10895" TargetWaypoint="10894"/>
+	<Link SourceWaypoint="10895" TargetWaypoint="10896"/>
+	<Link SourceWaypoint="10895" TargetWaypoint="10892"/>
+	<Link SourceWaypoint="10896" TargetWaypoint="10895"/>
+	<Link SourceWaypoint="10896" TargetWaypoint="10897"/>
+	<Link SourceWaypoint="10897" TargetWaypoint="10896"/>
+	<Link SourceWaypoint="10897" TargetWaypoint="10898"/>
+	<Link SourceWaypoint="10898" TargetWaypoint="10897"/>
+	<Link SourceWaypoint="10898" TargetWaypoint="10899"/>
+	<Link SourceWaypoint="10899" TargetWaypoint="10898"/>
+	<Link SourceWaypoint="10899" TargetWaypoint="10900"/>
+	<Link SourceWaypoint="10900" TargetWaypoint="10899"/>
+	<Link SourceWaypoint="10900" TargetWaypoint="10901"/>
+	<Link SourceWaypoint="10901" TargetWaypoint="10900"/>
+	<Link SourceWaypoint="10901" TargetWaypoint="10902"/>
+	<Link SourceWaypoint="10902" TargetWaypoint="10901"/>
+	<Link SourceWaypoint="10902" TargetWaypoint="10903"/>
+	<Link SourceWaypoint="10903" TargetWaypoint="10902"/>
+	<Link SourceWaypoint="10903" TargetWaypoint="10904"/>
+	<Link SourceWaypoint="10904" TargetWaypoint="10903"/>
+	<Link SourceWaypoint="10904" TargetWaypoint="10823"/>
+	<Link SourceWaypoint="10905" TargetWaypoint="10857"/>
+	<Link SourceWaypoint="10905" TargetWaypoint="10855"/>
+	<Link SourceWaypoint="10905" TargetWaypoint="10906"/>
+	<Link SourceWaypoint="10906" TargetWaypoint="10905"/>
+	<Link SourceWaypoint="10906" TargetWaypoint="10907"/>
+	<Link SourceWaypoint="10907" TargetWaypoint="10906"/>
+	<Link SourceWaypoint="10907" TargetWaypoint="10908"/>
+	<Link SourceWaypoint="10908" TargetWaypoint="10907"/>
+	<Link SourceWaypoint="10908" TargetWaypoint="10909"/>
+	<Link SourceWaypoint="10909" TargetWaypoint="10908"/>
+	<Link SourceWaypoint="10909" TargetWaypoint="10910"/>
+	<Link SourceWaypoint="10910" TargetWaypoint="10909"/>
+	<Link SourceWaypoint="10910" TargetWaypoint="10911"/>
+	<Link SourceWaypoint="10911" TargetWaypoint="10910"/>
+	<Link SourceWaypoint="10911" TargetWaypoint="10912"/>
+	<Link SourceWaypoint="10912" TargetWaypoint="10911"/>
+	<Link SourceWaypoint="10912" TargetWaypoint="10913"/>
+	<Link SourceWaypoint="10913" TargetWaypoint="10912"/>
+	<Link SourceWaypoint="10913" TargetWaypoint="10840"/>
+</LinkList>
+<GroupList>
+	<Group Key="13" Name="NPC_Shepherd_Dog"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

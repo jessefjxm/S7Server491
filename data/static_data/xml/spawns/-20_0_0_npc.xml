@@ -1,0 +1,50 @@
+<SpawnPlacementList>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-218022.0" Y="2387.67" Z="-1685.48"/>
+        <Walk X="-210969.0" Y="-11791.2" Z="-1353.25"/>
+        <Direction>0.880244459154698</Direction>
+        <UseSpawnGroup SpawnCharacterKey="718" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-210452.0" Y="5080.52" Z="-1579.87"/>
+        <Walk X="-222787.0" Y="-789.959" Z="-1678.26"/>
+        <Direction>0.401295334750182</Direction>
+        <UseSpawnGroup SpawnCharacterKey="718" SpawnQuantity="1"/>
+        <ActionIndex>5</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-225174.2" Y="27828.93" Z="-1433.376"/>
+        <Direction>2.02704221479248</Direction>
+        <UseSpawnGroup SpawnCharacterKey="42931" SpawnQuantity="1"/>
+        <Function>64</Function>
+        <ActionIndex>41</ActionIndex>
+        <DialogIndex>1</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-234355.1" Y="25517.78" Z="-1526.704"/>
+        <Direction>2.81302989962273</Direction>
+        <UseSpawnGroup SpawnCharacterKey="42931" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>41</ActionIndex>
+        <DialogIndex>1</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-225364.0" Y="27609.8" Z="-1445.8"/>
+        <Walk X="-180025.0" Y="32125.0" Z="925.0"/>
+        <Direction>-2.20774146895453</Direction>
+        <UseSpawnGroup SpawnCharacterKey="735" SpawnQuantity="1"/>
+        <Function>64</Function>
+        <ActionIndex>37</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-210725.0" Y="5675.0" Z="-1575.0"/>
+        <Direction>2.22690790992745</Direction>
+        <UseSpawnGroup SpawnCharacterKey="35437" SpawnQuantity="1"/>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>1</DialogIndex>
+    </SpawnPlacement>
+</SpawnPlacementList>

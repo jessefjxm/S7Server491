@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="imp_patrol">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="308" Name="imp_patrol_1" PosX="-40512.3" PosY="-1880.19" PosZ="80524" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="309" Name="imp_patrol_2" PosX="-39784.9" PosY="-1952.56" PosZ="81454.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="310" Name="imp_patrol_3" PosX="-40854.6" PosY="-1800.73" PosZ="81945.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="311" Name="imp_patrol_4" PosX="-41252.2" PosY="-1870.7" PosZ="83325.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="312" Name="imp_patrol_5" PosX="-43736.6" PosY="-1568.58" PosZ="83849.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="313" Name="imp_patrol_6" PosX="-45241.7" PosY="-1713.36" PosZ="85014.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="314" Name="imp_patrol_7" PosX="-48805.9" PosY="-1512.29" PosZ="87787.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="315" Name="imp_patrol_8" PosX="-49822.5" PosY="-1322.97" PosZ="87650.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="316" Name="imp_patrol_9" PosX="-52831.4" PosY="-1060.63" PosZ="86044.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="317" Name="imp_patrol_10" PosX="-54420.1" PosY="-1101.54" PosZ="87307" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="318" Name="imp_patrol_11" PosX="-55852.5" PosY="-1140.86" PosZ="85128.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="319" Name="imp_patrol_12" PosX="-55156.7" PosY="-1130.7" PosZ="83072.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="320" Name="imp_patrol_13" PosX="-53040.1" PosY="-1414.78" PosZ="82164.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="321" Name="imp_patrol_14" PosX="-52964.1" PosY="-1492.91" PosZ="81103.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="322" Name="imp_patrol_15" PosX="-52649.5" PosY="-1889.12" PosZ="77972.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="323" Name="imp_patrol_16" PosX="-52895.8" PosY="-2123.79" PosZ="75407.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="324" Name="imp_patrol_17" PosX="-50306.4" PosY="-1992.85" PosZ="75625.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="325" Name="imp_patrol_18" PosX="-48208.1" PosY="-1802.76" PosZ="76610.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="326" Name="imp_patrol_19" PosX="-46766" PosY="-1797.5" PosZ="76610.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="327" Name="imp_patrol_20" PosX="-46381.2" PosY="-1485.97" PosZ="78702.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="328" Name="imp_patrol_21" PosX="-43736.7" PosY="-1445.56" PosZ="79825.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="329" Name="imp_patrol_22" PosX="-41124.4" PosY="-1859.22" PosZ="78858.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1015" Name="imp_patrol_23" PosX="-52028.5" PosY="-1049.1" PosZ="86532.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1016" Name="imp_patrol_24" PosX="-53213.2" PosY="-1055.56" PosZ="86536.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1057" Name="imp_patrol_8_1" PosX="-51575.2" PosY="-1204.76" PosZ="86611.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1058" Name="imp_patrol_24_1" PosX="-53719.3" PosY="-1124.43" PosZ="87316.8" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="308" TargetWaypoint="309"/>
+	<Link SourceWaypoint="309" TargetWaypoint="310"/>
+	<Link SourceWaypoint="310" TargetWaypoint="311"/>
+	<Link SourceWaypoint="311" TargetWaypoint="312"/>
+	<Link SourceWaypoint="312" TargetWaypoint="313"/>
+	<Link SourceWaypoint="313" TargetWaypoint="314"/>
+	<Link SourceWaypoint="314" TargetWaypoint="315"/>
+	<Link SourceWaypoint="315" TargetWaypoint="1057"/>
+	<Link SourceWaypoint="316" TargetWaypoint="1016"/>
+	<Link SourceWaypoint="317" TargetWaypoint="318"/>
+	<Link SourceWaypoint="317" TargetWaypoint="1058"/>
+	<Link SourceWaypoint="318" TargetWaypoint="319"/>
+	<Link SourceWaypoint="319" TargetWaypoint="320"/>
+	<Link SourceWaypoint="320" TargetWaypoint="321"/>
+	<Link SourceWaypoint="321" TargetWaypoint="322"/>
+	<Link SourceWaypoint="322" TargetWaypoint="323"/>
+	<Link SourceWaypoint="323" TargetWaypoint="324"/>
+	<Link SourceWaypoint="324" TargetWaypoint="325"/>
+	<Link SourceWaypoint="325" TargetWaypoint="326"/>
+	<Link SourceWaypoint="326" TargetWaypoint="327"/>
+	<Link SourceWaypoint="327" TargetWaypoint="328"/>
+	<Link SourceWaypoint="328" TargetWaypoint="329"/>
+	<Link SourceWaypoint="329" TargetWaypoint="308"/>
+	<Link SourceWaypoint="1015" TargetWaypoint="316"/>
+	<Link SourceWaypoint="1015" TargetWaypoint="1057"/>
+	<Link SourceWaypoint="1016" TargetWaypoint="1058"/>
+	<Link SourceWaypoint="1057" TargetWaypoint="315"/>
+	<Link SourceWaypoint="1057" TargetWaypoint="1015"/>
+	<Link SourceWaypoint="1058" TargetWaypoint="1016"/>
+	<Link SourceWaypoint="1058" TargetWaypoint="317"/>
+</LinkList>
+<GroupList>
+	<Group Key="13" Name="Imp_patrol"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

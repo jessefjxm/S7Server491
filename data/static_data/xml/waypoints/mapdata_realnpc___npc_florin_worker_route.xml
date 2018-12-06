@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="npc" subName="npc_florin_worker_route">
+<WaypointList>
+	<Waypoint IsSubWaypoint="False" Key="11319" Name="NPC_Florin_Worker_Route_01_01" PosX="-171840" PosY="4902.51" PosZ="56045.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11323" Name="NPC_Florin_Worker_Route_01_05" PosX="-171780" PosY="4828.94" PosZ="55601.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11324" Name="NPC_Florin_Worker_Route_01_06" PosX="-171557" PosY="4859.51" PosZ="55336.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11325" Name="NPC_Florin_Worker_Route_01_07" PosX="-171182" PosY="4923.71" PosZ="55037.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11326" Name="NPC_Florin_Worker_Route_01_08" PosX="-170713" PosY="5034.78" PosZ="54946.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11327" Name="NPC_Florin_Worker_Route_01_09" PosX="-170244" PosY="5202.86" PosZ="55045.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11328" Name="NPC_Florin_Worker_Route_01_10" PosX="-169747" PosY="5353.33" PosZ="55136.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11329" Name="NPC_Florin_Worker_Route_01_11" PosX="-169256" PosY="5474.85" PosZ="55110.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11330" Name="NPC_Florin_Worker_Route_01_12" PosX="-168654" PosY="5552.38" PosZ="55110.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11331" Name="NPC_Florin_Worker_Route_01_13" PosX="-168131" PosY="5624.36" PosZ="55258.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11332" Name="NPC_Florin_Worker_Route_01_14" PosX="-167712" PosY="5775.43" PosZ="55500.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11333" Name="NPC_Florin_Worker_Route_01_15" PosX="-167379" PosY="5860.37" PosZ="55744.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11334" Name="NPC_Florin_Worker_Route_01_16" PosX="-167183" PosY="5890.65" PosZ="56197.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11335" Name="NPC_Florin_Worker_Route_01_17" PosX="-167175" PosY="5910.77" PosZ="56799.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11336" Name="NPC_Florin_Worker_Route_01_18" PosX="-167398" PosY="5908.08" PosZ="57421" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11337" Name="NPC_Florin_Worker_Route_01_19" PosX="-167681" PosY="5884.41" PosZ="57865.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11339" Name="NPC_Florin_Worker_Route_01_21" PosX="-167909" PosY="5877.41" PosZ="57714.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11342" Name="NPC_Florin_Worker_Route_01_24" PosX="-167615" PosY="5907.87" PosZ="57289.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11343" Name="NPC_Florin_Worker_Route_01_25" PosX="-167546" PosY="5912.64" PosZ="56880.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11344" Name="NPC_Florin_Worker_Route_01_26" PosX="-167429" PosY="5888.45" PosZ="56368.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11345" Name="NPC_Florin_Worker_Route_01_27" PosX="-167594" PosY="5851.24" PosZ="55984.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11346" Name="NPC_Florin_Worker_Route_01_28" PosX="-167896" PosY="5800.97" PosZ="55789.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11347" Name="NPC_Florin_Worker_Route_01_29" PosX="-168309" PosY="5633.96" PosZ="55481.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11348" Name="NPC_Florin_Worker_Route_01_30" PosX="-168711" PosY="5563.75" PosZ="55351.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11349" Name="NPC_Florin_Worker_Route_01_31" PosX="-169294" PosY="5465.26" PosZ="55345" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11350" Name="NPC_Florin_Worker_Route_01_32" PosX="-169808" PosY="5351.69" PosZ="55308.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11351" Name="NPC_Florin_Worker_Route_01_33" PosX="-170292" PosY="5202.82" PosZ="55227.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11352" Name="NPC_Florin_Worker_Route_01_34" PosX="-170714" PosY="5055.18" PosZ="55201.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11353" Name="NPC_Florin_Worker_Route_01_35" PosX="-171100" PosY="4964.28" PosZ="55293.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11354" Name="NPC_Florin_Worker_Route_01_36" PosX="-171400" PosY="4921.17" PosZ="55556.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11355" Name="NPC_Florin_Worker_Route_01_37" PosX="-171596" PosY="4909" PosZ="56039.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11358" Name="NPC_Florin_Worker_Route_02_01" PosX="-168765" PosY="5866.3" PosZ="58955.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11359" Name="NPC_Florin_Worker_Route_02_02" PosX="-168504" PosY="5851.39" PosZ="58615" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11360" Name="NPC_Florin_Worker_Route_02_03" PosX="-168076" PosY="5862.97" PosZ="58386.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11361" Name="NPC_Florin_Worker_Route_02_04" PosX="-167917" PosY="5877.17" PosZ="58002.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11362" Name="NPC_Florin_Worker_Route_02_05" PosX="-167641" PosY="5904.83" PosZ="57523.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11363" Name="NPC_Florin_Worker_Route_02_06" PosX="-167448" PosY="5912.04" PosZ="57031.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11364" Name="NPC_Florin_Worker_Route_02_07" PosX="-167342" PosY="5901.39" PosZ="56564.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11365" Name="NPC_Florin_Worker_Route_02_08" PosX="-167383" PosY="5871.13" PosZ="56074.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11366" Name="NPC_Florin_Worker_Route_02_09" PosX="-167328" PosY="5872.89" PosZ="55571.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11367" Name="NPC_Florin_Worker_Route_02_10" PosX="-167142" PosY="5903.3" PosZ="55179" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11368" Name="NPC_Florin_Worker_Route_02_11" PosX="-167197" PosY="5922.54" PosZ="54760.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11369" Name="NPC_Florin_Worker_Route_02_12" PosX="-167320" PosY="5926.87" PosZ="54264.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11370" Name="NPC_Florin_Worker_Route_02_13" PosX="-166869" PosY="5923.3" PosZ="54183.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11371" Name="NPC_Florin_Worker_Route_02_14" PosX="-167072" PosY="5931.35" PosZ="54423.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11372" Name="NPC_Florin_Worker_Route_02_15" PosX="-166915" PosY="5939.06" PosZ="54871" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11373" Name="NPC_Florin_Worker_Route_02_16" PosX="-166898" PosY="5915.12" PosZ="55519.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11374" Name="NPC_Florin_Worker_Route_02_17" PosX="-166992" PosY="5902.97" PosZ="56166.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11375" Name="NPC_Florin_Worker_Route_02_18" PosX="-167016" PosY="5910.13" PosZ="56766.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11376" Name="NPC_Florin_Worker_Route_02_19" PosX="-167161" PosY="5909.74" PosZ="57419.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11377" Name="NPC_Florin_Worker_Route_02_20" PosX="-167465" PosY="5892.73" PosZ="57978.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11378" Name="NPC_Florin_Worker_Route_02_21" PosX="-167688" PosY="5891.11" PosZ="58443" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11379" Name="NPC_Florin_Worker_Route_02_22" PosX="-168022" PosY="5890.42" PosZ="58835" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11380" Name="NPC_Florin_Worker_Route_02_23" PosX="-168400" PosY="5891.3" PosZ="59120.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11381" Name="NPC_Florin_Worker_Route_03_01" PosX="-167127" PosY="5892.14" PosZ="53428.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11382" Name="NPC_Florin_Worker_Route_03_02" PosX="-167181" PosY="5829.51" PosZ="52921.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11383" Name="NPC_Florin_Worker_Route_03_03" PosX="-167683" PosY="5611.22" PosZ="52470.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11384" Name="NPC_Florin_Worker_Route_03_04" PosX="-168504" PosY="5407.25" PosZ="52243" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11385" Name="NPC_Florin_Worker_Route_03_05" PosX="-169307" PosY="5231.36" PosZ="52267.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11386" Name="NPC_Florin_Worker_Route_03_06" PosX="-169793" PosY="5070.07" PosZ="52521" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11387" Name="NPC_Florin_Worker_Route_03_07" PosX="-170169" PosY="4967.83" PosZ="52437.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11388" Name="NPC_Florin_Worker_Route_03_08" PosX="-170786" PosY="4785.33" PosZ="51883.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11389" Name="NPC_Florin_Worker_Route_03_09" PosX="-171199" PosY="4704.08" PosZ="51354.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11390" Name="NPC_Florin_Worker_Route_03_10" PosX="-172054" PosY="4592.08" PosZ="51709.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11391" Name="NPC_Florin_Worker_Route_03_11" PosX="-172548" PosY="4520.39" PosZ="51551.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11392" Name="NPC_Florin_Worker_Route_03_12" PosX="-172594" PosY="4535.45" PosZ="51268.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11393" Name="NPC_Florin_Worker_Route_03_13" PosX="-172116" PosY="4595.06" PosZ="51408.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11394" Name="NPC_Florin_Worker_Route_03_14" PosX="-171261" PosY="4713.53" PosZ="51635.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11395" Name="NPC_Florin_Worker_Route_03_15" PosX="-170869" PosY="4812.75" PosZ="52189.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11396" Name="NPC_Florin_Worker_Route_03_16" PosX="-170254" PosY="4944.47" PosZ="52650.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11397" Name="NPC_Florin_Worker_Route_03_17" PosX="-169792" PosY="5061.46" PosZ="52747" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11398" Name="NPC_Florin_Worker_Route_03_18" PosX="-169328" PosY="5203.72" PosZ="52531.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11399" Name="NPC_Florin_Worker_Route_03_19" PosX="-168775" PosY="5357.16" PosZ="52488.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11400" Name="NPC_Florin_Worker_Route_03_20" PosX="-168161" PosY="5485.56" PosZ="52558.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11401" Name="NPC_Florin_Worker_Route_03_21" PosX="-167585" PosY="5704.47" PosZ="52854.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="11402" Name="NPC_Florin_Worker_Route_03_22" PosX="-167349" PosY="5853.72" PosZ="53263.4" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11319" TargetWaypoint="11323"/>
+	<Link SourceWaypoint="11323" TargetWaypoint="11324"/>
+	<Link SourceWaypoint="11324" TargetWaypoint="11325"/>
+	<Link SourceWaypoint="11325" TargetWaypoint="11326"/>
+	<Link SourceWaypoint="11326" TargetWaypoint="11327"/>
+	<Link SourceWaypoint="11327" TargetWaypoint="11328"/>
+	<Link SourceWaypoint="11328" TargetWaypoint="11329"/>
+	<Link SourceWaypoint="11329" TargetWaypoint="11330"/>
+	<Link SourceWaypoint="11330" TargetWaypoint="11331"/>
+	<Link SourceWaypoint="11331" TargetWaypoint="11332"/>
+	<Link SourceWaypoint="11332" TargetWaypoint="11333"/>
+	<Link SourceWaypoint="11333" TargetWaypoint="11334"/>
+	<Link SourceWaypoint="11334" TargetWaypoint="11335"/>
+	<Link SourceWaypoint="11335" TargetWaypoint="11336"/>
+	<Link SourceWaypoint="11336" TargetWaypoint="11337"/>
+	<Link SourceWaypoint="11337" TargetWaypoint="11339"/>
+	<Link SourceWaypoint="11339" TargetWaypoint="11342"/>
+	<Link SourceWaypoint="11342" TargetWaypoint="11343"/>
+	<Link SourceWaypoint="11343" TargetWaypoint="11344"/>
+	<Link SourceWaypoint="11344" TargetWaypoint="11345"/>
+	<Link SourceWaypoint="11345" TargetWaypoint="11346"/>
+	<Link SourceWaypoint="11346" TargetWaypoint="11347"/>
+	<Link SourceWaypoint="11347" TargetWaypoint="11348"/>
+	<Link SourceWaypoint="11348" TargetWaypoint="11349"/>
+	<Link SourceWaypoint="11349" TargetWaypoint="11350"/>
+	<Link SourceWaypoint="11350" TargetWaypoint="11351"/>
+	<Link SourceWaypoint="11351" TargetWaypoint="11352"/>
+	<Link SourceWaypoint="11352" TargetWaypoint="11353"/>
+	<Link SourceWaypoint="11353" TargetWaypoint="11354"/>
+	<Link SourceWaypoint="11354" TargetWaypoint="11355"/>
+	<Link SourceWaypoint="11355" TargetWaypoint="11319"/>
+	<Link SourceWaypoint="11358" TargetWaypoint="11359"/>
+	<Link SourceWaypoint="11359" TargetWaypoint="11360"/>
+	<Link SourceWaypoint="11360" TargetWaypoint="11361"/>
+	<Link SourceWaypoint="11361" TargetWaypoint="11362"/>
+	<Link SourceWaypoint="11362" TargetWaypoint="11363"/>
+	<Link SourceWaypoint="11363" TargetWaypoint="11364"/>
+	<Link SourceWaypoint="11364" TargetWaypoint="11365"/>
+	<Link SourceWaypoint="11365" TargetWaypoint="11366"/>
+	<Link SourceWaypoint="11366" TargetWaypoint="11367"/>
+	<Link SourceWaypoint="11367" TargetWaypoint="11368"/>
+	<Link SourceWaypoint="11368" TargetWaypoint="11369"/>
+	<Link SourceWaypoint="11369" TargetWaypoint="11370"/>
+	<Link SourceWaypoint="11370" TargetWaypoint="11371"/>
+	<Link SourceWaypoint="11371" TargetWaypoint="11372"/>
+	<Link SourceWaypoint="11372" TargetWaypoint="11373"/>
+	<Link SourceWaypoint="11373" TargetWaypoint="11374"/>
+	<Link SourceWaypoint="11374" TargetWaypoint="11375"/>
+	<Link SourceWaypoint="11375" TargetWaypoint="11376"/>
+	<Link SourceWaypoint="11376" TargetWaypoint="11377"/>
+	<Link SourceWaypoint="11377" TargetWaypoint="11378"/>
+	<Link SourceWaypoint="11378" TargetWaypoint="11379"/>
+	<Link SourceWaypoint="11379" TargetWaypoint="11380"/>
+	<Link SourceWaypoint="11380" TargetWaypoint="11358"/>
+	<Link SourceWaypoint="11381" TargetWaypoint="11382"/>
+	<Link SourceWaypoint="11382" TargetWaypoint="11383"/>
+	<Link SourceWaypoint="11383" TargetWaypoint="11384"/>
+	<Link SourceWaypoint="11384" TargetWaypoint="11385"/>
+	<Link SourceWaypoint="11385" TargetWaypoint="11386"/>
+	<Link SourceWaypoint="11386" TargetWaypoint="11387"/>
+	<Link SourceWaypoint="11387" TargetWaypoint="11388"/>
+	<Link SourceWaypoint="11388" TargetWaypoint="11389"/>
+	<Link SourceWaypoint="11389" TargetWaypoint="11390"/>
+	<Link SourceWaypoint="11390" TargetWaypoint="11391"/>
+	<Link SourceWaypoint="11391" TargetWaypoint="11392"/>
+	<Link SourceWaypoint="11392" TargetWaypoint="11393"/>
+	<Link SourceWaypoint="11393" TargetWaypoint="11394"/>
+	<Link SourceWaypoint="11394" TargetWaypoint="11395"/>
+	<Link SourceWaypoint="11395" TargetWaypoint="11396"/>
+	<Link SourceWaypoint="11396" TargetWaypoint="11397"/>
+	<Link SourceWaypoint="11397" TargetWaypoint="11398"/>
+	<Link SourceWaypoint="11398" TargetWaypoint="11399"/>
+	<Link SourceWaypoint="11399" TargetWaypoint="11400"/>
+	<Link SourceWaypoint="11400" TargetWaypoint="11401"/>
+	<Link SourceWaypoint="11401" TargetWaypoint="11402"/>
+	<Link SourceWaypoint="11402" TargetWaypoint="11381"/>
+</LinkList>
+<GroupList>
+	<Group Key="14" Name="NPC_Florin_Worker_Route"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

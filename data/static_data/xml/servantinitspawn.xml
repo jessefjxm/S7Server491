@@ -1,0 +1,335 @@
+<ServantInitSpawns>
+    <!--Not found NPC's-->
+    <!--43214 - Laharon [Stable] (not in game)-->
+    <!--45147 - Anahi [Stable]  (not in game)-->
+    <ServantInitSpawn NpcId="44152"> <!-- Gintabam [Dock Manager] -->
+        <SpawnLocation Direction="-0.8633773" Type="1" X="-1267912" Y="1513080.5" Z="-8208.0"/>
+	</ServantInitSpawn>
+	
+    <ServantInitSpawn NpcId="40702"> <!-- Chiara Coop [Stable] -->
+        <SpawnLocation Direction="0.924" Type="1" X="-134844" Y="110095" Z="709.84"/>
+        <SpawnLocation Direction="0.924" Type="2" X="-134844" Y="110095" Z="709.84"/>
+        <SpawnLocation Direction="0.924" Type="3" X="-134844" Y="110095" Z="709.84"/>
+        <SpawnLocation Direction="0.924" Type="4" X="-134844" Y="110095" Z="709.84"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41091"> <!-- Oliviero [Stable] -->
+        <SpawnLocation Direction="1.31" Type="1" X="-73332.21" Y="-56778.83" Z="-3327.15"/>
+        <SpawnLocation Direction="1.31" Type="2" X="-73332.21" Y="-56778.83" Z="-3327.15"/>
+        <SpawnLocation Direction="1.31" Type="3" X="-73332.21" Y="-56778.83" Z="-3327.15"/>
+        <SpawnLocation Direction="1.31" Type="4" X="-73332.21" Y="-56778.83" Z="-3327.15"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41092"> <!-- Publio [Stable] -->
+        <SpawnLocation Direction="-2.52" Type="1" X="-34899.07" Y="-83171.99" Z="-2297.3"/>
+        <SpawnLocation Direction="-2.52" Type="2" X="-34899.07" Y="-83171.99" Z="-2297.3"/>
+        <SpawnLocation Direction="-2.52" Type="3" X="-34899.07" Y="-83171.99" Z="-2297.3"/>
+        <SpawnLocation Direction="-2.52" Type="4" X="-34899.07" Y="-83171.99" Z="-2297.3"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41094"> <!-- Delmo [Stable] -->
+        <SpawnLocation Direction="-1.57" Type="1" X="20107.23" Y="-90334.65" Z="-1862.98"/>
+        <SpawnLocation Direction="-1.57" Type="2" X="20107.23" Y="-90334.65" Z="-1862.98"/>
+        <SpawnLocation Direction="-1.57" Type="3" X="20107.23" Y="-90334.65" Z="-1862.98"/>
+        <SpawnLocation Direction="-1.57" Type="4" X="20107.23" Y="-90334.65" Z="-1862.98"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40071"> <!-- Croix [Ferry Crossing] -->
+        <SpawnLocation Direction="-2.07" Type="1" X="7961.00" Y="85851.00" Z="-8175.00"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44040"> <!-- Amanda [Guild Stable] -->
+        <SpawnLocation Direction="0.613" Type="5" X="323376.94" Y="-78620.97" Z="-3088.92"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40072"> <!-- Barossa [Ferry Crossing] --> <!-- boats disapear after stored on this npc -->
+        <SpawnLocation Direction="2.18419" Type="1" X="-74275.0" Y="38277.8" Z="-4526.2"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="50568"> <!-- Gongklad [Ferry Crossing] -->
+        <SpawnLocation Direction="-1.59219" Type="1" X="251785.0" Y="148598.0" Z="-8208.01"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40713"> <!-- Nodmir Coop [Stable] -->
+        <SpawnLocation Direction="1.391" Type="1" X="-154985.0" Y="126958.0" Z="1037.02"/>
+        <SpawnLocation Direction="1.391" Type="2" X="-154985.0" Y="126958.0" Z="1037.02"/>
+        <SpawnLocation Direction="1.391" Type="3" X="-154985.0" Y="126958.0" Z="1037.02"/>
+        <SpawnLocation Direction="1.391" Type="4" X="-154999.0" Y="127019.0" Z="1032.66"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41103"> <!-- Silen [Ferry Crossing] -->
+        <SpawnLocation Direction="0.15909" Type="1" X="36434.8" Y="-51864.8" Z="-4040.62"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41104"> <!-- Torphin [Ferry Crossing] -->
+        <SpawnLocation Direction="-2.4478" Type="1" X="-80560.9" Y="-67359.5" Z="-4070.34"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="43025"> <!-- Partus [Stable] -->
+        <SpawnLocation Direction="-2.3" Type="1" X="-150354.83" Y="-144996.89" Z="-1586.48"/>
+        <SpawnLocation Direction="-2.3" Type="2" X="-150354.83" Y="-144996.89" Z="-1586.48"/>
+        <SpawnLocation Direction="-2.3" Type="3" X="-150354.83" Y="-144996.89" Z="-1586.48"/>
+        <SpawnLocation Direction="-2.3" Type="4" X="-150354.83" Y="-144996.89" Z="-1586.48"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44307"> <!-- Gula [Stable] -->
+        <SpawnLocation Direction="1.74" Type="1" X="217390.22" Y="-509.34" Z="-1868.89"/>
+        <SpawnLocation Direction="1.74" Type="2" X="217390.22" Y="-509.34" Z="-1868.89"/>
+        <SpawnLocation Direction="1.74" Type="3" X="217390.22" Y="-509.34" Z="-1868.89"/>
+        <SpawnLocation Direction="2.08" Type="4" X="217390.22" Y="-509.34" Z="-1868.89"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40726"> <!-- James Coop [Guild Stable] -->
+        <SpawnLocation Direction="-1.939" Type="5" X="-134865.0" Y="110150.0" Z="708.667"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="43414"> <!-- Spig [Stable] -->
+        <SpawnLocation Direction="-2.77" Type="1" X="-282657.38" Y="-230534.73" Z="3811.0"/>
+        <SpawnLocation Direction="-2.77" Type="2" X="-282657.38" Y="-230534.73" Z="3811.0"/>
+        <SpawnLocation Direction="-2.77" Type="3" X="-282657.38" Y="-230534.73" Z="3811.0"/>
+        <SpawnLocation Direction="-2.77" Type="4" X="-282657.38" Y="-230534.73" Z="3811.0"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45208"> <!-- Eugene [Stable] -->
+        <SpawnLocation Direction="0.0" Type="1" X="736738.0" Y="197806.0" Z="3627.23"/>
+        <SpawnLocation Direction="0.0" Type="2" X="736738.0" Y="197806.0" Z="3627.23"/>
+        <SpawnLocation Direction="0.0" Type="3" X="736738.0" Y="197806.0" Z="3627.23"/>
+        <SpawnLocation Direction="0.0" Type="4" X="736859.0" Y="197811.0" Z="3649.93"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45336"> <!-- Luicy [Dock] -->
+        <SpawnLocation Direction="2.86919" Type="1" X="1284900.0" Y="180539.03" Z="-8218.87"/>
+        <SpawnLocation Direction="2.86919" Type="2" X="1285530.0" Y="180694.03" Z="-8243.96"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45338"> <!-- Larina [Stable] -->
+        <SpawnLocation Direction="-0.358" Type="1" X="1262255.13" Y="180506.63" Z="-3922.58"/>
+        <SpawnLocation Direction="-0.358" Type="2" X="1262255.13" Y="180506.63" Z="-3922.58"/>
+        <SpawnLocation Direction="-0.358" Type="3" X="1262255.13" Y="180506.63" Z="-3922.58"/>
+        <SpawnLocation Direction="-0.345" Type="4" X="1262369.13" Y="180543.95" Z="-3927.1"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41243"> <!-- Gafur [Ferry Crossing] -->
+        <SpawnLocation Direction="0.162" Type="1" X="-339658.94" Y="370937.88" Z="-8197.95"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40732"> <!-- Chadwick [Guild Warf] -->
+        <SpawnLocation Direction="3.14159" Type="1" X="-80214.64" Y="172381.33" Z="-8191.77"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42014"> <!-- Gabril [Stable] -->
+        <SpawnLocation Direction="-1.47" Type="1" X="-231971.02" Y="-49255.22" Z="-3738.52"/>
+        <SpawnLocation Direction="-1.47" Type="2" X="-231971.02" Y="-49255.22" Z="-3738.52"/>
+        <SpawnLocation Direction="-1.47" Type="3" X="-231971.02" Y="-49255.22" Z="-3738.52"/>
+        <SpawnLocation Direction="-1.47" Type="4" X="-231971.02" Y="-49255.22" Z="-3738.52"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40607"> <!-- Dario [Ferry Crossing] -->
+        <SpawnLocation Direction="0.88" Type="1" X="153367.0" Y="289913.0" Z="-8241.86"/>
+        <SpawnLocation Direction="-0.634" Type="2" X="151532.0" Y="290141.0" Z="-8240.32"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41123"> <!-- Guinness [Guild Stable] -->
+        <SpawnLocation Direction="1.364" Type="5" X="40915.7" Y="-45822.4" Z="-2963.84"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45220"> <!-- Quichiu [Stable] -->
+        <SpawnLocation Direction="-2.248" Type="1" X="1095715.13" Y="-135997.5" Z="24237.59"/>
+        <SpawnLocation Direction="-2.248" Type="2" X="1095715.13" Y="-135997.5" Z="24237.59"/>
+        <SpawnLocation Direction="-2.248" Type="3" X="1095715.13" Y="-135997.5" Z="24237.59"/>
+        <SpawnLocation Direction="-2.168" Type="4" X="1095715.13" Y="-135997.5" Z="24237.59"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42022"> <!-- Breesman [Stable] -->
+        <SpawnLocation Direction="2.9" Type="1" X="-256545.0" Y="-29916.2" Z="-2593.46"/>
+        <SpawnLocation Direction="2.9" Type="2" X="-256545.0" Y="-29916.2" Z="-2593.46"/>
+        <SpawnLocation Direction="2.9" Type="3" X="-256545.0" Y="-29916.2" Z="-2593.46"/>
+        <SpawnLocation Direction="2.9" Type="4" X="-256545.0" Y="-29916.2" Z="-2593.46"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40614"> <!-- Bolhi [Ferry Crossing] --> <!-- npc do not have warf button -->
+        <SpawnLocation Direction="1.239" Type="1" X="-54151.8" Y="389615.0" Z="-8184.7"/>
+        <SpawnLocation Direction="1.239" Type="2" X="-54151.8" Y="389615.0" Z="-8184.7"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42023"> <!-- Dimanthor [Stable] -->
+        <SpawnLocation Direction="1.91" Type="1" X="-269320.69" Y="-49099.23" Z="-3096.86"/>
+        <SpawnLocation Direction="1.91" Type="2" X="-269320.69" Y="-49099.23" Z="-3096.86"/>
+        <SpawnLocation Direction="1.91" Type="3" X="-269320.69" Y="-49099.23" Z="-3096.86"/>
+        <SpawnLocation Direction="1.91" Type="4" X="-269320.69" Y="-49099.23" Z="-3096.86"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42024"> <!-- Ashrogue [Stable] -->
+        <SpawnLocation Direction="0.0" Type="1" X="-248294.48" Y="-76986.38" Z="-1852.34"/>
+        <SpawnLocation Direction="0.0" Type="2" X="-248294.48" Y="-76986.38" Z="-1852.34"/>
+        <SpawnLocation Direction="0.0" Type="3" X="-248294.48" Y="-76986.38" Z="-1852.34"/>
+        <SpawnLocation Direction="0.0" Type="4" X="-248294.48" Y="-76986.38" Z="-1852.34"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45102"> <!-- Freddie [Guild Stable] -->
+        <SpawnLocation Direction="0.604" Type="5" X="591713.0" Y="50854.1" Z="13644.0"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="43314"> <!-- Bevel [Stable] -->
+        <SpawnLocation Direction="-2.42" Type="1" X="-384814.97" Y="-228096.97" Z="9954.0"/>
+        <SpawnLocation Direction="-2.42" Type="2" X="-384814.97" Y="-228096.97" Z="9954.0"/>
+        <SpawnLocation Direction="-2.42" Type="3" X="-384814.97" Y="-228096.97" Z="9954.0"/>
+        <SpawnLocation Direction="-2.42" Type="4" X="-384814.97" Y="-228096.97" Z="9954.0"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42166"> <!-- Romary [Stable] -->
+        <SpawnLocation Direction="-1.49" Type="1" X="-226518.41" Y="-60469.79" Z="-3713.42"/>
+        <SpawnLocation Direction="-1.49" Type="2" X="-226518.41" Y="-60469.79" Z="-3713.42"/>
+        <SpawnLocation Direction="-1.49" Type="3" X="-226518.41" Y="-60469.79" Z="-3713.42"/>
+        <SpawnLocation Direction="-1.49" Type="4" X="-226516.33" Y="-60481.41" Z="-3713.34"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44214"> <!-- Melson Bandor [Stable] -->
+        <SpawnLocation Direction="3.96" Type="1" X="384591.88" Y="-136543.98" Z="-5244.92"/>
+        <SpawnLocation Direction="3.96" Type="2" X="384591.88" Y="-136543.98" Z="-5244.92"/>
+        <SpawnLocation Direction="3.96" Type="3" X="384591.88" Y="-136543.98" Z="-5244.92"/>
+        <SpawnLocation Direction="3.96" Type="4" X="384591.88" Y="-136543.98" Z="-5244.92"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45111"> <!-- Bochlo [Stable] -->
+        <SpawnLocation Direction="-1.81" Type="1" X="591473.0" Y="49172.5" Z="13755.0"/>
+        <SpawnLocation Direction="-1.81" Type="2" X="591473.0" Y="49172.5" Z="13755.0"/>
+        <SpawnLocation Direction="-1.81" Type="3" X="591473.0" Y="49172.5" Z="13755.0"/>
+        <SpawnLocation Direction="-1.608" Type="4" X="591459.0" Y="49287.7" Z="13752.1"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42167"> <!-- Bartholomeo [Ferry Crossing] -->
+        <SpawnLocation Direction="0.038863" Type="1" X="-244226.0" Y="-49385.4" Z="-4073.04"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41016"> <!-- Vanacil [Stable] -->
+        <SpawnLocation Direction="0.3" Type="1" X="40550.49" Y="-27481.2" Z="-787.34"/>
+        <SpawnLocation Direction="0.3" Type="2" X="40550.49" Y="-27481.2" Z="-787.34"/>
+        <SpawnLocation Direction="0.3" Type="3" X="40550.49" Y="-27481.2" Z="-787.34"/>
+        <SpawnLocation Direction="0.3" Type="4" X="40550.49" Y="-27481.2" Z="-787.34"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45117"> <!-- Chloe [Guild Stable] -->
+        <SpawnLocation Direction="-1.594" Type="5" X="1007970.0" Y="188470.97" Z="10626.6"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44606"> <!-- Bial Nasser [Stable] -->
+        <SpawnLocation Direction="6.23" Type="1" X="220551.0" Y="68427.0" Z="-3706.0"/>
+        <SpawnLocation Direction="6.23" Type="2" X="220551.0" Y="68427.0" Z="-3706.0"/>
+        <SpawnLocation Direction="6.23" Type="3" X="220551.0" Y="68427.0" Z="-3706.0"/>
+        <SpawnLocation Direction="6.11" Type="4" X="220551.0" Y="68427.0" Z="-3706.0"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42177"> <!-- Scarlet [Guild Stable] -->
+        <SpawnLocation Direction="3.12218" Type="5" X="-255863.0" Y="-29499.9" Z="-2586.45"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41027"> <!-- Izaro [Stable] -->
+        <SpawnLocation Direction="1.42" Type="1" X="40994.96" Y="-45763.55" Z="-2959.38"/>
+        <SpawnLocation Direction="1.42" Type="2" X="40994.96" Y="-45763.55" Z="-2959.38"/>
+        <SpawnLocation Direction="1.42" Type="3" X="40994.96" Y="-45763.55" Z="-2959.38"/>
+        <SpawnLocation Direction="1.42" Type="4" X="40994.96" Y="-45763.55" Z="-2959.38"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45129"> <!-- Batirma [Stable] -->
+        <SpawnLocation Direction="-0.627" Type="1" X="580520.0" Y="282434.0" Z="-666.484"/>
+        <SpawnLocation Direction="-0.627" Type="2" X="580520.0" Y="282434.0" Z="-666.484"/>
+        <SpawnLocation Direction="-0.627" Type="3" X="580520.0" Y="282434.0" Z="-666.484"/>
+        <SpawnLocation Direction="-0.647" Type="4" X="580657.0" Y="282512.0" Z="-648.127"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42314"> <!-- Fanucci [Stable] -->
+        <SpawnLocation Direction="-1.2" Type="1" X="-349956.88" Y="26474.7" Z="-5479.85"/>
+        <SpawnLocation Direction="-1.2" Type="2" X="-349956.88" Y="26474.7" Z="-5479.85"/>
+        <SpawnLocation Direction="-1.2" Type="3" X="-349956.88" Y="26474.7" Z="-5479.85"/>
+        <SpawnLocation Direction="-1.2" Type="4" X="-349956.88" Y="26474.7" Z="-5479.85"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42316"> <!-- Srulk [Ferry Crossing] -->
+        <SpawnLocation Direction="0.787" Type="1" X="-363277.72" Y="40276.68" Z="-8155.71"/>
+        <SpawnLocation Direction="-2.41619" Type="2" X="-364750.0" Y="42102.6" Z="-8214.63"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45133"> <!-- Kadram [Stable] -->
+        <SpawnLocation Direction="-2.559" Type="1" X="421685.09" Y="8733.34" Z="-646.31"/>
+        <SpawnLocation Direction="-2.559" Type="2" X="421685.09" Y="8733.34" Z="-646.31"/>
+        <SpawnLocation Direction="-2.559" Type="3" X="421685.09" Y="8733.34" Z="-646.31"/>
+        <SpawnLocation Direction="-2.559" Type="4" X="421685.09" Y="8733.34" Z="-646.31"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40015"> <!-- Lorenzo Murray [Stable] -->
+        <SpawnLocation Direction="-1.0" Type="1" X="22595.31" Y="75130.25" Z="-6351.31"/>
+        <SpawnLocation Direction="-1.0" Type="2" X="22595.31" Y="75130.25" Z="-6351.31"/>
+        <SpawnLocation Direction="-1.0" Type="3" X="22595.31" Y="75130.25" Z="-6351.31"/>
+        <SpawnLocation Direction="-1.0" Type="4" X="22595.31" Y="75130.25" Z="-6351.31"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40144"> <!-- Leonardo [Guild Stable] -->
+        <SpawnLocation Direction="-0.568" Type="5" X="22719.0" Y="74980.8" Z="-6342.2"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40145"> <!-- Robert [Guild Warf] -->
+        <SpawnLocation Direction="1.956" Type="1" X="1745.69" Y="92814.58" Z="-8153.88"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44115"> <!-- Muam Mant [Stable] -->
+        <SpawnLocation Direction="4.16" Type="1" X="228024.0" Y="-71618.0" Z="-4085.0"/>
+        <SpawnLocation Direction="4.16" Type="2" X="228024.0" Y="-71618.0" Z="-4085.0"/>
+        <SpawnLocation Direction="4.16" Type="3" X="228024.0" Y="-71618.0" Z="-4085.0"/>
+        <SpawnLocation Direction="4.16" Type="4" X="228024.0" Y="-71618.0" Z="-4085.0"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45141"> <!-- Torio [Ferry Crossing] -->
+        <SpawnLocation Direction="2.77121" Type="1" X="427073.0" Y="178212.0" Z="-8272.67"/>
+        <SpawnLocation Direction="-2.119" Type="2" X="426522.0" Y="179781.0" Z="-8256.7"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45142"> <!-- Purio [Ferry Crossing] -->
+        <SpawnLocation Direction="2.85267" Type="1" X="504187.0" Y="266824.0" Z="-8143.09"/>
+        <SpawnLocation Direction="1.418" Type="2" X="504151.0" Y="269340.0" Z="-8248.35"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45017"> <!-- Tanzine [Stable] -->
+        <SpawnLocation Direction="2.58219" Type="1" X="1044120.0" Y="223041.0" Z="12869.9"/>
+        <SpawnLocation Direction="2.58219" Type="2" X="1044120.0" Y="223041.0" Z="12869.9"/>
+        <SpawnLocation Direction="2.58219" Type="3" X="1044120.0" Y="223041.0" Z="12869.9"/>
+        <SpawnLocation Direction="2.64859" Type="4" X="1044080.0" Y="223023.0" Z="12873.3"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44125"> <!-- Sugarsh [Dock] -->
+        <SpawnLocation Direction="2.17" Type="1" X="222879.0" Y="-83947.0" Z="-5280.77"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40034"> <!-- Samuel [Stable] -->
+        <SpawnLocation Direction="-1.03" Type="1" X="-65371.98" Y="41925.59" Z="-4362.27"/>
+        <SpawnLocation Direction="-1.03" Type="2" X="-65371.98" Y="41925.59" Z="-4362.27"/>
+        <SpawnLocation Direction="-1.03" Type="3" X="-65371.98" Y="41925.59" Z="-4362.27"/>
+        <SpawnLocation Direction="-1.03" Type="4" X="-65371.98" Y="41925.59" Z="-4362.27"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45028"> <!-- Yaska [Stable] -->
+        <SpawnLocation Direction="2.658" Type="1" X="1008045.69" Y="225236.34" Z="9116.25"/>
+        <SpawnLocation Direction="2.658" Type="2" X="1008045.69" Y="225236.34" Z="9116.25"/>
+        <SpawnLocation Direction="2.658" Type="3" X="1008045.69" Y="225236.34" Z="9116.25"/>
+        <SpawnLocation Direction="2.736" Type="4" X="1008055.25" Y="225201.33" Z="9118.61"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="42214"> <!-- Herar [Stable] -->
+        <SpawnLocation Direction="0.34" Type="1" X="-176372.63" Y="48080.04" Z="3203.24"/>
+        <SpawnLocation Direction="0.34" Type="2" X="-176372.63" Y="48080.04" Z="3203.24"/>
+        <SpawnLocation Direction="0.34" Type="3" X="-176372.63" Y="48080.04" Z="3203.24"/>
+        <SpawnLocation Direction="0.34" Type="4" X="-176372.63" Y="48080.04" Z="3203.24"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45034"> <!-- Vatonee [Stable] -->
+        <SpawnLocation Direction="2.35619" Type="1" X="1039130.19" Y="190889.33" Z="11300.83"/>
+        <SpawnLocation Direction="2.35619" Type="2" X="1039130.19" Y="190889.33" Z="11300.83"/>
+        <SpawnLocation Direction="2.35619" Type="3" X="1039130.19" Y="190889.33" Z="11300.83"/>
+        <SpawnLocation Direction="2.35619" Type="4" X="1039140.56" Y="190903.2" Z="11298.29"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45035"> <!-- Nassr [Stable] -->
+        <SpawnLocation Direction="-1.597" Type="1" X="1007881.5" Y="188614.02" Z="10631.32"/>
+        <SpawnLocation Direction="-1.597" Type="2" X="1007881.5" Y="188614.02" Z="10631.32"/>
+        <SpawnLocation Direction="-1.597" Type="3" X="1007881.5" Y="188614.02" Z="10631.32"/>
+        <SpawnLocation Direction="-1.53" Type="4" X="1007882.56" Y="188595.06" Z="10630.91"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44140"> <!-- Ashley [Guild Stable] -->
+        <SpawnLocation Direction="-2.554" Type="5" X="228119.0" Y="-71593.8" Z="-4080.79"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44015"> <!-- Meisha [Stable] -->
+        <SpawnLocation Direction="-2.3" Type="1" X="339618.94" Y="-66495.77" Z="-7928.21"/>
+        <SpawnLocation Direction="-2.3" Type="2" X="339618.94" Y="-66495.77" Z="-7928.21"/>
+        <SpawnLocation Direction="-2.3" Type="3" X="339618.94" Y="-66495.77" Z="-7928.21"/>
+        <SpawnLocation Direction="-2.3" Type="4" X="339618.94" Y="-66495.77" Z="-7928.21"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41072"> <!-- Allan [Stable] -->
+        <SpawnLocation Direction="2.80427" Type="1" X="-12004.2" Y="-119499.0" Z="238.498"/>
+        <SpawnLocation Direction="2.80427" Type="2" X="-12004.2" Y="-119499.0" Z="238.498"/>
+        <SpawnLocation Direction="2.80427" Type="3" X="-12004.2" Y="-119499.0" Z="238.498"/>
+        <SpawnLocation Direction="2.80427" Type="4" X="-12004.2" Y="-119499.0" Z="238.498"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="43508"> <!-- Samier [Stable] -->
+        <SpawnLocation Direction="1.67757" Type="1" X="-122547.0" Y="3692.58" Z="6768.9"/>
+        <SpawnLocation Direction="1.67757" Type="2" X="-122547.0" Y="3692.58" Z="6768.9"/>
+        <SpawnLocation Direction="1.67757" Type="3" X="-122547.0" Y="3692.58" Z="6768.9"/>
+        <SpawnLocation Direction="0.371" Type="4" X="-122927.0" Y="3487.86" Z="6770.41"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41077"> <!-- Ambrosia [Stable] -->
+        <SpawnLocation Direction="3.05" Type="1" X="39803.48" Y="-133780.77" Z="-1195.95"/>
+        <SpawnLocation Direction="3.05" Type="2" X="39803.48" Y="-133780.77" Z="-1195.95"/>
+        <SpawnLocation Direction="3.05" Type="3" X="39803.48" Y="-133780.77" Z="-1195.95"/>
+        <SpawnLocation Direction="3.05" Type="4" X="39803.48" Y="-133780.77" Z="-1195.95"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45301"> <!-- Samia [Dock] -->
+        <SpawnLocation Direction="-2.88919" Type="1" X="979246.0" Y="344077.0" Z="-8250.24"/>
+        <SpawnLocation Direction="2.25318" Type="2" X="978702.0" Y="350109.0" Z="-8255.53"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="41080"> <!-- Laurena [Stable] -->
+        <SpawnLocation Direction="2.87" Type="1" X="70127.57" Y="-84129.77" Z="-2037.32"/>
+        <SpawnLocation Direction="2.87" Type="2" X="70127.57" Y="-84129.77" Z="-2037.32"/>
+        <SpawnLocation Direction="2.87" Type="3" X="70127.57" Y="-84129.77" Z="-2037.32"/>
+        <SpawnLocation Direction="2.87" Type="4" X="70127.57" Y="-84129.77" Z="-2037.32"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="44025"> <!-- Tunger [Dock] -->
+        <SpawnLocation Direction="-1.51" Type="1" X="372174.0" Y="-24857.6" Z="-8170.29"/>
+        <SpawnLocation Direction="0.0859999" Type="2" X="373789.0" Y="-27577.1" Z="-8132.1"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="40611"> <!-- Lindby [Stable]-->
+        <SpawnLocation Direction="0.950" Type="1" X="150199" Y="300349" Z="-4768.23"/>
+        <SpawnLocation Direction="0.950" Type="2" X="150199" Y="300349" Z="-4768.23"/>
+        <SpawnLocation Direction="0.950" Type="3" X="150199" Y="300349" Z="-4768.23"/>
+        <SpawnLocation Direction="0.950" Type="4" X="150199" Y="300349" Z="-4768.23"/>
+    </ServantInitSpawn>
+    <ServantInitSpawn NpcId="45033"> <!-- Nidgoveh [Stable]-->
+        <SpawnLocation Direction="0.950" Type="1" X="975992" Y="335849" Z="-5162.99"/>
+        <SpawnLocation Direction="0.950" Type="2" X="975992" Y="335849" Z="-5162.99"/>
+        <SpawnLocation Direction="0.950" Type="3" X="975992" Y="335849" Z="-5162.99"/>
+        <SpawnLocation Direction="0.950" Type="4" X="975992" Y="335849" Z="-5162.99"/>
+    </ServantInitSpawn>
+</ServantInitSpawns>

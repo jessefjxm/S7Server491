@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="raiten_teleport_position_4">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39511" Name="raiten_teleport_4_001" PosX="1.07206e+06" PosY="10819.2" PosZ="244096" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39512" Name="raiten_teleport_4_002" PosX="1.08834e+06" PosY="11361.5" PosZ="253417" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39516" Name="raiten_teleport_4_006" PosX="1.24587e+06" PosY="5250" PosZ="350000" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39525" Name="raiten_teleport_4_015" PosX="1.09344e+06" PosY="7728.35" PosZ="222219" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39526" Name="raiten_teleport_4_016" PosX="1.09962e+06" PosY="7576.58" PosZ="205530" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39529" Name="raiten_teleport_4_019" PosX="1.1591e+06" PosY="7394.35" PosZ="171616" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39530" Name="raiten_teleport_4_020" PosX="1.16672e+06" PosY="7708.22" PosZ="145329" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39531" Name="raiten_teleport_4_021" PosX="1.14371e+06" PosY="12598.1" PosZ="132465" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39532" Name="raiten_teleport_4_022" PosX="1.12329e+06" PosY="11925.8" PosZ="122150" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39533" Name="raiten_teleport_4_023" PosX="1.10182e+06" PosY="12194" PosZ="135921" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39534" Name="raiten_teleport_4_024" PosX="1.0987e+06" PosY="9089.07" PosZ="166139" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39535" Name="raiten_teleport_4_025" PosX="1.10568e+06" PosY="8503.07" PosZ="192374" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39536" Name="raiten_teleport_4_026" PosX="1.08678e+06" PosY="11973.1" PosZ="125066" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39537" Name="raiten_teleport_4_027" PosX="1.09081e+06" PosY="11985.9" PosZ="102202" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39538" Name="raiten_teleport_4_028" PosX="1.11239e+06" PosY="12011.8" PosZ="102501" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39539" Name="raiten_teleport_4_029" PosX="1.14715e+06" PosY="9846.28" PosZ="106064" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39540" Name="raiten_teleport_4_030" PosX="1.10283e+06" PosY="11472.1" PosZ="75278.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39541" Name="raiten_teleport_4_031" PosX="1.13593e+06" PosY="9394.04" PosZ="77257.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39542" Name="raiten_teleport_4_032" PosX="1.16681e+06" PosY="10231.4" PosZ="87379" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39543" Name="raiten_teleport_4_033" PosX="1.17586e+06" PosY="9373.61" PosZ="108760" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39544" Name="raiten_teleport_4_034" PosX="1.12659e+06" PosY="12279.4" PosZ="89814.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39545" Name="raiten_teleport_4_035" PosX="1.19166e+06" PosY="8137.98" PosZ="104409" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39546" Name="raiten_teleport_4_036" PosX="1.18196e+06" PosY="7037.86" PosZ="125897" Property="ground"/>
+</WaypointList>
+<LinkList/>
+<GroupList>
+	<Group Key="196" Name="Raiten_Teleport_Position_4"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_random">
+<WaypointList>
+	<Waypoint Key="1" Name="flying_gull_1" PosX="-20837.8" PosY="-4090" PosZ="118766" Property="air"/>
+	<Waypoint Key="2" Name="flying_gull_2" PosX="-16407.3" PosY="-4800" PosZ="108528" Property="air"/>
+	<Waypoint Key="3" Name="flying_gull_3" PosX="-959.811" PosY="-5920" PosZ="94946.3" Property="air"/>
+	<Waypoint Key="4" Name="flying_gull_4" PosX="5189.64" PosY="-5183.54" PosZ="90313.1" Property="air"/>
+	<Waypoint Key="5" Name="flying_gull_5" PosX="7715.87" PosY="-5248.84" PosZ="83546.5" Property="air"/>
+	<Waypoint Key="6" Name="flying_gull_6" PosX="6044.92" PosY="-4832.04" PosZ="76912.4" Property="air"/>
+	<Waypoint Key="7" Name="flying_gull_7" PosX="1890.75" PosY="-3750.73" PosZ="73861.1" Property="air"/>
+	<Waypoint Key="8" Name="flying_gull_8" PosX="-5917.12" PosY="-2544.25" PosZ="78142.2" Property="air"/>
+	<Waypoint Key="9" Name="flying_gull_9" PosX="-13957.6" PosY="-2254.13" PosZ="82287.7" Property="air"/>
+	<Waypoint Key="10" Name="flying_gull_10" PosX="-22471.3" PosY="-1430.52" PosZ="81212.7" Property="air"/>
+	<Waypoint Key="11" Name="flying_gull_11" PosX="-36954.5" PosY="353.94" PosZ="80245.3" Property="air"/>
+	<Waypoint Key="12" Name="flying_gull_12" PosX="-54015.6" PosY="318.513" PosZ="74928.4" Property="air"/>
+	<Waypoint Key="13" Name="flying_gull_13" PosX="-57896.5" PosY="-897.014" PosZ="63616" Property="air"/>
+	<Waypoint Key="14" Name="flying_gull_14" PosX="-61671.1" PosY="-2093.34" PosZ="44311.4" Property="air"/>
+	<Waypoint Key="15" Name="flying_gull_15" PosX="-53465.7" PosY="-1123.4" PosZ="32172.1" Property="air"/>
+	<Waypoint Key="16" Name="flying_gull_16" PosX="-40104.8" PosY="-536.396" PosZ="29405.1" Property="air"/>
+	<Waypoint Key="17" Name="flying_gull_17" PosX="-29323.1" PosY="-1615.96" PosZ="34864.8" Property="air"/>
+	<Waypoint Key="18" Name="flying_gull_18" PosX="-16547.4" PosY="540.82" PosZ="38939.7" Property="air"/>
+	<Waypoint Key="19" Name="flying_gull_19" PosX="-8367.55" PosY="-177.379" PosZ="50243.4" Property="air"/>
+	<Waypoint Key="20" Name="flying_gull_20" PosX="2274.62" PosY="-2990.69" PosZ="64121" Property="air"/>
+	<Waypoint Key="21" Name="flying_gull_21" PosX="18481.9" PosY="-4264.25" PosZ="86226.1" Property="air"/>
+	<Waypoint Key="22" Name="flying_gull_22" PosX="22892.2" PosY="676.76" PosZ="100933" Property="air"/>
+	<Waypoint Key="23" Name="flying_gull_23" PosX="23356.3" PosY="1616.12" PosZ="109652" Property="air"/>
+	<Waypoint Key="24" Name="flying_gull_24" PosX="27343.6" PosY="2398.12" PosZ="118777" Property="air"/>
+	<Waypoint Key="25" Name="flying_gull_25" PosX="38097.1" PosY="1388.85" PosZ="120736" Property="air"/>
+	<Waypoint Key="26" Name="flying_gull_26" PosX="53277.6" PosY="-507.961" PosZ="109550" Property="air"/>
+	<Waypoint Key="27" Name="flying_gull_27" PosX="54226.3" PosY="-1185.91" PosZ="95634.4" Property="air"/>
+	<Waypoint Key="28" Name="flying_gull_28" PosX="52305.5" PosY="-1645.31" PosZ="82268.3" Property="air"/>
+	<Waypoint Key="29" Name="flying_gull_29" PosX="41446.2" PosY="-2333" PosZ="67775.7" Property="air"/>
+	<Waypoint Key="30" Name="flying_gull_30" PosX="30460.6" PosY="-2364.18" PosZ="56820" Property="air"/>
+	<Waypoint Key="31" Name="flying_gull_31" PosX="17080.2" PosY="-1817.38" PosZ="55073.2" Property="air"/>
+	<Waypoint Key="32" Name="flying_gull_32" PosX="7259.71" PosY="-2233.01" PosZ="64175.6" Property="air"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="1" TargetWaypoint="2"/>
+	<Link SourceWaypoint="2" TargetWaypoint="3"/>
+	<Link SourceWaypoint="3" TargetWaypoint="4"/>
+	<Link SourceWaypoint="4" TargetWaypoint="5"/>
+	<Link SourceWaypoint="5" TargetWaypoint="6"/>
+	<Link SourceWaypoint="6" TargetWaypoint="7"/>
+	<Link SourceWaypoint="7" TargetWaypoint="8"/>
+	<Link SourceWaypoint="8" TargetWaypoint="9"/>
+	<Link SourceWaypoint="9" TargetWaypoint="10"/>
+	<Link SourceWaypoint="10" TargetWaypoint="11"/>
+	<Link SourceWaypoint="11" TargetWaypoint="12"/>
+	<Link SourceWaypoint="12" TargetWaypoint="13"/>
+	<Link SourceWaypoint="13" TargetWaypoint="14"/>
+	<Link SourceWaypoint="14" TargetWaypoint="15"/>
+	<Link SourceWaypoint="15" TargetWaypoint="16"/>
+	<Link SourceWaypoint="16" TargetWaypoint="17"/>
+	<Link SourceWaypoint="17" TargetWaypoint="18"/>
+	<Link SourceWaypoint="18" TargetWaypoint="19"/>
+	<Link SourceWaypoint="19" TargetWaypoint="20"/>
+	<Link SourceWaypoint="20" TargetWaypoint="21"/>
+	<Link SourceWaypoint="21" TargetWaypoint="22"/>
+	<Link SourceWaypoint="22" TargetWaypoint="23"/>
+	<Link SourceWaypoint="23" TargetWaypoint="24"/>
+	<Link SourceWaypoint="24" TargetWaypoint="25"/>
+	<Link SourceWaypoint="25" TargetWaypoint="26"/>
+	<Link SourceWaypoint="26" TargetWaypoint="27"/>
+	<Link SourceWaypoint="27" TargetWaypoint="28"/>
+	<Link SourceWaypoint="28" TargetWaypoint="29"/>
+	<Link SourceWaypoint="29" TargetWaypoint="30"/>
+	<Link SourceWaypoint="30" TargetWaypoint="31"/>
+	<Link SourceWaypoint="31" TargetWaypoint="32"/>
+	<Link SourceWaypoint="32" TargetWaypoint="7"/>
+</LinkList>
+<GroupList/>
+<RouteList/>
+</WaypointData>

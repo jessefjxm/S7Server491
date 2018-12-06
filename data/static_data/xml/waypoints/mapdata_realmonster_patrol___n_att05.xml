@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="n_att05">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="990" Name="n_att05_01" PosX="69700.7" PosY="-1952.78" PosZ="-88984.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="991" Name="n_att05_02" PosX="72609.9" PosY="-1574.7" PosZ="-90214.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="992" Name="n_att05_03" PosX="70253" PosY="-2112.58" PosZ="-92513.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="993" Name="n_att05_04" PosX="74215.3" PosY="-2294.05" PosZ="-94169.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="994" Name="n_att05_05" PosX="70046.4" PosY="-2042.03" PosZ="-96122.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="995" Name="n_att05_06" PosX="70051.9" PosY="-1942.04" PosZ="-97913.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="996" Name="n_att05_07" PosX="69797" PosY="-2062.85" PosZ="-91320.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1014" Name="n_att05_08" PosX="70517.3" PosY="-1975.78" PosZ="-97287.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1050" Name="n_att05_09" PosX="74365" PosY="-1749.34" PosZ="-91000.4" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="990" TargetWaypoint="991"/>
+	<Link SourceWaypoint="990" TargetWaypoint="996"/>
+	<Link SourceWaypoint="990" TargetWaypoint="992"/>
+	<Link SourceWaypoint="991" TargetWaypoint="990"/>
+	<Link SourceWaypoint="991" TargetWaypoint="1050"/>
+	<Link SourceWaypoint="992" TargetWaypoint="993"/>
+	<Link SourceWaypoint="992" TargetWaypoint="990"/>
+	<Link SourceWaypoint="992" TargetWaypoint="994"/>
+	<Link SourceWaypoint="993" TargetWaypoint="992"/>
+	<Link SourceWaypoint="994" TargetWaypoint="992"/>
+	<Link SourceWaypoint="995" TargetWaypoint="1014"/>
+	<Link SourceWaypoint="996" TargetWaypoint="990"/>
+	<Link SourceWaypoint="996" TargetWaypoint="1014"/>
+	<Link SourceWaypoint="1014" TargetWaypoint="996"/>
+	<Link SourceWaypoint="1014" TargetWaypoint="995"/>
+	<Link SourceWaypoint="1050" TargetWaypoint="991"/>
+</LinkList>
+<GroupList>
+	<Group Key="9" Name="n_att05"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

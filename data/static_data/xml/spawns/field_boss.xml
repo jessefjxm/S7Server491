@@ -1,0 +1,83 @@
+<SpawnPlacementList>
+	<!-- 
+	TODO: Need to find official spawns and action, dialog indexes for these:
+		1. Nouver				| Missing Action index
+		2. Giant Mudster		| 
+		3. Dim Tree Spirit		|
+		4. Karanda				|
+		5. Red Nose				|
+		6. Dastard Bheg			|
+		7. Ancient Kutum		|
+	-->
+	<!-- Kzarka, the Lord of Corruption (4_0_-16_monster.xml) -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="52582.3" Y="-190687.0" Z="649.286"/>
+        <Direction>3.01407263483861</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23001" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+
+	<!-- Nouver -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="732528.625" Y="122073.656" Z="10242.499"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23032" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Giant Mudster (4_0_-8_monster.xml) -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="45194" Y="-91687" Z="-747"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23055" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Dim Tree Spirit (-4_0_2_monster.xml) -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-48634.3984" Y="26394.9101" Z="-4214.7241"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23056" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Karanda (-12_0_4_monster.xml) -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-142434.0781" Y="48274.1562" Z="18884.9218"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23060" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Red Nose (TODO) -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-52868.7695" Y="85140.0781" Z="-1047.08166"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23061" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Dastard Bheg (TODO) -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-52818" Y="-48235" Z="-2896"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23069" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Ancient Kutum -->
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="529070.0" Y="162162.0" Z="5844.05"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="23073" SpawnQuantity="1" IsSpawnOnBoot="false"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+</SpawnPlacementList>

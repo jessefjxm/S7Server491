@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="santa_valensia">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34704" Name="santa_val_0001" PosX="1.02458e+06" PosY="15832.1" PosZ="218304" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34707" Name="santa_val_0002" PosX="1.01682e+06" PosY="15261.2" PosZ="214815" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34711" Name="santa_val_0003" PosX="1.01183e+06" PosY="14245.4" PosZ="220014" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34713" Name="santa_val_0004" PosX="1.01862e+06" PosY="14295.7" PosZ="212420" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34715" Name="santa_val_0005" PosX="1.02229e+06" PosY="13771.8" PosZ="206683" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34717" Name="santa_val_0006" PosX="1.02091e+06" PosY="14406.3" PosZ="204958" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34719" Name="santa_val_0007" PosX="1.01914e+06" PosY="14845.5" PosZ="206418" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34741" Name="santa_val_0008" PosX="1.04293e+06" PosY="19775.9" PosZ="214362" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34744" Name="santa_val_0009" PosX="1.05392e+06" PosY="19564.8" PosZ="216532" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34745" Name="santa_val_0010" PosX="1.05377e+06" PosY="20115.1" PosZ="216413" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34746" Name="santa_val_0011" PosX="1.05306e+06" PosY="20545.2" PosZ="216237" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34747" Name="santa_val_0012" PosX="1.05178e+06" PosY="20855.2" PosZ="216004" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34748" Name="santa_val_0013" PosX="1.04993e+06" PosY="21044.9" PosZ="215713" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34813" Name="santa_val_0014" PosX="1.03622e+06" PosY="17061.4" PosZ="217030" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34814" Name="santa_val_0015" PosX="1.03536e+06" PosY="17058.1" PosZ="217446" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34815" Name="santa_val_0016" PosX="1.03426e+06" PosY="16995.9" PosZ="217783" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34816" Name="santa_val_0017" PosX="1.03292e+06" PosY="16874.6" PosZ="218040" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34817" Name="santa_val_0018" PosX="1.03022e+06" PosY="16330.5" PosZ="218527" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34818" Name="santa_val_0019" PosX="1.02899e+06" PosY="16062.3" PosZ="218690" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34819" Name="santa_val_0020" PosX="1.02764e+06" PosY="15889.8" PosZ="218707" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34820" Name="santa_val_0021" PosX="1.02617e+06" PosY="15813.1" PosZ="218579" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34823" Name="santa_val_0022" PosX="1.03684e+06" PosY="17128.1" PosZ="216635" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34824" Name="santa_val_0023" PosX="1.0365e+06" PosY="17066.9" PosZ="216832" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34825" Name="santa_val_0024" PosX="1.01502e+06" PosY="15400" PosZ="213478" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34826" Name="santa_val_0025" PosX="1.01319e+06" PosY="15334.7" PosZ="212791" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34827" Name="santa_val_0026" PosX="1.01134e+06" PosY="15065.3" PosZ="212755" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34828" Name="santa_val_0027" PosX="1.00947e+06" PosY="14591.8" PosZ="213370" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34829" Name="santa_val_0028" PosX="1.00773e+06" PosY="13750.1" PosZ="216503" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34830" Name="santa_val_0029" PosX="1.00822e+06" PosY="13701.1" PosZ="217974" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34831" Name="santa_val_0030" PosX="1.00907e+06" PosY="13767.4" PosZ="219050" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34832" Name="santa_val_0031" PosX="1.01027e+06" PosY="13948.8" PosZ="219730" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34833" Name="santa_val_0032" PosX="1.0088e+06" PosY="14341.3" PosZ="213901" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34834" Name="santa_val_0033" PosX="1.00829e+06" PosY="14131.9" PosZ="214479" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34835" Name="santa_val_0034" PosX="1.00794e+06" PosY="13963.5" PosZ="215106" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34836" Name="santa_val_0035" PosX="1.00775e+06" PosY="13836.2" PosZ="215780" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34837" Name="santa_val_0036" PosX="1.01349e+06" PosY="14644.2" PosZ="219151" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34838" Name="santa_val_0037" PosX="1.015e+06" PosY="14848.7" PosZ="217959" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34839" Name="santa_val_0038" PosX="1.01636e+06" PosY="14858.7" PosZ="216441" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34840" Name="santa_val_0039" PosX="1.01757e+06" PosY="14674.4" PosZ="214594" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34841" Name="santa_val_0040" PosX="1.01986e+06" PosY="14054.1" PosZ="210856" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34842" Name="santa_val_0041" PosX="1.02085e+06" PosY="13881" PosZ="209500" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34843" Name="santa_val_0042" PosX="1.02159e+06" PosY="13776.2" PosZ="208352" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34844" Name="santa_val_0043" PosX="1.02206e+06" PosY="13739.8" PosZ="207413" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34845" Name="santa_val_0044" PosX="1.02216e+06" PosY="13909.2" PosZ="206067" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34846" Name="santa_val_0045" PosX="1.02196e+06" PosY="14045.4" PosZ="205586" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34847" Name="santa_val_0046" PosX="1.02169e+06" PosY="14180.6" PosZ="205241" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34848" Name="santa_val_0047" PosX="1.02134e+06" PosY="14314.6" PosZ="205032" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34849" Name="santa_val_0048" PosX="1.0204e+06" PosY="14518.1" PosZ="204898" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34850" Name="santa_val_0049" PosX="1.01996e+06" PosY="14593.1" PosZ="205014" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34851" Name="santa_val_0050" PosX="1.01961e+06" PosY="14672.7" PosZ="205306" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34852" Name="santa_val_0051" PosX="1.01933e+06" PosY="14756.8" PosZ="205774" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34853" Name="santa_val_0052" PosX="1.0192e+06" PosY="14969.5" PosZ="207161" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34854" Name="santa_val_0053" PosX="1.01942e+06" PosY="15096" PosZ="207757" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34855" Name="santa_val_0054" PosX="1.01978e+06" PosY="15225.2" PosZ="208207" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34856" Name="santa_val_0055" PosX="1.02029e+06" PosY="15356.9" PosZ="208510" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34857" Name="santa_val_0056" PosX="1.02275e+06" PosY="15130.5" PosZ="207826" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34858" Name="santa_val_0057" PosX="1.02413e+06" PosY="14892" PosZ="206898" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34891" Name="santa_val_0058" PosX="1.03275e+06" PosY="16612.5" PosZ="195045" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34892" Name="santa_val_0059" PosX="1.03402e+06" PosY="16178.2" PosZ="194393" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34893" Name="santa_val_0060" PosX="1.03533e+06" PosY="15903.7" PosZ="194262" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34894" Name="santa_val_0061" PosX="1.03667e+06" PosY="15788.8" PosZ="194652" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34895" Name="santa_val_0062" PosX="1.04033e+06" PosY="18267.3" PosZ="199080" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34896" Name="santa_val_0063" PosX="1.03725e+06" PosY="15902.3" PosZ="195121" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34897" Name="santa_val_0064" PosX="1.03791e+06" PosY="16206.9" PosZ="195798" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34898" Name="santa_val_0065" PosX="1.03864e+06" PosY="16702.6" PosZ="196683" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34899" Name="santa_val_0066" PosX="1.03945e+06" PosY="17389.4" PosZ="197777" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34900" Name="santa_val_0067" PosX="1.04061e+06" PosY="18662.1" PosZ="199814" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34901" Name="santa_val_0068" PosX="1.04063e+06" PosY="18888.5" PosZ="200666" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34902" Name="santa_val_0069" PosX="1.04039e+06" PosY="18946.4" PosZ="201638" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34903" Name="santa_val_0070" PosX="1.0399e+06" PosY="18835.9" PosZ="202729" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34904" Name="santa_val_0071" PosX="1.0394e+06" PosY="18658.9" PosZ="203211" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34905" Name="santa_val_0072" PosX="1.03852e+06" PosY="18350.9" PosZ="203687" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34906" Name="santa_val_0073" PosX="1.03726e+06" PosY="17912" PosZ="204157" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34907" Name="santa_val_0074" PosX="1.03562e+06" PosY="17342.2" PosZ="204622" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34908" Name="santa_val_0075" PosX="1.03488e+06" PosY="17131.2" PosZ="204906" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34909" Name="santa_val_0076" PosX="1.03429e+06" PosY="17058.6" PosZ="205392" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34910" Name="santa_val_0077" PosX="1.03383e+06" PosY="17124.6" PosZ="206078" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34911" Name="santa_val_0078" PosX="1.03353e+06" PosY="17328.9" PosZ="206966" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34912" Name="santa_val_0079" PosX="1.03417e+06" PosY="17787.6" PosZ="209263" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34913" Name="santa_val_0080" PosX="1.0353e+06" PosY="17957.3" PosZ="210128" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34914" Name="santa_val_0081" PosX="1.03673e+06" PosY="18180.7" PosZ="210650" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34915" Name="santa_val_0082" PosX="1.03847e+06" PosY="18457.9" PosZ="210829" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34916" Name="santa_val_0083" PosX="1.0335e+06" PosY="17457" PosZ="207407" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34917" Name="santa_val_0084" PosX="1.03355e+06" PosY="17566.9" PosZ="207856" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34918" Name="santa_val_0085" PosX="1.03368e+06" PosY="17658.7" PosZ="208316" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34919" Name="santa_val_0086" PosX="1.03389e+06" PosY="17732.2" PosZ="208785" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34920" Name="santa_val_0087" PosX="1.03931e+06" PosY="18616.6" PosZ="210919" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34921" Name="santa_val_0088" PosX="1.04017e+06" PosY="18827.7" PosZ="211316" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34922" Name="santa_val_0089" PosX="1.04106e+06" PosY="19091.3" PosZ="212023" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34923" Name="santa_val_0090" PosX="1.04198e+06" PosY="19407.4" PosZ="213038" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34924" Name="santa_val_0091" PosX="1.04897e+06" PosY="18481.5" PosZ="218266" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34925" Name="santa_val_0092" PosX="1.04385e+06" PosY="19576.5" PosZ="216190" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34926" Name="santa_val_0093" PosX="1.04491e+06" PosY="19347.4" PosZ="217493" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34927" Name="santa_val_0094" PosX="1.04612e+06" PosY="19088.5" PosZ="218274" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34928" Name="santa_val_0095" PosX="1.04747e+06" PosY="18799.9" PosZ="218531" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34929" Name="santa_val_0096" PosX="1.05061e+06" PosY="18233.1" PosZ="217738" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34930" Name="santa_val_0097" PosX="1.05192e+06" PosY="18217.3" PosZ="217301" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34931" Name="santa_val_0098" PosX="1.05291e+06" PosY="18433.9" PosZ="216954" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34932" Name="santa_val_0099" PosX="1.05358e+06" PosY="18883.1" PosZ="216698" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34933" Name="santa_val_0100" PosX="1.0206e+06" PosY="15390.8" PosZ="208533" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34934" Name="santa_val_0101" PosX="1.021e+06" PosY="15385.1" PosZ="208476" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34935" Name="santa_val_0102" PosX="1.02149e+06" PosY="15339.9" PosZ="208339" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34936" Name="santa_val_0103" PosX="1.02208e+06" PosY="15255" PosZ="208123" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34937" Name="santa_val_0104" PosX="1.04828e+06" PosY="21086.3" PosZ="215656" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34939" Name="santa_val_0105" PosX="1.04507e+06" PosY="21125.5" PosZ="211017" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34940" Name="santa_val_0106" PosX="1.05017e+06" PosY="21844.3" PosZ="205238" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34943" Name="santa_val_0107" PosX="1.05665e+06" PosY="22013.6" PosZ="209698" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34945" Name="santa_val_0108" PosX="1.05175e+06" PosY="22830.2" PosZ="214345" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34947" Name="santa_val_0109" PosX="1.04758e+06" PosY="22629.9" PosZ="208797" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34949" Name="santa_val_0110" PosX="1.05014e+06" PosY="22004.2" PosZ="203545" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34951" Name="santa_val_0111" PosX="1.05393e+06" PosY="22216.1" PosZ="199518" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34953" Name="santa_val_0112" PosX="1.04998e+06" PosY="22166.4" PosZ="195085" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34955" Name="santa_val_0113" PosX="1.04414e+06" PosY="21832.7" PosZ="198914" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34956" Name="santa_val_0114" PosX="1.04343e+06" PosY="21079.8" PosZ="203011" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34957" Name="santa_val_0115" PosX="1.04166e+06" PosY="20568.6" PosZ="207327" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34961" Name="santa_val_0116" PosX="1.03711e+06" PosY="19153.9" PosZ="206892" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34963" Name="santa_val_0117" PosX="1.04281e+06" PosY="18926.4" PosZ="209607" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34964" Name="santa_val_0118" PosX="1.04395e+06" PosY="17896.8" PosZ="212731" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34966" Name="santa_val_0119" PosX="1.04078e+06" PosY="17555.6" PosZ="218530" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34968" Name="santa_val_0120" PosX="1.04702e+06" PosY="21078.5" PosZ="215291" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34969" Name="santa_val_0121" PosX="1.04607e+06" PosY="21078.5" PosZ="214644" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34970" Name="santa_val_0122" PosX="1.04543e+06" PosY="21086.3" PosZ="213716" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34971" Name="santa_val_0123" PosX="1.0451e+06" PosY="21102" PosZ="212507" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34972" Name="santa_val_0124" PosX="1.04527e+06" PosY="21345.5" PosZ="208944" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34973" Name="santa_val_0125" PosX="1.04587e+06" PosY="21527.4" PosZ="207329" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34974" Name="santa_val_0126" PosX="1.04689e+06" PosY="21671.2" PosZ="206173" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34975" Name="santa_val_0127" PosX="1.04832e+06" PosY="21776.8" PosZ="205477" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34976" Name="santa_val_0128" PosX="1.05223e+06" PosY="21878.3" PosZ="205066" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34977" Name="santa_val_0129" PosX="1.05391e+06" PosY="21912.2" PosZ="205426" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34978" Name="santa_val_0130" PosX="1.05521e+06" PosY="21946" PosZ="206318" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34979" Name="santa_val_0131" PosX="1.05612e+06" PosY="21979.8" PosZ="207742" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34980" Name="santa_val_0132" PosX="1.05647e+06" PosY="22187.4" PosZ="211461" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34981" Name="santa_val_0133" PosX="1.05589e+06" PosY="22356" PosZ="212807" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34982" Name="santa_val_0134" PosX="1.05491e+06" PosY="22519.3" PosZ="213737" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34983" Name="santa_val_0135" PosX="1.05353e+06" PosY="22677.3" PosZ="214249" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34984" Name="santa_val_0136" PosX="1.05012e+06" PosY="22781.3" PosZ="213857" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34985" Name="santa_val_0137" PosX="1.04892e+06" PosY="22736.8" PosZ="213062" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34986" Name="santa_val_0138" PosX="1.04814e+06" PosY="22696.7" PosZ="211961" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34987" Name="santa_val_0139" PosX="1.04778e+06" PosY="22661.1" PosZ="210552" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34988" Name="santa_val_0140" PosX="1.04748e+06" PosY="22583" PosZ="207318" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34989" Name="santa_val_0141" PosX="1.04752e+06" PosY="22496.9" PosZ="206030" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34990" Name="santa_val_0142" PosX="1.04798e+06" PosY="22371.8" PosZ="204972" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34991" Name="santa_val_0143" PosX="1.04885e+06" PosY="22207.6" PosZ="204143" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34992" Name="santa_val_0144" PosX="1.0514e+06" PosY="21940.3" PosZ="203447" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34993" Name="santa_val_0145" PosX="1.05241e+06" PosY="21929.5" PosZ="202996" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34994" Name="santa_val_0146" PosX="1.05317e+06" PosY="21971.8" PosZ="202191" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34995" Name="santa_val_0147" PosX="1.05368e+06" PosY="22067.4" PosZ="201031" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34996" Name="santa_val_0148" PosX="1.0537e+06" PosY="22298.2" PosZ="198125" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34997" Name="santa_val_0149" PosX="1.0532e+06" PosY="22334.4" PosZ="196986" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34998" Name="santa_val_0150" PosX="1.05241e+06" PosY="22324.4" PosZ="196100" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="34999" Name="santa_val_0151" PosX="1.05134e+06" PosY="22268.4" PosZ="195466" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35000" Name="santa_val_0152" PosX="1.04823e+06" PosY="21969.1" PosZ="194959" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35001" Name="santa_val_0153" PosX="1.04677e+06" PosY="21837.1" PosZ="195279" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35002" Name="santa_val_0154" PosX="1.0456e+06" PosY="21770.4" PosZ="196045" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35003" Name="santa_val_0155" PosX="1.04472e+06" PosY="21768.9" PosZ="197256" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35004" Name="santa_val_0156" PosX="1.04097e+06" PosY="20359.8" PosZ="208580" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35005" Name="santa_val_0157" PosX="1.04015e+06" PosY="20171.8" PosZ="209409" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35006" Name="santa_val_0158" PosX="1.03918e+06" PosY="20004.7" PosZ="209813" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35007" Name="santa_val_0159" PosX="1.03806e+06" PosY="19858.4" PosZ="209794" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35008" Name="santa_val_0160" PosX="1.03651e+06" PosY="19642.6" PosZ="208776" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35009" Name="santa_val_0161" PosX="1.03639e+06" PosY="19539.4" PosZ="208244" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35010" Name="santa_val_0162" PosX="1.03645e+06" PosY="19423.6" PosZ="207752" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35011" Name="santa_val_0163" PosX="1.03669e+06" PosY="19295" PosZ="207302" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35012" Name="santa_val_0164" PosX="1.0376e+06" PosY="19809.7" PosZ="209611" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35013" Name="santa_val_0165" PosX="1.03721e+06" PosY="19763.7" PosZ="209418" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35014" Name="santa_val_0166" PosX="1.0369e+06" PosY="19720.5" PosZ="209215" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35015" Name="santa_val_0167" PosX="1.03667e+06" PosY="19680.2" PosZ="209001" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35016" Name="santa_val_0168" PosX="1.03845e+06" PosY="19024.6" PosZ="206414" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35017" Name="santa_val_0169" PosX="1.03969e+06" PosY="18937.3" PosZ="206447" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35018" Name="santa_val_0170" PosX="1.04083e+06" PosY="18891.8" PosZ="206990" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35019" Name="santa_val_0171" PosX="1.04187e+06" PosY="18888.2" PosZ="208043" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35020" Name="santa_val_0172" PosX="1.04414e+06" PosY="17809" PosZ="214428" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35021" Name="santa_val_0173" PosX="1.04393e+06" PosY="17731" PosZ="215857" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35022" Name="santa_val_0174" PosX="1.04329e+06" PosY="17662.8" PosZ="217017" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35023" Name="santa_val_0175" PosX="1.04225e+06" PosY="17604.3" PosZ="217908" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35024" Name="santa_val_0176" PosX="1.04001e+06" PosY="17578.7" PosZ="218561" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35025" Name="santa_val_0177" PosX="1.03937e+06" PosY="17599.2" PosZ="218328" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35026" Name="santa_val_0178" PosX="1.03886e+06" PosY="17617.1" PosZ="217832" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35027" Name="santa_val_0179" PosX="1.03848e+06" PosY="17632.4" PosZ="217073" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35028" Name="santa_val_0180" PosX="1.03834e+06" PosY="17616.3" PosZ="216728" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35029" Name="santa_val_0181" PosX="1.0381e+06" PosY="17557.9" PosZ="216512" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35030" Name="santa_val_0182" PosX="1.03777e+06" PosY="17457" PosZ="216424" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35031" Name="santa_val_0183" PosX="1.03735e+06" PosY="17313.7" PosZ="216465" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35032" Name="santa_val_0184" PosX="1.0323e+06" PosY="16795.2" PosZ="218116" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35033" Name="santa_val_0185" PosX="1.03172e+06" PosY="16701" PosZ="218203" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35034" Name="santa_val_0186" PosX="1.03118e+06" PosY="16592.2" PosZ="218300" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35035" Name="santa_val_0187" PosX="1.03068e+06" PosY="16468.7" PosZ="218408" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35036" Name="santa_val_0188" PosX="1.02695e+06" PosY="15041.1" PosZ="204812" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35038" Name="santa_val_0189" PosX="1.02902e+06" PosY="15348.9" PosZ="199216" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35040" Name="santa_val_0190" PosX="1.02437e+06" PosY="15390.5" PosZ="197302" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35042" Name="santa_val_0191" PosX="1.02312e+06" PosY="15964.3" PosZ="203431" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35046" Name="santa_val_0192" PosX="1.03711e+06" PosY="17349.1" PosZ="197134" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35048" Name="santa_val_0193" PosX="1.03258e+06" PosY="17703.3" PosZ="195867" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35054" Name="santa_val_0194" PosX="1.02247e+06" PosY="15770.1" PosZ="202411" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35055" Name="santa_val_0195" PosX="1.02227e+06" PosY="15615.6" PosZ="201288" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35056" Name="santa_val_0196" PosX="1.02252e+06" PosY="15500.8" PosZ="200063" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35057" Name="santa_val_0197" PosX="1.02322e+06" PosY="15425.8" PosZ="198734" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35058" Name="santa_val_0198" PosX="1.02835e+06" PosY="15086.6" PosZ="203644" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35059" Name="santa_val_0199" PosX="1.02926e+06" PosY="15140.1" PosZ="202501" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35060" Name="santa_val_0200" PosX="1.02968e+06" PosY="15201.7" PosZ="201382" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35061" Name="santa_val_0201" PosX="1.0296e+06" PosY="15271.3" PosZ="200287" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35062" Name="santa_val_0202" PosX="1.02828e+06" PosY="15314.1" PosZ="198038" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35063" Name="santa_val_0203" PosX="1.02745e+06" PosY="15300.8" PosZ="197258" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35064" Name="santa_val_0204" PosX="1.02652e+06" PosY="15309.1" PosZ="196875" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35065" Name="santa_val_0205" PosX="1.02549e+06" PosY="15339" PosZ="196890" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35066" Name="santa_val_0206" PosX="1.02738e+06" PosY="16548.9" PosZ="203847" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35068" Name="santa_val_0207" PosX="1.02992e+06" PosY="17907.7" PosZ="195705" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35069" Name="santa_val_0208" PosX="1.02728e+06" PosY="17648.6" PosZ="188825" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35071" Name="santa_val_0209" PosX="1.01968e+06" PosY="16744.1" PosZ="182048" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35073" Name="santa_val_0210" PosX="1.01189e+06" PosY="16507" PosZ="190288" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35075" Name="santa_val_0211" PosX="1.02026e+06" PosY="16708.2" PosZ="198461" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35076" Name="santa_val_0212" PosX="1.02352e+06" PosY="16045.6" PosZ="203911" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35077" Name="santa_val_0213" PosX="1.02415e+06" PosY="16144.7" PosZ="204192" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35078" Name="santa_val_0214" PosX="1.025e+06" PosY="16261.6" PosZ="204275" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35079" Name="santa_val_0215" PosX="1.02608e+06" PosY="16396.3" PosZ="204160" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35080" Name="santa_val_0216" PosX="1.02908e+06" PosY="16214.8" PosZ="203271" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35081" Name="santa_val_0217" PosX="1.03019e+06" PosY="16183.6" PosZ="202169" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35082" Name="santa_val_0218" PosX="1.0307e+06" PosY="16455.3" PosZ="200540" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35083" Name="santa_val_0219" PosX="1.03061e+06" PosY="17030" PosZ="198386" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35084" Name="santa_val_0220" PosX="1.02608e+06" PosY="17587.9" PosZ="186101" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35085" Name="santa_val_0221" PosX="1.02471e+06" PosY="17467.1" PosZ="184060" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35086" Name="santa_val_0222" PosX="1.02319e+06" PosY="17286.2" PosZ="182705" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35087" Name="santa_val_0223" PosX="1.02152e+06" PosY="17045.2" PosZ="182034" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35088" Name="santa_val_0224" PosX="1.01707e+06" PosY="16588.2" PosZ="182855" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35089" Name="santa_val_0225" PosX="1.01498e+06" PosY="16486.5" PosZ="184083" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35090" Name="santa_val_0226" PosX="1.01342e+06" PosY="16439.1" PosZ="185731" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35091" Name="santa_val_0227" PosX="1.01239e+06" PosY="16445.9" PosZ="187799" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35092" Name="santa_val_0228" PosX="1.0123e+06" PosY="16250.5" PosZ="193276" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35093" Name="santa_val_0229" PosX="1.01335e+06" PosY="16142.4" PosZ="195588" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35094" Name="santa_val_0230" PosX="1.01502e+06" PosY="16182.6" PosZ="197222" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35095" Name="santa_val_0231" PosX="1.01732e+06" PosY="16371.2" PosZ="198180" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35096" Name="santa_val_0232" PosX="1.02463e+06" PosY="16862.8" PosZ="199721" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35097" Name="santa_val_0233" PosX="1.03054e+06" PosY="16650.5" PosZ="201185" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35098" Name="santa_val_0234" PosX="1.03443e+06" PosY="16957.7" PosZ="200702" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35099" Name="santa_val_0235" PosX="1.0357e+06" PosY="17091.8" PosZ="199774" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35100" Name="santa_val_0236" PosX="1.03657e+06" PosY="17201.8" PosZ="198870" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35101" Name="santa_val_0237" PosX="1.03704e+06" PosY="17287.5" PosZ="197990" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35102" Name="santa_val_0238" PosX="1.03641e+06" PosY="17398.7" PosZ="196157" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35103" Name="santa_val_0239" PosX="1.03561e+06" PosY="17458.9" PosZ="195542" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35104" Name="santa_val_0240" PosX="1.0347e+06" PosY="17529.7" PosZ="195288" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35105" Name="santa_val_0241" PosX="1.03369e+06" PosY="17611.2" PosZ="195397" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35106" Name="santa_val_0242" PosX="1.03119e+06" PosY="17816.5" PosZ="196725" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35107" Name="santa_val_0243" PosX="1.03013e+06" PosY="17943.1" PosZ="197643" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35108" Name="santa_val_0244" PosX="1.02942e+06" PosY="18083.1" PosZ="198621" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35109" Name="santa_val_0245" PosX="1.02903e+06" PosY="18236.4" PosZ="199661" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35112" Name="santa_val_0246" PosX="1.03238e+06" PosY="18826.5" PosZ="200509" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35113" Name="santa_val_0247" PosX="1.02996e+06" PosY="18492.6" PosZ="201226" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35114" Name="santa_val_0248" PosX="1.03078e+06" PosY="18579.8" PosZ="201434" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35115" Name="santa_val_0249" PosX="1.03146e+06" PosY="18664.4" PosZ="201383" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35116" Name="santa_val_0250" PosX="1.03199e+06" PosY="18746.7" PosZ="201075" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35117" Name="santa_val_0251" PosX="1.02906e+06" PosY="18300" PosZ="200076" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35118" Name="santa_val_0252" PosX="1.02916e+06" PosY="18357.4" PosZ="200439" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35119" Name="santa_val_0253" PosX="1.02935e+06" PosY="18408.7" PosZ="200753" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35120" Name="santa_val_0254" PosX="1.02961e+06" PosY="18453.7" PosZ="201015" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35121" Name="santa_val_0255" PosX="1.03246e+06" PosY="18846.5" PosZ="200011" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35122" Name="santa_val_0256" PosX="1.03228e+06" PosY="18841.9" PosZ="199436" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35123" Name="santa_val_0257" PosX="1.03182e+06" PosY="18812.7" PosZ="198786" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35124" Name="santa_val_0258" PosX="1.03109e+06" PosY="18758.7" PosZ="198058" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35125" Name="santa_val_0259" PosX="1.03083e+06" PosY="18647.7" PosZ="197681" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35126" Name="santa_val_0260" PosX="1.03087e+06" PosY="18377.6" PosZ="197191" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35127" Name="santa_val_0261" PosX="1.0312e+06" PosY="17948.3" PosZ="196588" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35128" Name="santa_val_0262" PosX="1.03183e+06" PosY="17360" PosZ="195873" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35129" Name="santa_val_0263" PosX="1.01994e+06" PosY="15649.8" PosZ="218312" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35130" Name="santa_val_0264" PosX="1.01903e+06" PosY="15604.6" PosZ="217702" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35131" Name="santa_val_0265" PosX="1.01821e+06" PosY="15524.8" PosZ="216916" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35132" Name="santa_val_0266" PosX="1.01747e+06" PosY="15410.3" PosZ="215954" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35133" Name="santa_val_0267" PosX="1.02323e+06" PosY="15769.9" PosZ="218445" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35134" Name="santa_val_0268" PosX="1.02209e+06" PosY="15720.5" PosZ="218517" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35135" Name="santa_val_0269" PosX="1.02116e+06" PosY="15684.1" PosZ="218519" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35136" Name="santa_val_0270" PosX="1.02045e+06" PosY="15660.5" PosZ="218450" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35137" Name="santa_val_0271" PosX="1.03141e+06" PosY="16710.4" PosZ="201316" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35138" Name="santa_val_0272" PosX="1.03223e+06" PosY="16771.1" PosZ="201333" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35139" Name="santa_val_0273" PosX="1.03301e+06" PosY="16832.6" PosZ="201237" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="35140" Name="santa_val_0274" PosX="1.03374e+06" PosY="16894.8" PosZ="201026" Property="air"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="34704" TargetWaypoint="35133"/>
+	<Link SourceWaypoint="34707" TargetWaypoint="34825"/>
+	<Link SourceWaypoint="34711" TargetWaypoint="34837"/>
+	<Link SourceWaypoint="34713" TargetWaypoint="34841"/>
+	<Link SourceWaypoint="34715" TargetWaypoint="34845"/>
+	<Link SourceWaypoint="34717" TargetWaypoint="34849"/>
+	<Link SourceWaypoint="34719" TargetWaypoint="34853"/>
+	<Link SourceWaypoint="34741" TargetWaypoint="34925"/>
+	<Link SourceWaypoint="34744" TargetWaypoint="34745"/>
+	<Link SourceWaypoint="34745" TargetWaypoint="34746"/>
+	<Link SourceWaypoint="34746" TargetWaypoint="34747"/>
+	<Link SourceWaypoint="34747" TargetWaypoint="34748"/>
+	<Link SourceWaypoint="34748" TargetWaypoint="34937"/>
+	<Link SourceWaypoint="34813" TargetWaypoint="34814"/>
+	<Link SourceWaypoint="34814" TargetWaypoint="34815"/>
+	<Link SourceWaypoint="34815" TargetWaypoint="34816"/>
+	<Link SourceWaypoint="34816" TargetWaypoint="35032"/>
+	<Link SourceWaypoint="34817" TargetWaypoint="34818"/>
+	<Link SourceWaypoint="34818" TargetWaypoint="34819"/>
+	<Link SourceWaypoint="34819" TargetWaypoint="34820"/>
+	<Link SourceWaypoint="34820" TargetWaypoint="34704"/>
+	<Link SourceWaypoint="34823" TargetWaypoint="34824"/>
+	<Link SourceWaypoint="34824" TargetWaypoint="34813"/>
+	<Link SourceWaypoint="34825" TargetWaypoint="34826"/>
+	<Link SourceWaypoint="34826" TargetWaypoint="34827"/>
+	<Link SourceWaypoint="34827" TargetWaypoint="34828"/>
+	<Link SourceWaypoint="34828" TargetWaypoint="34833"/>
+	<Link SourceWaypoint="34829" TargetWaypoint="34830"/>
+	<Link SourceWaypoint="34830" TargetWaypoint="34831"/>
+	<Link SourceWaypoint="34831" TargetWaypoint="34832"/>
+	<Link SourceWaypoint="34832" TargetWaypoint="34711"/>
+	<Link SourceWaypoint="34833" TargetWaypoint="34834"/>
+	<Link SourceWaypoint="34834" TargetWaypoint="34835"/>
+	<Link SourceWaypoint="34835" TargetWaypoint="34836"/>
+	<Link SourceWaypoint="34836" TargetWaypoint="34829"/>
+	<Link SourceWaypoint="34837" TargetWaypoint="34838"/>
+	<Link SourceWaypoint="34838" TargetWaypoint="34839"/>
+	<Link SourceWaypoint="34839" TargetWaypoint="34840"/>
+	<Link SourceWaypoint="34840" TargetWaypoint="34713"/>
+	<Link SourceWaypoint="34841" TargetWaypoint="34842"/>
+	<Link SourceWaypoint="34842" TargetWaypoint="34843"/>
+	<Link SourceWaypoint="34843" TargetWaypoint="34844"/>
+	<Link SourceWaypoint="34844" TargetWaypoint="34715"/>
+	<Link SourceWaypoint="34845" TargetWaypoint="34846"/>
+	<Link SourceWaypoint="34846" TargetWaypoint="34847"/>
+	<Link SourceWaypoint="34847" TargetWaypoint="34848"/>
+	<Link SourceWaypoint="34848" TargetWaypoint="34717"/>
+	<Link SourceWaypoint="34849" TargetWaypoint="34850"/>
+	<Link SourceWaypoint="34850" TargetWaypoint="34851"/>
+	<Link SourceWaypoint="34851" TargetWaypoint="34852"/>
+	<Link SourceWaypoint="34852" TargetWaypoint="34719"/>
+	<Link SourceWaypoint="34853" TargetWaypoint="34854"/>
+	<Link SourceWaypoint="34854" TargetWaypoint="34855"/>
+	<Link SourceWaypoint="34855" TargetWaypoint="34856"/>
+	<Link SourceWaypoint="34856" TargetWaypoint="34933"/>
+	<Link SourceWaypoint="34857" TargetWaypoint="34858"/>
+	<Link SourceWaypoint="34858" TargetWaypoint="35036"/>
+	<Link SourceWaypoint="34891" TargetWaypoint="34892"/>
+	<Link SourceWaypoint="34892" TargetWaypoint="34893"/>
+	<Link SourceWaypoint="34893" TargetWaypoint="34894"/>
+	<Link SourceWaypoint="34894" TargetWaypoint="34896"/>
+	<Link SourceWaypoint="34895" TargetWaypoint="34900"/>
+	<Link SourceWaypoint="34896" TargetWaypoint="34897"/>
+	<Link SourceWaypoint="34897" TargetWaypoint="34898"/>
+	<Link SourceWaypoint="34898" TargetWaypoint="34899"/>
+	<Link SourceWaypoint="34899" TargetWaypoint="34895"/>
+	<Link SourceWaypoint="34900" TargetWaypoint="34901"/>
+	<Link SourceWaypoint="34901" TargetWaypoint="34902"/>
+	<Link SourceWaypoint="34902" TargetWaypoint="34903"/>
+	<Link SourceWaypoint="34903" TargetWaypoint="34904"/>
+	<Link SourceWaypoint="34904" TargetWaypoint="34905"/>
+	<Link SourceWaypoint="34905" TargetWaypoint="34906"/>
+	<Link SourceWaypoint="34906" TargetWaypoint="34907"/>
+	<Link SourceWaypoint="34907" TargetWaypoint="34908"/>
+	<Link SourceWaypoint="34908" TargetWaypoint="34909"/>
+	<Link SourceWaypoint="34909" TargetWaypoint="34910"/>
+	<Link SourceWaypoint="34910" TargetWaypoint="34911"/>
+	<Link SourceWaypoint="34911" TargetWaypoint="34916"/>
+	<Link SourceWaypoint="34912" TargetWaypoint="34913"/>
+	<Link SourceWaypoint="34913" TargetWaypoint="34914"/>
+	<Link SourceWaypoint="34914" TargetWaypoint="34915"/>
+	<Link SourceWaypoint="34915" TargetWaypoint="34920"/>
+	<Link SourceWaypoint="34916" TargetWaypoint="34917"/>
+	<Link SourceWaypoint="34917" TargetWaypoint="34918"/>
+	<Link SourceWaypoint="34918" TargetWaypoint="34919"/>
+	<Link SourceWaypoint="34919" TargetWaypoint="34912"/>
+	<Link SourceWaypoint="34920" TargetWaypoint="34921"/>
+	<Link SourceWaypoint="34921" TargetWaypoint="34922"/>
+	<Link SourceWaypoint="34922" TargetWaypoint="34923"/>
+	<Link SourceWaypoint="34923" TargetWaypoint="34741"/>
+	<Link SourceWaypoint="34924" TargetWaypoint="34929"/>
+	<Link SourceWaypoint="34925" TargetWaypoint="34926"/>
+	<Link SourceWaypoint="34926" TargetWaypoint="34927"/>
+	<Link SourceWaypoint="34927" TargetWaypoint="34928"/>
+	<Link SourceWaypoint="34928" TargetWaypoint="34924"/>
+	<Link SourceWaypoint="34929" TargetWaypoint="34930"/>
+	<Link SourceWaypoint="34930" TargetWaypoint="34931"/>
+	<Link SourceWaypoint="34931" TargetWaypoint="34932"/>
+	<Link SourceWaypoint="34932" TargetWaypoint="34744"/>
+	<Link SourceWaypoint="34933" TargetWaypoint="34934"/>
+	<Link SourceWaypoint="34934" TargetWaypoint="34935"/>
+	<Link SourceWaypoint="34935" TargetWaypoint="34936"/>
+	<Link SourceWaypoint="34936" TargetWaypoint="34857"/>
+	<Link SourceWaypoint="34937" TargetWaypoint="34968"/>
+	<Link SourceWaypoint="34939" TargetWaypoint="34972"/>
+	<Link SourceWaypoint="34940" TargetWaypoint="34976"/>
+	<Link SourceWaypoint="34943" TargetWaypoint="34980"/>
+	<Link SourceWaypoint="34945" TargetWaypoint="34984"/>
+	<Link SourceWaypoint="34947" TargetWaypoint="34988"/>
+	<Link SourceWaypoint="34949" TargetWaypoint="34992"/>
+	<Link SourceWaypoint="34951" TargetWaypoint="34996"/>
+	<Link SourceWaypoint="34953" TargetWaypoint="35000"/>
+	<Link SourceWaypoint="34955" TargetWaypoint="34956"/>
+	<Link SourceWaypoint="34956" TargetWaypoint="34957"/>
+	<Link SourceWaypoint="34957" TargetWaypoint="35004"/>
+	<Link SourceWaypoint="34961" TargetWaypoint="35016"/>
+	<Link SourceWaypoint="34963" TargetWaypoint="34964"/>
+	<Link SourceWaypoint="34964" TargetWaypoint="35020"/>
+	<Link SourceWaypoint="34966" TargetWaypoint="35024"/>
+	<Link SourceWaypoint="34968" TargetWaypoint="34969"/>
+	<Link SourceWaypoint="34969" TargetWaypoint="34970"/>
+	<Link SourceWaypoint="34970" TargetWaypoint="34971"/>
+	<Link SourceWaypoint="34971" TargetWaypoint="34939"/>
+	<Link SourceWaypoint="34972" TargetWaypoint="34973"/>
+	<Link SourceWaypoint="34973" TargetWaypoint="34974"/>
+	<Link SourceWaypoint="34974" TargetWaypoint="34975"/>
+	<Link SourceWaypoint="34975" TargetWaypoint="34940"/>
+	<Link SourceWaypoint="34976" TargetWaypoint="34977"/>
+	<Link SourceWaypoint="34977" TargetWaypoint="34978"/>
+	<Link SourceWaypoint="34978" TargetWaypoint="34979"/>
+	<Link SourceWaypoint="34979" TargetWaypoint="34943"/>
+	<Link SourceWaypoint="34980" TargetWaypoint="34981"/>
+	<Link SourceWaypoint="34981" TargetWaypoint="34982"/>
+	<Link SourceWaypoint="34982" TargetWaypoint="34983"/>
+	<Link SourceWaypoint="34983" TargetWaypoint="34945"/>
+	<Link SourceWaypoint="34984" TargetWaypoint="34985"/>
+	<Link SourceWaypoint="34985" TargetWaypoint="34986"/>
+	<Link SourceWaypoint="34986" TargetWaypoint="34987"/>
+	<Link SourceWaypoint="34987" TargetWaypoint="34947"/>
+	<Link SourceWaypoint="34988" TargetWaypoint="34989"/>
+	<Link SourceWaypoint="34989" TargetWaypoint="34990"/>
+	<Link SourceWaypoint="34990" TargetWaypoint="34991"/>
+	<Link SourceWaypoint="34991" TargetWaypoint="34949"/>
+	<Link SourceWaypoint="34992" TargetWaypoint="34993"/>
+	<Link SourceWaypoint="34993" TargetWaypoint="34994"/>
+	<Link SourceWaypoint="34994" TargetWaypoint="34995"/>
+	<Link SourceWaypoint="34995" TargetWaypoint="34951"/>
+	<Link SourceWaypoint="34996" TargetWaypoint="34997"/>
+	<Link SourceWaypoint="34997" TargetWaypoint="34998"/>
+	<Link SourceWaypoint="34998" TargetWaypoint="34999"/>
+	<Link SourceWaypoint="34999" TargetWaypoint="34953"/>
+	<Link SourceWaypoint="35000" TargetWaypoint="35001"/>
+	<Link SourceWaypoint="35001" TargetWaypoint="35002"/>
+	<Link SourceWaypoint="35002" TargetWaypoint="35003"/>
+	<Link SourceWaypoint="35003" TargetWaypoint="34955"/>
+	<Link SourceWaypoint="35004" TargetWaypoint="35005"/>
+	<Link SourceWaypoint="35005" TargetWaypoint="35006"/>
+	<Link SourceWaypoint="35006" TargetWaypoint="35007"/>
+	<Link SourceWaypoint="35007" TargetWaypoint="35012"/>
+	<Link SourceWaypoint="35008" TargetWaypoint="35009"/>
+	<Link SourceWaypoint="35009" TargetWaypoint="35010"/>
+	<Link SourceWaypoint="35010" TargetWaypoint="35011"/>
+	<Link SourceWaypoint="35011" TargetWaypoint="34961"/>
+	<Link SourceWaypoint="35012" TargetWaypoint="35013"/>
+	<Link SourceWaypoint="35013" TargetWaypoint="35014"/>
+	<Link SourceWaypoint="35014" TargetWaypoint="35015"/>
+	<Link SourceWaypoint="35015" TargetWaypoint="35008"/>
+	<Link SourceWaypoint="35016" TargetWaypoint="35017"/>
+	<Link SourceWaypoint="35017" TargetWaypoint="35018"/>
+	<Link SourceWaypoint="35018" TargetWaypoint="35019"/>
+	<Link SourceWaypoint="35019" TargetWaypoint="34963"/>
+	<Link SourceWaypoint="35020" TargetWaypoint="35021"/>
+	<Link SourceWaypoint="35021" TargetWaypoint="35022"/>
+	<Link SourceWaypoint="35022" TargetWaypoint="35023"/>
+	<Link SourceWaypoint="35023" TargetWaypoint="34966"/>
+	<Link SourceWaypoint="35024" TargetWaypoint="35025"/>
+	<Link SourceWaypoint="35025" TargetWaypoint="35026"/>
+	<Link SourceWaypoint="35026" TargetWaypoint="35027"/>
+	<Link SourceWaypoint="35027" TargetWaypoint="35028"/>
+	<Link SourceWaypoint="35028" TargetWaypoint="35029"/>
+	<Link SourceWaypoint="35029" TargetWaypoint="35030"/>
+	<Link SourceWaypoint="35030" TargetWaypoint="35031"/>
+	<Link SourceWaypoint="35031" TargetWaypoint="34823"/>
+	<Link SourceWaypoint="35032" TargetWaypoint="35033"/>
+	<Link SourceWaypoint="35033" TargetWaypoint="35034"/>
+	<Link SourceWaypoint="35034" TargetWaypoint="35035"/>
+	<Link SourceWaypoint="35035" TargetWaypoint="34817"/>
+	<Link SourceWaypoint="35036" TargetWaypoint="35058"/>
+	<Link SourceWaypoint="35038" TargetWaypoint="35062"/>
+	<Link SourceWaypoint="35040" TargetWaypoint="35057"/>
+	<Link SourceWaypoint="35042" TargetWaypoint="35076"/>
+	<Link SourceWaypoint="35046" TargetWaypoint="35102"/>
+	<Link SourceWaypoint="35048" TargetWaypoint="35106"/>
+	<Link SourceWaypoint="35054" TargetWaypoint="35042"/>
+	<Link SourceWaypoint="35055" TargetWaypoint="35054"/>
+	<Link SourceWaypoint="35056" TargetWaypoint="35055"/>
+	<Link SourceWaypoint="35057" TargetWaypoint="35056"/>
+	<Link SourceWaypoint="35058" TargetWaypoint="35059"/>
+	<Link SourceWaypoint="35059" TargetWaypoint="35060"/>
+	<Link SourceWaypoint="35060" TargetWaypoint="35061"/>
+	<Link SourceWaypoint="35061" TargetWaypoint="35038"/>
+	<Link SourceWaypoint="35062" TargetWaypoint="35063"/>
+	<Link SourceWaypoint="35063" TargetWaypoint="35064"/>
+	<Link SourceWaypoint="35064" TargetWaypoint="35065"/>
+	<Link SourceWaypoint="35065" TargetWaypoint="35040"/>
+	<Link SourceWaypoint="35066" TargetWaypoint="35080"/>
+	<Link SourceWaypoint="35068" TargetWaypoint="35069"/>
+	<Link SourceWaypoint="35069" TargetWaypoint="35084"/>
+	<Link SourceWaypoint="35071" TargetWaypoint="35088"/>
+	<Link SourceWaypoint="35073" TargetWaypoint="35092"/>
+	<Link SourceWaypoint="35075" TargetWaypoint="35096"/>
+	<Link SourceWaypoint="35076" TargetWaypoint="35077"/>
+	<Link SourceWaypoint="35077" TargetWaypoint="35078"/>
+	<Link SourceWaypoint="35078" TargetWaypoint="35079"/>
+	<Link SourceWaypoint="35079" TargetWaypoint="35066"/>
+	<Link SourceWaypoint="35080" TargetWaypoint="35081"/>
+	<Link SourceWaypoint="35081" TargetWaypoint="35082"/>
+	<Link SourceWaypoint="35082" TargetWaypoint="35083"/>
+	<Link SourceWaypoint="35083" TargetWaypoint="35068"/>
+	<Link SourceWaypoint="35084" TargetWaypoint="35085"/>
+	<Link SourceWaypoint="35085" TargetWaypoint="35086"/>
+	<Link SourceWaypoint="35086" TargetWaypoint="35087"/>
+	<Link SourceWaypoint="35087" TargetWaypoint="35071"/>
+	<Link SourceWaypoint="35088" TargetWaypoint="35089"/>
+	<Link SourceWaypoint="35089" TargetWaypoint="35090"/>
+	<Link SourceWaypoint="35090" TargetWaypoint="35091"/>
+	<Link SourceWaypoint="35091" TargetWaypoint="35073"/>
+	<Link SourceWaypoint="35092" TargetWaypoint="35093"/>
+	<Link SourceWaypoint="35093" TargetWaypoint="35094"/>
+	<Link SourceWaypoint="35094" TargetWaypoint="35095"/>
+	<Link SourceWaypoint="35095" TargetWaypoint="35075"/>
+	<Link SourceWaypoint="35096" TargetWaypoint="35097"/>
+	<Link SourceWaypoint="35097" TargetWaypoint="35137"/>
+	<Link SourceWaypoint="35098" TargetWaypoint="35099"/>
+	<Link SourceWaypoint="35099" TargetWaypoint="35100"/>
+	<Link SourceWaypoint="35100" TargetWaypoint="35101"/>
+	<Link SourceWaypoint="35101" TargetWaypoint="35046"/>
+	<Link SourceWaypoint="35102" TargetWaypoint="35103"/>
+	<Link SourceWaypoint="35103" TargetWaypoint="35104"/>
+	<Link SourceWaypoint="35104" TargetWaypoint="35105"/>
+	<Link SourceWaypoint="35105" TargetWaypoint="35048"/>
+	<Link SourceWaypoint="35106" TargetWaypoint="35107"/>
+	<Link SourceWaypoint="35107" TargetWaypoint="35108"/>
+	<Link SourceWaypoint="35108" TargetWaypoint="35109"/>
+	<Link SourceWaypoint="35109" TargetWaypoint="35117"/>
+	<Link SourceWaypoint="35112" TargetWaypoint="35121"/>
+	<Link SourceWaypoint="35113" TargetWaypoint="35114"/>
+	<Link SourceWaypoint="35114" TargetWaypoint="35115"/>
+	<Link SourceWaypoint="35115" TargetWaypoint="35116"/>
+	<Link SourceWaypoint="35116" TargetWaypoint="35112"/>
+	<Link SourceWaypoint="35117" TargetWaypoint="35118"/>
+	<Link SourceWaypoint="35118" TargetWaypoint="35119"/>
+	<Link SourceWaypoint="35119" TargetWaypoint="35120"/>
+	<Link SourceWaypoint="35120" TargetWaypoint="35113"/>
+	<Link SourceWaypoint="35121" TargetWaypoint="35122"/>
+	<Link SourceWaypoint="35122" TargetWaypoint="35123"/>
+	<Link SourceWaypoint="35123" TargetWaypoint="35124"/>
+	<Link SourceWaypoint="35124" TargetWaypoint="35125"/>
+	<Link SourceWaypoint="35125" TargetWaypoint="35126"/>
+	<Link SourceWaypoint="35126" TargetWaypoint="35127"/>
+	<Link SourceWaypoint="35127" TargetWaypoint="35128"/>
+	<Link SourceWaypoint="35128" TargetWaypoint="34891"/>
+	<Link SourceWaypoint="35129" TargetWaypoint="35130"/>
+	<Link SourceWaypoint="35130" TargetWaypoint="35131"/>
+	<Link SourceWaypoint="35131" TargetWaypoint="35132"/>
+	<Link SourceWaypoint="35132" TargetWaypoint="34707"/>
+	<Link SourceWaypoint="35133" TargetWaypoint="35134"/>
+	<Link SourceWaypoint="35134" TargetWaypoint="35135"/>
+	<Link SourceWaypoint="35135" TargetWaypoint="35136"/>
+	<Link SourceWaypoint="35136" TargetWaypoint="35129"/>
+	<Link SourceWaypoint="35137" TargetWaypoint="35138"/>
+	<Link SourceWaypoint="35138" TargetWaypoint="35139"/>
+	<Link SourceWaypoint="35139" TargetWaypoint="35140"/>
+	<Link SourceWaypoint="35140" TargetWaypoint="35098"/>
+</LinkList>
+<GroupList>
+	<Group Key="169" Name="Santa_Valensia"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="ru_imp_boss">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33521" Name="ru_imp_boss_001" PosX="-62791" PosY="-3745" PosZ="55418" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33522" Name="ru_imp_boss_002" PosX="-106707" PosY="-545.034" PosZ="-82480.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33523" Name="ru_imp_boss_003" PosX="148412" PosY="-1075.46" PosZ="348776" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="33521" TargetWaypoint="33522"/>
+	<Link SourceWaypoint="33522" TargetWaypoint="33521"/>
+	<Link SourceWaypoint="33522" TargetWaypoint="33523"/>
+	<Link SourceWaypoint="33523" TargetWaypoint="33522"/>
+</LinkList>
+<GroupList>
+	<Group Key="163" Name="Ru_Imp_Boss"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

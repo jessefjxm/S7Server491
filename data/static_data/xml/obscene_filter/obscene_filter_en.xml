@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<obsceneData>
+	<obscene locale="EN">
+		<equivalents/>
+		<nonAlphanumericCharacter>[^a-zA-Z]</nonAlphanumericCharacter>
+		<badWords>
+			<badWordSet>gamez</badWordSet>
+			<badWordSet>gamezbd</badWordSet>
+		</badWords>
+	</obscene>
+</obsceneData>

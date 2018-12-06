@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="redorcparty">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12003" Name="RedOrcParty_1_0" PosX="-53548" PosY="-1822.57" PosZ="-136452" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12004" Name="RedOrcParty_1_1" PosX="-52435" PosY="-1651.79" PosZ="-136229" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12005" Name="RedOrcParty_1_2" PosX="-51439" PosY="-1544.86" PosZ="-136134" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12006" Name="RedOrcParty_1_3" PosX="-50423.5" PosY="-1476.94" PosZ="-136202" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12007" Name="RedOrcParty_1_4" PosX="-49335.3" PosY="-1383.67" PosZ="-136063" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12008" Name="RedOrcParty_1_5" PosX="-47899.2" PosY="-1241.59" PosZ="-135311" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12009" Name="RedOrcParty_1_6" PosX="-47039.3" PosY="-1237.67" PosZ="-134705" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="12003" TargetWaypoint="12004"/>
+	<Link SourceWaypoint="12004" TargetWaypoint="12003"/>
+	<Link SourceWaypoint="12004" TargetWaypoint="12005"/>
+	<Link SourceWaypoint="12005" TargetWaypoint="12004"/>
+	<Link SourceWaypoint="12005" TargetWaypoint="12006"/>
+	<Link SourceWaypoint="12006" TargetWaypoint="12005"/>
+	<Link SourceWaypoint="12006" TargetWaypoint="12007"/>
+	<Link SourceWaypoint="12007" TargetWaypoint="12006"/>
+	<Link SourceWaypoint="12007" TargetWaypoint="12008"/>
+	<Link SourceWaypoint="12008" TargetWaypoint="12007"/>
+	<Link SourceWaypoint="12008" TargetWaypoint="12009"/>
+	<Link SourceWaypoint="12009" TargetWaypoint="12008"/>
+</LinkList>
+<GroupList>
+	<Group Key="77" Name="redorcparty"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_plunder_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13269" Name="Cal_Plunder_001" PosX="-98015.4" PosY="-1891.17" PosZ="-95904.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13270" Name="Cal_Plunder_002" PosX="-98064" PosY="-1840.55" PosZ="-96764.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13271" Name="Cal_Plunder_003" PosX="-97948" PosY="-1787.48" PosZ="-97765" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13272" Name="Cal_Plunder_004" PosX="-98019" PosY="-1755.77" PosZ="-98479.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13273" Name="Cal_Plunder_005" PosX="-98207" PosY="-1713.53" PosZ="-99337.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13274" Name="Cal_Plunder_006" PosX="-98566.1" PosY="-1646.05" PosZ="-100357" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13275" Name="Cal_Plunder_007" PosX="-98953.2" PosY="-1574.92" PosZ="-101300" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13276" Name="Cal_Plunder_008" PosX="-99450.8" PosY="-1406.56" PosZ="-102205" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13277" Name="Cal_Plunder_009" PosX="-99971" PosY="-1343.07" PosZ="-102771" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13278" Name="Cal_Plunder_010" PosX="-100549" PosY="-1220.19" PosZ="-103182" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13279" Name="Cal_Plunder_011" PosX="-101418" PosY="-1013.98" PosZ="-103730" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13280" Name="Cal_Plunder_012" PosX="-102105" PosY="-866.154" PosZ="-104236" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13281" Name="Cal_Plunder_013" PosX="-102831" PosY="-724.463" PosZ="-104781" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13282" Name="Cal_Plunder_014" PosX="-103583" PosY="-575.687" PosZ="-105323" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13283" Name="Cal_Plunder_015" PosX="-99569.1" PosY="-1390.49" PosZ="-103476" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13284" Name="Cal_Plunder_016" PosX="-99196.3" PosY="-1409.56" PosZ="-104412" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13285" Name="Cal_Plunder_017" PosX="-98786.3" PosY="-1423.56" PosZ="-105366" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13286" Name="Cal_Plunder_018" PosX="-98432" PosY="-1498.26" PosZ="-106725" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13287" Name="Cal_Plunder_019" PosX="-97992.7" PosY="-1499.58" PosZ="-108029" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13288" Name="Cal_Plunder_020" PosX="-97361.1" PosY="-1543.44" PosZ="-109093" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13289" Name="Cal_Plunder_021" PosX="-96304.2" PosY="-1678.68" PosZ="-110239" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="13269" TargetWaypoint="13270"/>
+	<Link SourceWaypoint="13270" TargetWaypoint="13269"/>
+	<Link SourceWaypoint="13270" TargetWaypoint="13271"/>
+	<Link SourceWaypoint="13271" TargetWaypoint="13270"/>
+	<Link SourceWaypoint="13271" TargetWaypoint="13272"/>
+	<Link SourceWaypoint="13272" TargetWaypoint="13271"/>
+	<Link SourceWaypoint="13272" TargetWaypoint="13273"/>
+	<Link SourceWaypoint="13273" TargetWaypoint="13272"/>
+	<Link SourceWaypoint="13273" TargetWaypoint="13274"/>
+	<Link SourceWaypoint="13274" TargetWaypoint="13273"/>
+	<Link SourceWaypoint="13274" TargetWaypoint="13275"/>
+	<Link SourceWaypoint="13275" TargetWaypoint="13274"/>
+	<Link SourceWaypoint="13275" TargetWaypoint="13276"/>
+	<Link SourceWaypoint="13276" TargetWaypoint="13275"/>
+	<Link SourceWaypoint="13276" TargetWaypoint="13277"/>
+	<Link SourceWaypoint="13276" TargetWaypoint="13283"/>
+	<Link SourceWaypoint="13277" TargetWaypoint="13276"/>
+	<Link SourceWaypoint="13277" TargetWaypoint="13278"/>
+	<Link SourceWaypoint="13278" TargetWaypoint="13277"/>
+	<Link SourceWaypoint="13278" TargetWaypoint="13279"/>
+	<Link SourceWaypoint="13278" TargetWaypoint="13283"/>
+	<Link SourceWaypoint="13279" TargetWaypoint="13278"/>
+	<Link SourceWaypoint="13279" TargetWaypoint="13280"/>
+	<Link SourceWaypoint="13280" TargetWaypoint="13279"/>
+	<Link SourceWaypoint="13280" TargetWaypoint="13281"/>
+	<Link SourceWaypoint="13281" TargetWaypoint="13280"/>
+	<Link SourceWaypoint="13281" TargetWaypoint="13282"/>
+	<Link SourceWaypoint="13282" TargetWaypoint="13281"/>
+	<Link SourceWaypoint="13283" TargetWaypoint="13278"/>
+	<Link SourceWaypoint="13283" TargetWaypoint="13276"/>
+	<Link SourceWaypoint="13283" TargetWaypoint="13284"/>
+	<Link SourceWaypoint="13284" TargetWaypoint="13283"/>
+	<Link SourceWaypoint="13284" TargetWaypoint="13285"/>
+	<Link SourceWaypoint="13285" TargetWaypoint="13284"/>
+	<Link SourceWaypoint="13285" TargetWaypoint="13286"/>
+	<Link SourceWaypoint="13286" TargetWaypoint="13285"/>
+	<Link SourceWaypoint="13286" TargetWaypoint="13287"/>
+	<Link SourceWaypoint="13287" TargetWaypoint="13286"/>
+	<Link SourceWaypoint="13287" TargetWaypoint="13288"/>
+	<Link SourceWaypoint="13288" TargetWaypoint="13287"/>
+	<Link SourceWaypoint="13288" TargetWaypoint="13289"/>
+	<Link SourceWaypoint="13289" TargetWaypoint="13288"/>
+</LinkList>
+<GroupList>
+	<Group Key="100" Name="Cal_Plunder_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

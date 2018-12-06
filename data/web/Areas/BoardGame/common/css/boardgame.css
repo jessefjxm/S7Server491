@@ -1,0 +1,191 @@
+﻿@charset "utf-8";
+
+/* Common */
+/*@font-face {
+	font-family: Pearl;
+	src: local("  "),
+		url(/Common/font/NanumGothic.woff) format("woff")
+}*/
+
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,th,td,form,fieldset,legend,input,textarea,button,select{ margin: 0; padding: 0; }
+body,input,textarea,select,button,table{ font-family:custom; font-size: 12px; }
+img,fieldset{ border: 0; }
+ul,ol{ list-style: none; }
+em,address{ font-style: normal; }
+a{ text-decoration: none }
+a:hover,a:active,a:focus{ text-decoration: underline; }
+
+body { margin: 0; padding: 0; -moz-user-select: -moz-none; -khtml-user-select: none; -webkit-user-select: none; -ms-user-select: none; user-select: none;}
+#wrap{ width: 100%; margin: 0; padding: 0; }
+#container{ width: 100%; height: 100%; }
+
+
+
+
+
+
+
+
+body,input,textarea,select,button,table{ font-family: custom; font-size: 12px; }
+
+#mainBg { background-size: 100%; background-image: url('/Areas/BoardGame/common/img/bg_boardGame.jpg'); background-repeat: no-repeat; width: 918px; height: 655px; position: relative; }
+
+#mainBg	.normal { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/bg_boardGameNormalTile.png'); }
+#mainBg	.short { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/bg_boardGameShortTile.png'); }
+#mainBg .randomItem { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/randomTile.png'); }
+#mainBg .startTile { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/startTile.png'); }
+#mainBg .startTileEffect { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/startTileEffect.gif'); left: 77px; top: 177px; position: absolute; z-index: 31; }
+#mainBg .gotoStartTile { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/gotoStartTile.png'); }
+#mainBg .backTile { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/backTile.png'); }
+#mainBg .buffTile { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/buffTile.png'); }
+#mainBg .move2Tile { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/move2Tile.png'); }
+#mainBg .move3Tile { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/move3Tile.png'); }
+#mainBg .move5Tile { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/move5Tile.png'); }
+#mainBg .mileage { width: 76px; height: 75px; background-image: url('/Areas/BoardGame/common/img/mileTile.png'); }
+
+div .dice { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/oneMore.png'); left: 10px; top: -10px; position: absolute;}
+div .fixedItem { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/fixedItem.png'); left: 10px; top: -20px; position: absolute;}
+div .fixedItem1 { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/fixedItem1.png'); left: 10px; top: -20px; position: absolute;}
+div .fixedItem2 { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/fixedItem2.png'); left: 10px; top: -20px; position: absolute;}
+div .buff { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/buff.png'); left: 10px; top: -30px; position: absolute;}
+div .special { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/randomSpecialBox.png'); left: 10px; top: -10px; position: absolute;}
+div .pixedItem1 { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/pixedItem.png'); left: 10px; top: -55px; position: absolute;}
+div .shortcut1 { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/shortcut1.png'); left: 13px; top: -15px; position: absolute;}
+div .shortcut2 { width: 50px; height: 55px; background-image: url('/Areas/BoardGame/common/img/shortcut2.png'); left: 13px; top: -15px; position: absolute;}
+
+#pointer { width: 65px; height: 95px; background-image: url('/Areas/BoardGame/common/img/img_boardGamePointer.png'); left: 82px; top: 128px; position: absolute; z-index: 97; }
+img.icon { position: absolute; width: 32px; height: 32px; top: 8px; left: 9px; }
+
+#step0 { left: 77px; top: 177px; position: absolute; z-index: 30; }
+#step1 { left: 115px; top: 150px; position: absolute; z-index: 29; }
+#step2 { left: 153px; top: 123px; position: absolute; z-index: 28; }
+#step3 { left: 191px; top: 96px; position: absolute; z-index: 27; }
+#step4 { left: 229px; top: 69px; position: absolute; z-index: 26; }
+
+#step5 { left: 267px; top: 96px; position: absolute; z-index: 46; }
+#step6 { left: 305px; top: 123px; position: absolute; z-index: 46; }
+#step7 { left: 343px; top: 150px; position: absolute; z-index: 46; }
+#step8 { left: 381px; top: 177px; position: absolute; z-index: 46; }
+
+#step9 { left: 419px; top: 150px; position: absolute; z-index: 45; }
+#step10 { left: 457px; top: 123px; position: absolute; z-index: 44; }
+#step11 { left: 495px; top: 96px; position: absolute; z-index: 43; }
+#step12 { left: 533px; top: 69px; position: absolute; z-index: 42; }
+
+#step13 { left: 571px; top: 96px; position: absolute; z-index: 42; }
+#step14 { left: 609px; top: 123px; position: absolute; z-index: 42; }
+#step15 { left: 647px; top: 150px; position: absolute; z-index: 42; }
+#step16 { left: 685px; top: 177px; position: absolute; z-index: 42; }
+
+#step17 { left: 647px; top: 204px; position: absolute; z-index: 50; }
+#step18 { left: 609px; top: 231px; position: absolute; z-index: 50; }
+#step19 { left: 571px; top: 258px; position: absolute; z-index: 50; }
+#step20 { left: 533px; top: 285px; position: absolute; z-index: 50; }
+
+#step21 { left: 571px; top: 312px; position: absolute; z-index: 50; }
+#step22 { left: 609px; top: 339px; position: absolute; z-index: 50; }
+#step23 { left: 647px; top: 366px; position: absolute; z-index: 50; }
+#step24 { left: 685px; top: 393px; position: absolute; z-index: 50; }
+
+#step25 { left: 647px; top: 420px; position: absolute; z-index: 50; }
+#step26 { left: 609px; top: 447px; position: absolute; z-index: 50; }
+#step27 { left: 571px; top: 474px; position: absolute; z-index: 50; }
+#step28 { left: 533px; top: 501px; position: absolute; z-index: 50; }
+
+#step29 { left: 495px; top: 474px; position: absolute; z-index: 41; }
+#step30 { left: 457px; top: 447px; position: absolute; z-index: 40; }
+#step31 { left: 419px; top: 420px; position: absolute; z-index: 39; }
+#step32 { left: 381px; top: 393px; position: absolute; z-index: 38; }
+
+#step33 { left: 343px; top: 420px; position: absolute; z-index: 42; }
+#step34 { left: 305px; top: 447px; position: absolute; z-index: 42; }
+#step35 { left: 267px; top: 474px; position: absolute; z-index: 42; }
+#step36 { left: 229px; top: 501px; position: absolute; z-index: 42; }
+
+#step37 { left: 191px; top: 474px; position: absolute; z-index: 41; }
+#step38 { left: 153px; top: 447px; position: absolute; z-index: 40; }
+#step39 { left: 115px; top: 420px; position: absolute; z-index: 39; }
+#step40 { left: 77px; top: 393px; position: absolute; z-index: 38; }
+
+#step41 { left: 115px; top: 366px; position: absolute; z-index: 37; }
+#step42 { left: 153px; top: 339px; position: absolute; z-index: 36; }
+#step43 { left: 191px; top: 312px; position: absolute; z-index: 35; }
+#step44 { left: 229px; top: 285px; position: absolute; z-index: 34; }
+
+#step45 { left: 191px; top: 258px; position: absolute; z-index: 33; }
+#step46 { left: 153px; top: 231px; position: absolute; z-index: 32; }
+#step47 { left: 115px; top: 204px; position: absolute; z-index: 31; }
+
+#step48 { left: 419px; top: 204px; position: absolute; z-index: 47; }
+#step49 { left: 457px; top: 231px; position: absolute; z-index: 48; }
+#step50 { left: 495px; top: 258px; position: absolute; z-index: 49; }
+
+#step51 { left: 343px; top: 366px; position: absolute; z-index: 37; }
+#step52 { left: 305px; top: 339px; position: absolute; z-index: 36; }
+#step53 { left: 267px; top: 312px; position: absolute; z-index: 35; }
+
+#_diceClick { border: 1px solid white; left: 700px; top: 580px; position: absolute; color: #fff;}
+
+div.gotoStartEffect { width: 0px; height: 0px; position: absolute; top: 135px; left: 130px; z-index: 110;}
+div.gotoBackEffect { width: 0px; height: 0px; position: absolute; top: 135px; left: 330px; z-index: 110;}
+
+div.roulette { margin-top: 0px; }
+div.roulette-inner { left : 0px; }
+div.roulette .roulette-inner img {width:42px;height:42px;}
+
+div.roulette_container { width:42px; height:42px; border:1px solid rgba(253, 252, 253, 0.31); box-shadow:0px 0px 3px lightpink; position: absolute; top: 275px; left: -440px; z-index: 99; display: block;}
+.btn_container { margin:20px; text-align:center; display: none; }
+.btn_container .start { margin-right:20px; }
+.log_container { margin-left:25px; margin-top:80px; }
+.demo_label { border-left:5px solid gray; padding-left:5px; font-size: 20px; }
+#msg { border:1px solid #eee; padding:10px 20px; overflow-y: scroll; max-height: 100px; }
+div.param_label { margin:20px 0px 10px 0px; }
+#stopImageNumber { width : 20px; }
+.param_name { font-weight:bold; }
+.image_sample img{ width: 50px; cursor: pointer; }
+.right_container { width: 550px; margin-left: 100px; }
+.code_container { margin-top:50px; width: 500px; }
+.label-info { margin-bottom: 3px; }
+div.ui-slider { width: 300px; }
+
+#diceBg { position:absolute; bottom: -20px; right: -70px;}
+#diceEffect { position:absolute; top: 170px; left: 115px; opacity: 0.2;}
+#diceIcon { position:absolute; top: 200px; left: 85px;}
+#diceIconMask { position:absolute; top: 200px; left: 85px;}
+
+h2 { padding-top: 20px;}
+h3 { color: #ffff80; }
+span h4 { color: #ab6df8; }
+span.blackSpiritComment{ position: absolute; top: 100px; left: 20px; width: 120px; height: 40px; line-height: 40px; background-color: #000; color: #fff; text-align: center; border-radius: 10px; border: 1px solid #c0c0c0; display: none;}
+
+.rollingDice1 { width: 0px; height: 0px; left: 370px; top: 210px; position: absolute; z-index:97;}
+span.topLeftButton { position: absolute; top: 5px; left: 0px; background-image: url('/Areas/BoardGame/common/img/topLeftLayer.png'); width: 218px; height: 68px; padding-left: 25px; border: 0px solid #fff; color: #fff; text-align: left; line-height: 25px; border-radius: 10px; font-size: 24px; color: #ab6df8;  } 
+span.topLeftMouseOverArea { position: absolute; top: -5px; left: 0px; width: 182px; height: 70px; }
+span.topLeftLayer { position: absolute; top: 85px; left: 10px; background-color: #000; width: 250px; height: 80px; border: 0px solid #fff; color: #c4bebe; padding: 10px; text-align: left; border-radius: 10px; display: none; z-index: 110;}
+span.topLayer { position: absolute; top: -5px; left: 329px; background-image: url('/Areas/BoardGame/common/img/topLayerBg.png'); width: 218px; height: 106px; border: 0px solid #fff; color: #efefef; text-align: center; border-radius: 10px; }
+span.topMouseOverArea { position: absolute; top: -5px; left: 329px; width: 182px; height: 85px; }
+span.topLeftTime { position: absolute; top: 595px; left: 329px; background-color: #000; width: 200px; height: 40px; border: 0px solid #fff; color: #c4bebe; padding-top: 10px; text-align: center; border-radius: 10px; display: block; z-index: 110;}
+span.topRightButton { position: absolute; top: 5px; left: 710px; background-image: url('/Areas/BoardGame/common/img/topRightLayer.png'); width: 218px; height: 68px; padding-right: 25px; border: 0px solid #fff; color: #fff; text-align: right; line-height: 25px; border-radius: 10px; font-size: 24px; color: #ab6df8; }
+span.topRightMouseOverArea { position: absolute; top: -5px; left: 736px; width: 182px; height: 70px; }
+span.topRightLayer { position: absolute; top: 85px; left: 648px; background-color: #000; width: 250px; height: 180px; border: 0px solid #fff; color: #c4bebe; padding: 10px; text-align: left; border-radius: 10px; display: none; z-index: 110;}
+
+span.finishText { position: absolute; background-image: url('/Areas/BoardGame/common/img/completeCount.png'); top: 200px; left: 207px; font-size: 20px; text-align: center; width: 504px; height: 177px; color: #fff; z-index: 100; padding-top: 75px; display:none;}
+span.rewardText { position: absolute; top: 130px; left: 110px; text-align: center; background-image: url('/Areas/BoardGame/common/img/rewardMessageBg.png'); background-repeat: no-repeat;
+		width: 701px; height: 106px; color: #fff; display: none; z-index: 100; background-size: 100%;}
+div.rewardPopLayer { position: absolute; top: 250px; left: 399px; background-color: #000; width: 120px; height: 90px; border: 1px solid #444444; color: #fff; border-radius: 5px; text-align: center; z-index: 98; display: none; }
+p.randomRewardText { position: absolute; top: 45px; left: 120px; width: 200px; height: 30px; color: #fff; border-radius: 5px; text-align: left; font-size: 16px;}
+img.bg { position: absolute; top: 0px; left: 8px; z-index: 98; }
+img.arrow { position: absolute; top: 12px; left: 26px; z-index: 100; }
+
+img.reload { position: absolute; top: 595px; left: 540px; cursor: pointer; }
+
+div.errorFont { color: #fff; font-size: 20px; text-align: center; padding-top: 300px;}
+div.errorFontDetail { color: #fff; font-size: 14px; text-align: center; padding-top: 20px;}
+
+.tooltip > .tooltip-inner { background-color: #000; color: #fff; width: 120px; }
+.tooltip.top > .tooltip-arrow { border-top: 5px #000; }
+
+div.alertLayer { position: absolute; top: 250px; left: 331px; width: 252px; height: 62px; background-size: 100%; background-image: url('/Areas/BoardGame/common/img/boardgamePopupBg.png'); display: none; z-index: 120; }
+div.alertLayer .alertLayerWrap { position: relative; width: 252px; height: 62px; }
+div.alertLayer .alertLayerWrap .alertMsg { width: 252px; height: 20px; line-height: 35px; text-align: center; color: #f2f2f2; }
+div.alertLayer .alertLayerWrap .alertOk { position: relative; left: 25px; border: 1px solid #808080; width: 66px; height: 18px; line-height: 18px; margin: 15px 0px 0px 68px; background-image: '/Areas/BoardGame/common/img/buttonNormal.png'; cursor: pointer; text-align: center; color: #f2f2f2; }

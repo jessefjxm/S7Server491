@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="fogunjr">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10823" Name="FogunJr001" PosX="19896.7" PosY="-102.667" PosZ="-146934" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10824" Name="FogunJr002" PosX="17719.9" PosY="-58.2351" PosZ="-147003" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10825" Name="FogunJr003" PosX="15086.2" PosY="-108.764" PosZ="-148160" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10826" Name="FogunJr004" PosX="12094.5" PosY="-287.778" PosZ="-149818" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10827" Name="FogunJr005" PosX="5858.26" PosY="-726.67" PosZ="-151474" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10828" Name="FogunJr006" PosX="5881.3" PosY="-720.905" PosZ="-150418" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10829" Name="FogunJr007" PosX="7739.17" PosY="-678.362" PosZ="-148372" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10830" Name="FogunJr008" PosX="9747.09" PosY="-800.333" PosZ="-145730" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10831" Name="FogunJr009" PosX="11825.7" PosY="-798.463" PosZ="-143061" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10832" Name="FogunJr010" PosX="11878.6" PosY="-1034.12" PosZ="-138770" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10833" Name="FogunJr011" PosX="12504.7" PosY="-667.417" PosZ="-143489" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10834" Name="FogunJr012" PosX="13302.7" PosY="-390.615" PosZ="-144014" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10835" Name="FogunJr013" PosX="14050.9" PosY="-194.564" PosZ="-144619" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10836" Name="FogunJr014" PosX="14839.8" PosY="-82.9891" PosZ="-145400" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10837" Name="FogunJr015" PosX="15864.1" PosY="-20.1023" PosZ="-145997" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="10838" Name="FogunJr016" PosX="16764.8" PosY="-33.235" PosZ="-146529" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="10823" TargetWaypoint="10824"/>
+	<Link SourceWaypoint="10824" TargetWaypoint="10823"/>
+	<Link SourceWaypoint="10824" TargetWaypoint="10825"/>
+	<Link SourceWaypoint="10824" TargetWaypoint="10838"/>
+	<Link SourceWaypoint="10825" TargetWaypoint="10824"/>
+	<Link SourceWaypoint="10825" TargetWaypoint="10826"/>
+	<Link SourceWaypoint="10826" TargetWaypoint="10825"/>
+	<Link SourceWaypoint="10826" TargetWaypoint="10827"/>
+	<Link SourceWaypoint="10827" TargetWaypoint="10826"/>
+	<Link SourceWaypoint="10827" TargetWaypoint="10828"/>
+	<Link SourceWaypoint="10828" TargetWaypoint="10827"/>
+	<Link SourceWaypoint="10828" TargetWaypoint="10829"/>
+	<Link SourceWaypoint="10829" TargetWaypoint="10828"/>
+	<Link SourceWaypoint="10829" TargetWaypoint="10830"/>
+	<Link SourceWaypoint="10830" TargetWaypoint="10829"/>
+	<Link SourceWaypoint="10830" TargetWaypoint="10831"/>
+	<Link SourceWaypoint="10831" TargetWaypoint="10830"/>
+	<Link SourceWaypoint="10831" TargetWaypoint="10832"/>
+	<Link SourceWaypoint="10831" TargetWaypoint="10833"/>
+	<Link SourceWaypoint="10832" TargetWaypoint="10831"/>
+	<Link SourceWaypoint="10833" TargetWaypoint="10831"/>
+	<Link SourceWaypoint="10833" TargetWaypoint="10834"/>
+	<Link SourceWaypoint="10834" TargetWaypoint="10833"/>
+	<Link SourceWaypoint="10834" TargetWaypoint="10835"/>
+	<Link SourceWaypoint="10835" TargetWaypoint="10834"/>
+	<Link SourceWaypoint="10835" TargetWaypoint="10836"/>
+	<Link SourceWaypoint="10836" TargetWaypoint="10835"/>
+	<Link SourceWaypoint="10836" TargetWaypoint="10837"/>
+	<Link SourceWaypoint="10837" TargetWaypoint="10836"/>
+	<Link SourceWaypoint="10837" TargetWaypoint="10838"/>
+	<Link SourceWaypoint="10838" TargetWaypoint="10837"/>
+	<Link SourceWaypoint="10838" TargetWaypoint="10824"/>
+</LinkList>
+<GroupList>
+	<Group Key="27" Name="FogunJr"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

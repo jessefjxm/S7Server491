@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="redbuffalo_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15087" Name="RedBuffalo_0" PosX="210459" PosY="-2413.01" PosZ="8463.33" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15088" Name="RedBuffalo_1" PosX="211435" PosY="-2256.15" PosZ="8792.56" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15089" Name="RedBuffalo_2" PosX="212270" PosY="-2013.11" PosZ="9147.22" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15090" Name="RedBuffalo_3" PosX="213211" PosY="-1894.4" PosZ="9687.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15091" Name="RedBuffalo_4" PosX="214233" PosY="-1640.12" PosZ="9058.98" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15092" Name="RedBuffalo_5" PosX="213697" PosY="-1813.69" PosZ="7824.31" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15093" Name="RedBuffalo_6" PosX="213922" PosY="-1732.5" PosZ="7006.96" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15094" Name="RedBuffalo_7" PosX="214289" PosY="-1653.07" PosZ="5935.18" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15095" Name="RedBuffalo_8" PosX="214198" PosY="-1581.69" PosZ="5273.78" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15096" Name="RedBuffalo_9" PosX="213521" PosY="-1650.9" PosZ="4534.43" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15097" Name="RedBuffalo_10" PosX="212446" PosY="-2164.18" PosZ="4281.68" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15098" Name="RedBuffalo_11" PosX="211421" PosY="-2446.04" PosZ="4247.13" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15099" Name="RedBuffalo_12" PosX="211189" PosY="-2568.09" PosZ="3424.86" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15100" Name="RedBuffalo_13" PosX="209873" PosY="-2776.59" PosZ="3006.36" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15101" Name="RedBuffalo_14" PosX="209411" PosY="-2803" PosZ="3744.46" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15102" Name="RedBuffalo_15" PosX="209697" PosY="-2658.17" PosZ="5147.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15103" Name="RedBuffalo_16" PosX="209972" PosY="-2507.85" PosZ="6183.84" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15104" Name="RedBuffalo_17" PosX="210159" PosY="-2415.81" PosZ="6994.43" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="15087" TargetWaypoint="15088"/>
+	<Link SourceWaypoint="15088" TargetWaypoint="15089"/>
+	<Link SourceWaypoint="15089" TargetWaypoint="15090"/>
+	<Link SourceWaypoint="15090" TargetWaypoint="15091"/>
+	<Link SourceWaypoint="15091" TargetWaypoint="15092"/>
+	<Link SourceWaypoint="15092" TargetWaypoint="15093"/>
+	<Link SourceWaypoint="15093" TargetWaypoint="15094"/>
+	<Link SourceWaypoint="15094" TargetWaypoint="15095"/>
+	<Link SourceWaypoint="15095" TargetWaypoint="15096"/>
+	<Link SourceWaypoint="15096" TargetWaypoint="15097"/>
+	<Link SourceWaypoint="15097" TargetWaypoint="15098"/>
+	<Link SourceWaypoint="15098" TargetWaypoint="15099"/>
+	<Link SourceWaypoint="15099" TargetWaypoint="15100"/>
+	<Link SourceWaypoint="15100" TargetWaypoint="15101"/>
+	<Link SourceWaypoint="15101" TargetWaypoint="15102"/>
+	<Link SourceWaypoint="15102" TargetWaypoint="15103"/>
+	<Link SourceWaypoint="15103" TargetWaypoint="15104"/>
+	<Link SourceWaypoint="15104" TargetWaypoint="15087"/>
+</LinkList>
+<GroupList>
+	<Group Key="139" Name="RedBuffalo_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

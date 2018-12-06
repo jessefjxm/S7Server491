@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="wanderergargoyle_boss">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33524" Name="Cal_WandererGargoyle_Boss_001" PosX="-372131" PosY="17982.4" PosZ="-273204" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33525" Name="Cal_WandererGargoyle_Boss_002" PosX="-370363" PosY="17332" PosZ="-274113" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33526" Name="Cal_WandererGargoyle_Boss_003" PosX="-370398" PosY="17162.2" PosZ="-272347" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33527" Name="Cal_WandererGargoyle_Boss_004" PosX="-369763" PosY="16696" PosZ="-270086" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33528" Name="Cal_WandererGargoyle_Boss_005" PosX="-368224" PosY="15774.4" PosZ="-268398" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33529" Name="Cal_WandererGargoyle_Boss_006" PosX="-366718" PosY="15215.9" PosZ="-268653" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33530" Name="Cal_WandererGargoyle_Boss_007" PosX="-365372" PosY="14886.3" PosZ="-268726" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33531" Name="Cal_WandererGargoyle_Boss_008" PosX="-363301" PosY="14463.2" PosZ="-268163" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33532" Name="Cal_WandererGargoyle_Boss_009" PosX="-362787" PosY="14179.1" PosZ="-267618" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33533" Name="Cal_WandererGargoyle_Boss_010" PosX="-362284" PosY="13844.9" PosZ="-266048" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33534" Name="Cal_WandererGargoyle_Boss_011" PosX="-362214" PosY="13543.1" PosZ="-264383" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33535" Name="Cal_WandererGargoyle_Boss_012" PosX="-363531" PosY="13549.9" PosZ="-264599" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33536" Name="Cal_WandererGargoyle_Boss_013" PosX="-364214" PosY="13505.4" PosZ="-263984" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33537" Name="Cal_WandererGargoyle_Boss_014" PosX="-364517" PosY="13338.3" PosZ="-263132" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33538" Name="Cal_WandererGargoyle_Boss_015" PosX="-364308" PosY="13305.7" PosZ="-262640" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33539" Name="Cal_WandererGargoyle_Boss_016" PosX="-364073" PosY="13177.2" PosZ="-261770" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33540" Name="Cal_WandererGargoyle_Boss_017" PosX="-363921" PosY="13250.7" PosZ="-260453" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33541" Name="Cal_WandererGargoyle_Boss_018" PosX="-363978" PosY="13297.8" PosZ="-259469" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33542" Name="Cal_WandererGargoyle_Boss_019" PosX="-363888" PosY="13253.7" PosZ="-258081" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33543" Name="Cal_WandererGargoyle_Boss_020" PosX="-363847" PosY="13244.7" PosZ="-256296" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33544" Name="Cal_WandererGargoyle_Boss_021" PosX="-362746" PosY="13216.8" PosZ="-253151" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33545" Name="Cal_WandererGargoyle_Boss_022" PosX="-360942" PosY="13057.7" PosZ="-250157" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33546" Name="Cal_WandererGargoyle_Boss_023" PosX="-360087" PosY="13089.8" PosZ="-248376" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33547" Name="Cal_WandererGargoyle_Boss_024" PosX="-358424" PosY="12694.9" PosZ="-245161" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33548" Name="Cal_WandererGargoyle_Boss_025" PosX="-356784" PosY="12622.7" PosZ="-244041" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33549" Name="Cal_WandererGargoyle_Boss_026" PosX="-355715" PosY="12568.8" PosZ="-243613" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33550" Name="Cal_WandererGargoyle_Boss_027" PosX="-354764" PosY="12621.4" PosZ="-244064" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33551" Name="Cal_WandererGargoyle_Boss_028" PosX="-353940" PosY="12749.5" PosZ="-244329" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33552" Name="Cal_WandererGargoyle_Boss_029" PosX="-352712" PosY="12940.2" PosZ="-243660" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33553" Name="Cal_WandererGargoyle_Boss_030" PosX="-351468" PosY="13248" PosZ="-243037" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33554" Name="Cal_WandererGargoyle_Boss_031" PosX="-349378" PosY="14103.4" PosZ="-242387" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33555" Name="Cal_WandererGargoyle_Boss_032" PosX="-347758" PosY="14751.6" PosZ="-241689" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33556" Name="Cal_WandererGargoyle_Boss_033" PosX="-347098" PosY="15488" PosZ="-240595" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33557" Name="Cal_WandererGargoyle_Boss_034" PosX="-345842" PosY="14556.5" PosZ="-241388" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33558" Name="Cal_WandererGargoyle_Boss_035" PosX="-345314" PosY="13645.1" PosZ="-242402" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33559" Name="Cal_WandererGargoyle_Boss_036" PosX="-344762" PosY="12866.4" PosZ="-243558" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33560" Name="Cal_WandererGargoyle_Boss_037" PosX="-344297" PosY="12033.8" PosZ="-244461" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33561" Name="Cal_WandererGargoyle_Boss_038" PosX="-343414" PosY="11279.8" PosZ="-245157" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33562" Name="Cal_WandererGargoyle_Boss_039" PosX="-341858" PosY="11319.4" PosZ="-246169" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33563" Name="Cal_WandererGargoyle_Boss_040" PosX="-341135" PosY="11339.9" PosZ="-246307" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33564" Name="Cal_WandererGargoyle_Boss_041" PosX="-340220" PosY="11331.6" PosZ="-246083" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33565" Name="Cal_WandererGargoyle_Boss_042" PosX="-337926" PosY="11121.5" PosZ="-245757" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33566" Name="Cal_WandererGargoyle_Boss_043" PosX="-334876" PosY="11329.8" PosZ="-245611" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33567" Name="Cal_WandererGargoyle_Boss_044" PosX="-332052" PosY="11215.4" PosZ="-247398" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33568" Name="Cal_WandererGargoyle_Boss_045" PosX="-329286" PosY="11254.8" PosZ="-248264" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33569" Name="Cal_WandererGargoyle_Boss_046" PosX="-325757" PosY="11239.3" PosZ="-248393" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33570" Name="Cal_WandererGargoyle_Boss_047" PosX="-323700" PosY="11194.3" PosZ="-247501" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33571" Name="Cal_WandererGargoyle_Boss_048" PosX="-320296" PosY="10595.6" PosZ="-246554" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33572" Name="Cal_WandererGargoyle_Boss_049" PosX="-315906" PosY="10194" PosZ="-248076" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33573" Name="Cal_WandererGargoyle_Boss_050" PosX="-315658" PosY="10119.9" PosZ="-250111" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33574" Name="Cal_WandererGargoyle_Boss_051" PosX="-316652" PosY="10647.7" PosZ="-249649" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33575" Name="Cal_WandererGargoyle_Boss_052" PosX="-318069" PosY="10572.8" PosZ="-249587" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33576" Name="Cal_WandererGargoyle_Boss_053" PosX="-319327" PosY="10522.6" PosZ="-250216" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33577" Name="Cal_WandererGargoyle_Boss_054" PosX="-320340" PosY="10475.9" PosZ="-251003" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33578" Name="Cal_WandererGargoyle_Boss_055" PosX="-321122" PosY="10683.6" PosZ="-251272" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33579" Name="Cal_WandererGargoyle_Boss_056" PosX="-321646" PosY="10643.8" PosZ="-252102" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33580" Name="Cal_WandererGargoyle_Boss_057" PosX="-321698" PosY="10462.4" PosZ="-253346" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33581" Name="Cal_WandererGargoyle_Boss_058" PosX="-321181" PosY="10405.9" PosZ="-253819" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33582" Name="Cal_WandererGargoyle_Boss_059" PosX="-320004" PosY="10435.2" PosZ="-254621" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33583" Name="Cal_WandererGargoyle_Boss_060" PosX="-319273" PosY="10527.6" PosZ="-255537" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33584" Name="Cal_WandererGargoyle_Boss_061" PosX="-318843" PosY="10638.4" PosZ="-256228" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33585" Name="Cal_WandererGargoyle_Boss_062" PosX="-317859" PosY="10710.2" PosZ="-256940" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33586" Name="Cal_WandererGargoyle_Boss_063" PosX="-317100" PosY="10704.5" PosZ="-257275" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33587" Name="Cal_WandererGargoyle_Boss_064" PosX="-315536" PosY="10644.8" PosZ="-258060" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33588" Name="Cal_WandererGargoyle_Boss_065" PosX="-314630" PosY="10452.4" PosZ="-259085" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33589" Name="Cal_WandererGargoyle_Boss_066" PosX="-314854" PosY="10819.1" PosZ="-260518" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33590" Name="Cal_WandererGargoyle_Boss_067" PosX="-315268" PosY="10876.3" PosZ="-262165" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33591" Name="Cal_WandererGargoyle_Boss_068" PosX="-315955" PosY="10892.5" PosZ="-261939" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33592" Name="Cal_WandererGargoyle_Boss_069" PosX="-316426" PosY="10945.4" PosZ="-262671" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33593" Name="Cal_WandererGargoyle_Boss_070" PosX="-316686" PosY="11010.9" PosZ="-263487" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33594" Name="Cal_WandererGargoyle_Boss_071" PosX="-316332" PosY="11130.1" PosZ="-264397" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33595" Name="Cal_WandererGargoyle_Boss_072" PosX="-315427" PosY="11390.5" PosZ="-265472" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33596" Name="Cal_WandererGargoyle_Boss_073" PosX="-314218" PosY="11757" PosZ="-266627" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33597" Name="Cal_WandererGargoyle_Boss_074" PosX="-313600" PosY="12019.3" PosZ="-268207" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33598" Name="Cal_WandererGargoyle_Boss_075" PosX="-313301" PosY="12295.9" PosZ="-269415" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33599" Name="Cal_WandererGargoyle_Boss_076" PosX="-313592" PosY="12461" PosZ="-270441" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33600" Name="Cal_WandererGargoyle_Boss_077" PosX="-314071" PosY="12609.4" PosZ="-270777" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33601" Name="Cal_WandererGargoyle_Boss_078" PosX="-314260" PosY="12991" PosZ="-271656" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33602" Name="Cal_WandererGargoyle_Boss_079" PosX="-314406" PosY="13378.1" PosZ="-273133" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33603" Name="Cal_WandererGargoyle_Boss_080" PosX="-314540" PosY="13832.3" PosZ="-274283" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33604" Name="Cal_WandererGargoyle_Boss_081" PosX="-314659" PosY="14248.1" PosZ="-275283" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33605" Name="Cal_WandererGargoyle_Boss_082" PosX="-315167" PosY="14403.6" PosZ="-275688" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33606" Name="Cal_WandererGargoyle_Boss_083" PosX="-315800" PosY="14470.8" PosZ="-276436" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33607" Name="Cal_WandererGargoyle_Boss_084" PosX="-316215" PosY="14874.4" PosZ="-277281" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33608" Name="Cal_WandererGargoyle_Boss_085" PosX="-316889" PosY="15322.1" PosZ="-277925" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33609" Name="Cal_WandererGargoyle_Boss_086" PosX="-317319" PosY="15232.5" PosZ="-278336" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33610" Name="Cal_WandererGargoyle_Boss_087" PosX="-317953" PosY="15226.5" PosZ="-278484" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33611" Name="Cal_WandererGargoyle_Boss_088" PosX="-318388" PosY="15511" PosZ="-278633" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33612" Name="Cal_WandererGargoyle_Boss_089" PosX="-319126" PosY="15629.4" PosZ="-279083" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33613" Name="Cal_WandererGargoyle_Boss_090" PosX="-320198" PosY="15609.1" PosZ="-278247" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33614" Name="Cal_WandererGargoyle_Boss_091" PosX="-321204" PosY="15471.3" PosZ="-278369" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33615" Name="Cal_WandererGargoyle_Boss_092" PosX="-321632" PosY="15442.2" PosZ="-278533" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33616" Name="Cal_WandererGargoyle_Boss_093" PosX="-322068" PosY="15363.2" PosZ="-278522" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33617" Name="Cal_WandererGargoyle_Boss_094" PosX="-322971" PosY="15632.5" PosZ="-278379" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33618" Name="Cal_WandererGargoyle_Boss_095" PosX="-323816" PosY="15734.2" PosZ="-278219" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33619" Name="Cal_WandererGargoyle_Boss_096" PosX="-325075" PosY="15724.3" PosZ="-278176" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33620" Name="Cal_WandererGargoyle_Boss_097" PosX="-325825" PosY="15685.9" PosZ="-278214" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33621" Name="Cal_WandererGargoyle_Boss_098" PosX="-326675" PosY="15735.4" PosZ="-278191" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33622" Name="Cal_WandererGargoyle_Boss_099" PosX="-327427" PosY="15534.7" PosZ="-277569" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33623" Name="Cal_WandererGargoyle_Boss_100" PosX="-327687" PosY="15229.9" PosZ="-276938" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33624" Name="Cal_WandererGargoyle_Boss_101" PosX="-328471" PosY="14737.3" PosZ="-275925" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33625" Name="Cal_WandererGargoyle_Boss_102" PosX="-329729" PosY="14172.9" PosZ="-274752" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33626" Name="Cal_WandererGargoyle_Boss_103" PosX="-330817" PosY="13889.6" PosZ="-274340" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33627" Name="Cal_WandererGargoyle_Boss_104" PosX="-332206" PosY="13533.4" PosZ="-273903" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33628" Name="Cal_WandererGargoyle_Boss_105" PosX="-333749" PosY="13198.1" PosZ="-272814" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33629" Name="Cal_WandererGargoyle_Boss_106" PosX="-334640" PosY="13011.9" PosZ="-272353" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33630" Name="Cal_WandererGargoyle_Boss_107" PosX="-335922" PosY="12729.4" PosZ="-271640" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33631" Name="Cal_WandererGargoyle_Boss_108" PosX="-337327" PosY="13241.3" PosZ="-270943" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33632" Name="Cal_WandererGargoyle_Boss_109" PosX="-338003" PosY="12889.7" PosZ="-272105" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33633" Name="Cal_WandererGargoyle_Boss_110" PosX="-338746" PosY="13213.5" PosZ="-272930" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33634" Name="Cal_WandererGargoyle_Boss_111" PosX="-340260" PosY="13533.6" PosZ="-274360" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33635" Name="Cal_WandererGargoyle_Boss_112" PosX="-341500" PosY="14279.7" PosZ="-275270" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33636" Name="Cal_WandererGargoyle_Boss_113" PosX="-342762" PosY="14690" PosZ="-276006" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33637" Name="Cal_WandererGargoyle_Boss_114" PosX="-344387" PosY="14979.7" PosZ="-276555" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33638" Name="Cal_WandererGargoyle_Boss_115" PosX="-346342" PosY="15289.2" PosZ="-276727" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33639" Name="Cal_WandererGargoyle_Boss_116" PosX="-347394" PosY="15263.5" PosZ="-276472" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33640" Name="Cal_WandererGargoyle_Boss_117" PosX="-348524" PosY="15259.9" PosZ="-276132" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33641" Name="Cal_WandererGargoyle_Boss_118" PosX="-349987" PosY="14928.9" PosZ="-275418" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33642" Name="Cal_WandererGargoyle_Boss_119" PosX="-352695" PosY="15034.7" PosZ="-274288" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33643" Name="Cal_WandererGargoyle_Boss_120" PosX="-353978" PosY="14395.8" PosZ="-272524" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33644" Name="Cal_WandererGargoyle_Boss_121" PosX="-354286" PosY="13946.4" PosZ="-271389" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33645" Name="Cal_WandererGargoyle_Boss_122" PosX="-354647" PosY="13702.1" PosZ="-270410" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33646" Name="Cal_WandererGargoyle_Boss_123" PosX="-355819" PosY="13506.2" PosZ="-269192" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33647" Name="Cal_WandererGargoyle_Boss_124" PosX="-356784" PosY="13290.4" PosZ="-267907" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33648" Name="Cal_WandererGargoyle_Boss_125" PosX="-357722" PosY="12949.5" PosZ="-265703" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33649" Name="Cal_WandererGargoyle_Boss_126" PosX="-358595" PosY="13130.9" PosZ="-263296" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33650" Name="Cal_WandererGargoyle_Boss_127" PosX="-357367" PosY="13143.4" PosZ="-261870" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33651" Name="Cal_WandererGargoyle_Boss_128" PosX="-356447" PosY="13099.6" PosZ="-260445" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33652" Name="Cal_WandererGargoyle_Boss_129" PosX="-355878" PosY="13068.2" PosZ="-259121" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33653" Name="Cal_WandererGargoyle_Boss_130" PosX="-355655" PosY="13007.7" PosZ="-258344" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33654" Name="Cal_WandererGargoyle_Boss_131" PosX="-355479" PosY="13005.5" PosZ="-257612" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33655" Name="Cal_WandererGargoyle_Boss_132" PosX="-355386" PosY="13088.5" PosZ="-256961" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33656" Name="Cal_WandererGargoyle_Boss_133" PosX="-356681" PosY="12883.8" PosZ="-255685" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33657" Name="Cal_WandererGargoyle_Boss_134" PosX="-357630" PosY="12642.2" PosZ="-253560" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33658" Name="Cal_WandererGargoyle_Boss_135" PosX="-358201" PosY="12613.3" PosZ="-252520" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33659" Name="Cal_WandererGargoyle_Boss_136" PosX="-359561" PosY="12590.7" PosZ="-251096" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33660" Name="Cal_WandererGargoyle_Boss_137" PosX="-360420" PosY="12600.1" PosZ="-249987" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33661" Name="Cal_WandererGargoyle_Boss_138" PosX="-361219" PosY="12643.7" PosZ="-249202" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33662" Name="Cal_WandererGargoyle_Boss_139" PosX="-361596" PosY="12805.1" PosZ="-248557" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33663" Name="Cal_WandererGargoyle_Boss_140" PosX="-364683" PosY="12601.1" PosZ="-248134" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33664" Name="Cal_WandererGargoyle_Boss_141" PosX="-366630" PosY="12652.7" PosZ="-247661" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33665" Name="Cal_WandererGargoyle_Boss_142" PosX="-367326" PosY="12858.2" PosZ="-246815" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33666" Name="Cal_WandererGargoyle_Boss_143" PosX="-367434" PosY="12745.2" PosZ="-245789" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33667" Name="Cal_WandererGargoyle_Boss_144" PosX="-367658" PosY="12463.7" PosZ="-244674" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33668" Name="Cal_WandererGargoyle_Boss_145" PosX="-368579" PosY="13101.1" PosZ="-243206" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33669" Name="Cal_WandererGargoyle_Boss_146" PosX="-369577" PosY="13304.5" PosZ="-242782" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33670" Name="Cal_WandererGargoyle_Boss_147" PosX="-370376" PosY="13600.1" PosZ="-242734" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33671" Name="Cal_WandererGargoyle_Boss_148" PosX="-371260" PosY="13794.2" PosZ="-243061" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33672" Name="Cal_WandererGargoyle_Boss_149" PosX="-371975" PosY="14044.9" PosZ="-243805" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33673" Name="Cal_WandererGargoyle_Boss_150" PosX="-372429" PosY="14159.3" PosZ="-244273" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33674" Name="Cal_WandererGargoyle_Boss_151" PosX="-372707" PosY="14218.8" PosZ="-244700" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33675" Name="Cal_WandererGargoyle_Boss_152" PosX="-372928" PosY="14559.4" PosZ="-245195" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33676" Name="Cal_WandererGargoyle_Boss_153" PosX="-372622" PosY="14245.1" PosZ="-245977" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33677" Name="Cal_WandererGargoyle_Boss_154" PosX="-372406" PosY="14020.7" PosZ="-246620" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33678" Name="Cal_WandererGargoyle_Boss_155" PosX="-372610" PosY="13838.8" PosZ="-247212" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33679" Name="Cal_WandererGargoyle_Boss_156" PosX="-373084" PosY="13815.3" PosZ="-247707" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33680" Name="Cal_WandererGargoyle_Boss_157" PosX="-374021" PosY="14268.8" PosZ="-248139" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33681" Name="Cal_WandererGargoyle_Boss_158" PosX="-374435" PosY="14251.5" PosZ="-249127" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33682" Name="Cal_WandererGargoyle_Boss_159" PosX="-374844" PosY="14555.7" PosZ="-249989" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33683" Name="Cal_WandererGargoyle_Boss_160" PosX="-375107" PosY="14777.5" PosZ="-250767" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33684" Name="Cal_WandererGargoyle_Boss_161" PosX="-375774" PosY="14946.3" PosZ="-251253" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33685" Name="Cal_WandererGargoyle_Boss_162" PosX="-375799" PosY="15376.1" PosZ="-252566" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33686" Name="Cal_WandererGargoyle_Boss_163" PosX="-375422" PosY="15200.7" PosZ="-253842" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33687" Name="Cal_WandererGargoyle_Boss_164" PosX="-374963" PosY="14875.9" PosZ="-255515" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33688" Name="Cal_WandererGargoyle_Boss_165" PosX="-373879" PosY="14673.5" PosZ="-256890" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33689" Name="Cal_WandererGargoyle_Boss_166" PosX="-372887" PosY="14743.9" PosZ="-258103" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33690" Name="Cal_WandererGargoyle_Boss_167" PosX="-372422" PosY="14744.7" PosZ="-258723" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33691" Name="Cal_WandererGargoyle_Boss_168" PosX="-371474" PosY="14747.8" PosZ="-259115" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33692" Name="Cal_WandererGargoyle_Boss_169" PosX="-371047" PosY="14965.5" PosZ="-259582" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33693" Name="Cal_WandererGargoyle_Boss_170" PosX="-369113" PosY="14457.5" PosZ="-260170" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33694" Name="Cal_WandererGargoyle_Boss_171" PosX="-368561" PosY="14487.5" PosZ="-261203" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33695" Name="Cal_WandererGargoyle_Boss_172" PosX="-367509" PosY="14098.2" PosZ="-261951" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33696" Name="Cal_WandererGargoyle_Boss_173" PosX="-366630" PosY="14013.5" PosZ="-263167" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33697" Name="Cal_WandererGargoyle_Boss_174" PosX="-365211" PosY="13655.8" PosZ="-263809" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33698" Name="Cal_WandererGargoyle_Boss_175" PosX="-364482" PosY="13561.3" PosZ="-264436" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33699" Name="Cal_WandererGargoyle_Boss_176" PosX="-363550" PosY="13422.8" PosZ="-264833" Property="air"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="33524" TargetWaypoint="33525"/>
+	<Link SourceWaypoint="33525" TargetWaypoint="33524"/>
+	<Link SourceWaypoint="33525" TargetWaypoint="33526"/>
+	<Link SourceWaypoint="33526" TargetWaypoint="33525"/>
+	<Link SourceWaypoint="33526" TargetWaypoint="33527"/>
+	<Link SourceWaypoint="33527" TargetWaypoint="33526"/>
+	<Link SourceWaypoint="33527" TargetWaypoint="33528"/>
+	<Link SourceWaypoint="33528" TargetWaypoint="33527"/>
+	<Link SourceWaypoint="33528" TargetWaypoint="33529"/>
+	<Link SourceWaypoint="33529" TargetWaypoint="33528"/>
+	<Link SourceWaypoint="33529" TargetWaypoint="33530"/>
+	<Link SourceWaypoint="33530" TargetWaypoint="33529"/>
+	<Link SourceWaypoint="33530" TargetWaypoint="33531"/>
+	<Link SourceWaypoint="33531" TargetWaypoint="33530"/>
+	<Link SourceWaypoint="33531" TargetWaypoint="33532"/>
+	<Link SourceWaypoint="33532" TargetWaypoint="33531"/>
+	<Link SourceWaypoint="33532" TargetWaypoint="33533"/>
+	<Link SourceWaypoint="33533" TargetWaypoint="33532"/>
+	<Link SourceWaypoint="33533" TargetWaypoint="33534"/>
+	<Link SourceWaypoint="33534" TargetWaypoint="33533"/>
+	<Link SourceWaypoint="33534" TargetWaypoint="33535"/>
+	<Link SourceWaypoint="33534" TargetWaypoint="33699"/>
+	<Link SourceWaypoint="33535" TargetWaypoint="33534"/>
+	<Link SourceWaypoint="33535" TargetWaypoint="33536"/>
+	<Link SourceWaypoint="33536" TargetWaypoint="33535"/>
+	<Link SourceWaypoint="33536" TargetWaypoint="33537"/>
+	<Link SourceWaypoint="33537" TargetWaypoint="33536"/>
+	<Link SourceWaypoint="33537" TargetWaypoint="33538"/>
+	<Link SourceWaypoint="33538" TargetWaypoint="33537"/>
+	<Link SourceWaypoint="33538" TargetWaypoint="33539"/>
+	<Link SourceWaypoint="33539" TargetWaypoint="33538"/>
+	<Link SourceWaypoint="33539" TargetWaypoint="33540"/>
+	<Link SourceWaypoint="33540" TargetWaypoint="33539"/>
+	<Link SourceWaypoint="33540" TargetWaypoint="33541"/>
+	<Link SourceWaypoint="33541" TargetWaypoint="33540"/>
+	<Link SourceWaypoint="33541" TargetWaypoint="33542"/>
+	<Link SourceWaypoint="33542" TargetWaypoint="33541"/>
+	<Link SourceWaypoint="33542" TargetWaypoint="33543"/>
+	<Link SourceWaypoint="33543" TargetWaypoint="33542"/>
+	<Link SourceWaypoint="33543" TargetWaypoint="33544"/>
+	<Link SourceWaypoint="33544" TargetWaypoint="33543"/>
+	<Link SourceWaypoint="33544" TargetWaypoint="33545"/>
+	<Link SourceWaypoint="33545" TargetWaypoint="33544"/>
+	<Link SourceWaypoint="33545" TargetWaypoint="33546"/>
+	<Link SourceWaypoint="33546" TargetWaypoint="33545"/>
+	<Link SourceWaypoint="33546" TargetWaypoint="33547"/>
+	<Link SourceWaypoint="33547" TargetWaypoint="33546"/>
+	<Link SourceWaypoint="33547" TargetWaypoint="33548"/>
+	<Link SourceWaypoint="33548" TargetWaypoint="33547"/>
+	<Link SourceWaypoint="33548" TargetWaypoint="33549"/>
+	<Link SourceWaypoint="33549" TargetWaypoint="33548"/>
+	<Link SourceWaypoint="33549" TargetWaypoint="33550"/>
+	<Link SourceWaypoint="33550" TargetWaypoint="33549"/>
+	<Link SourceWaypoint="33550" TargetWaypoint="33551"/>
+	<Link SourceWaypoint="33551" TargetWaypoint="33550"/>
+	<Link SourceWaypoint="33551" TargetWaypoint="33552"/>
+	<Link SourceWaypoint="33552" TargetWaypoint="33551"/>
+	<Link SourceWaypoint="33552" TargetWaypoint="33553"/>
+	<Link SourceWaypoint="33553" TargetWaypoint="33552"/>
+	<Link SourceWaypoint="33553" TargetWaypoint="33554"/>
+	<Link SourceWaypoint="33554" TargetWaypoint="33553"/>
+	<Link SourceWaypoint="33554" TargetWaypoint="33555"/>
+	<Link SourceWaypoint="33555" TargetWaypoint="33554"/>
+	<Link SourceWaypoint="33555" TargetWaypoint="33556"/>
+	<Link SourceWaypoint="33556" TargetWaypoint="33555"/>
+	<Link SourceWaypoint="33556" TargetWaypoint="33557"/>
+	<Link SourceWaypoint="33557" TargetWaypoint="33556"/>
+	<Link SourceWaypoint="33557" TargetWaypoint="33558"/>
+	<Link SourceWaypoint="33558" TargetWaypoint="33557"/>
+	<Link SourceWaypoint="33558" TargetWaypoint="33559"/>
+	<Link SourceWaypoint="33559" TargetWaypoint="33558"/>
+	<Link SourceWaypoint="33559" TargetWaypoint="33560"/>
+	<Link SourceWaypoint="33560" TargetWaypoint="33559"/>
+	<Link SourceWaypoint="33560" TargetWaypoint="33561"/>
+	<Link SourceWaypoint="33561" TargetWaypoint="33560"/>
+	<Link SourceWaypoint="33561" TargetWaypoint="33562"/>
+	<Link SourceWaypoint="33562" TargetWaypoint="33561"/>
+	<Link SourceWaypoint="33562" TargetWaypoint="33563"/>
+	<Link SourceWaypoint="33563" TargetWaypoint="33562"/>
+	<Link SourceWaypoint="33563" TargetWaypoint="33564"/>
+	<Link SourceWaypoint="33564" TargetWaypoint="33563"/>
+	<Link SourceWaypoint="33564" TargetWaypoint="33565"/>
+	<Link SourceWaypoint="33565" TargetWaypoint="33564"/>
+	<Link SourceWaypoint="33565" TargetWaypoint="33566"/>
+	<Link SourceWaypoint="33566" TargetWaypoint="33565"/>
+	<Link SourceWaypoint="33566" TargetWaypoint="33567"/>
+	<Link SourceWaypoint="33567" TargetWaypoint="33566"/>
+	<Link SourceWaypoint="33567" TargetWaypoint="33568"/>
+	<Link SourceWaypoint="33568" TargetWaypoint="33567"/>
+	<Link SourceWaypoint="33568" TargetWaypoint="33569"/>
+	<Link SourceWaypoint="33569" TargetWaypoint="33568"/>
+	<Link SourceWaypoint="33569" TargetWaypoint="33570"/>
+	<Link SourceWaypoint="33570" TargetWaypoint="33569"/>
+	<Link SourceWaypoint="33570" TargetWaypoint="33571"/>
+	<Link SourceWaypoint="33571" TargetWaypoint="33570"/>
+	<Link SourceWaypoint="33571" TargetWaypoint="33572"/>
+	<Link SourceWaypoint="33572" TargetWaypoint="33571"/>
+	<Link SourceWaypoint="33572" TargetWaypoint="33573"/>
+	<Link SourceWaypoint="33573" TargetWaypoint="33572"/>
+	<Link SourceWaypoint="33573" TargetWaypoint="33574"/>
+	<Link SourceWaypoint="33574" TargetWaypoint="33573"/>
+	<Link SourceWaypoint="33574" TargetWaypoint="33575"/>
+	<Link SourceWaypoint="33575" TargetWaypoint="33574"/>
+	<Link SourceWaypoint="33575" TargetWaypoint="33576"/>
+	<Link SourceWaypoint="33576" TargetWaypoint="33575"/>
+	<Link SourceWaypoint="33576" TargetWaypoint="33577"/>
+	<Link SourceWaypoint="33577" TargetWaypoint="33576"/>
+	<Link SourceWaypoint="33577" TargetWaypoint="33578"/>
+	<Link SourceWaypoint="33578" TargetWaypoint="33577"/>
+	<Link SourceWaypoint="33578" TargetWaypoint="33579"/>
+	<Link SourceWaypoint="33579" TargetWaypoint="33578"/>
+	<Link SourceWaypoint="33579" TargetWaypoint="33580"/>
+	<Link SourceWaypoint="33580" TargetWaypoint="33579"/>
+	<Link SourceWaypoint="33580" TargetWaypoint="33581"/>
+	<Link SourceWaypoint="33581" TargetWaypoint="33580"/>
+	<Link SourceWaypoint="33581" TargetWaypoint="33582"/>
+	<Link SourceWaypoint="33582" TargetWaypoint="33581"/>
+	<Link SourceWaypoint="33582" TargetWaypoint="33583"/>
+	<Link SourceWaypoint="33583" TargetWaypoint="33582"/>
+	<Link SourceWaypoint="33583" TargetWaypoint="33584"/>
+	<Link SourceWaypoint="33584" TargetWaypoint="33583"/>
+	<Link SourceWaypoint="33584" TargetWaypoint="33585"/>
+	<Link SourceWaypoint="33585" TargetWaypoint="33584"/>
+	<Link SourceWaypoint="33585" TargetWaypoint="33586"/>
+	<Link SourceWaypoint="33586" TargetWaypoint="33585"/>
+	<Link SourceWaypoint="33586" TargetWaypoint="33587"/>
+	<Link SourceWaypoint="33587" TargetWaypoint="33586"/>
+	<Link SourceWaypoint="33587" TargetWaypoint="33588"/>
+	<Link SourceWaypoint="33588" TargetWaypoint="33587"/>
+	<Link SourceWaypoint="33588" TargetWaypoint="33589"/>
+	<Link SourceWaypoint="33589" TargetWaypoint="33588"/>
+	<Link SourceWaypoint="33589" TargetWaypoint="33590"/>
+	<Link SourceWaypoint="33590" TargetWaypoint="33589"/>
+	<Link SourceWaypoint="33590" TargetWaypoint="33591"/>
+	<Link SourceWaypoint="33591" TargetWaypoint="33590"/>
+	<Link SourceWaypoint="33591" TargetWaypoint="33592"/>
+	<Link SourceWaypoint="33592" TargetWaypoint="33591"/>
+	<Link SourceWaypoint="33592" TargetWaypoint="33593"/>
+	<Link SourceWaypoint="33593" TargetWaypoint="33592"/>
+	<Link SourceWaypoint="33593" TargetWaypoint="33594"/>
+	<Link SourceWaypoint="33594" TargetWaypoint="33593"/>
+	<Link SourceWaypoint="33594" TargetWaypoint="33595"/>
+	<Link SourceWaypoint="33595" TargetWaypoint="33594"/>
+	<Link SourceWaypoint="33595" TargetWaypoint="33596"/>
+	<Link SourceWaypoint="33596" TargetWaypoint="33595"/>
+	<Link SourceWaypoint="33596" TargetWaypoint="33597"/>
+	<Link SourceWaypoint="33597" TargetWaypoint="33596"/>
+	<Link SourceWaypoint="33597" TargetWaypoint="33598"/>
+	<Link SourceWaypoint="33598" TargetWaypoint="33597"/>
+	<Link SourceWaypoint="33598" TargetWaypoint="33599"/>
+	<Link SourceWaypoint="33599" TargetWaypoint="33598"/>
+	<Link SourceWaypoint="33599" TargetWaypoint="33600"/>
+	<Link SourceWaypoint="33600" TargetWaypoint="33599"/>
+	<Link SourceWaypoint="33600" TargetWaypoint="33601"/>
+	<Link SourceWaypoint="33601" TargetWaypoint="33600"/>
+	<Link SourceWaypoint="33601" TargetWaypoint="33602"/>
+	<Link SourceWaypoint="33602" TargetWaypoint="33601"/>
+	<Link SourceWaypoint="33602" TargetWaypoint="33603"/>
+	<Link SourceWaypoint="33603" TargetWaypoint="33602"/>
+	<Link SourceWaypoint="33603" TargetWaypoint="33604"/>
+	<Link SourceWaypoint="33604" TargetWaypoint="33603"/>
+	<Link SourceWaypoint="33604" TargetWaypoint="33605"/>
+	<Link SourceWaypoint="33605" TargetWaypoint="33604"/>
+	<Link SourceWaypoint="33605" TargetWaypoint="33606"/>
+	<Link SourceWaypoint="33606" TargetWaypoint="33605"/>
+	<Link SourceWaypoint="33606" TargetWaypoint="33607"/>
+	<Link SourceWaypoint="33607" TargetWaypoint="33606"/>
+	<Link SourceWaypoint="33607" TargetWaypoint="33608"/>
+	<Link SourceWaypoint="33608" TargetWaypoint="33607"/>
+	<Link SourceWaypoint="33608" TargetWaypoint="33609"/>
+	<Link SourceWaypoint="33609" TargetWaypoint="33608"/>
+	<Link SourceWaypoint="33609" TargetWaypoint="33610"/>
+	<Link SourceWaypoint="33610" TargetWaypoint="33609"/>
+	<Link SourceWaypoint="33610" TargetWaypoint="33611"/>
+	<Link SourceWaypoint="33611" TargetWaypoint="33610"/>
+	<Link SourceWaypoint="33611" TargetWaypoint="33612"/>
+	<Link SourceWaypoint="33612" TargetWaypoint="33611"/>
+	<Link SourceWaypoint="33612" TargetWaypoint="33613"/>
+	<Link SourceWaypoint="33613" TargetWaypoint="33612"/>
+	<Link SourceWaypoint="33613" TargetWaypoint="33614"/>
+	<Link SourceWaypoint="33614" TargetWaypoint="33613"/>
+	<Link SourceWaypoint="33614" TargetWaypoint="33615"/>
+	<Link SourceWaypoint="33615" TargetWaypoint="33614"/>
+	<Link SourceWaypoint="33615" TargetWaypoint="33616"/>
+	<Link SourceWaypoint="33616" TargetWaypoint="33615"/>
+	<Link SourceWaypoint="33616" TargetWaypoint="33617"/>
+	<Link SourceWaypoint="33617" TargetWaypoint="33616"/>
+	<Link SourceWaypoint="33617" TargetWaypoint="33618"/>
+	<Link SourceWaypoint="33618" TargetWaypoint="33617"/>
+	<Link SourceWaypoint="33618" TargetWaypoint="33619"/>
+	<Link SourceWaypoint="33619" TargetWaypoint="33618"/>
+	<Link SourceWaypoint="33619" TargetWaypoint="33620"/>
+	<Link SourceWaypoint="33620" TargetWaypoint="33619"/>
+	<Link SourceWaypoint="33620" TargetWaypoint="33621"/>
+	<Link SourceWaypoint="33621" TargetWaypoint="33620"/>
+	<Link SourceWaypoint="33621" TargetWaypoint="33622"/>
+	<Link SourceWaypoint="33622" TargetWaypoint="33621"/>
+	<Link SourceWaypoint="33622" TargetWaypoint="33623"/>
+	<Link SourceWaypoint="33623" TargetWaypoint="33622"/>
+	<Link SourceWaypoint="33623" TargetWaypoint="33624"/>
+	<Link SourceWaypoint="33624" TargetWaypoint="33623"/>
+	<Link SourceWaypoint="33624" TargetWaypoint="33625"/>
+	<Link SourceWaypoint="33625" TargetWaypoint="33624"/>
+	<Link SourceWaypoint="33625" TargetWaypoint="33626"/>
+	<Link SourceWaypoint="33626" TargetWaypoint="33625"/>
+	<Link SourceWaypoint="33626" TargetWaypoint="33627"/>
+	<Link SourceWaypoint="33627" TargetWaypoint="33626"/>
+	<Link SourceWaypoint="33627" TargetWaypoint="33628"/>
+	<Link SourceWaypoint="33628" TargetWaypoint="33627"/>
+	<Link SourceWaypoint="33628" TargetWaypoint="33629"/>
+	<Link SourceWaypoint="33629" TargetWaypoint="33628"/>
+	<Link SourceWaypoint="33629" TargetWaypoint="33630"/>
+	<Link SourceWaypoint="33630" TargetWaypoint="33629"/>
+	<Link SourceWaypoint="33630" TargetWaypoint="33631"/>
+	<Link SourceWaypoint="33631" TargetWaypoint="33630"/>
+	<Link SourceWaypoint="33631" TargetWaypoint="33632"/>
+	<Link SourceWaypoint="33632" TargetWaypoint="33631"/>
+	<Link SourceWaypoint="33632" TargetWaypoint="33633"/>
+	<Link SourceWaypoint="33633" TargetWaypoint="33632"/>
+	<Link SourceWaypoint="33633" TargetWaypoint="33634"/>
+	<Link SourceWaypoint="33634" TargetWaypoint="33633"/>
+	<Link SourceWaypoint="33634" TargetWaypoint="33635"/>
+	<Link SourceWaypoint="33635" TargetWaypoint="33634"/>
+	<Link SourceWaypoint="33635" TargetWaypoint="33636"/>
+	<Link SourceWaypoint="33636" TargetWaypoint="33635"/>
+	<Link SourceWaypoint="33636" TargetWaypoint="33637"/>
+	<Link SourceWaypoint="33637" TargetWaypoint="33636"/>
+	<Link SourceWaypoint="33637" TargetWaypoint="33638"/>
+	<Link SourceWaypoint="33638" TargetWaypoint="33637"/>
+	<Link SourceWaypoint="33638" TargetWaypoint="33639"/>
+	<Link SourceWaypoint="33639" TargetWaypoint="33638"/>
+	<Link SourceWaypoint="33639" TargetWaypoint="33640"/>
+	<Link SourceWaypoint="33640" TargetWaypoint="33639"/>
+	<Link SourceWaypoint="33640" TargetWaypoint="33641"/>
+	<Link SourceWaypoint="33641" TargetWaypoint="33640"/>
+	<Link SourceWaypoint="33641" TargetWaypoint="33642"/>
+	<Link SourceWaypoint="33642" TargetWaypoint="33641"/>
+	<Link SourceWaypoint="33642" TargetWaypoint="33643"/>
+	<Link SourceWaypoint="33643" TargetWaypoint="33642"/>
+	<Link SourceWaypoint="33643" TargetWaypoint="33644"/>
+	<Link SourceWaypoint="33644" TargetWaypoint="33643"/>
+	<Link SourceWaypoint="33644" TargetWaypoint="33645"/>
+	<Link SourceWaypoint="33645" TargetWaypoint="33644"/>
+	<Link SourceWaypoint="33645" TargetWaypoint="33646"/>
+	<Link SourceWaypoint="33646" TargetWaypoint="33645"/>
+	<Link SourceWaypoint="33646" TargetWaypoint="33647"/>
+	<Link SourceWaypoint="33647" TargetWaypoint="33646"/>
+	<Link SourceWaypoint="33647" TargetWaypoint="33648"/>
+	<Link SourceWaypoint="33648" TargetWaypoint="33647"/>
+	<Link SourceWaypoint="33648" TargetWaypoint="33649"/>
+	<Link SourceWaypoint="33649" TargetWaypoint="33648"/>
+	<Link SourceWaypoint="33649" TargetWaypoint="33650"/>
+	<Link SourceWaypoint="33650" TargetWaypoint="33649"/>
+	<Link SourceWaypoint="33650" TargetWaypoint="33651"/>
+	<Link SourceWaypoint="33651" TargetWaypoint="33650"/>
+	<Link SourceWaypoint="33651" TargetWaypoint="33652"/>
+	<Link SourceWaypoint="33652" TargetWaypoint="33651"/>
+	<Link SourceWaypoint="33652" TargetWaypoint="33653"/>
+	<Link SourceWaypoint="33653" TargetWaypoint="33652"/>
+	<Link SourceWaypoint="33653" TargetWaypoint="33654"/>
+	<Link SourceWaypoint="33654" TargetWaypoint="33653"/>
+	<Link SourceWaypoint="33654" TargetWaypoint="33655"/>
+	<Link SourceWaypoint="33655" TargetWaypoint="33654"/>
+	<Link SourceWaypoint="33655" TargetWaypoint="33656"/>
+	<Link SourceWaypoint="33656" TargetWaypoint="33655"/>
+	<Link SourceWaypoint="33656" TargetWaypoint="33657"/>
+	<Link SourceWaypoint="33657" TargetWaypoint="33656"/>
+	<Link SourceWaypoint="33657" TargetWaypoint="33658"/>
+	<Link SourceWaypoint="33658" TargetWaypoint="33657"/>
+	<Link SourceWaypoint="33658" TargetWaypoint="33659"/>
+	<Link SourceWaypoint="33659" TargetWaypoint="33658"/>
+	<Link SourceWaypoint="33659" TargetWaypoint="33660"/>
+	<Link SourceWaypoint="33660" TargetWaypoint="33659"/>
+	<Link SourceWaypoint="33660" TargetWaypoint="33661"/>
+	<Link SourceWaypoint="33661" TargetWaypoint="33660"/>
+	<Link SourceWaypoint="33661" TargetWaypoint="33662"/>
+	<Link SourceWaypoint="33662" TargetWaypoint="33661"/>
+	<Link SourceWaypoint="33662" TargetWaypoint="33663"/>
+	<Link SourceWaypoint="33663" TargetWaypoint="33662"/>
+	<Link SourceWaypoint="33663" TargetWaypoint="33664"/>
+	<Link SourceWaypoint="33664" TargetWaypoint="33663"/>
+	<Link SourceWaypoint="33664" TargetWaypoint="33665"/>
+	<Link SourceWaypoint="33665" TargetWaypoint="33664"/>
+	<Link SourceWaypoint="33665" TargetWaypoint="33666"/>
+	<Link SourceWaypoint="33666" TargetWaypoint="33665"/>
+	<Link SourceWaypoint="33666" TargetWaypoint="33667"/>
+	<Link SourceWaypoint="33667" TargetWaypoint="33666"/>
+	<Link SourceWaypoint="33667" TargetWaypoint="33668"/>
+	<Link SourceWaypoint="33668" TargetWaypoint="33667"/>
+	<Link SourceWaypoint="33668" TargetWaypoint="33669"/>
+	<Link SourceWaypoint="33669" TargetWaypoint="33668"/>
+	<Link SourceWaypoint="33669" TargetWaypoint="33670"/>
+	<Link SourceWaypoint="33670" TargetWaypoint="33669"/>
+	<Link SourceWaypoint="33670" TargetWaypoint="33671"/>
+	<Link SourceWaypoint="33671" TargetWaypoint="33670"/>
+	<Link SourceWaypoint="33671" TargetWaypoint="33672"/>
+	<Link SourceWaypoint="33672" TargetWaypoint="33671"/>
+	<Link SourceWaypoint="33672" TargetWaypoint="33673"/>
+	<Link SourceWaypoint="33673" TargetWaypoint="33672"/>
+	<Link SourceWaypoint="33673" TargetWaypoint="33674"/>
+	<Link SourceWaypoint="33674" TargetWaypoint="33673"/>
+	<Link SourceWaypoint="33674" TargetWaypoint="33675"/>
+	<Link SourceWaypoint="33675" TargetWaypoint="33674"/>
+	<Link SourceWaypoint="33675" TargetWaypoint="33676"/>
+	<Link SourceWaypoint="33676" TargetWaypoint="33675"/>
+	<Link SourceWaypoint="33676" TargetWaypoint="33677"/>
+	<Link SourceWaypoint="33677" TargetWaypoint="33676"/>
+	<Link SourceWaypoint="33677" TargetWaypoint="33678"/>
+	<Link SourceWaypoint="33678" TargetWaypoint="33677"/>
+	<Link SourceWaypoint="33678" TargetWaypoint="33679"/>
+	<Link SourceWaypoint="33679" TargetWaypoint="33678"/>
+	<Link SourceWaypoint="33679" TargetWaypoint="33680"/>
+	<Link SourceWaypoint="33680" TargetWaypoint="33679"/>
+	<Link SourceWaypoint="33680" TargetWaypoint="33681"/>
+	<Link SourceWaypoint="33681" TargetWaypoint="33680"/>
+	<Link SourceWaypoint="33681" TargetWaypoint="33682"/>
+	<Link SourceWaypoint="33682" TargetWaypoint="33681"/>
+	<Link SourceWaypoint="33682" TargetWaypoint="33683"/>
+	<Link SourceWaypoint="33683" TargetWaypoint="33682"/>
+	<Link SourceWaypoint="33683" TargetWaypoint="33684"/>
+	<Link SourceWaypoint="33684" TargetWaypoint="33683"/>
+	<Link SourceWaypoint="33684" TargetWaypoint="33685"/>
+	<Link SourceWaypoint="33685" TargetWaypoint="33684"/>
+	<Link SourceWaypoint="33685" TargetWaypoint="33686"/>
+	<Link SourceWaypoint="33686" TargetWaypoint="33685"/>
+	<Link SourceWaypoint="33686" TargetWaypoint="33687"/>
+	<Link SourceWaypoint="33687" TargetWaypoint="33686"/>
+	<Link SourceWaypoint="33687" TargetWaypoint="33688"/>
+	<Link SourceWaypoint="33688" TargetWaypoint="33687"/>
+	<Link SourceWaypoint="33688" TargetWaypoint="33689"/>
+	<Link SourceWaypoint="33689" TargetWaypoint="33688"/>
+	<Link SourceWaypoint="33689" TargetWaypoint="33690"/>
+	<Link SourceWaypoint="33690" TargetWaypoint="33689"/>
+	<Link SourceWaypoint="33690" TargetWaypoint="33691"/>
+	<Link SourceWaypoint="33691" TargetWaypoint="33690"/>
+	<Link SourceWaypoint="33691" TargetWaypoint="33692"/>
+	<Link SourceWaypoint="33692" TargetWaypoint="33691"/>
+	<Link SourceWaypoint="33692" TargetWaypoint="33693"/>
+	<Link SourceWaypoint="33693" TargetWaypoint="33692"/>
+	<Link SourceWaypoint="33693" TargetWaypoint="33694"/>
+	<Link SourceWaypoint="33694" TargetWaypoint="33693"/>
+	<Link SourceWaypoint="33694" TargetWaypoint="33695"/>
+	<Link SourceWaypoint="33695" TargetWaypoint="33694"/>
+	<Link SourceWaypoint="33695" TargetWaypoint="33696"/>
+	<Link SourceWaypoint="33696" TargetWaypoint="33695"/>
+	<Link SourceWaypoint="33696" TargetWaypoint="33697"/>
+	<Link SourceWaypoint="33697" TargetWaypoint="33696"/>
+	<Link SourceWaypoint="33697" TargetWaypoint="33698"/>
+	<Link SourceWaypoint="33698" TargetWaypoint="33697"/>
+	<Link SourceWaypoint="33698" TargetWaypoint="33699"/>
+	<Link SourceWaypoint="33699" TargetWaypoint="33698"/>
+	<Link SourceWaypoint="33699" TargetWaypoint="33534"/>
+</LinkList>
+<GroupList>
+	<Group Key="164" Name="WandererGargoyle_Boss"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

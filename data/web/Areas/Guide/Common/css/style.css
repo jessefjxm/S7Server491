@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+#wrap { position: relative; width: 890px; background: url(../img/bg.png) no-repeat; box-sizing: border-box; }
+#wrap.detail { background: url(../img/bg2.png) no-repeat; }
+
+.titArea div { color: #5a311d; position: relative; }
+.titArea div.text { text-align: center; padding-top: 75px; }
+.titArea div.text > div { display: inline-block; text-align: left; position: relative; top: 16px; }
+.titArea div.text img { height: 120px; }
+.titArea div.text span { font-size: 30px; line-height: 45px; }
+.titArea div.text span:last-child { font-size: 25px; line-height: 25px; }
+.titArea > div:last-child { font-size: 20px; line-height: 20px; text-align: center; }
+.titArea > div > div { text-align: left; display: inline-block; }
+
+.main nav { position: absolute; top: 258px; left: 50%; width: 617px; height: 345px; margin-left: -308.5px; background: rgba(25,10,0,.7); border: 1px solid rgba(162,152,137,.8); box-sizing: border-box; }
+.main nav ul { height: 100%; }
+.main nav li { float: left; width: 25%; height: 33.3333%; border-top: 1px solid rgba(162,152,137,.8); border-left: 1px solid rgba(162,152,137,.8); text-align: center; box-sizing: border-box; }
+.main nav li:nth-child(-n+4) { border-top: 0; }
+.main nav li:nth-child(4n+1) { border-left: 0; }
+.main nav li a { display: block; position: relative; height: 100%; padding-top: 6px; font-size: 11px; color: #ccc; box-sizing: border-box; }
+.main nav li a:hover:after { content: ""; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; border: 2px solid #f1c94d; background: url(../img/over_frame.png) no-repeat; background-size: cover; box-sizing: border-box; }
+.main nav li a span { display: block; padding-top: 15px; background: url(../img/txt_border.png) no-repeat center top; line-height: 1.2; }
+.main nav li a:before { content: ""; display: block; width: 100%; height: 50px; background: url(../img/spr_guide.png) no-repeat; }
+.main nav li .guide:before { background-position: 50% 10px; }
+.main nav li .calpheon:before { background-position: 50% -42px; }
+.main nav li .media:before { background-position: 50% -93px; }
+.main nav li .itemmarket:before { background-position: 50% -142px; }
+.main nav li .gather:before { background-position: 50% -190px; }
+.main nav li .manufacture:before { background-position: 50% -240px; }
+.main nav li .cook:before { background-position: 50% -285px; }
+.main nav li .alchemy:before { background-position: 50% -337px; }
+.main nav li .mating:before { background-position: 50% -392px; }
+.main nav li .trade:before { background-position: 50% -438px; }
+.main nav li .fish:before { background-position: 50% -490px; }
+.main nav li .hunt:before { background-position: 50% -538px; }
+
+.tabMenu { position: absolute; top: 74px; left: 50%; width: 804px; margin-left: -402px; }
+.tabMenu li { height: 24px; border: 1px solid #ada8a0; box-sizing: border-box; -webkit-box-basis: auto; -webkit-flex-basis: auto; -ms-flex-basis: auto; flex-basis: auto; -webkit-box-flex: 1; -moz-box-flex: 1; -webkit-flex: 1; -ms-flex: 1 0 auto; flex: 1; }
+.tabMenu li a { display: block; height: 100%; font-size: 12px; color: #a59c92; background: rgba(50,50,50,.8); text-align: center; letter-spacing: -0.075em; line-height: 22px; box-shadow: inset 0px 0px 10px 4px rgba(50, 34, 13, 0.75); -moz-box-shadow: inset 0px 0px 10px 4px rgba(50, 34, 13, 0.75); -webkit-box-shadow: inset 0px 0px 10px 4px rgba(50, 34, 13, 0.75); }
+.tabMenu li a:hover { -webkit-filter: brightness(150%); }
+.tabMenu li.current { border: 0; }
+.tabMenu li.current a { color: #57301c; background: rgba(161,123,74,.9) url(../img/bg_tab_menu.png) no-repeat; line-height: 24px; box-shadow: inset 0px 0px 2px 2px rgba(255, 247, 22, 0.75); -moz-box-shadow: inset 0px 0px 2px 2px rgba(255, 247, 22, 0.75); -webkit-box-shadow: inset 0px 0px 2px 2px rgba(255, 247, 22, 0.75); }
+.tabBox { overflow: hidden; position: absolute; top: 100px; left: 50%; width: 804px; height: 502px; margin-left: -402px; box-shadow: inset 0px 0px 2px 2px rgba(101, 59, 37, 0.75); -moz-box-shadow: inset 0px 0px 2px 2px rgba(101, 59, 37, 0.75); -webkit-box-shadow: inset 0px 0px 2px 2px rgba(101, 59, 37, 0.75); }
+.tabBox iframe { overflow-x: hidden; overflow-y: auto; width: 100%; height: 100%; border: 0; background-color: white; }
+
+.btnArea { position: absolute; top: 612px; left: 0; width: 100%; padding: 0 35px 0 30px; box-sizing: border-box; }
+.btnArea a { height: 25px; line-height: 25px; font-size: 14px; color: #5a311d; }
+.btnArea a:hover { -webkit-filter: brightness(150%); }
+.btnArea .btnClose { float: right; padding-left: 30px; background: url(../img/icon_close.png) no-repeat; }

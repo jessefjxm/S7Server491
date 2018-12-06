@@ -1,0 +1,26 @@
+// 
+// Decompiled by Procyon v0.5.30
+// 
+
+package com.bdoemu.core.network.sendable;
+
+import com.bdoemu.commons.network.SendByteBuffer;
+import com.bdoemu.commons.network.SendablePacket;
+import com.bdoemu.core.network.GameClient;
+import com.bdoemu.gameserver.model.creature.Creature;
+
+public class SMSetCharacterTeamAndGuild extends SendablePacket<GameClient> {
+    private final Creature creature;
+
+    public SMSetCharacterTeamAndGuild(final Creature creature) {
+        this.creature = creature;
+    }
+
+    protected void writeBody(final SendByteBuffer buffer) {
+        buffer.writeD(this.creature.getGameObjectId());
+        buffer.writeQ(this.creature.getPartyCache());
+        buffer.writeQ(this.creature.getGuildCache());
+        buffer.writeC(this.creature.getGuildMemberRankType().ordinal());
+        buffer.writeQ(this.creature.getCache());
+    }
+}

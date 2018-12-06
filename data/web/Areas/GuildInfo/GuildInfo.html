@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+
+
+    <style>
+
+        @font-face {
+            font-family: 'custom';
+            font-style: normal;
+            font-weight: 400;
+            src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+            url('/Common/font/naeu.woff') format('woff2'),
+            url('/Common/font/naeu.woff') format('woff'),
+            url('/Common/font/naeu.woff') format('truetype'),
+            local('나눔고딕'),
+            local('Arial');
+        }
+
+        @font-face {
+            font-family: 'custom bold';
+            font-style: normal;
+            /*font-weight: 700;*/
+            src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+            url('/Common/font/naeu.woff') format('woff2'),
+            url('/Common/font/naeu.woff') format('woff'),
+            url('/Common/font/naeu.woff') format('truetype'),
+            local('나눔고딕 Bold'),
+            local('Arial Black');
+        }
+    </style>
+
+
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+
+
+<script src="/Common/js/jquery-2.1.4.min.js"></script>
+<script src="/Common/js/coherent.js"></script>
+<script src="/Common/js/common.js"></script>
+<link href="/Common/css/common.css" rel="stylesheet"/>
+
+<script src="/Areas/GuildInfo/common/js/guildInformation.js"></script>
+<script src="/Areas/GuildInfo/common/js/index.js?v=1"></script>
+
+<link href="/Areas/GuildInfo/common/css/main.css?v=1" rel="stylesheet"/>
+
+<script>
+
+    $(function () {
+        // 로고
+        engine.on("eventGuildMarkComplete", function (guildNoRaw) {
+            $("#gulidLogo").attr("src", "coui://guildmark/100000000000000321.png");
+        });
+
+        // 거점명 가져오기
+        engine.on('FromClient_GetTerritoryName', function (key, areaName) {
+            $('#guildArea1 span').before('<img src="/Areas/GuildInfo/common/img/content/territorymark_' + key + '.png" style="top:4px" data-tooltip="' + areaName + '"/> ');
+            $('#guildArea1 span').text(areaName).attr('data-tooltip', areaName).attr('data-tooltip-position', 'bottom');
+        });
+
+        // 욕설 처리
+        engine.on('FromClient_GetFilteredText', function (id, str) {
+            if (id == 'comment')
+                saveComment(str);
+            if (id == 'mainAdmin')
+                saveGuildInfo(str);
+        });
+
+        // 지역명 가져오기
+        engine.on('FromClient_GetRegionName', function (key, areaName) {
+            var area2 = $('#guildArea2').text().split(',');
+            var region = session.guildInfoList[0].C_regionKey.split(',');
+
+            if (area2.length >= region.length)
+                $('#guildArea2').append(areaName).attr('data-tooltip', $('#guildArea2').text()).attr('data-tooltip-position', 'bottom');
+            else
+                $('#guildArea2').append(areaName + ', ');
+        });
+
+        // 캐릭터 정보 바인딩 TODO: 사용 안함 16.06.01
+        engine.on('FromClient_ResponseSelfplayerInfo', function (playServerNo, playUserId, playCharacterNo, playCharacterName) {
+            console.log('userId : ' + playUserId + ' / characterName : ' + playCharacterName);
+
+            session.userNickname = pearl.common.isEmpty(playUserId) ? session.userNickname : playUserId;
+            session.characterNo = pearl.common.isEmpty(playCharacterNo) ? session.characterNo : playCharacterNo;
+            session.characterName = pearl.common.isEmpty(playCharacterName) ? session.characterName : playCharacterName;
+        });
+    });
+
+    var isMaster = "true";
+    var isGM = "true";
+
+    var session = {
+        "userNo": 17,
+        "userNickname": "asdf",
+        "guildNo": 100000000000000321,
+        "guildLogo": null,
+        "guildName": "13212aadf",
+        "guildMasterName": "zkapfk",
+        "guildCount": 2,
+        "guildRegdate": "13212aadf",
+        "guildArea1": "13212aadf",
+        "guildArea2": "13212aadf",
+        "isMaster": "true",
+        "guildPoint": 962,
+        "certKey": "cfcd208495d565ef66e7dff9f98764da",
+        "isGM": "true",
+        "level": 50,
+        "characterNo": 100000000000001558,
+        "characterName": "영웅",
+        "classType": 16,
+        "territoryKey": null,
+        "regionKey": null,
+        "guildInfoList": []
+    };
+    session.guildNo = "100000000000000321";
+    session.userNo = "17";
+    session.characterNo = "100000000000001558";
+
+    $(document).ready(function (e) {
+        var arrayStr = {
+            'WEB_GUILDINFO_INTRO_TOOLTIP_JOINGUILD': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_GUILDMASTER': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_GUILDMEMBER': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_CREATEGUILD': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_SIEGEAREA': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_SIEGENODE': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_GUILDPOINT': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_BUTTON_MEMBERLIST': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_BUTTON_VIEWHISTORY': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_TAP_COMENT': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDMEMBERLIST': '',
+            'WEB_GUILDINFO_INTRO_TOOLTIP_TAP_WARHISTORY': '',
+            'WEB_GUILDINFO_INTRO_DEFAULT_TITLE_1': '',
+            'WEB_GUILDINFO_INTRO_DEFAULT_TITLE_2': '',
+            'WEB_GUILDINFO_INTRO_DEFAULT_ICON_1': '',
+            'WEB_GUILDINFO_INTRO_DEFAULT_ICON_2': '',
+            'WEB_GUILDINFO_INTRO_DEFAULT_ICON_3': '',
+            'WEB_GUILDINFO_INTRO_DEFAULT_ICON_4': '',
+            'WEB_GUILDINFO_INTRO_BUTTON_WRITE': '',
+            'WEB_GUILDINFO_INTRO_BUTTON_MODIFY': '',
+            'WEB_GUILDINFO_INTRO_WRITEERROR_ALERT': '',
+            'WEB_GUILDINFO_INTRO_WRITE_TITLE_1': '',
+            'WEB_GUILDINFO_INTRO_WRITE_TITLE_2': '',
+            'WEB_GUILDINFO_INTRO_WRITE_SUBTITLE_1': '',
+            'WEB_GUILDINFO_INTRO_WRITE_SUBTITLE_2': '',
+            'WEB_GUILDINFO_INTRO_WRITE_SUBTITLE_3': '',
+            'WEB_GUILDINFO_INTRO_WRITE_SUBTITLE_4': '',
+            'WEB_GUILDINFO_INTRO_WRITE_TEXT_1': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ADDFILE': '',
+            'WEB_GUILDINFO_INTRO_WRITE_TEXT_2': '',
+            'WEB_GUILDINFO_INTRO_WRITE_TEXT_3': '',
+            'WEB_GUILDINFO_INTRO_WRITE_FORM_YOUTUBE': '',
+            'WEB_GUILDINFO_INTRO_WRITE_TEXT_4': '',
+            'WEB_GUILDINFO_INTRO_WRITE_FORM_FACEBOOK': '',
+            'WEB_GUILDINFO_INTRO_WRITE_TEXT_5': '',
+            'WEB_GUILDINFO_INTRO_WRITE_BUTTON_SAVE': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_SAVE': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_SAVE_SUCCESS': '',
+            'WEB_GUILDINFO_COMENT_BUTTON_WRITE': '',
+            'WEB_GUILDINFO_COMENT_NAVI_LAST': '',
+            'WEB_GUILDINFO_COMENT_NAVI_FIRST': '',
+            'WEB_GUILDINFO_ERROR_TITLE': '',
+            'WEB_GUILDINFO_ERROR_TEXT': '',
+            'WEB_GUILDINFO_ERROR_BUTTON_BACK': '',
+            'WEB_GUILDINFO_MEMBER_TITLE': '',
+            'WEB_GUILDINFO_MEMBER_DUTY': '',
+            'WEB_GUILDINFO_MEMBER_LEVEL': '',
+            'WEB_GUILDINFO_MEMBER_CLASS': '',
+            'WEB_GUILDINFO_MEMBER_FAMILYNAME': '',
+            'WEB_GUILDINFO_MEMBER_CHANAME': '',
+            'WEB_GUILDINFO_MEMBER_ACTIVITY': '',
+            'WEB_GUILDINFO_MEMBER_JOINDATE': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_DESTROYFCG': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_ENEMYKILLCOUNT': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_DEATHCOUNT': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_KILLCOUNTHORSECANNON': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_WARRECORD': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_DETAIL': '',
+            'WEB_GUILDINFO_MEMBER_SECTION': '',
+            'WEB_GUILDINFO_MEMBER_TATALCOUNT': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_DESTROYCOMMANDPOST': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_DESTROYFORTRESS': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_DESTROYGATE': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_HELPCOUNT': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_MOUNTKILLED': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_DESTROYPLACEMENT': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_GUILDMASTERKILLED': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_GUILDOFFICERKILLED': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_GUILDMEMBERKILLED': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_MVP': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_WIN': '',
+            'WEB_GUILDINFO_MEMBER_TOOLTIP_CLOSE': '',
+            'WEB_GUILDINFO_WARHISTORY_TITLE': '',
+            'WEB_GUILDINFO_WARHISTORY_TOOLTIP_TERRITORYWAR': '',
+            'WEB_GUILDINFO_WARHISTORY_TOOLTIP_NODEWAR': '',
+            'WEB_GUILDINFO_WARHISTORY_TOOLTIP_ALLRECORD': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_TOTALWIN': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_TOTALSCORE': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_WEEK_MON': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_WEEK_TUE': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_WEEK_WED': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_WEEK_THU': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_WEEK_FRI': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_WEEK_SAT': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_WEEK_SUN': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_WRITE': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_WRITE_CANCEL': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_COMENT_DEL': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_COMENT_NODATA': '',
+            'WEB_GUILDINFO_BLIND_TITLE': '',
+            'WEB_GUILDINFO_BLIND_TEXT': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_ERROR_YOUTUBEURL': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_ERROR_FACEBOOKURL': '',
+            'WEB_GUILDINFO_WARHISTORY_TEXT_NODATA': '',
+            'WEB_GUILDINFO_ALERT_YES': '',
+            'WEB_GUILDINFO_ALERT_NO': '',
+            'WEB_GUILDINFO_COMENT_TEXT_COMENT': '',
+            'WEB_GUILDINFO_FORM_TEXT': '',
+            'WEB_GUILDINFO_FORM_TEXT_LIMIT': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ERROR_FILESIZE': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ERROR_FILEFORM': '',
+            'WEB_GUILDINFO_COMENT_NAVI_NEXT': '',
+            'WEB_GUILDINFO_INTRO_WRITE_IMAGEDELETE': '',
+            'WEB_GUILDINFO_INTRO_WRITE_BUTTON_RESET': '',
+            'WEB_GUILDINFO_INTRO_WRITE_ALERT_RESET': '',
+            'WEB_GUILDINFO_COMENT_NAVI_PREV': ''
+        }
+        pearl.common.openPage(arrayStr);
+
+        var data = {
+            "userNo": 17,
+            "userNickname": "asdf",
+            "guildNo": 100000000000000321,
+            "guildLogo": null,
+            "guildName": "13212aadf",
+            "guildMasterName": "zkapfk",
+            "guildCount": 2,
+            "guildRegdate": "13212aadf",
+            "guildArea1": "13212aadf",
+            "guildArea2": "13212aadf",
+            "isMaster": "true",
+            "guildPoint": 962,
+            "certKey": "cfcd208495d565ef66e7dff9f98764da",
+            "isGM": "true",
+            "level": 50,
+            "characterNo": 100000000000001558,
+            "characterName": "영웅",
+            "classType": 16,
+            "territoryKey": null,
+            "regionKey": null,
+            "guildInfoList": []
+        };
+
+        // 모델에서 받아온 길드정보로 재바인딩해서 사용
+        data.guildNo = "100000000000000321";
+        data.guildName = data.guildInfoList[0].C_guildName;
+        data.guildRegdate = pearl.string.dateFormat(data.guildInfoList[0].C_registerDate)
+        data.guildMasterName = data.guildInfoList[0].C_masterUserNickname;
+        data.guildPoint = data.guildInfoList[0].C_aquiredSkillPoint;
+        data.guildCount = data.guildInfoList[0].C_guildMember;
+        data.guildArea1 = data.guildInfoList[0].C_territoryKey;
+        data.guildArea2 = data.guildInfoList[0].C_regionKey;
+
+        init(data);
+
+        engine.call('ToClient_RequestSelfplayerInfo2').then(function (returnValue) {
+            console.log(JSON.stringify(returnValue));
+
+            session.userNo = pearl.common.isEmpty(returnValue._userNoStr) ? session.userNo : returnValue._userNoStr;
+            session.userNickname = pearl.common.isEmpty(returnValue._userNickName) ? session.userNickname : returnValue._userNickName;
+            session.characterNo = pearl.common.isEmpty(returnValue._characterNoStr) ? session.characterNo : returnValue._characterNoStr;
+            session.characterName = pearl.common.isEmpty(returnValue._characterName) ? session.characterName : returnValue._characterName;
+
+        });
+        pearl.common.closePage();
+
+    });
+</script>
+
+<div id="index">
+    <div class="container" id="container">
+        <div class="top">
+            <table class="guildInfo">
+                <tr>
+                    <td rowspan="3" class="logo" valign="middle">
+                        <img id="gulidLogo" class="guild_logo" src="coui://guildmark/100000000000000321.png"/>
+                    </td>
+                    <td colspan="3" class="name">
+                        <span id="guildName" class="guild_name bold"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="masterName">
+                        <img src="/Areas/GuildInfo/common/img/content/icon_guildMasterName.png" class="icon"
+                             data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_GUILDMASTER"/>
+                        <span id="guildMasterName" class="bold"></span>
+                    </td>
+                    <td class="count">
+                        <img src="/Areas/GuildInfo/common/img/content/icon_guildCount.png" class="icon"
+                             data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_GUILDMEMBER"/>
+                        <span id="guildCount" class="guildData bold"></span>
+                    </td>
+                    <td class="regdate">
+                        <img src="/Areas/GuildInfo/common/img/content/icon_guildRegdate.png" class="icon"
+                             data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_CREATEGUILD"/>
+                        <span id="guildRegdate" class="guildData bold"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="area1">
+                        <img src="/Areas/GuildInfo/common/img/content/icon_guildArea1-1.png" class="icon"
+                             data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_SIEGEAREA"/>
+                        <span id="guildArea1" class="guildData icon bold"><span></span></span>
+
+                    </td>
+                    <td class="area2" colspan="2">
+                        <img src="/Areas/GuildInfo/common/img/content/icon_guildArea2.png" class="icon"
+                             data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_SIEGENODE"/>
+                        <span id="guildArea2" class="guildData icon bold"></span>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="bottom">
+            <div class="tab">
+                <ul class="tabList"></ul>
+            </div>
+            <div class="main" id="contents"></div>
+        </div>
+    </div>
+
+    <div class="tooltipArea"></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<SpawnPlacementList>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="370110.0" Y="-23715.2" Z="-8200.0"/>
+        <Walk X="219138.0" Y="-81887.78" Z="-5213.509"/>
+        <Direction>2.09147293101808</Direction>
+        <UseSpawnGroup SpawnCharacterKey="702" SpawnQuantity="1"/>
+        <ActionIndex>4</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="369282.0" Y="-20267.9" Z="-8200.0"/>
+        <Walk X="978088.9" Y="349770.9" Z="-8199.998"/>
+        <Direction>-0.260918414981728</Direction>
+        <UseSpawnGroup SpawnCharacterKey="695" SpawnQuantity="1"/>
+        <ActionIndex>15</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+</SpawnPlacementList>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="bal_guard">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12368" Name="Bal_Guard_001" PosX="26775.1" PosY="-6180.82" PosZ="71381" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12369" Name="Bal_Guard_002" PosX="27447.2" PosY="-6097.05" PosZ="70373.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12370" Name="Bal_Guard_003" PosX="28186.7" PosY="-5986.19" PosZ="68976.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12371" Name="Bal_Guard_004" PosX="28224.9" PosY="-5942.01" PosZ="67958.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12372" Name="Bal_Guard_005" PosX="27645.3" PosY="-5641.11" PosZ="66930.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12373" Name="Bal_Guard_006" PosX="26463.4" PosY="-5237.48" PosZ="66289.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12374" Name="Bal_Guard_007" PosX="25387.3" PosY="-5034.14" PosZ="65852.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12375" Name="Bal_Guard_008" PosX="24225.1" PosY="-4917.86" PosZ="65444.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12376" Name="Bal_Guard_009" PosX="23311.9" PosY="-4818.2" PosZ="65135" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12377" Name="Bal_Guard_010" PosX="22633.3" PosY="-4757.75" PosZ="65007.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12378" Name="Bal_Guard_011" PosX="21510.4" PosY="-4691.73" PosZ="64916.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12379" Name="Bal_Guard_012" PosX="20558.9" PosY="-4647.76" PosZ="64927.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12380" Name="Bal_Guard_013" PosX="19773.9" PosY="-4607.96" PosZ="64936.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12381" Name="Bal_Guard_014" PosX="18891.3" PosY="-4570.83" PosZ="64930.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12382" Name="Bal_Guard_015" PosX="17989.6" PosY="-4539.46" PosZ="64956.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12383" Name="Bal_Guard_016" PosX="16925.9" PosY="-4524.66" PosZ="65261.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12384" Name="Bal_Guard_017" PosX="15992.6" PosY="-4555" PosZ="65854.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12385" Name="Bal_Guard_018" PosX="15504.8" PosY="-4587.36" PosZ="66272.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12386" Name="Bal_Guard_019" PosX="15027.7" PosY="-4834.76" PosZ="66686.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12387" Name="Bal_Guard_020" PosX="14693.4" PosY="-4946.66" PosZ="67046.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12388" Name="Bal_Guard_021" PosX="14499.3" PosY="-4997" PosZ="67520.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12389" Name="Bal_Guard_022" PosX="14420.7" PosY="-5065.57" PosZ="67982.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12390" Name="Bal_Guard_023" PosX="14673.3" PosY="-5123.4" PosZ="68445.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12391" Name="Bal_Guard_024" PosX="15155.1" PosY="-5221.43" PosZ="69086.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12392" Name="Bal_Guard_025" PosX="15802.1" PosY="-5303.1" PosZ="69485.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12393" Name="Bal_Guard_026" PosX="16610.5" PosY="-5442.4" PosZ="69858.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12394" Name="Bal_Guard_027" PosX="17601" PosY="-5552.92" PosZ="70221.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12395" Name="Bal_Guard_028" PosX="18185.7" PosY="-5583.45" PosZ="70581.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12396" Name="Bal_Guard_029" PosX="18720" PosY="-5690.78" PosZ="71213.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12397" Name="Bal_Guard_030" PosX="19205.2" PosY="-5731.36" PosZ="71629.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12398" Name="Bal_Guard_031" PosX="20146.9" PosY="-5757.04" PosZ="71713" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12399" Name="Bal_Guard_032" PosX="20861.4" PosY="-5778.99" PosZ="72022.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12400" Name="Bal_Guard_033" PosX="23420.8" PosY="-6262.99" PosZ="73025.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12401" Name="Bal_Guard_034" PosX="24236.8" PosY="-6275.73" PosZ="73153.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12402" Name="Bal_Guard_035" PosX="24761.2" PosY="-6255.42" PosZ="72935.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12403" Name="Bal_Guard_036" PosX="25386.9" PosY="-6219.44" PosZ="72412.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12404" Name="Bal_Guard_037" PosX="26046.8" PosY="-6200.71" PosZ="71976.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12405" Name="Bal_Guard_038" PosX="17728.9" PosY="-6339.62" PosZ="83896.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12406" Name="Bal_Guard_039" PosX="18381.6" PosY="-6244.6" PosZ="84249.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12407" Name="Bal_Guard_040" PosX="19082.7" PosY="-6108.05" PosZ="84801.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12408" Name="Bal_Guard_041" PosX="19572.2" PosY="-6030.52" PosZ="85188.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12409" Name="Bal_Guard_042" PosX="20135.1" PosY="-5910.36" PosZ="85502" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12410" Name="Bal_Guard_043" PosX="20605.1" PosY="-5810.56" PosZ="85625.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12411" Name="Bal_Guard_044" PosX="21049.9" PosY="-5742.94" PosZ="85631.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12412" Name="Bal_Guard_045" PosX="21574.2" PosY="-5663.25" PosZ="85442" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12413" Name="Bal_Guard_046" PosX="22278.4" PosY="-5587.54" PosZ="85165.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12414" Name="Bal_Guard_047" PosX="23309.1" PosY="-5394.51" PosZ="84698" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12415" Name="Bal_Guard_048" PosX="24043.7" PosY="-5280.71" PosZ="84280.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12416" Name="Bal_Guard_049" PosX="24844" PosY="-5217.79" PosZ="83781.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12417" Name="Bal_Guard_050" PosX="25523.4" PosY="-5177.84" PosZ="83234.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12418" Name="Bal_Guard_051" PosX="26265.2" PosY="-5138.22" PosZ="82604.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12419" Name="Bal_Guard_052" PosX="27029.5" PosY="-5115.03" PosZ="82180.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12420" Name="Bal_Guard_053" PosX="27776.5" PosY="-5075.88" PosZ="81819.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12421" Name="Bal_Guard_054" PosX="28673.1" PosY="-5011.41" PosZ="81746.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12422" Name="Bal_Guard_055" PosX="29560.5" PosY="-4948.39" PosZ="82020.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12423" Name="Bal_Guard_056" PosX="30442.1" PosY="-4905.51" PosZ="82383.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12424" Name="Bal_Guard_057" PosX="30988.8" PosY="-4865.58" PosZ="82643.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12425" Name="Bal_Guard_058" PosX="31497.4" PosY="-4836.45" PosZ="82614.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12426" Name="Bal_Guard_059" PosX="31985.3" PosY="-4809.86" PosZ="82330.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12427" Name="Bal_Guard_060" PosX="32509.2" PosY="-4771.35" PosZ="81776.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12428" Name="Bal_Guard_061" PosX="33073" PosY="-4719.57" PosZ="81332" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12429" Name="Bal_Guard_062" PosX="33683.6" PosY="-4665.47" PosZ="81000.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12430" Name="Bal_Guard_063" PosX="34499.6" PosY="-4599.67" PosZ="80751.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12431" Name="Bal_Guard_064" PosX="35306.5" PosY="-4547.21" PosZ="80842" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12432" Name="Bal_Guard_065" PosX="36315.6" PosY="-4503.68" PosZ="81285.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12433" Name="Bal_Guard_066" PosX="36947.2" PosY="-4475.26" PosZ="81834.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12434" Name="Bal_Guard_067" PosX="37463.2" PosY="-4442.33" PosZ="82450.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12435" Name="Bal_Guard_068" PosX="37934.2" PosY="-4415" PosZ="83151.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12436" Name="Bal_Guard_069" PosX="38250.3" PosY="-4424.16" PosZ="83772.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12437" Name="Bal_Guard_070" PosX="38128.1" PosY="-4446.58" PosZ="84377.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12438" Name="Bal_Guard_071" PosX="37721.8" PosY="-4463.8" PosZ="84820.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12439" Name="Bal_Guard_072" PosX="36859.7" PosY="-4476.56" PosZ="85614.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12440" Name="Bal_Guard_073" PosX="36202.8" PosY="-4476.76" PosZ="86192.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12441" Name="Bal_Guard_074" PosX="35195.9" PosY="-4473.88" PosZ="86751" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12442" Name="Bal_Guard_075" PosX="34769.4" PosY="-4482.46" PosZ="86711.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12443" Name="Bal_Guard_076" PosX="34280.6" PosY="-4505.12" PosZ="86456.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12444" Name="Bal_Guard_077" PosX="33771.1" PosY="-4546.96" PosZ="86054.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12445" Name="Bal_Guard_078" PosX="33085.3" PosY="-4616.66" PosZ="85486.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12446" Name="Bal_Guard_079" PosX="32478.4" PosY="-4683.31" PosZ="84877.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12447" Name="Bal_Guard_080" PosX="32129.8" PosY="-4713.34" PosZ="84333.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12448" Name="Bal_Guard_081" PosX="31723.5" PosY="-4748.89" PosZ="83705.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12449" Name="Bal_Guard_082" PosX="31356.6" PosY="-4789.64" PosZ="83253.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12450" Name="Bal_Guard_083" PosX="30998.7" PosY="-4838.64" PosZ="82892.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12451" Name="Bal_Guard_084" PosX="3098.54" PosY="-6346.41" PosZ="68587.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12452" Name="Bal_Guard_085" PosX="2019.77" PosY="-6248.12" PosZ="67932.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12453" Name="Bal_Guard_086" PosX="1186.99" PosY="-6147.17" PosZ="67582.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12454" Name="Bal_Guard_087" PosX="-49.7158" PosY="-6025.76" PosZ="67108.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12455" Name="Bal_Guard_088" PosX="-1099.42" PosY="-5867.59" PosZ="66804.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12456" Name="Bal_Guard_089" PosX="-2292.54" PosY="-5727.31" PosZ="66495.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12457" Name="Bal_Guard_090" PosX="-3566.38" PosY="-5562.84" PosZ="66223" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12458" Name="Bal_Guard_091" PosX="-4838.71" PosY="-5299.62" PosZ="65948.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12459" Name="Bal_Guard_092" PosX="-5662.9" PosY="-5099.72" PosZ="65641.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12460" Name="Bal_Guard_093" PosX="-6752.71" PosY="-4912.78" PosZ="65122" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12461" Name="Bal_Guard_094" PosX="-8253.95" PosY="-4724.22" PosZ="64461.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12462" Name="Bal_Guard_095" PosX="-9130.33" PosY="-4676.37" PosZ="64238.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12463" Name="Bal_Guard_096" PosX="-9986.19" PosY="-4665.39" PosZ="64263" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12464" Name="Bal_Guard_097" PosX="-10867.5" PosY="-4671.93" PosZ="64447.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12465" Name="Bal_Guard_098" PosX="-11603" PosY="-4656.15" PosZ="64564.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12466" Name="Bal_Guard_099" PosX="-12551.8" PosY="-4567.06" PosZ="64884.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12467" Name="Bal_Guard_100" PosX="-13409.2" PosY="-4471.2" PosZ="65142.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12468" Name="'" PosX="-14803.6" PosY="-4362.47" PosZ="64995.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12469" Name="Bal_Guard_102" PosX="-15882" PosY="-4349.9" PosZ="65118.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12470" Name="Bal_Guard_103" PosX="-16495.6" PosY="-4357.46" PosZ="65556.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12471" Name="Bal_Guard_104" PosX="-14942.1" PosY="-4351.6" PosZ="65387.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12472" Name="Bal_Guard_105" PosX="-13400.1" PosY="-4472.22" PosZ="65278.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12473" Name="Bal_Guard_106" PosX="-12235" PosY="-4604.42" PosZ="64841.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12474" Name="Bal_Guard_107" PosX="-10381.6" PosY="-4666.37" PosZ="64432.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12475" Name="Bal_Guard_108" PosX="-8817.93" PosY="-4693.07" PosZ="64375.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12476" Name="Bal_Guard_109" PosX="-7382.66" PosY="-4815.43" PosZ="64756.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12477" Name="Bal_Guard_110" PosX="-5954.44" PosY="-5037.16" PosZ="65448.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12478" Name="Bal_Guard_111" PosX="-4743.71" PosY="-5274.91" PosZ="65726.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12479" Name="Bal_Guard_112" PosX="-2268.44" PosY="-5729.71" PosZ="66503.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12480" Name="Bal_Guard_113" PosX="-360.863" PosY="-5985.99" PosZ="67133.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12481" Name="Bal_Guard_114" PosX="1413.43" PosY="-6179.31" PosZ="67931.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12482" Name="Bal_Guard_115" PosX="3456.71" PosY="-6394.15" PosZ="69069.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12483" Name="Bal_Guard_116" PosX="5480.72" PosY="-6511.13" PosZ="70659.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12484" Name="Bal_Guard_117" PosX="6924.09" PosY="-6548.98" PosZ="71869.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12485" Name="Bal_Guard_118" PosX="7490.45" PosY="-6565.1" PosZ="72925.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12486" Name="Bal_Guard_119" PosX="7864.44" PosY="-6660.01" PosZ="73912.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12487" Name="Bal_Guard_120" PosX="7939.93" PosY="-6787.96" PosZ="74627.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12488" Name="Bal_Guard_121" PosX="7945.28" PosY="-6980.4" PosZ="75591.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12489" Name="Bal_Guard_122" PosX="7832.46" PosY="-7133.14" PosZ="76810.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12490" Name="Bal_Guard_123" PosX="7663.01" PosY="-7202.91" PosZ="77865.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12491" Name="Bal_Guard_124" PosX="7511.91" PosY="-7222.97" PosZ="79045.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12492" Name="Bal_Guard_125" PosX="7399.4" PosY="-7245" PosZ="79775.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12493" Name="Bal_Guard_126" PosX="6896.39" PosY="-7272.79" PosZ="80276.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12494" Name="Bal_Guard_127" PosX="6022.57" PosY="-7302.36" PosZ="80512" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12495" Name="Bal_Guard_128" PosX="4912.85" PosY="-7316.29" PosZ="80621.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12496" Name="Bal_Guard_129" PosX="3808.84" PosY="-7313.55" PosZ="80749" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12497" Name="Bal_Guard_130" PosX="2656.52" PosY="-7315.57" PosZ="81028.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12498" Name="Bal_Guard_131" PosX="1685.9" PosY="-7289.99" PosZ="81199.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12499" Name="Bal_Guard_132" PosX="983.452" PosY="-7268.64" PosZ="81286.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12500" Name="Bal_Guard_133" PosX="-369.926" PosY="-7164.23" PosZ="81431.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12501" Name="Bal_Guard_134" PosX="732.085" PosY="-7257.89" PosZ="81289.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12502" Name="Bal_Guard_135" PosX="2256.12" PosY="-7308.49" PosZ="81032.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12503" Name="Bal_Guard_136" PosX="3590.02" PosY="-7316.2" PosZ="80690.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12504" Name="Bal_Guard_137" PosX="4414.93" PosY="-7289.52" PosZ="80521.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12505" Name="Bal_Guard_138" PosX="5131.32" PosY="-7306.79" PosZ="80456" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12506" Name="Bal_Guard_139" PosX="5871.78" PosY="-7295.99" PosZ="80413.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12507" Name="Bal_Guard_140" PosX="6578.95" PosY="-7286.99" PosZ="80405.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12508" Name="Bal_Guard_141" PosX="7112.63" PosY="-7266.08" PosZ="80204.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12509" Name="Bal_Guard_142" PosX="7420.64" PosY="-7248.76" PosZ="79874.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12510" Name="Bal_Guard_143" PosX="7605.83" PosY="-7231.16" PosZ="79271.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12511" Name="Bal_Guard_144" PosX="7728.2" PosY="-7209.61" PosZ="78564.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12512" Name="Bal_Guard_145" PosX="7840.05" PosY="-7193.4" PosZ="77680.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12513" Name="Bal_Guard_146" PosX="8006.34" PosY="-7085.35" PosZ="76391.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12514" Name="Bal_Guard_147" PosX="8121.16" PosY="-6895.13" PosZ="75291.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12515" Name="Bal_Guard_148" PosX="8128.03" PosY="-6734.47" PosZ="74438.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12516" Name="Bal_Guard_149" PosX="7976.42" PosY="-6596.43" PosZ="73562.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12517" Name="Bal_Guard_150" PosX="7647.33" PosY="-6556.04" PosZ="72777" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12518" Name="Bal_Guard_151" PosX="7167.6" PosY="-6541.7" PosZ="72017.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12519" Name="Bal_Guard_152" PosX="5678.62" PosY="-6515.15" PosZ="70752.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12520" Name="Bal_Guard_153" PosX="5048.17" PosY="-6493.97" PosZ="70222.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12521" Name="Bal_Guard_154" PosX="4005.72" PosY="-6454.88" PosZ="69362.2" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="12368" TargetWaypoint="12369"/>
+	<Link SourceWaypoint="12369" TargetWaypoint="12370"/>
+	<Link SourceWaypoint="12370" TargetWaypoint="12371"/>
+	<Link SourceWaypoint="12371" TargetWaypoint="12372"/>
+	<Link SourceWaypoint="12372" TargetWaypoint="12373"/>
+	<Link SourceWaypoint="12373" TargetWaypoint="12374"/>
+	<Link SourceWaypoint="12374" TargetWaypoint="12375"/>
+	<Link SourceWaypoint="12375" TargetWaypoint="12376"/>
+	<Link SourceWaypoint="12376" TargetWaypoint="12377"/>
+	<Link SourceWaypoint="12377" TargetWaypoint="12378"/>
+	<Link SourceWaypoint="12378" TargetWaypoint="12379"/>
+	<Link SourceWaypoint="12379" TargetWaypoint="12380"/>
+	<Link SourceWaypoint="12380" TargetWaypoint="12381"/>
+	<Link SourceWaypoint="12381" TargetWaypoint="12382"/>
+	<Link SourceWaypoint="12382" TargetWaypoint="12383"/>
+	<Link SourceWaypoint="12383" TargetWaypoint="12384"/>
+	<Link SourceWaypoint="12384" TargetWaypoint="12385"/>
+	<Link SourceWaypoint="12385" TargetWaypoint="12386"/>
+	<Link SourceWaypoint="12386" TargetWaypoint="12387"/>
+	<Link SourceWaypoint="12387" TargetWaypoint="12388"/>
+	<Link SourceWaypoint="12388" TargetWaypoint="12389"/>
+	<Link SourceWaypoint="12389" TargetWaypoint="12390"/>
+	<Link SourceWaypoint="12390" TargetWaypoint="12391"/>
+	<Link SourceWaypoint="12391" TargetWaypoint="12392"/>
+	<Link SourceWaypoint="12392" TargetWaypoint="12393"/>
+	<Link SourceWaypoint="12393" TargetWaypoint="12394"/>
+	<Link SourceWaypoint="12394" TargetWaypoint="12395"/>
+	<Link SourceWaypoint="12395" TargetWaypoint="12396"/>
+	<Link SourceWaypoint="12396" TargetWaypoint="12397"/>
+	<Link SourceWaypoint="12397" TargetWaypoint="12398"/>
+	<Link SourceWaypoint="12398" TargetWaypoint="12399"/>
+	<Link SourceWaypoint="12399" TargetWaypoint="12400"/>
+	<Link SourceWaypoint="12400" TargetWaypoint="12401"/>
+	<Link SourceWaypoint="12401" TargetWaypoint="12402"/>
+	<Link SourceWaypoint="12402" TargetWaypoint="12403"/>
+	<Link SourceWaypoint="12403" TargetWaypoint="12404"/>
+	<Link SourceWaypoint="12404" TargetWaypoint="12368"/>
+	<Link SourceWaypoint="12405" TargetWaypoint="12406"/>
+	<Link SourceWaypoint="12406" TargetWaypoint="12407"/>
+	<Link SourceWaypoint="12406" TargetWaypoint="12405"/>
+	<Link SourceWaypoint="12407" TargetWaypoint="12408"/>
+	<Link SourceWaypoint="12407" TargetWaypoint="12406"/>
+	<Link SourceWaypoint="12408" TargetWaypoint="12409"/>
+	<Link SourceWaypoint="12408" TargetWaypoint="12407"/>
+	<Link SourceWaypoint="12409" TargetWaypoint="12410"/>
+	<Link SourceWaypoint="12409" TargetWaypoint="12408"/>
+	<Link SourceWaypoint="12410" TargetWaypoint="12411"/>
+	<Link SourceWaypoint="12410" TargetWaypoint="12409"/>
+	<Link SourceWaypoint="12411" TargetWaypoint="12412"/>
+	<Link SourceWaypoint="12411" TargetWaypoint="12410"/>
+	<Link SourceWaypoint="12412" TargetWaypoint="12413"/>
+	<Link SourceWaypoint="12412" TargetWaypoint="12411"/>
+	<Link SourceWaypoint="12413" TargetWaypoint="12414"/>
+	<Link SourceWaypoint="12413" TargetWaypoint="12412"/>
+	<Link SourceWaypoint="12414" TargetWaypoint="12415"/>
+	<Link SourceWaypoint="12414" TargetWaypoint="12413"/>
+	<Link SourceWaypoint="12415" TargetWaypoint="12416"/>
+	<Link SourceWaypoint="12415" TargetWaypoint="12414"/>
+	<Link SourceWaypoint="12416" TargetWaypoint="12417"/>
+	<Link SourceWaypoint="12416" TargetWaypoint="12415"/>
+	<Link SourceWaypoint="12417" TargetWaypoint="12418"/>
+	<Link SourceWaypoint="12417" TargetWaypoint="12416"/>
+	<Link SourceWaypoint="12418" TargetWaypoint="12419"/>
+	<Link SourceWaypoint="12418" TargetWaypoint="12417"/>
+	<Link SourceWaypoint="12419" TargetWaypoint="12420"/>
+	<Link SourceWaypoint="12419" TargetWaypoint="12418"/>
+	<Link SourceWaypoint="12420" TargetWaypoint="12421"/>
+	<Link SourceWaypoint="12420" TargetWaypoint="12419"/>
+	<Link SourceWaypoint="12421" TargetWaypoint="12422"/>
+	<Link SourceWaypoint="12421" TargetWaypoint="12420"/>
+	<Link SourceWaypoint="12422" TargetWaypoint="12423"/>
+	<Link SourceWaypoint="12422" TargetWaypoint="12421"/>
+	<Link SourceWaypoint="12423" TargetWaypoint="12424"/>
+	<Link SourceWaypoint="12423" TargetWaypoint="12422"/>
+	<Link SourceWaypoint="12424" TargetWaypoint="12425"/>
+	<Link SourceWaypoint="12425" TargetWaypoint="12426"/>
+	<Link SourceWaypoint="12426" TargetWaypoint="12427"/>
+	<Link SourceWaypoint="12427" TargetWaypoint="12428"/>
+	<Link SourceWaypoint="12428" TargetWaypoint="12429"/>
+	<Link SourceWaypoint="12429" TargetWaypoint="12430"/>
+	<Link SourceWaypoint="12430" TargetWaypoint="12431"/>
+	<Link SourceWaypoint="12431" TargetWaypoint="12432"/>
+	<Link SourceWaypoint="12432" TargetWaypoint="12433"/>
+	<Link SourceWaypoint="12433" TargetWaypoint="12434"/>
+	<Link SourceWaypoint="12434" TargetWaypoint="12435"/>
+	<Link SourceWaypoint="12435" TargetWaypoint="12436"/>
+	<Link SourceWaypoint="12436" TargetWaypoint="12437"/>
+	<Link SourceWaypoint="12437" TargetWaypoint="12438"/>
+	<Link SourceWaypoint="12438" TargetWaypoint="12439"/>
+	<Link SourceWaypoint="12439" TargetWaypoint="12440"/>
+	<Link SourceWaypoint="12440" TargetWaypoint="12441"/>
+	<Link SourceWaypoint="12441" TargetWaypoint="12442"/>
+	<Link SourceWaypoint="12442" TargetWaypoint="12443"/>
+	<Link SourceWaypoint="12443" TargetWaypoint="12444"/>
+	<Link SourceWaypoint="12444" TargetWaypoint="12445"/>
+	<Link SourceWaypoint="12445" TargetWaypoint="12446"/>
+	<Link SourceWaypoint="12446" TargetWaypoint="12447"/>
+	<Link SourceWaypoint="12447" TargetWaypoint="12448"/>
+	<Link SourceWaypoint="12448" TargetWaypoint="12449"/>
+	<Link SourceWaypoint="12449" TargetWaypoint="12450"/>
+	<Link SourceWaypoint="12450" TargetWaypoint="12423"/>
+	<Link SourceWaypoint="12451" TargetWaypoint="12452"/>
+	<Link SourceWaypoint="12452" TargetWaypoint="12453"/>
+	<Link SourceWaypoint="12453" TargetWaypoint="12454"/>
+	<Link SourceWaypoint="12454" TargetWaypoint="12455"/>
+	<Link SourceWaypoint="12455" TargetWaypoint="12456"/>
+	<Link SourceWaypoint="12456" TargetWaypoint="12457"/>
+	<Link SourceWaypoint="12457" TargetWaypoint="12458"/>
+	<Link SourceWaypoint="12458" TargetWaypoint="12459"/>
+	<Link SourceWaypoint="12459" TargetWaypoint="12460"/>
+	<Link SourceWaypoint="12460" TargetWaypoint="12461"/>
+	<Link SourceWaypoint="12461" TargetWaypoint="12462"/>
+	<Link SourceWaypoint="12462" TargetWaypoint="12463"/>
+	<Link SourceWaypoint="12463" TargetWaypoint="12464"/>
+	<Link SourceWaypoint="12464" TargetWaypoint="12465"/>
+	<Link SourceWaypoint="12465" TargetWaypoint="12466"/>
+	<Link SourceWaypoint="12466" TargetWaypoint="12467"/>
+	<Link SourceWaypoint="12467" TargetWaypoint="12468"/>
+	<Link SourceWaypoint="12468" TargetWaypoint="12469"/>
+	<Link SourceWaypoint="12469" TargetWaypoint="12470"/>
+	<Link SourceWaypoint="12470" TargetWaypoint="12471"/>
+	<Link SourceWaypoint="12471" TargetWaypoint="12472"/>
+	<Link SourceWaypoint="12472" TargetWaypoint="12473"/>
+	<Link SourceWaypoint="12473" TargetWaypoint="12474"/>
+	<Link SourceWaypoint="12474" TargetWaypoint="12475"/>
+	<Link SourceWaypoint="12475" TargetWaypoint="12476"/>
+	<Link SourceWaypoint="12476" TargetWaypoint="12477"/>
+	<Link SourceWaypoint="12477" TargetWaypoint="12478"/>
+	<Link SourceWaypoint="12478" TargetWaypoint="12479"/>
+	<Link SourceWaypoint="12479" TargetWaypoint="12480"/>
+	<Link SourceWaypoint="12480" TargetWaypoint="12481"/>
+	<Link SourceWaypoint="12481" TargetWaypoint="12482"/>
+	<Link SourceWaypoint="12482" TargetWaypoint="12483"/>
+	<Link SourceWaypoint="12483" TargetWaypoint="12484"/>
+	<Link SourceWaypoint="12484" TargetWaypoint="12485"/>
+	<Link SourceWaypoint="12485" TargetWaypoint="12486"/>
+	<Link SourceWaypoint="12486" TargetWaypoint="12487"/>
+	<Link SourceWaypoint="12487" TargetWaypoint="12488"/>
+	<Link SourceWaypoint="12488" TargetWaypoint="12489"/>
+	<Link SourceWaypoint="12489" TargetWaypoint="12490"/>
+	<Link SourceWaypoint="12490" TargetWaypoint="12491"/>
+	<Link SourceWaypoint="12491" TargetWaypoint="12492"/>
+	<Link SourceWaypoint="12492" TargetWaypoint="12493"/>
+	<Link SourceWaypoint="12493" TargetWaypoint="12494"/>
+	<Link SourceWaypoint="12494" TargetWaypoint="12495"/>
+	<Link SourceWaypoint="12495" TargetWaypoint="12496"/>
+	<Link SourceWaypoint="12496" TargetWaypoint="12497"/>
+	<Link SourceWaypoint="12497" TargetWaypoint="12498"/>
+	<Link SourceWaypoint="12498" TargetWaypoint="12499"/>
+	<Link SourceWaypoint="12499" TargetWaypoint="12500"/>
+	<Link SourceWaypoint="12500" TargetWaypoint="12501"/>
+	<Link SourceWaypoint="12501" TargetWaypoint="12502"/>
+	<Link SourceWaypoint="12502" TargetWaypoint="12503"/>
+	<Link SourceWaypoint="12503" TargetWaypoint="12504"/>
+	<Link SourceWaypoint="12504" TargetWaypoint="12505"/>
+	<Link SourceWaypoint="12505" TargetWaypoint="12506"/>
+	<Link SourceWaypoint="12506" TargetWaypoint="12507"/>
+	<Link SourceWaypoint="12507" TargetWaypoint="12508"/>
+	<Link SourceWaypoint="12508" TargetWaypoint="12509"/>
+	<Link SourceWaypoint="12509" TargetWaypoint="12510"/>
+	<Link SourceWaypoint="12510" TargetWaypoint="12511"/>
+	<Link SourceWaypoint="12511" TargetWaypoint="12512"/>
+	<Link SourceWaypoint="12512" TargetWaypoint="12513"/>
+	<Link SourceWaypoint="12513" TargetWaypoint="12514"/>
+	<Link SourceWaypoint="12514" TargetWaypoint="12515"/>
+	<Link SourceWaypoint="12515" TargetWaypoint="12516"/>
+	<Link SourceWaypoint="12516" TargetWaypoint="12517"/>
+	<Link SourceWaypoint="12517" TargetWaypoint="12518"/>
+	<Link SourceWaypoint="12518" TargetWaypoint="12519"/>
+	<Link SourceWaypoint="12519" TargetWaypoint="12520"/>
+	<Link SourceWaypoint="12520" TargetWaypoint="12521"/>
+	<Link SourceWaypoint="12521" TargetWaypoint="12451"/>
+</LinkList>
+<GroupList>
+	<Group Key="89" Name="Bal_Guard"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title>Black Marble</title>
+
+
+    <style>
+
+        @font-face {
+            font-family: 'custom';
+            font-style: normal;
+            font-weight: 400;
+            src: url('/Common/font/NanumGothic.ttf') format('embedded-opentype'),
+            url('/Common/font/NanumGothic.ttf') format('woff2'),
+            url('/Common/font/NanumGothic.ttf') format('woff'),
+            url('/Common/font/NanumGothic.ttf') format('truetype'),
+            local('나눔고딕'),
+            local('Arial');
+        }
+
+        @font-face {
+            font-family: 'custom bold';
+            font-style: normal;
+            /*font-weight: 700;*/
+            src: url('/Common/font/NanumGothicBold.ttf') format('embedded-opentype'),
+            url('/Common/font/NanumGothicBold.ttf') format('woff2'),
+            url('/Common/font/NanumGothicBold.ttf') format('woff'),
+            url('/Common/font/NanumGothicBold.ttf') format('truetype'),
+            local('나눔고딕'),
+            local('Arial Black');
+        }
+    </style>
+
+
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+
+<meta http-equiv="refresh" content="600"/>
+<link rel="stylesheet" type="text/css" href="/Areas/BoardGame/common/css/boardgame.css"/>
+<link rel="stylesheet" type="text/css" href="/Common/css/jquery-ui.css"/>
+<link rel="stylesheet" type="text/css" href="/Areas/BoardGame/common/css/bootstrap.min.css"/>
+<script type="text/javascript" src="/common/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="/common/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/Common/js/coherent.js"></script>
+<script type="text/javascript" src="/Areas/BoardGame/common/js/boardgame.js?ver=255"></script>
+<script type="text/javascript" src="/Areas/BoardGame/common/js/prefixfree.min.js"></script>
+<script type="text/javascript" src="/Areas/BoardGame/common/js/roulette.js"></script>
+<script type="text/javascript" src="/Areas/BoardGame/common/js/demo.js"></script>
+<script type="text/javascript" src="/Areas/BoardGame/common/js/bootstrap.js"></script>
+<script src="/Common/js/common.js"></script>
+<script src="/Common/js/language.js"></script>
+<script type="text/javascript">
+    var startPosition = 3;
+    var nowPosition = 3;
+    var clearBlackMarbleCount = 0;
+    var todayCount = 5;
+    var overTime = 1312;
+    var setFinishCount = 200;
+    var overtimeRemain = 60;
+    var todayRemainCount = 5;
+    var isReset = "Y";
+    var nowDate = "9/2/2016 4:42:35 PM";
+    var lastDate = "9/1/2016 6:50:54 PM";
+
+    var stringArray;
+    var randomItemArray;
+
+    var date = new Date();
+
+    //console.log(date);
+    //debugger;
+
+    engine.call('ToClient_RequestSelfplayerInfo');
+
+    $(document).ready(function () {
+
+        blackSpiritImgChange(clearBlackMarbleCount);
+
+        $.each(strTextArray, function (index, value) {
+            engine.call('ToClient_PAGetString', 'WEB', value);
+        });
+
+        engine.call('ToClient_PAGetString', 'GAME', 'PANEL_QUESTLIST_BLACKSOUL');
+
+        var indexCount = 0;
+        engine.on('FromClient_PAGetString', function (stringCategory, stringName, stringMessage) {
+
+            indexCount = indexCount + 1;
+//		    stringMessage = stringMessage.replace(/'/gi, "&#39;").replace(/</gi, "&lt;").replace(/>/gi, "&gt;").replace(/\\/gi, "&quot;");
+
+            $("[title='" + stringName + "']").attr("title", stringMessage);
+            $("[name='" + stringName + "']").before(stringMessage);
+            $("[name='" + stringName + "']").remove();
+            $("#" + stringName).attr("title", stringMessage);
+
+            //console.log( indexCount, stringName, stringMessage, $("#"+ stringName).attr("title"))
+
+            if (indexCount > 103) {
+
+                $('[data-toggle="tooltip"]').tooltip();
+
+                // string table key
+                stringArray = [
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_3").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_4").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_5").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_6").attr("title"),
+                    $("#WEB_PEARLMARBLE_MEMORY_FRAGMENTS").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_9").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_10").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_11").attr("title"),
+
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_12").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_14").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_15").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_16").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_17").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_18").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_19").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_20").attr("title"),
+
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_21").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_22").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_23").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_24").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_25").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_26").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_27").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_28").attr("title"),
+
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_29").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_30").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_31").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_32").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_33").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_MEMORY_FRAGMENTS").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_35").attr("title"),
+
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_14").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_36").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_20").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_37").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_38").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_9").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_39").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_1").attr("title"),
+
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_2").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_3").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_4").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_STEP_MESSAGE_39").attr("title")
+
+                ];
+
+                randomItemArray = [
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_6").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_7").attr("title"),
+                    $("#WEB_PEARLMARBLE_MEMORY_FRAGMENTS").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_9").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_10").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_11").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_12").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_13").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_14").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_15").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_16").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_17").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_18").attr("title"),
+                    $("#WEB_PEARLMARBLE_MEMORY_FRAGMENTS").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_20").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_21").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_22").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_23").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_24").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_25").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_26").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_27").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_28").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_29").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_30").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_31").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_32").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_33").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_34").attr("title"),
+                    $("#WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_35").attr("title")
+                ];
+
+                if (todayCount < 0) {
+                    todayCount = 0;
+                }
+
+                var clearCount = '<br/><h4>' + ($("#WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_1").attr("title")).replace(":", ": " + clearBlackMarbleCount.toString()) + '</h4><p>' + ($("#WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_2").attr("title")).replace(":", " : " + todayCount) + '</p>';
+                document.getElementsByClassName("topLayer")[0].innerHTML = clearCount;
+
+                leftTime = 0;
+                if (overTime > overtimeRemain) {
+                    leftTime = 0;
+                } else {
+                    leftTime = overtimeRemain - overTime;
+                }
+
+                var leftTimeHtml = $("#WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_3").attr("title").replace(":", ": " + leftTime);
+                if (clearBlackMarbleCount >= setFinishCount) {
+                    leftTimeHtml = $("#WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_1").attr("title");
+                }
+                else if (todayCount <= 0) {
+                    leftTimeHtml = $("#WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_2").attr("title");
+                }
+                else if (leftTime == 0) {
+                    leftTimeHtml = $("#WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_3").attr("title");
+                }
+                else {
+                    overtimeInterval = setInterval("updateOverTime()", 1000 * 60);
+                }
+                document.getElementsByClassName("topLeftTime")[0].innerHTML = leftTimeHtml;
+
+                $(".topRightMouseOverArea").hover(
+                        function () {
+                            $("span.topRightLayer").slideDown("fast");
+                        },
+                        function () {
+                            $("span.topRightLayer").slideUp("fast");
+                        }
+                );
+
+                $(".topLeftMouseOverArea").hover(
+                        function () {
+                            $("span.topLeftLayer").slideDown("fast");
+                        },
+                        function () {
+                            $("span.topLeftLayer").slideUp("fast");
+                        }
+                );
+
+                $(".diceIcon").hover(
+                        function () {
+                            if (rollableDice == true) {
+                                this.setAttribute("src", "/Areas/BoardGame/common/img/diceIconOver.png");
+                            }
+                        }, function () {
+                            if (rollableDice == true) {
+                                this.setAttribute("src", "/Areas/BoardGame/common/img/diceIconEffect.gif");
+                            }
+                        }
+                );
+
+                $("#step25, .gotoStartEffect").hover(function () {
+                    showStartArrowAnimation();
+                }, function () {
+                    hideStartArrowAnimation();
+                });
+                $("#step30, .gotoBackEffect").hover(function () {
+                    showBackArrowAnimation();
+                }, function () {
+                    hideBackArrowAnimation();
+                });
+
+                if (startPosition == 8 || startPosition == 48 || startPosition == 49 || startPosition == 50) {
+                    $("#step48").css('display', 'block');
+                    $("#step49").css('display', 'block');
+                    $("#step50").css('display', 'block');
+                }
+                else if (startPosition == 32 || startPosition == 51 || startPosition == 52 || startPosition == 53) {
+                    $("#step51").css('display', 'block');
+                    $("#step52").css('display', 'block');
+                    $("#step53").css('display', 'block');
+                }
+
+                if (0 < todayCount && leftTime == 0 && clearBlackMarbleCount < setFinishCount) {
+                    diceEffect(true);
+                } else {
+                    diceEffectOff()
+                }
+                ;
+
+                var targetTop = $(".board").eq(startPosition).position().top;
+                var targetLeft = $(".board").eq(startPosition).position().left;
+                $("#pointer").css('top', targetTop - 46);
+                $("#pointer").css('left', targetLeft + 3);
+            }
+        });
+    });
+
+    $(document).on("mousewheel.disableScroll DOMMouseScroll.disableScroll touchmove.disableScroll", function (e) {
+        e.preventDefault();
+        return;
+    });
+
+</script>
+<style>
+    html, body {
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+    }
+</style>
+<div id="wrap">
+    <div id="container">
+        <div id="mainBg">
+            <div class="startTileEffect" data-toggle="tooltip" title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_1'></div>
+            <div id="step0" class="board normal start startTile" title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_1'></div>
+            <div id="step1" class="board normal">
+                <div class="dice" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2"></div>
+            </div>
+            <div id="step2" class="board normal">
+                <div class="fixedItem2" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_4"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/17319.png"></div>
+            </div>
+            <div id="step3" class="board normal">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_5"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_12.png"></div>
+            </div>
+            <div id="step4" class="board normal buffTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_6">
+                <div class="buff" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_6"></div>
+            </div>
+
+            <div id="step5" class="board normal">
+                <div class="fixedItem2" data-toggle="tooltip" title="Memory Fragments"><img class="icon"
+                                                                                            src="/Areas/BoardGame/common/img/icon/44195.png">
+                </div>
+            </div>
+            <div id="step6" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+            <div id="step7" class="board normal move3Tile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_9"></div>
+            <div id="step8" class="board normal shortcut">
+                <div class="shortcut1" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_10"></div>
+            </div>
+
+            <div id="step9" class="board normal buffTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_11">
+                <div class="buff" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_11"></div>
+            </div>
+            <div id="step10" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+            <div id="step11" class="board normal">
+                <div class="fixedItem1" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_12"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_5.png"></div>
+            </div>
+            <div id="step12" class="board normal">
+                <div class="dice" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2"></div>
+            </div>
+
+            <div id="step13" class="board normal mileage" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_14"></div>
+            <div id="step14" class="board normal">
+                <div class="fixedItem1" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_15"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/16189.png"></div>
+            </div>
+            <div id="step15" class="board normal">
+                <div class="fixedItem2" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_16"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_19.png"></div>
+            </div>
+            <div id="step16" class="board normal">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_17"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/16005.png"></div>
+            </div>
+
+            <div id="step17" class="board normal buffTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_18">
+                <div class="buff" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_18"></div>
+            </div>
+            <div id="step18" class="board normal">
+                <div class="fixedItem2" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_19"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_1.png"></div>
+            </div>
+            <div id="step19" class="board normal move2Tile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_20"></div>
+            <div id="step20" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+
+            <div id="step21" class="board normal">
+                <div class="fixedItem1" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_21"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_18.png"></div>
+            </div>
+            <div id="step22" class="board normal buffTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_22">
+                <div class="buff" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_22"></div>
+            </div>
+            <div id="step23" class="board normal">
+                <div class="fixedItem2" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_23"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_21.png"></div>
+            </div>
+            <div id="step24" class="board normal">
+                <div class="fixedItem1" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_24"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_22.png"></div>
+            </div>
+
+            <div id="step25" class="board normal gotoStartTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_25"></div>
+            <div id="step26" class="board normal move5Tile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_26"></div>
+            <div id="step27" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+            <div id="step28" class="board normal buffTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_27">
+                <div class="buff" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_27"></div>
+            </div>
+
+            <div id="step29" class="board normal">
+                <div class="fixedItem2" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_28"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_2.png"></div>
+            </div>
+            <div id="step30" class="board normal backTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_29"></div>
+            <div id="step31" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+            <div id="step32" class="board normal shortcut">
+                <div class="shortcut2" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_30"></div>
+            </div>
+
+            <div id="step33" class="board normal">
+                <div class="dice" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2"></div>
+            </div>
+            <div id="step34" class="board normal">
+                <div class="fixedItem2" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_31"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_20.png"></div>
+            </div>
+            <div id="step35" class="board normal">
+                <div class="fixedItem1" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_32"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_7.png"></div>
+            </div>
+            <div id="step36" class="board normal">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_33"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/16004.png"></div>
+            </div>
+
+            <div id="step37" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+            <div id="step38" class="board normal">
+                <div class="fixedItem1" data-toggle="tooltip" title="Memory Fragments"><img class="icon"
+                                                                                            src="/Areas/BoardGame/common/img/icon/44195.png">
+                </div>
+            </div>
+            <div id="step39" class="board normal buffTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_35">
+                <div class="buff" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_35"></div>
+            </div>
+            <div id="step40" class="board normal mileage" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_14"></div>
+
+            <div id="step41" class="board normal">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_36"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_4.png"></div>
+            </div>
+            <div id="step42" class="board normal move2Tile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_20"></div>
+            <div id="step43" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+            <div id="step44" class="board normal">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_37"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_9.png"></div>
+            </div>
+
+            <div id="step45" class="board normal buffTile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_38">
+                <div class="buff" title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_38"></div>
+            </div>
+            <div id="step46" class="board normal randomItem" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8"></div>
+            <div id="step47" class="board normal move3Tile" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_9"></div>
+
+            <div id="step48" class="board short mileage" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_39" style="display:none;"></div>
+            <div id="step49" class="board short" style="display:none;">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_1"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_10.png"></div>
+            </div>
+            <div id="step50" class="board short" style="display:none;">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_2"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_8.png"></div>
+            </div>
+
+            <div id="step51" class="board short" style="display:none;">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_3"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_11.png"></div>
+            </div>
+            <div id="step52" class="board short" style="display:none;">
+                <div class="fixedItem" data-toggle="tooltip" title="WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_4"><img
+                        class="icon" src="/Areas/BoardGame/common/img/icon/iconFixedItem_13.png"></div>
+            </div>
+            <div id="step53" class="board short mileage" data-toggle="tooltip"
+                 title="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_39" style="display:none;"></div>
+
+            <div id="pointer"></div>
+            <div id="diceBg">
+                <img id="diceBgImg">
+                <div id="diceEffect"></div>
+                <div id="diceIcon" onclick="diceClick()"><img id="diceIconImg"
+                                                              src="/Areas/BoardGame/common/img/diceIcon.png"/></div>
+                <div id="diceIconMask" onclick="diceClick()"><img></div>
+            </div>
+            <div class="gotoStartEffect"><img></div>
+            <div class="gotoBackEffect"><img></div>
+        </div>
+    </div>
+    <audio id="diceSound" src="/Areas/BoardGame/common/sound/dice.ogg" type="audio/ogg"></audio>
+    <audio id="moveSound" src="/Areas/BoardGame/common/sound/move.ogg" type="audio/ogg"></audio>
+    <audio id="secretRoadSound" src="/Areas/BoardGame/common/sound/secretRoad.ogg" type="audio/ogg"></audio>
+    <audio id="rewardSound" src="/Areas/BoardGame/common/sound/reward.ogg" type="audio/ogg"></audio>
+    <audio id="buffSound" src="/Areas/BoardGame/common/sound/buff.ogg" type="audio/ogg"></audio>
+    <audio id="jumpSound" src="/Areas/BoardGame/common/sound/jump.ogg" type="audio/ogg"></audio>
+    <audio id="goBackSound" src="/Areas/BoardGame/common/sound/goBack.ogg" type="audio/ogg"></audio>
+    <audio id="arriveStartSound" src="/Areas/BoardGame/common/sound/arriveStart.ogg" type="audio/ogg"></audio>
+    <audio id="windowOpenSound" src="/Areas/BoardGame/common/sound/windowOpen.ogg" type="audio/ogg"></audio>
+    <audio id="rouletteSound" src="/Areas/BoardGame/common/sound/roulette.ogg" type="audio/ogg"></audio>
+    <audio id="rouletteStopSound" src="/Areas/BoardGame/common/sound/rouletteStop.ogg" type="audio/ogg"></audio>
+    <audio id="blackSpiritSound" src="/Areas/BoardGame/common/sound/blackSpirit01.ogg" type="audio/ogg"></audio>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="span4">
+            <div class="roulette_container">
+                <div class="roulette">
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_30.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_1.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_2.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/44195.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_4.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_5.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/16189.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_7.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_8.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_9.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_10.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_11.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_12.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_13.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_14.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/16005.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_16.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/16004.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_18.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_19.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_20.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_21.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_22.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_23.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_24.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/iconFixedItem_25.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/16033.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/16034.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/16026.png"/>
+                    <img src="/Areas/BoardGame/common/img/icon/17079.png"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<span class="topLeftButton"><br/><str name="WEB_PEARLMARBLE_GAME_STEP_MESSAGE_3"></str></span>
+<span class="topLeftLayer"><str name="WEB_PEARLMARBLE_WARNING_MESSAGE_5"></str></span>
+<span class="topLeftMouseOverArea"></span>
+
+<span class="topLayer"></span>
+<span class="topMouseOverArea"></span>
+<span class="topLeftTime"></span>
+<span class="topRightButton"><br/><str name="WEB_PEARLMARBLE_GAME_DESCRIPTION"></str></span>
+<span class="topRightMouseOverArea"></span>
+<span class="topRightLayer">
+    <li><str name="WEB_PEARLMARBLE_WARNING_MESSAGE_1"></str></li>
+    <li><str name="WEB_PEARLMARBLE_WARNING_MESSAGE_2"></str></li>
+    <li><str name="WEB_PEARLMARBLE_WARNING_MESSAGE_3"></str></li>
+    <li><str name="WEB_PEARLMARBLE_WARNING_MESSAGE_4"></str></li>
+</span>
+
+<img class="reload" src="/Areas/BoardGame/common/img/btnReload.png" onclick="location.reload();"/>
+<span class="blackSpiritComment"><h5><str name="WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_1"></str></h5></span>
+<span class="rewardText" style="display:none;"></span>
+<span class="finishText"></span>
+<div class="rewardPopLayer">
+    <div class="roulletBg">
+        <img class="bg" src="/Areas/BoardGame/common/img/rouletteSlotBg.png">
+        <img class="arrow" src="/Areas/BoardGame/common/img/rouletteArrow.png">
+    </div>
+</div>
+<div class="rollingDice1"><img></div>
+<div class="alertLayer"><img src="/Areas/BoardGame/common/img/popupBg.png"></div>
+
+<input type="hidden" id='WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_1' title='WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_1'/>
+<input type="hidden" id='WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_2' title='WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_2'/>
+<input type="hidden" id='WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_3' title='WEB_PEARLMARBLE_COUNT_TYPE_MESSAGE_3'/>
+<input type="hidden" id='WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_1' title='WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_1'/>
+<input type="hidden" id='WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_2' title='WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_2'/>
+<input type="hidden" id='WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_3' title='WEB_PEARLMARBLE_PLAY_CHECK_MESSAGE_3'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_3' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_3'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_2'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_4' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_4'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_5' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_5'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_6' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_6'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_7' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_7'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_8'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_9' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_9'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_10' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_10'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_11' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_11'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_12' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_12'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_13' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_13'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_14' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_14'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_15' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_15'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_16' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_16'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_17' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_17'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_18' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_18'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_19' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_19'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_20' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_20'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_21' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_21'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_22' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_22'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_23' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_23'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_24' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_24'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_25' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_25'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_26' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_26'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_27' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_27'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_28' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_28'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_29' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_29'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_30' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_30'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_31' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_31'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_32' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_32'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_33' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_33'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_34' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_34'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_35' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_35'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_36' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_36'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_37' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_37'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_38' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_38'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_39' title='WEB_PEARLMARBLE_GAME_STEP_MESSAGE_39'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_1' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_1'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_2' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_2'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_3' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_3'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_4' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_4'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_6' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_6'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_7' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_7'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_8' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_8'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_9' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_9'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_10' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_10'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_11' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_11'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_12' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_12'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_13' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_13'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_14' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_14'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_15' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_15'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_16' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_16'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_17' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_17'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_18' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_18'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_19' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_19'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_20' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_20'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_21' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_21'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_22' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_22'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_23' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_23'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_24' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_24'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_25' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_25'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_26' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_26'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_27' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_27'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_28' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_28'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_29' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_29'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_30' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_30'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_31' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_31'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_32' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_32'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_33' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_33'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_34' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_34'/>
+<input type="hidden" id='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_35' title='WEB_PEARLMARBLE_GAME_ROULETTE_MESSAGE_35'/>
+
+<input type="hidden" id='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_1' title='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_1'/>
+<input type="hidden" id='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_2' title='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_2'/>
+<input type="hidden" id='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_3' title='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_3'/>
+<input type="hidden" id='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_4' title='WEB_PEARLMARBLE_BLACK_SPIRIT_TALK_4'/>
+
+<input type="hidden" id='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_1' title='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_1'/>
+<input type="hidden" id='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_2' title='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_2'/>
+<input type="hidden" id='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_3' title='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_3'/>
+<input type="hidden" id='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_4' title='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_4'/>
+<input type="hidden" id='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_5' title='WEB_PEARLMARBLE_CAN_NOT_MESSAGE_5'/>
+
+<input type="hidden" id='WEB_PEARLMARBLE_FAIL_MESSAGE_1' title='WEB_PEARLMARBLE_FAIL_MESSAGE_1'/>
+<input type="hidden" id='WEB_PEARLMARBLE_FAIL_MESSAGE_2' title='WEB_PEARLMARBLE_FAIL_MESSAGE_2'/>
+
+<input type="hidden" id='PANEL_QUESTLIST_BLACKSOUL' title='PANEL_QUESTLIST_BLACKSOUL'/>
+<input type="hidden" id='WEB_PEARLMARBLE_MAIL_TITLE' title='WEB_PEARLMARBLE_MAIL_TITLE'/>
+<input type="hidden" id='WEB_PEARLMARBLE_MAIL_CONTENTS' title='WEB_PEARLMARBLE_MAIL_CONTENTS'/>
+
+<input type="hidden" id='WEB_GUILDINFO_MEMBER_TOOLTIP_CLOSE' title='WEB_GUILDINFO_MEMBER_TOOLTIP_CLOSE'/>
+<input type="hidden" id='WEB_GUILDINFO_ALERT_YES' title='WEB_GUILDINFO_ALERT_YES'/>
+<input type="hidden" id='WEB_GUILDINFO_ALERT_NO' title='WEB_GUILDINFO_ALERT_NO'/>
+
+<input type="hidden" id='WEB_PEARLMARBLE_MEMORY_FRAGMENTS' title='WEB_PEARLMARBLE_MEMORY_FRAGMENTS'/>
+
+<script>(function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-75710445-1', 'auto');
+ga('send', 'pageview');</script>
+
+
+<script>(function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-75710445-1', 'auto');
+ga('send', 'pageview');</script>
+
+</body>
+</html>

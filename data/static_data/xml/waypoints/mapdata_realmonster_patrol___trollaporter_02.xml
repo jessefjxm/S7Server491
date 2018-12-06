@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="trollaporter_02">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7193" Name="trollaporter_16" PosX="-285970" PosY="-2213.95" PosZ="7113.86" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7194" Name="trollaporter_17" PosX="-285655" PosY="-2237.06" PosZ="8147.26" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7195" Name="trollaporter_18" PosX="-285045" PosY="-2023.61" PosZ="9244.26" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7196" Name="trollaporter_19" PosX="-285449" PosY="-1929.06" PosZ="10528.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7197" Name="trollaporter_20" PosX="-284913" PosY="-1823.29" PosZ="11352.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7198" Name="trollaporter_21" PosX="-283999" PosY="-1712.23" PosZ="11946.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7199" Name="trollaporter_22" PosX="-283144" PosY="-1735.13" PosZ="12459.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7200" Name="trollaporter_23" PosX="-282595" PosY="-1772.43" PosZ="12546" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7201" Name="trollaporter_24" PosX="-281803" PosY="-1807.35" PosZ="12687.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7202" Name="trollaporter_25" PosX="-281241" PosY="-1791.81" PosZ="12995.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7203" Name="trollaporter_26" PosX="-280517" PosY="-1719.36" PosZ="13538.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7204" Name="trollaporter_27" PosX="-279904" PosY="-1592.31" PosZ="14432.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7205" Name="trollaporter_28" PosX="-279545" PosY="-1559.13" PosZ="15157" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7206" Name="trollaporter_29" PosX="-278585" PosY="-1611.34" PosZ="16162.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7207" Name="trollaporter_30" PosX="-278411" PosY="-1634.51" PosZ="16811.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7208" Name="trollaporter_31" PosX="-278670" PosY="-1505.39" PosZ="17408.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11156" Name="trollaporter_32" PosX="-277718" PosY="-1793.7" PosZ="16833" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11157" Name="trollaporter_33" PosX="-277668" PosY="-1784.31" PosZ="15994.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11158" Name="trollaporter_34" PosX="-277728" PosY="-1743.13" PosZ="15278" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11159" Name="trollaporter_35" PosX="-277831" PosY="-1709.42" PosZ="14529.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11160" Name="trollaporter_36" PosX="-278390" PosY="-1749.4" PosZ="13861" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11161" Name="trollaporter_37" PosX="-279096" PosY="-1839.21" PosZ="12860" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11162" Name="trollaporter_38" PosX="-279712" PosY="-1966.57" PosZ="11838.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11163" Name="trollaporter_39" PosX="-280308" PosY="-2049.08" PosZ="11128.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11164" Name="trollaporter_40" PosX="-281158" PosY="-2062.91" PosZ="10614.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11167" Name="trollaporter_41" PosX="-281976" PosY="-2096.81" PosZ="9412.56" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11168" Name="trollaporter_42" PosX="-282287" PosY="-2089.53" PosZ="8153.84" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11169" Name="trollaporter_43" PosX="-282226" PosY="-2035" PosZ="6684.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11170" Name="trollaporter_44" PosX="-283181" PosY="-2098.3" PosZ="6380.28" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11171" Name="trollaporter_45" PosX="-284699" PosY="-2390.26" PosZ="6744.99" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="7193" TargetWaypoint="7194"/>
+	<Link SourceWaypoint="7194" TargetWaypoint="7195"/>
+	<Link SourceWaypoint="7195" TargetWaypoint="7196"/>
+	<Link SourceWaypoint="7196" TargetWaypoint="7197"/>
+	<Link SourceWaypoint="7197" TargetWaypoint="7198"/>
+	<Link SourceWaypoint="7198" TargetWaypoint="7199"/>
+	<Link SourceWaypoint="7199" TargetWaypoint="7200"/>
+	<Link SourceWaypoint="7200" TargetWaypoint="7201"/>
+	<Link SourceWaypoint="7201" TargetWaypoint="7202"/>
+	<Link SourceWaypoint="7202" TargetWaypoint="7203"/>
+	<Link SourceWaypoint="7203" TargetWaypoint="7204"/>
+	<Link SourceWaypoint="7204" TargetWaypoint="7205"/>
+	<Link SourceWaypoint="7205" TargetWaypoint="7206"/>
+	<Link SourceWaypoint="7206" TargetWaypoint="7207"/>
+	<Link SourceWaypoint="7207" TargetWaypoint="7208"/>
+	<Link SourceWaypoint="7208" TargetWaypoint="11156"/>
+	<Link SourceWaypoint="11156" TargetWaypoint="11157"/>
+	<Link SourceWaypoint="11157" TargetWaypoint="11158"/>
+	<Link SourceWaypoint="11158" TargetWaypoint="11159"/>
+	<Link SourceWaypoint="11159" TargetWaypoint="11160"/>
+	<Link SourceWaypoint="11160" TargetWaypoint="11161"/>
+	<Link SourceWaypoint="11161" TargetWaypoint="11162"/>
+	<Link SourceWaypoint="11162" TargetWaypoint="11163"/>
+	<Link SourceWaypoint="11163" TargetWaypoint="11164"/>
+	<Link SourceWaypoint="11164" TargetWaypoint="11167"/>
+	<Link SourceWaypoint="11167" TargetWaypoint="11168"/>
+	<Link SourceWaypoint="11168" TargetWaypoint="11169"/>
+	<Link SourceWaypoint="11169" TargetWaypoint="11170"/>
+	<Link SourceWaypoint="11170" TargetWaypoint="11171"/>
+	<Link SourceWaypoint="11171" TargetWaypoint="7193"/>
+</LinkList>
+<GroupList>
+	<Group Key="21" Name="trollaporter_02"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

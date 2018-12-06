@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="bal_pirate_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13577" Name="Bal_Pirate_001" PosX="133148" PosY="-8200" PosZ="240831" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13578" Name="Bal_Pirate_002" PosX="138754" PosY="-8200" PosZ="242398" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13579" Name="Bal_Pirate_003" PosX="145929" PosY="-8200" PosZ="242633" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13580" Name="Bal_Pirate_004" PosX="152045" PosY="-8200" PosZ="239977" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13581" Name="Bal_Pirate_005" PosX="160803" PosY="-8200" PosZ="233803" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13582" Name="Bal_Pirate_006" PosX="169685" PosY="-8200" PosZ="223071" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13583" Name="Bal_Pirate_007" PosX="173314" PosY="-8200" PosZ="207853" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13584" Name="Bal_Pirate_008" PosX="173738" PosY="-8200" PosZ="195904" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13585" Name="Bal_Pirate_009" PosX="163268" PosY="-8200" PosZ="182945" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13586" Name="Bal_Pirate_010" PosX="131650" PosY="-8200" PosZ="172614" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13587" Name="Bal_Pirate_011" PosX="110627" PosY="-8200" PosZ="183380" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13588" Name="Bal_Pirate_012" PosX="106559" PosY="-8200" PosZ="198621" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13589" Name="Bal_Pirate_013" PosX="107422" PosY="-8200" PosZ="208596" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13590" Name="Bal_Pirate_014" PosX="110754" PosY="-8200" PosZ="220037" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13591" Name="Bal_Pirate_015" PosX="110618" PosY="-8200" PosZ="230270" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13592" Name="Bal_Pirate_016" PosX="107692" PosY="-8200" PosZ="241573" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13593" Name="Bal_Pirate_017" PosX="97408.6" PosY="-8200" PosZ="253449" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13594" Name="Bal_Pirate_018" PosX="86262.7" PosY="-8200" PosZ="258806" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13595" Name="Bal_Pirate_019" PosX="70435.4" PosY="-8200" PosZ="258787" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13596" Name="Bal_Pirate_020" PosX="62136.1" PosY="-8200" PosZ="253450" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13597" Name="Bal_Pirate_021" PosX="58218.3" PosY="-8200" PosZ="238166" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13598" Name="Bal_Pirate_022" PosX="59667.3" PosY="-8200" PosZ="226852" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13599" Name="Bal_Pirate_023" PosX="66314.5" PosY="-8200" PosZ="208210" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13600" Name="Bal_Pirate_024" PosX="78818.2" PosY="-8150" PosZ="198634" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13601" Name="Bal_Pirate_025" PosX="97015.7" PosY="-8200" PosZ="200978" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13602" Name="Bal_Pirate_026" PosX="103019" PosY="-8200" PosZ="208353" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13603" Name="Bal_Pirate_027" PosX="109194" PosY="-8200" PosZ="216601" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13604" Name="Bal_Pirate_028" PosX="115425" PosY="-8200" PosZ="226896" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13605" Name="Bal_Pirate_029" PosX="119083" PosY="-8200" PosZ="233018" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13606" Name="Bal_Pirate_030" PosX="124270" PosY="-8200" PosZ="237470" Property="water"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="13577" TargetWaypoint="13578"/>
+	<Link SourceWaypoint="13577" TargetWaypoint="13606"/>
+	<Link SourceWaypoint="13578" TargetWaypoint="13577"/>
+	<Link SourceWaypoint="13578" TargetWaypoint="13579"/>
+	<Link SourceWaypoint="13579" TargetWaypoint="13578"/>
+	<Link SourceWaypoint="13579" TargetWaypoint="13580"/>
+	<Link SourceWaypoint="13580" TargetWaypoint="13579"/>
+	<Link SourceWaypoint="13580" TargetWaypoint="13581"/>
+	<Link SourceWaypoint="13581" TargetWaypoint="13580"/>
+	<Link SourceWaypoint="13581" TargetWaypoint="13582"/>
+	<Link SourceWaypoint="13582" TargetWaypoint="13581"/>
+	<Link SourceWaypoint="13582" TargetWaypoint="13583"/>
+	<Link SourceWaypoint="13583" TargetWaypoint="13582"/>
+	<Link SourceWaypoint="13583" TargetWaypoint="13584"/>
+	<Link SourceWaypoint="13584" TargetWaypoint="13583"/>
+	<Link SourceWaypoint="13584" TargetWaypoint="13585"/>
+	<Link SourceWaypoint="13585" TargetWaypoint="13584"/>
+	<Link SourceWaypoint="13585" TargetWaypoint="13586"/>
+	<Link SourceWaypoint="13586" TargetWaypoint="13585"/>
+	<Link SourceWaypoint="13586" TargetWaypoint="13587"/>
+	<Link SourceWaypoint="13587" TargetWaypoint="13586"/>
+	<Link SourceWaypoint="13587" TargetWaypoint="13588"/>
+	<Link SourceWaypoint="13588" TargetWaypoint="13587"/>
+	<Link SourceWaypoint="13588" TargetWaypoint="13589"/>
+	<Link SourceWaypoint="13589" TargetWaypoint="13588"/>
+	<Link SourceWaypoint="13589" TargetWaypoint="13590"/>
+	<Link SourceWaypoint="13590" TargetWaypoint="13589"/>
+	<Link SourceWaypoint="13590" TargetWaypoint="13591"/>
+	<Link SourceWaypoint="13591" TargetWaypoint="13590"/>
+	<Link SourceWaypoint="13591" TargetWaypoint="13592"/>
+	<Link SourceWaypoint="13592" TargetWaypoint="13591"/>
+	<Link SourceWaypoint="13592" TargetWaypoint="13593"/>
+	<Link SourceWaypoint="13593" TargetWaypoint="13592"/>
+	<Link SourceWaypoint="13593" TargetWaypoint="13594"/>
+	<Link SourceWaypoint="13594" TargetWaypoint="13593"/>
+	<Link SourceWaypoint="13594" TargetWaypoint="13595"/>
+	<Link SourceWaypoint="13595" TargetWaypoint="13594"/>
+	<Link SourceWaypoint="13595" TargetWaypoint="13596"/>
+	<Link SourceWaypoint="13596" TargetWaypoint="13595"/>
+	<Link SourceWaypoint="13596" TargetWaypoint="13597"/>
+	<Link SourceWaypoint="13597" TargetWaypoint="13596"/>
+	<Link SourceWaypoint="13597" TargetWaypoint="13598"/>
+	<Link SourceWaypoint="13598" TargetWaypoint="13597"/>
+	<Link SourceWaypoint="13598" TargetWaypoint="13599"/>
+	<Link SourceWaypoint="13599" TargetWaypoint="13598"/>
+	<Link SourceWaypoint="13599" TargetWaypoint="13600"/>
+	<Link SourceWaypoint="13600" TargetWaypoint="13599"/>
+	<Link SourceWaypoint="13600" TargetWaypoint="13601"/>
+	<Link SourceWaypoint="13601" TargetWaypoint="13600"/>
+	<Link SourceWaypoint="13601" TargetWaypoint="13602"/>
+	<Link SourceWaypoint="13602" TargetWaypoint="13601"/>
+	<Link SourceWaypoint="13602" TargetWaypoint="13603"/>
+	<Link SourceWaypoint="13603" TargetWaypoint="13602"/>
+	<Link SourceWaypoint="13603" TargetWaypoint="13604"/>
+	<Link SourceWaypoint="13604" TargetWaypoint="13603"/>
+	<Link SourceWaypoint="13604" TargetWaypoint="13605"/>
+	<Link SourceWaypoint="13605" TargetWaypoint="13604"/>
+	<Link SourceWaypoint="13605" TargetWaypoint="13606"/>
+	<Link SourceWaypoint="13606" TargetWaypoint="13605"/>
+	<Link SourceWaypoint="13606" TargetWaypoint="13577"/>
+</LinkList>
+<GroupList>
+	<Group Key="110" Name="Bal_Pirate_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="med_guard_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14475" Name="Med_Guard_01_001" PosX="224418" PosY="-3475.93" PosZ="-59910" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14476" Name="Med_Guard_01_002" PosX="224522" PosY="-3431.34" PosZ="-61010.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14477" Name="Med_Guard_01_003" PosX="224757" PosY="-3395.45" PosZ="-61910.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14478" Name="Med_Guard_01_004" PosX="225099" PosY="-3405.82" PosZ="-62714" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14479" Name="Med_Guard_01_005" PosX="225569" PosY="-3441.44" PosZ="-63550" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14480" Name="Med_Guard_01_006" PosX="225769" PosY="-3478.45" PosZ="-63999.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14481" Name="Med_Guard_01_007" PosX="226169" PosY="-3527.49" PosZ="-64572.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14482" Name="Med_Guard_01_008" PosX="226612" PosY="-3588.32" PosZ="-65177.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14483" Name="Med_Guard_01_009" PosX="227259" PosY="-3673" PosZ="-65939.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14484" Name="Med_Guard_01_010" PosX="227857" PosY="-3742.36" PosZ="-66605.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14485" Name="Med_Guard_01_011" PosX="228306" PosY="-3777.56" PosZ="-67214.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14486" Name="Med_Guard_01_012" PosX="228360" PosY="-3831.36" PosZ="-68275.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14487" Name="Med_Guard_01_013" PosX="228368" PosY="-3868.27" PosZ="-69086.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14488" Name="Med_Guard_01_014" PosX="228340" PosY="-4032.34" PosZ="-70239.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14489" Name="Med_Guard_01_015" PosX="229038" PosY="-3974" PosZ="-69973.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14490" Name="Med_Guard_01_016" PosX="229851" PosY="-3932.1" PosZ="-69808.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14491" Name="Med_Guard_01_017" PosX="230805" PosY="-3904.05" PosZ="-69667.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14492" Name="Med_Guard_01_018" PosX="231564" PosY="-3894.64" PosZ="-69894.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14493" Name="Med_Guard_01_019" PosX="232488" PosY="-3835.81" PosZ="-70222.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14494" Name="Med_Guard_01_020" PosX="233469" PosY="-3761.09" PosZ="-70533.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14495" Name="Med_Guard_01_021" PosX="234616" PosY="-3601.81" PosZ="-70658.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14496" Name="Med_Guard_01_022" PosX="235828" PosY="-3505.29" PosZ="-70566" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14497" Name="Med_Guard_01_023" PosX="237003" PosY="-3410.38" PosZ="-70279.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14498" Name="Med_Guard_01_024" PosX="238251" PosY="-3266.91" PosZ="-69955.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14499" Name="Med_Guard_01_025" PosX="239439" PosY="-3118.79" PosZ="-69706.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14500" Name="Med_Guard_01_026" PosX="240679" PosY="-3018.48" PosZ="-69259.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14501" Name="Med_Guard_01_027" PosX="241749" PosY="-2922.28" PosZ="-68903.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14502" Name="Med_Guard_01_028" PosX="243152" PosY="-2847.17" PosZ="-68209.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14503" Name="Med_Guard_01_029" PosX="244227" PosY="-2806.42" PosZ="-67664" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14504" Name="Med_Guard_01_030" PosX="228872" PosY="-3803.55" PosZ="-67758.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14505" Name="Med_Guard_01_031" PosX="229411" PosY="-3828.52" PosZ="-68284.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14506" Name="Med_Guard_01_032" PosX="230317" PosY="-3873.16" PosZ="-69052.6" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="14475" TargetWaypoint="14476"/>
+	<Link SourceWaypoint="14476" TargetWaypoint="14475"/>
+	<Link SourceWaypoint="14476" TargetWaypoint="14477"/>
+	<Link SourceWaypoint="14477" TargetWaypoint="14476"/>
+	<Link SourceWaypoint="14477" TargetWaypoint="14478"/>
+	<Link SourceWaypoint="14478" TargetWaypoint="14477"/>
+	<Link SourceWaypoint="14478" TargetWaypoint="14479"/>
+	<Link SourceWaypoint="14479" TargetWaypoint="14478"/>
+	<Link SourceWaypoint="14479" TargetWaypoint="14480"/>
+	<Link SourceWaypoint="14480" TargetWaypoint="14479"/>
+	<Link SourceWaypoint="14480" TargetWaypoint="14481"/>
+	<Link SourceWaypoint="14481" TargetWaypoint="14480"/>
+	<Link SourceWaypoint="14481" TargetWaypoint="14482"/>
+	<Link SourceWaypoint="14482" TargetWaypoint="14481"/>
+	<Link SourceWaypoint="14482" TargetWaypoint="14483"/>
+	<Link SourceWaypoint="14483" TargetWaypoint="14482"/>
+	<Link SourceWaypoint="14483" TargetWaypoint="14484"/>
+	<Link SourceWaypoint="14484" TargetWaypoint="14483"/>
+	<Link SourceWaypoint="14484" TargetWaypoint="14485"/>
+	<Link SourceWaypoint="14485" TargetWaypoint="14484"/>
+	<Link SourceWaypoint="14485" TargetWaypoint="14486"/>
+	<Link SourceWaypoint="14485" TargetWaypoint="14504"/>
+	<Link SourceWaypoint="14486" TargetWaypoint="14485"/>
+	<Link SourceWaypoint="14486" TargetWaypoint="14487"/>
+	<Link SourceWaypoint="14487" TargetWaypoint="14486"/>
+	<Link SourceWaypoint="14487" TargetWaypoint="14488"/>
+	<Link SourceWaypoint="14488" TargetWaypoint="14487"/>
+	<Link SourceWaypoint="14488" TargetWaypoint="14489"/>
+	<Link SourceWaypoint="14489" TargetWaypoint="14488"/>
+	<Link SourceWaypoint="14489" TargetWaypoint="14490"/>
+	<Link SourceWaypoint="14490" TargetWaypoint="14489"/>
+	<Link SourceWaypoint="14490" TargetWaypoint="14491"/>
+	<Link SourceWaypoint="14491" TargetWaypoint="14490"/>
+	<Link SourceWaypoint="14491" TargetWaypoint="14492"/>
+	<Link SourceWaypoint="14492" TargetWaypoint="14491"/>
+	<Link SourceWaypoint="14492" TargetWaypoint="14493"/>
+	<Link SourceWaypoint="14492" TargetWaypoint="14506"/>
+	<Link SourceWaypoint="14493" TargetWaypoint="14492"/>
+	<Link SourceWaypoint="14493" TargetWaypoint="14494"/>
+	<Link SourceWaypoint="14494" TargetWaypoint="14493"/>
+	<Link SourceWaypoint="14494" TargetWaypoint="14495"/>
+	<Link SourceWaypoint="14495" TargetWaypoint="14494"/>
+	<Link SourceWaypoint="14495" TargetWaypoint="14496"/>
+	<Link SourceWaypoint="14496" TargetWaypoint="14495"/>
+	<Link SourceWaypoint="14496" TargetWaypoint="14497"/>
+	<Link SourceWaypoint="14497" TargetWaypoint="14496"/>
+	<Link SourceWaypoint="14497" TargetWaypoint="14498"/>
+	<Link SourceWaypoint="14498" TargetWaypoint="14497"/>
+	<Link SourceWaypoint="14498" TargetWaypoint="14499"/>
+	<Link SourceWaypoint="14499" TargetWaypoint="14498"/>
+	<Link SourceWaypoint="14499" TargetWaypoint="14500"/>
+	<Link SourceWaypoint="14500" TargetWaypoint="14499"/>
+	<Link SourceWaypoint="14500" TargetWaypoint="14501"/>
+	<Link SourceWaypoint="14501" TargetWaypoint="14500"/>
+	<Link SourceWaypoint="14501" TargetWaypoint="14502"/>
+	<Link SourceWaypoint="14502" TargetWaypoint="14501"/>
+	<Link SourceWaypoint="14502" TargetWaypoint="14503"/>
+	<Link SourceWaypoint="14503" TargetWaypoint="14502"/>
+	<Link SourceWaypoint="14504" TargetWaypoint="14485"/>
+	<Link SourceWaypoint="14504" TargetWaypoint="14505"/>
+	<Link SourceWaypoint="14505" TargetWaypoint="14504"/>
+	<Link SourceWaypoint="14505" TargetWaypoint="14506"/>
+	<Link SourceWaypoint="14506" TargetWaypoint="14505"/>
+	<Link SourceWaypoint="14506" TargetWaypoint="14492"/>
+</LinkList>
+<GroupList>
+	<Group Key="131" Name="Med_Guard_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

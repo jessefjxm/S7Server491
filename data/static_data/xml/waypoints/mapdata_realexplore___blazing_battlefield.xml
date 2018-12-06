@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="explore" subName="blazing_battlefield">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="True" Key="1378" Name="field(blazing_battlefield)" PosX="336868" PosY="-4180.25" PosZ="607477" Property="ground"/>
+</WaypointList>
+<LinkList/>
+<GroupList>
+	<Group Key="1" Name="Blazing_Battlefield"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

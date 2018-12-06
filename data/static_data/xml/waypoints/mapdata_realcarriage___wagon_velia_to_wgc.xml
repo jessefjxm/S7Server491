@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="carriage" subName="wagon_velia_to_wgc">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4401" Name="Wagon_Velia_to_WGC_001" PosX="7410.17" PosY="-7204.33" PosZ="78240" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4402" Name="Wagon_Velia_to_WGC_002" PosX="7459.67" PosY="-7217.04" PosZ="78942.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4403" Name="Wagon_Velia_to_WGC_003" PosX="7380.99" PosY="-7244.19" PosZ="79754.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4404" Name="Wagon_Velia_to_WGC_004" PosX="6863.58" PosY="-7276.87" PosZ="80327.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4405" Name="Wagon_Velia_to_WGC_005" PosX="5769.3" PosY="-7301.46" PosZ="80453.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4406" Name="Wagon_Velia_to_WGC_006" PosX="4720.72" PosY="-7306.04" PosZ="80537.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4407" Name="Wagon_Velia_to_WGC_007" PosX="3784.41" PosY="-7309.66" PosZ="80665.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4408" Name="Wagon_Velia_to_WGC_008" PosX="2488.9" PosY="-7307.64" PosZ="81061.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4409" Name="Wagon_Velia_to_WGC_009" PosX="1302.75" PosY="-7278.69" PosZ="81296.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4410" Name="Wagon_Velia_to_WGC_010" PosX="403.388" PosY="-7233.18" PosZ="81463" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4411" Name="Wagon_Velia_to_WGC_011" PosX="-600.493" PosY="-7132.97" PosZ="81539.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4412" Name="Wagon_Velia_to_WGC_012" PosX="-1780.27" PosY="-6877.39" PosZ="81500.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4413" Name="Wagon_Velia_to_WGC_013" PosX="-2178.9" PosY="-6784.54" PosZ="81476.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4414" Name="Wagon_Velia_to_WGC_014" PosX="-3150.13" PosY="-6590.31" PosZ="81681.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4415" Name="Wagon_Velia_to_WGC_015" PosX="-4035.26" PosY="-6325.86" PosZ="82387.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4416" Name="Wagon_Velia_to_WGC_016" PosX="-5096.69" PosY="-6067" PosZ="83506" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4417" Name="Wagon_Velia_to_WGC_017" PosX="-5882.29" PosY="-5971.88" PosZ="84226.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4418" Name="Wagon_Velia_to_WGC_018" PosX="-7309.18" PosY="-5907.48" PosZ="85374.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4419" Name="Wagon_Velia_to_WGC_019" PosX="-8151.73" PosY="-5925.85" PosZ="86063.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4420" Name="Wagon_Velia_to_WGC_020" PosX="-9388.27" PosY="-5922.78" PosZ="86518.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4421" Name="Wagon_Velia_to_WGC_021" PosX="-10320.5" PosY="-5886.78" PosZ="86638.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4422" Name="Wagon_Velia_to_WGC_022" PosX="-11671.4" PosY="-5718.95" PosZ="86555.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4423" Name="Wagon_Velia_to_WGC_023" PosX="-12876" PosY="-5498.52" PosZ="86450.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4424" Name="Wagon_Velia_to_WGC_024" PosX="-14106.2" PosY="-5209.33" PosZ="86365" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4425" Name="Wagon_Velia_to_WGC_025" PosX="-15037.4" PosY="-5092.58" PosZ="86473" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4426" Name="Wagon_Velia_to_WGC_026" PosX="-16978.7" PosY="-4926.36" PosZ="86752.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4427" Name="Wagon_Velia_to_WGC_027" PosX="-18601.1" PosY="-4974.62" PosZ="86970" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4428" Name="Wagon_Velia_to_WGC_028" PosX="-20094.2" PosY="-5001.7" PosZ="87039.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4429" Name="Wagon_Velia_to_WGC_029" PosX="-21131.4" PosY="-5082.4" PosZ="87035.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4430" Name="Wagon_Velia_to_WGC_030" PosX="-22981.2" PosY="-5116.8" PosZ="87032.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4431" Name="Wagon_Velia_to_WGC_031" PosX="-25149.7" PosY="-5101.23" PosZ="87059.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4432" Name="Wagon_Velia_to_WGC_032" PosX="-27896.3" PosY="-5128.14" PosZ="87443.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4433" Name="Wagon_Velia_to_WGC_033" PosX="-30099.2" PosY="-5128.13" PosZ="88372.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4434" Name="Wagon_Velia_to_WGC_034" PosX="-32454.7" PosY="-5131.04" PosZ="89098.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4435" Name="Wagon_Velia_to_WGC_035" PosX="-35691.2" PosY="-5221.24" PosZ="89836.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4436" Name="Wagon_Velia_to_WGC_036" PosX="-38975.1" PosY="-5265.83" PosZ="90323.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4437" Name="Wagon_Velia_to_WGC_037" PosX="-41857.8" PosY="-5328.97" PosZ="90743.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4438" Name="Wagon_Velia_to_WGC_038" PosX="-45050.1" PosY="-5304.71" PosZ="91335.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4439" Name="Wagon_Velia_to_WGC_039" PosX="-47454.6" PosY="-5276.95" PosZ="92129.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4440" Name="Wagon_Velia_to_WGC_040" PosX="-49894.3" PosY="-5172.19" PosZ="93552.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4441" Name="Wagon_Velia_to_WGC_041" PosX="-51713.4" PosY="-5084.78" PosZ="94229.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4442" Name="Wagon_Velia_to_WGC_042" PosX="-53468.2" PosY="-5189.22" PosZ="94529.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4443" Name="Wagon_Velia_to_WGC_043" PosX="-55338.9" PosY="-5230.47" PosZ="94529.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4444" Name="Wagon_Velia_to_WGC_044" PosX="-57482.6" PosY="-5254.6" PosZ="93816.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4445" Name="Wagon_Velia_to_WGC_045" PosX="-58707.5" PosY="-5325.58" PosZ="92954.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4446" Name="Wagon_Velia_to_WGC_046" PosX="-59784.1" PosY="-5331.7" PosZ="92897.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4447" Name="Wagon_Velia_to_WGC_047" PosX="-60790.3" PosY="-5247.12" PosZ="93684.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4448" Name="Wagon_Velia_to_WGC_048" PosX="-61148.8" PosY="-4964.01" PosZ="95088.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4449" Name="Wagon_Velia_to_WGC_049" PosX="-61029.4" PosY="-4672.28" PosZ="96346.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4450" Name="Wagon_Velia_to_WGC_050" PosX="-60978.1" PosY="-4353.42" PosZ="97751.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4451" Name="Wagon_Velia_to_WGC_051" PosX="-61006.8" PosY="-4255.73" PosZ="98734.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4452" Name="Wagon_Velia_to_WGC_052" PosX="-61760.6" PosY="-4097.09" PosZ="99743.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4453" Name="Wagon_Velia_to_WGC_053" PosX="-62779.3" PosY="-3972.66" PosZ="100148" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4454" Name="Wagon_Velia_to_WGC_054" PosX="-63945.7" PosY="-3703.29" PosZ="100363" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4455" Name="Wagon_Velia_to_WGC_055" PosX="-66259.7" PosY="-3148.23" PosZ="101239" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4456" Name="Wagon_Velia_to_WGC_056" PosX="-68164.4" PosY="-2753.98" PosZ="101844" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4457" Name="Wagon_Velia_to_WGC_057" PosX="-69767.9" PosY="-2580.16" PosZ="102355" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4458" Name="Wagon_Velia_to_WGC_058" PosX="-71142" PosY="-2649.04" PosZ="102702" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4459" Name="Wagon_Velia_to_WGC_059" PosX="-72304.9" PosY="-2789.7" PosZ="102475" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4460" Name="Wagon_Velia_to_WGC_060" PosX="-73520.5" PosY="-2910.36" PosZ="101483" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4461" Name="Wagon_Velia_to_WGC_061" PosX="-74558.5" PosY="-3158.4" PosZ="99965.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4462" Name="Wagon_Velia_to_WGC_062" PosX="-75507.3" PosY="-3688.27" PosZ="98113.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4463" Name="Wagon_Velia_to_WGC_063" PosX="-76568.4" PosY="-4397.17" PosZ="95458.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4464" Name="Wagon_Velia_to_WGC_064" PosX="-77054.6" PosY="-4771.17" PosZ="93416.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4465" Name="Wagon_Velia_to_WGC_065" PosX="-77468.9" PosY="-4783.94" PosZ="91405" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4466" Name="Wagon_Velia_to_WGC_066" PosX="-78015.5" PosY="-4723.36" PosZ="89272.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4467" Name="Wagon_Velia_to_WGC_067" PosX="-79117.2" PosY="-4649.95" PosZ="87305.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4468" Name="Wagon_Velia_to_WGC_068" PosX="-80178.5" PosY="-4608.78" PosZ="84964.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4469" Name="Wagon_Velia_to_WGC_069" PosX="-81619.7" PosY="-4542.35" PosZ="82545.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4470" Name="Wagon_Velia_to_WGC_070" PosX="-81864.2" PosY="-4507.68" PosZ="79651.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4471" Name="Wagon_Velia_to_WGC_071" PosX="-81925.4" PosY="-4524.14" PosZ="77134.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4472" Name="Wagon_Velia_to_WGC_072" PosX="-81469.9" PosY="-4504.1" PosZ="73937.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4473" Name="Wagon_Velia_to_WGC_073" PosX="-80714.7" PosY="-4509.01" PosZ="71915.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4474" Name="Wagon_Velia_to_WGC_074" PosX="-78987.8" PosY="-4395.69" PosZ="70456.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4475" Name="Wagon_Velia_to_WGC_075" PosX="-77270.8" PosY="-4224.27" PosZ="69644.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4476" Name="Wagon_Velia_to_WGC_076" PosX="-74313.1" PosY="-3986.35" PosZ="68722.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4477" Name="Wagon_Velia_to_WGC_077" PosX="-72470.6" PosY="-3858.66" PosZ="67262.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4478" Name="Wagon_Velia_to_WGC_078" PosX="-70799.9" PosY="-3798.06" PosZ="65335.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4479" Name="Wagon_Velia_to_WGC_079" PosX="-70085.2" PosY="-3887.15" PosZ="63245.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4480" Name="Wagon_Velia_to_WGC_080" PosX="-70246.4" PosY="-4085.46" PosZ="60625" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4481" Name="Wagon_Velia_to_WGC_081" PosX="-71408.4" PosY="-4199.33" PosZ="58104" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4482" Name="Wagon_Velia_to_WGC_082" PosX="-73842.6" PosY="-4145" PosZ="55944.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4483" Name="Wagon_Velia_to_WGC_083" PosX="-76805.8" PosY="-4206.04" PosZ="53921.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4484" Name="Wagon_Velia_to_WGC_084" PosX="-78951.9" PosY="-4312.62" PosZ="52059.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4485" Name="Wagon_Velia_to_WGC_085" PosX="-79460.5" PosY="-4369.4" PosZ="51215.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4486" Name="Wagon_Velia_to_WGC_086" PosX="-79463.9" PosY="-4385.71" PosZ="50235.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4487" Name="Wagon_Velia_to_WGC_087" PosX="-78743.3" PosY="-4401.77" PosZ="48858.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4488" Name="Wagon_Velia_to_WGC_088" PosX="-77357.2" PosY="-4353.68" PosZ="47716.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4489" Name="Wagon_Velia_to_WGC_089" PosX="-75540.6" PosY="-4250.19" PosZ="46651.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4490" Name="Wagon_Velia_to_WGC_090" PosX="-73272.6" PosY="-4244.95" PosZ="45668.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4491" Name="Wagon_Velia_to_WGC_091" PosX="-71623.2" PosY="-4218.76" PosZ="44950.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4492" Name="Wagon_Velia_to_WGC_092" PosX="-70414.6" PosY="-4234.14" PosZ="44467" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4493" Name="Wagon_Velia_to_WGC_093" PosX="-69081.6" PosY="-4211.33" PosZ="43878.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4494" Name="Wagon_Velia_to_WGC_094" PosX="-68189.8" PosY="-4260.96" PosZ="43374.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4495" Name="Wagon_Velia_to_WGC_095" PosX="-66804" PosY="-4356.77" PosZ="42815.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4496" Name="Wagon_Velia_to_WGC_096" PosX="-65363.4" PosY="-4375.77" PosZ="42415.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4497" Name="Wagon_Velia_to_WGC_097" PosX="-64602" PosY="-4386.58" PosZ="42502.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4498" Name="Wagon_Velia_to_WGC_098" PosX="-63723.3" PosY="-4369.5" PosZ="42702.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4499" Name="Wagon_Velia_to_WGC_099" PosX="-62806" PosY="-4340.36" PosZ="43206.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4500" Name="Wagon_Velia_to_WGC_100" PosX="-61720.7" PosY="-4321.25" PosZ="44066.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4501" Name="Wagon_Velia_to_WGC_101" PosX="-60846.6" PosY="-4241.68" PosZ="45114.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4502" Name="Wagon_Velia_to_WGC_102" PosX="-59898.5" PosY="-4213.23" PosZ="45644.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4503" Name="Wagon_Velia_to_WGC_103" PosX="-58704.2" PosY="-4211.36" PosZ="45780.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4504" Name="Wagon_Velia_to_WGC_104" PosX="-57093.6" PosY="-4219.73" PosZ="45864.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4505" Name="Wagon_Velia_to_WGC_105" PosX="-56117.6" PosY="-4223.15" PosZ="45808.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4506" Name="Wagon_Velia_to_WGC_106" PosX="-55192.9" PosY="-4173.08" PosZ="45835.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4507" Name="Wagon_Velia_to_WGC_107" PosX="-53972.6" PosY="-4185.76" PosZ="45872.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4508" Name="Wagon_Velia_to_WGC_108" PosX="-52192.4" PosY="-4158.17" PosZ="45908.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4509" Name="Wagon_Velia_to_WGC_109" PosX="-50671" PosY="-4145.48" PosZ="45953.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4510" Name="Wagon_Velia_to_WGC_110" PosX="-47983.6" PosY="-4139.67" PosZ="45927.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4511" Name="Wagon_Velia_to_WGC_111" PosX="-46726.6" PosY="-4050.06" PosZ="46122.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4512" Name="Wagon_Velia_to_WGC_112" PosX="-46192.2" PosY="-4060.77" PosZ="46361.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4513" Name="Wagon_Velia_to_WGC_113" PosX="-45977.4" PosY="-4038.39" PosZ="46756.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4514" Name="Wagon_Velia_to_WGC_114" PosX="-46025.9" PosY="-4029.12" PosZ="47283.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4515" Name="Wagon_Velia_to_WGC_115" PosX="-46302" PosY="-4024.51" PosZ="47761.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4516" Name="Wagon_Velia_to_WGC_116" PosX="-46729" PosY="-4024.19" PosZ="48269.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4517" Name="Wagon_Velia_to_WGC_117" PosX="-47214.7" PosY="-4029.19" PosZ="49037.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4518" Name="Wagon_Velia_to_WGC_118" PosX="-47722.8" PosY="-4040.63" PosZ="50221.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4519" Name="Wagon_Velia_to_WGC_119" PosX="-48245.3" PosY="-4002.13" PosZ="51830.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4520" Name="Wagon_Velia_to_WGC_120" PosX="-48485.9" PosY="-3891.16" PosZ="53491.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4521" Name="Wagon_Velia_to_WGC_121" PosX="-48847.7" PosY="-3683.95" PosZ="55251.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4522" Name="Wagon_Velia_to_WGC_122" PosX="-49211.5" PosY="-3514.03" PosZ="56764.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4523" Name="Wagon_Velia_to_WGC_123" PosX="-49915.2" PosY="-3449.87" PosZ="58282.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4524" Name="Wagon_Velia_to_WGC_124" PosX="-50903.9" PosY="-3480.32" PosZ="59436.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4525" Name="Wagon_Velia_to_WGC_125" PosX="-52073.3" PosY="-3523.26" PosZ="60043.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4526" Name="Wagon_Velia_to_WGC_126" PosX="-53302.1" PosY="-3521.34" PosZ="60455.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4527" Name="Wagon_Velia_to_WGC_127" PosX="-54564.4" PosY="-3487.55" PosZ="60856.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4528" Name="Wagon_Velia_to_WGC_128" PosX="-55819.3" PosY="-3433.89" PosZ="61654" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4529" Name="Wagon_Velia_to_WGC_129" PosX="-57201.3" PosY="-3422.78" PosZ="62945.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4530" Name="Wagon_Velia_to_WGC_130" PosX="-58723.3" PosY="-3433.64" PosZ="64856.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4531" Name="Wagon_Velia_to_WGC_131" PosX="-59839.9" PosY="-3350.69" PosZ="66391.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4532" Name="Wagon_Velia_to_WGC_132" PosX="-60108.4" PosY="-3355.6" PosZ="66949.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4533" Name="Wagon_Velia_to_WGC_133" PosX="-60146.8" PosY="-3362.26" PosZ="67516.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4534" Name="Wagon_Velia_to_WGC_134" PosX="-59917.8" PosY="-3340.28" PosZ="68100.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4535" Name="Wagon_Velia_to_WGC_135" PosX="-59529.8" PosY="-3289.39" PosZ="68594.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4536" Name="Wagon_Velia_to_WGC_136" PosX="-58520.7" PosY="-3230.15" PosZ="69005.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4537" Name="Wagon_Velia_to_WGC_137" PosX="-56636.5" PosY="-3007.92" PosZ="70092.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4538" Name="Wagon_Velia_to_WGC_138" PosX="-54894.3" PosY="-2709.52" PosZ="71092.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4539" Name="Wagon_Velia_to_WGC_139" PosX="-53196.2" PosY="-2490.39" PosZ="71903.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4540" Name="Wagon_Velia_to_WGC_140" PosX="-51476.1" PosY="-2530.57" PosZ="72316.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4541" Name="Wagon_Velia_to_WGC_141" PosX="-49464" PosY="-2625.24" PosZ="72188" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4542" Name="Wagon_Velia_to_WGC_142" PosX="-47370.7" PosY="-2655" PosZ="71865.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4543" Name="Wagon_Velia_to_WGC_143" PosX="-45628.8" PosY="-2609.45" PosZ="71593.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4544" Name="Wagon_Velia_to_WGC_144" PosX="-44259" PosY="-2455.59" PosZ="71996.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4545" Name="Wagon_Velia_to_WGC_145" PosX="-43505" PosY="-2291.24" PosZ="72905.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4546" Name="Wagon_Velia_to_WGC_146" PosX="-42967.9" PosY="-2156.62" PosZ="73845.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4547" Name="Wagon_Velia_to_WGC_147" PosX="-42409.2" PosY="-2080.85" PosZ="74561.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4548" Name="Wagon_Velia_to_WGC_148" PosX="-41204.7" PosY="-2086.97" PosZ="74974.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4549" Name="Wagon_Velia_to_WGC_149" PosX="-40163.9" PosY="-2131.49" PosZ="74788.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4550" Name="Wagon_Velia_to_WGC_150" PosX="-39310" PosY="-2134.33" PosZ="74173.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4551" Name="Wagon_Velia_to_WGC_151" PosX="-38153.1" PosY="-2145.79" PosZ="73352.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4552" Name="Wagon_Velia_to_WGC_152" PosX="-36816.3" PosY="-2248.81" PosZ="72760.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4553" Name="Wagon_Velia_to_WGC_153" PosX="-35797.2" PosY="-2396.64" PosZ="72639.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4554" Name="Wagon_Velia_to_WGC_154" PosX="-33919" PosY="-2722.66" PosZ="72757.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4555" Name="Wagon_Velia_to_WGC_155" PosX="-32710.7" PosY="-2862.6" PosZ="73337.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4556" Name="Wagon_Velia_to_WGC_156" PosX="-31717.1" PosY="-2963.65" PosZ="74526.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4557" Name="Wagon_Velia_to_WGC_157" PosX="-31103.4" PosY="-3024.25" PosZ="75189.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4558" Name="Wagon_Velia_to_WGC_158" PosX="-30379.1" PosY="-3114.88" PosZ="75680" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4559" Name="Wagon_Velia_to_WGC_159" PosX="-29559.5" PosY="-3240.43" PosZ="75765.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4560" Name="Wagon_Velia_to_WGC_160" PosX="-28225.6" PosY="-3476.82" PosZ="75053.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4561" Name="Wagon_Velia_to_WGC_161" PosX="-26355.7" PosY="-3724.39" PosZ="74329.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4562" Name="Wagon_Velia_to_WGC_162" PosX="-24288.4" PosY="-3965.89" PosZ="73786.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4563" Name="Wagon_Velia_to_WGC_163" PosX="-21838.1" PosY="-4175.19" PosZ="73271.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4564" Name="Wagon_Velia_to_WGC_164" PosX="-20295" PosY="-4275.64" PosZ="73066.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4565" Name="Wagon_Velia_to_WGC_165" PosX="-19284.8" PosY="-4325" PosZ="73106.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4566" Name="Wagon_Velia_to_WGC_166" PosX="-18620.6" PosY="-4322.46" PosZ="73011.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4567" Name="Wagon_Velia_to_WGC_167" PosX="-18015.7" PosY="-4340.15" PosZ="72559.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4568" Name="Wagon_Velia_to_WGC_168" PosX="-17869.4" PosY="-4369.08" PosZ="71710.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4569" Name="Wagon_Velia_to_WGC_169" PosX="-17953.1" PosY="-4396.28" PosZ="70061.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4570" Name="Wagon_Velia_to_WGC_170" PosX="-18039" PosY="-4399.7" PosZ="68128.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4571" Name="Wagon_Velia_to_WGC_171" PosX="-17989.3" PosY="-4358.87" PosZ="66572" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4572" Name="Wagon_Velia_to_WGC_172" PosX="-17273.5" PosY="-4343.67" PosZ="65521" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4573" Name="Wagon_Velia_to_WGC_173" PosX="-15672.4" PosY="-4349.48" PosZ="65046.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4574" Name="Wagon_Velia_to_WGC_174" PosX="-14101.8" PosY="-4392.92" PosZ="65037" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4575" Name="Wagon_Velia_to_WGC_175" PosX="-12412.7" PosY="-4582.74" PosZ="64775.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4576" Name="Wagon_Velia_to_WGC_176" PosX="-10526.7" PosY="-4665.51" PosZ="64279.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4577" Name="Wagon_Velia_to_WGC_177" PosX="-9487.61" PosY="-4669.85" PosZ="64212.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4578" Name="Wagon_Velia_to_WGC_178" PosX="-8209.36" PosY="-4724.61" PosZ="64427.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4579" Name="Wagon_Velia_to_WGC_179" PosX="-6694.16" PosY="-4908.44" PosZ="65049.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4580" Name="Wagon_Velia_to_WGC_180" PosX="-5165.55" PosY="-5219.75" PosZ="65804.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4581" Name="Wagon_Velia_to_WGC_181" PosX="-3419.33" PosY="-5589.2" PosZ="66235.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4582" Name="Wagon_Velia_to_WGC_182" PosX="-1441.68" PosY="-5816.03" PosZ="66691.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4583" Name="Wagon_Velia_to_WGC_183" PosX="809.01" PosY="-6116.5" PosZ="67416.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4584" Name="Wagon_Velia_to_WGC_184" PosX="2074.28" PosY="-6261.67" PosZ="67906.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4585" Name="Wagon_Velia_to_WGC_185" PosX="3007.39" PosY="-6340.71" PosZ="68547.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4586" Name="Wagon_Velia_to_WGC_186" PosX="3625.76" PosY="-6404.54" PosZ="69062.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4587" Name="Wagon_Velia_to_WGC_187" PosX="4639.41" PosY="-6482.05" PosZ="69917.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4588" Name="Wagon_Velia_to_WGC_188" PosX="5804.22" PosY="-6520.74" PosZ="70829.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4589" Name="Wagon_Velia_to_WGC_189" PosX="6997.8" PosY="-6547" PosZ="71893.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4590" Name="Wagon_Velia_to_WGC_190" PosX="7592.58" PosY="-6559.89" PosZ="72839.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4591" Name="Wagon_Velia_to_WGC_191" PosX="7949.25" PosY="-6730.08" PosZ="74337.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4592" Name="Wagon_Velia_to_WGC_192" PosX="7900.38" PosY="-7023.53" PosZ="75823.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="4593" Name="Wagon_Velia_to_WGC_193" PosX="7519.76" PosY="-7167.02" PosZ="77172.6" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="4401" TargetWaypoint="4402"/>
+	<Link SourceWaypoint="4402" TargetWaypoint="4403"/>
+	<Link SourceWaypoint="4403" TargetWaypoint="4404"/>
+	<Link SourceWaypoint="4404" TargetWaypoint="4405"/>
+	<Link SourceWaypoint="4405" TargetWaypoint="4406"/>
+	<Link SourceWaypoint="4406" TargetWaypoint="4407"/>
+	<Link SourceWaypoint="4407" TargetWaypoint="4408"/>
+	<Link SourceWaypoint="4408" TargetWaypoint="4409"/>
+	<Link SourceWaypoint="4409" TargetWaypoint="4410"/>
+	<Link SourceWaypoint="4410" TargetWaypoint="4411"/>
+	<Link SourceWaypoint="4411" TargetWaypoint="4412"/>
+	<Link SourceWaypoint="4412" TargetWaypoint="4413"/>
+	<Link SourceWaypoint="4413" TargetWaypoint="4414"/>
+	<Link SourceWaypoint="4414" TargetWaypoint="4415"/>
+	<Link SourceWaypoint="4415" TargetWaypoint="4416"/>
+	<Link SourceWaypoint="4416" TargetWaypoint="4417"/>
+	<Link SourceWaypoint="4417" TargetWaypoint="4418"/>
+	<Link SourceWaypoint="4418" TargetWaypoint="4419"/>
+	<Link SourceWaypoint="4419" TargetWaypoint="4420"/>
+	<Link SourceWaypoint="4420" TargetWaypoint="4421"/>
+	<Link SourceWaypoint="4421" TargetWaypoint="4422"/>
+	<Link SourceWaypoint="4422" TargetWaypoint="4423"/>
+	<Link SourceWaypoint="4423" TargetWaypoint="4424"/>
+	<Link SourceWaypoint="4424" TargetWaypoint="4425"/>
+	<Link SourceWaypoint="4425" TargetWaypoint="4426"/>
+	<Link SourceWaypoint="4426" TargetWaypoint="4427"/>
+	<Link SourceWaypoint="4427" TargetWaypoint="4428"/>
+	<Link SourceWaypoint="4428" TargetWaypoint="4429"/>
+	<Link SourceWaypoint="4429" TargetWaypoint="4430"/>
+	<Link SourceWaypoint="4430" TargetWaypoint="4431"/>
+	<Link SourceWaypoint="4431" TargetWaypoint="4432"/>
+	<Link SourceWaypoint="4432" TargetWaypoint="4433"/>
+	<Link SourceWaypoint="4433" TargetWaypoint="4434"/>
+	<Link SourceWaypoint="4434" TargetWaypoint="4435"/>
+	<Link SourceWaypoint="4435" TargetWaypoint="4436"/>
+	<Link SourceWaypoint="4436" TargetWaypoint="4437"/>
+	<Link SourceWaypoint="4437" TargetWaypoint="4438"/>
+	<Link SourceWaypoint="4438" TargetWaypoint="4439"/>
+	<Link SourceWaypoint="4439" TargetWaypoint="4440"/>
+	<Link SourceWaypoint="4440" TargetWaypoint="4441"/>
+	<Link SourceWaypoint="4441" TargetWaypoint="4442"/>
+	<Link SourceWaypoint="4442" TargetWaypoint="4443"/>
+	<Link SourceWaypoint="4443" TargetWaypoint="4444"/>
+	<Link SourceWaypoint="4444" TargetWaypoint="4445"/>
+	<Link SourceWaypoint="4445" TargetWaypoint="4446"/>
+	<Link SourceWaypoint="4446" TargetWaypoint="4447"/>
+	<Link SourceWaypoint="4447" TargetWaypoint="4448"/>
+	<Link SourceWaypoint="4448" TargetWaypoint="4449"/>
+	<Link SourceWaypoint="4449" TargetWaypoint="4450"/>
+	<Link SourceWaypoint="4450" TargetWaypoint="4451"/>
+	<Link SourceWaypoint="4451" TargetWaypoint="4452"/>
+	<Link SourceWaypoint="4452" TargetWaypoint="4453"/>
+	<Link SourceWaypoint="4453" TargetWaypoint="4454"/>
+	<Link SourceWaypoint="4454" TargetWaypoint="4455"/>
+	<Link SourceWaypoint="4455" TargetWaypoint="4456"/>
+	<Link SourceWaypoint="4456" TargetWaypoint="4457"/>
+	<Link SourceWaypoint="4457" TargetWaypoint="4458"/>
+	<Link SourceWaypoint="4458" TargetWaypoint="4459"/>
+	<Link SourceWaypoint="4459" TargetWaypoint="4460"/>
+	<Link SourceWaypoint="4460" TargetWaypoint="4461"/>
+	<Link SourceWaypoint="4461" TargetWaypoint="4462"/>
+	<Link SourceWaypoint="4462" TargetWaypoint="4463"/>
+	<Link SourceWaypoint="4463" TargetWaypoint="4464"/>
+	<Link SourceWaypoint="4464" TargetWaypoint="4465"/>
+	<Link SourceWaypoint="4465" TargetWaypoint="4466"/>
+	<Link SourceWaypoint="4466" TargetWaypoint="4467"/>
+	<Link SourceWaypoint="4467" TargetWaypoint="4468"/>
+	<Link SourceWaypoint="4468" TargetWaypoint="4469"/>
+	<Link SourceWaypoint="4469" TargetWaypoint="4470"/>
+	<Link SourceWaypoint="4470" TargetWaypoint="4471"/>
+	<Link SourceWaypoint="4471" TargetWaypoint="4472"/>
+	<Link SourceWaypoint="4472" TargetWaypoint="4473"/>
+	<Link SourceWaypoint="4473" TargetWaypoint="4474"/>
+	<Link SourceWaypoint="4474" TargetWaypoint="4475"/>
+	<Link SourceWaypoint="4475" TargetWaypoint="4476"/>
+	<Link SourceWaypoint="4476" TargetWaypoint="4477"/>
+	<Link SourceWaypoint="4477" TargetWaypoint="4478"/>
+	<Link SourceWaypoint="4478" TargetWaypoint="4479"/>
+	<Link SourceWaypoint="4479" TargetWaypoint="4480"/>
+	<Link SourceWaypoint="4480" TargetWaypoint="4481"/>
+	<Link SourceWaypoint="4481" TargetWaypoint="4482"/>
+	<Link SourceWaypoint="4482" TargetWaypoint="4483"/>
+	<Link SourceWaypoint="4483" TargetWaypoint="4484"/>
+	<Link SourceWaypoint="4484" TargetWaypoint="4485"/>
+	<Link SourceWaypoint="4485" TargetWaypoint="4486"/>
+	<Link SourceWaypoint="4486" TargetWaypoint="4487"/>
+	<Link SourceWaypoint="4487" TargetWaypoint="4488"/>
+	<Link SourceWaypoint="4488" TargetWaypoint="4489"/>
+	<Link SourceWaypoint="4489" TargetWaypoint="4490"/>
+	<Link SourceWaypoint="4490" TargetWaypoint="4491"/>
+	<Link SourceWaypoint="4491" TargetWaypoint="4492"/>
+	<Link SourceWaypoint="4492" TargetWaypoint="4493"/>
+	<Link SourceWaypoint="4493" TargetWaypoint="4494"/>
+	<Link SourceWaypoint="4494" TargetWaypoint="4495"/>
+	<Link SourceWaypoint="4495" TargetWaypoint="4496"/>
+	<Link SourceWaypoint="4496" TargetWaypoint="4497"/>
+	<Link SourceWaypoint="4497" TargetWaypoint="4498"/>
+	<Link SourceWaypoint="4498" TargetWaypoint="4499"/>
+	<Link SourceWaypoint="4499" TargetWaypoint="4500"/>
+	<Link SourceWaypoint="4500" TargetWaypoint="4501"/>
+	<Link SourceWaypoint="4501" TargetWaypoint="4502"/>
+	<Link SourceWaypoint="4502" TargetWaypoint="4503"/>
+	<Link SourceWaypoint="4503" TargetWaypoint="4504"/>
+	<Link SourceWaypoint="4504" TargetWaypoint="4505"/>
+	<Link SourceWaypoint="4505" TargetWaypoint="4506"/>
+	<Link SourceWaypoint="4506" TargetWaypoint="4507"/>
+	<Link SourceWaypoint="4507" TargetWaypoint="4508"/>
+	<Link SourceWaypoint="4508" TargetWaypoint="4509"/>
+	<Link SourceWaypoint="4509" TargetWaypoint="4510"/>
+	<Link SourceWaypoint="4510" TargetWaypoint="4511"/>
+	<Link SourceWaypoint="4511" TargetWaypoint="4512"/>
+	<Link SourceWaypoint="4512" TargetWaypoint="4513"/>
+	<Link SourceWaypoint="4513" TargetWaypoint="4514"/>
+	<Link SourceWaypoint="4514" TargetWaypoint="4515"/>
+	<Link SourceWaypoint="4515" TargetWaypoint="4516"/>
+	<Link SourceWaypoint="4516" TargetWaypoint="4517"/>
+	<Link SourceWaypoint="4517" TargetWaypoint="4518"/>
+	<Link SourceWaypoint="4518" TargetWaypoint="4519"/>
+	<Link SourceWaypoint="4519" TargetWaypoint="4520"/>
+	<Link SourceWaypoint="4520" TargetWaypoint="4521"/>
+	<Link SourceWaypoint="4521" TargetWaypoint="4522"/>
+	<Link SourceWaypoint="4522" TargetWaypoint="4523"/>
+	<Link SourceWaypoint="4523" TargetWaypoint="4524"/>
+	<Link SourceWaypoint="4524" TargetWaypoint="4525"/>
+	<Link SourceWaypoint="4525" TargetWaypoint="4526"/>
+	<Link SourceWaypoint="4526" TargetWaypoint="4527"/>
+	<Link SourceWaypoint="4527" TargetWaypoint="4528"/>
+	<Link SourceWaypoint="4528" TargetWaypoint="4529"/>
+	<Link SourceWaypoint="4529" TargetWaypoint="4530"/>
+	<Link SourceWaypoint="4530" TargetWaypoint="4531"/>
+	<Link SourceWaypoint="4531" TargetWaypoint="4532"/>
+	<Link SourceWaypoint="4532" TargetWaypoint="4533"/>
+	<Link SourceWaypoint="4533" TargetWaypoint="4534"/>
+	<Link SourceWaypoint="4534" TargetWaypoint="4535"/>
+	<Link SourceWaypoint="4535" TargetWaypoint="4536"/>
+	<Link SourceWaypoint="4536" TargetWaypoint="4537"/>
+	<Link SourceWaypoint="4537" TargetWaypoint="4538"/>
+	<Link SourceWaypoint="4538" TargetWaypoint="4539"/>
+	<Link SourceWaypoint="4539" TargetWaypoint="4540"/>
+	<Link SourceWaypoint="4540" TargetWaypoint="4541"/>
+	<Link SourceWaypoint="4541" TargetWaypoint="4542"/>
+	<Link SourceWaypoint="4542" TargetWaypoint="4543"/>
+	<Link SourceWaypoint="4543" TargetWaypoint="4544"/>
+	<Link SourceWaypoint="4544" TargetWaypoint="4545"/>
+	<Link SourceWaypoint="4545" TargetWaypoint="4546"/>
+	<Link SourceWaypoint="4546" TargetWaypoint="4547"/>
+	<Link SourceWaypoint="4547" TargetWaypoint="4548"/>
+	<Link SourceWaypoint="4548" TargetWaypoint="4549"/>
+	<Link SourceWaypoint="4549" TargetWaypoint="4550"/>
+	<Link SourceWaypoint="4550" TargetWaypoint="4551"/>
+	<Link SourceWaypoint="4551" TargetWaypoint="4552"/>
+	<Link SourceWaypoint="4552" TargetWaypoint="4553"/>
+	<Link SourceWaypoint="4553" TargetWaypoint="4554"/>
+	<Link SourceWaypoint="4554" TargetWaypoint="4555"/>
+	<Link SourceWaypoint="4555" TargetWaypoint="4556"/>
+	<Link SourceWaypoint="4556" TargetWaypoint="4557"/>
+	<Link SourceWaypoint="4557" TargetWaypoint="4558"/>
+	<Link SourceWaypoint="4558" TargetWaypoint="4559"/>
+	<Link SourceWaypoint="4559" TargetWaypoint="4560"/>
+	<Link SourceWaypoint="4560" TargetWaypoint="4561"/>
+	<Link SourceWaypoint="4561" TargetWaypoint="4562"/>
+	<Link SourceWaypoint="4562" TargetWaypoint="4563"/>
+	<Link SourceWaypoint="4563" TargetWaypoint="4564"/>
+	<Link SourceWaypoint="4564" TargetWaypoint="4565"/>
+	<Link SourceWaypoint="4565" TargetWaypoint="4566"/>
+	<Link SourceWaypoint="4566" TargetWaypoint="4567"/>
+	<Link SourceWaypoint="4567" TargetWaypoint="4568"/>
+	<Link SourceWaypoint="4568" TargetWaypoint="4569"/>
+	<Link SourceWaypoint="4569" TargetWaypoint="4570"/>
+	<Link SourceWaypoint="4570" TargetWaypoint="4571"/>
+	<Link SourceWaypoint="4571" TargetWaypoint="4572"/>
+	<Link SourceWaypoint="4572" TargetWaypoint="4573"/>
+	<Link SourceWaypoint="4573" TargetWaypoint="4574"/>
+	<Link SourceWaypoint="4574" TargetWaypoint="4575"/>
+	<Link SourceWaypoint="4575" TargetWaypoint="4576"/>
+	<Link SourceWaypoint="4576" TargetWaypoint="4577"/>
+	<Link SourceWaypoint="4577" TargetWaypoint="4578"/>
+	<Link SourceWaypoint="4578" TargetWaypoint="4579"/>
+	<Link SourceWaypoint="4579" TargetWaypoint="4580"/>
+	<Link SourceWaypoint="4580" TargetWaypoint="4581"/>
+	<Link SourceWaypoint="4581" TargetWaypoint="4582"/>
+	<Link SourceWaypoint="4582" TargetWaypoint="4583"/>
+	<Link SourceWaypoint="4583" TargetWaypoint="4584"/>
+	<Link SourceWaypoint="4584" TargetWaypoint="4585"/>
+	<Link SourceWaypoint="4585" TargetWaypoint="4586"/>
+	<Link SourceWaypoint="4586" TargetWaypoint="4587"/>
+	<Link SourceWaypoint="4587" TargetWaypoint="4588"/>
+	<Link SourceWaypoint="4588" TargetWaypoint="4589"/>
+	<Link SourceWaypoint="4589" TargetWaypoint="4590"/>
+	<Link SourceWaypoint="4590" TargetWaypoint="4591"/>
+	<Link SourceWaypoint="4591" TargetWaypoint="4592"/>
+	<Link SourceWaypoint="4592" TargetWaypoint="4593"/>
+	<Link SourceWaypoint="4593" TargetWaypoint="4401"/>
+</LinkList>
+<GroupList>
+	<Group Key="3" Name="Wagon_Velia_to_WGC"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

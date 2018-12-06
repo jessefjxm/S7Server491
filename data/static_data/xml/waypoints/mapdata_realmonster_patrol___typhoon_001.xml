@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="typhoon_001">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37216" Name="Typhoon_001" PosX="12133.3" PosY="6928.65" PosZ="-70225.1" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37217" Name="Typhoon_002" PosX="-176213" PosY="9986.59" PosZ="-42770.7" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37218" Name="Typhoon_003" PosX="-191279" PosY="9878.74" PosZ="-224153" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37219" Name="Typhoon_004" PosX="-326361" PosY="9291.32" PosZ="-11719.8" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37220" Name="Typhoon_005" PosX="-356274" PosY="11453.2" PosZ="-126154" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37221" Name="Typhoon_006" PosX="-364177" PosY="21917.4" PosZ="-242725" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37222" Name="Typhoon_007" PosX="-231094" PosY="17655" PosZ="-273418" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37223" Name="Typhoon_008" PosX="164810" PosY="18565.1" PosZ="68406.3" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37224" Name="Typhoon_009" PosX="192140" PosY="15610.7" PosZ="-22144.3" Property="none"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="37225" Name="Typhoon_010" PosX="204238" PosY="19514.3" PosZ="-140645" Property="none"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="37218" TargetWaypoint="37219"/>
+	<Link SourceWaypoint="37219" TargetWaypoint="37218"/>
+	<Link SourceWaypoint="37220" TargetWaypoint="37221"/>
+	<Link SourceWaypoint="37221" TargetWaypoint="37220"/>
+	<Link SourceWaypoint="37221" TargetWaypoint="37222"/>
+	<Link SourceWaypoint="37222" TargetWaypoint="37221"/>
+	<Link SourceWaypoint="37223" TargetWaypoint="37224"/>
+	<Link SourceWaypoint="37224" TargetWaypoint="37223"/>
+	<Link SourceWaypoint="37224" TargetWaypoint="37225"/>
+	<Link SourceWaypoint="37225" TargetWaypoint="37224"/>
+</LinkList>
+<GroupList>
+	<Group Key="172" Name="Typhoon_001"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

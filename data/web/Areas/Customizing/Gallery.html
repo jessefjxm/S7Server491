@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script src="/Areas/Customizing/common/js/gallery.js"></script>
+<link href="/Areas/Customizing/common/css/gallery.css?v=3" rel="stylesheet"/>
+
+<script>
+    $(document).ready(function () {
+        common.openPage();
+
+        initPage();
+
+        common.closePage();
+    });
+</script>
+<div id="gallery" class="container scroll">
+    <input type="hidden" id="page" value="1"/>
+    <input type="hidden" id="length" value="0"/>
+    <input type="hidden" id="pageSize" value="12"/>
+    <input type="hidden" id="totalPage" value="0"/>
+    <input type="hidden" id="author" value=""/>
+
+    <div id="searchBox">
+        <div class="label" data-str="WEB_CUSTOMIZING_TEXT_CLASS"></div>
+        <a class="btnAll allSelect" data-selector="on" data-color="1d1b17"><span
+                data-str="WEB_CUSTOMIZING_TEXT_ALL"></span></a>
+
+        <hr/>
+        <div class="label" data-str="WEB_CUSTOMIZING_TEXT_CATEGORY"></div>
+        <div class="search">
+            <div class="category">
+            </div>
+            <a class="btn btnSearchShow" data-color="5a340c" data-tooltip="WEB_CUSTOMIZING_SEARCH"
+               data-tooltip-position="right">
+                <span data-str="WEB_CUSTOMIZING_SEARCH"></span>
+                <img src="/Areas/Customizing/common/img/icn_search.png"/>
+            </a>
+
+            <div class="searchLayer hide">
+                <div class="btnClose"></div>
+                <input id="SearchText" type="text" data-str-placeholder="WEB_CUSTOMIZING_TEXT_TITLE_CODE_SEARCH"/>
+                <a class="btn btnSearch" data-color="5a340c" data-str="WEB_CUSTOMIZING_SEARCH"
+                   data-tooltip="WEB_CUSTOMIZING_TEXT_TITLE_CODE_SEARCH" data-tooltip-position="right"></a>
+            </div>
+        </div>
+    </div>
+    <div class="cmArea" data-formatType="searchFormat">
+        <div class="CMBox">
+        </div>
+        <div id="paging"></div>
+    </div>
+</div>
+
+
+</body>
+</html>

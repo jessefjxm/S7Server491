@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script src="/Areas/GuildInfo/common/js/main.js"></script>
+<script>
+    $(document).ready(function (e) {
+        pearl.common.openPage();
+
+        var informationData = {"C_guildNo":30000000000009649,"C_guildInformation":null,"C_guildImageUrl":null,"C_guildYouTubeUrl":null,"C_guildFacebookUrl":null,"C_isBlind":null};
+        var information, image, youtube, facebook;
+
+        if(!pearl.common.isEmpty(informationData.C_guildInformation))
+            information = informationData.C_guildInformation.replace(/\n/gi,'<br />');
+        if(!pearl.common.isEmpty(informationData.C_guildImageUrl))
+            image = informationData.C_guildImageUrl;
+        if(!pearl.common.isEmpty(informationData.C_guildYouTubeUrl))
+            youtube = informationData.C_guildYouTubeUrl;
+        if(!pearl.common.isEmpty(informationData.C_guildFacebookUrl))
+            facebook = informationData.C_guildFacebookUrl
+
+        var data = {
+            "information": information,
+            "image": image,
+            "youtube": youtube,
+            "facebook": facebook
+        }
+        $('#guildNo').val("30000000000009649");
+
+        initMain(informationData);
+        bindMain(data);
+
+        pearl.common.closePage();
+    });
+</script>
+<div id="home" class="container">
+    <input type="hidden" name="guildNo" id="guildNo" />
+
+
+    <div class="defaultArea">
+        <i class="settings hide" data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO" data-tooltip-position="right"></i>
+
+        <h1 class="title bold" data-str="WEB_GUILDINFO_INTRO_DEFAULT_TITLE_1"> </h1>
+        <h1 class="subtitle" data-str="WEB_GUILDINFO_INTRO_DEFAULT_TITLE_2"> </h1>
+
+        <div class="hr"></div>
+
+        <div style="height:calc(100% - 125px);">
+            <table>
+                <tr>
+                    <td valign="bottom"> <img src="/Areas/GuildInfo/common/img/content/information.png" /> </td>
+                    <td valign="bottom"> <img src="/Areas/GuildInfo/common/img/content/image.png" /> </td>
+                    <td valign="bottom"> <img src="/Areas/GuildInfo/common/img/content/youtube.png" /> </td>
+                    <td valign="bottom"> <img src="/Areas/GuildInfo/common/img/content/facebook.png" /> </td>
+                </tr>
+                <tr>
+                    <td valign="top" data-str="WEB_GUILDINFO_INTRO_DEFAULT_ICON_1"> </td>
+                    <td valign="top" data-str="WEB_GUILDINFO_INTRO_DEFAULT_ICON_2"> </td>
+                    <td valign="top" data-str="WEB_GUILDINFO_INTRO_DEFAULT_ICON_3"> </td>
+                    <td valign="top" data-str="WEB_GUILDINFO_INTRO_DEFAULT_ICON_4"> </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        <div class="btnDetail" data-str="WEB_GUILDINFO_INTRO_BUTTON_WRITE"> </div>
+                        <br />
+                        <span class="btncaption" data-str="WEB_GUILDINFO_INTRO_WRITEERROR_ALERT"></span>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+
+    <div class="informationArea hide">
+        <i class="settings hide" data-tooltip="WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO" data-tooltip-position="right"></i>
+
+        <span class="title bold" data-str="WEB_GUILDINFO_INTRO_TOOLTIP_TAP_GUILDINTRO"> </span>
+        <div class="hr"></div>
+        <div class="data">
+            <div class="information"></div>
+            <div class="image"></div>
+            <div class="youtube"></div>
+            <div class="facebook"></div>
+        </div>
+    </div>
+
+</div>
+</body>
+</html>

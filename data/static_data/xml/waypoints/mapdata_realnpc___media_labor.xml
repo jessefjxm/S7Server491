@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="npc" subName="media_labor">
+<WaypointList>
+	<Waypoint IsSubWaypoint="False" Key="8802" Name="Media_Labor_01_001" PosX="359308" PosY="-6348.01" PosZ="-126403" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8803" Name="Media_Labor_01_002" PosX="359698" PosY="-6357.81" PosZ="-125980" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8804" Name="Media_Labor_01_003" PosX="360009" PosY="-6328.67" PosZ="-125401" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8805" Name="Media_Labor_01_004" PosX="360053" PosY="-6276.9" PosZ="-124810" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8806" Name="Media_Labor_01_005" PosX="359766" PosY="-6212.57" PosZ="-124411" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8807" Name="Media_Labor_01_006" PosX="359328" PosY="-6154.69" PosZ="-124116" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8808" Name="Media_Labor_01_007" PosX="358856" PosY="-6085.19" PosZ="-123927" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8809" Name="Media_Labor_01_008" PosX="358208" PosY="-5988.21" PosZ="-123800" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8810" Name="Media_Labor_01_009" PosX="357528" PosY="-5907.3" PosZ="-123739" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8811" Name="Media_Labor_01_010" PosX="356410" PosY="-5824.54" PosZ="-123778" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8812" Name="Media_Labor_01_011" PosX="355884" PosY="-5788.3" PosZ="-124093" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8813" Name="Media_Labor_01_012" PosX="355660" PosY="-5771.23" PosZ="-124617" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8814" Name="Media_Labor_01_013" PosX="355784" PosY="-5740.33" PosZ="-124900" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8815" Name="Media_Labor_01_014" PosX="355890" PosY="-5736.69" PosZ="-125081" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8816" Name="Media_Labor_01_015" PosX="356099" PosY="-5671.92" PosZ="-125485" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8817" Name="Media_Labor_01_016" PosX="356584" PosY="-5671.92" PosZ="-126073" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8818" Name="Media_Labor_01_017" PosX="355701" PosY="-5770.49" PosZ="-124964" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8819" Name="Media_Labor_01_018" PosX="355443" PosY="-5727.28" PosZ="-124904" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8820" Name="Media_Labor_01_019" PosX="354618" PosY="-5671.53" PosZ="-125701" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8821" Name="Media_Labor_01_020" PosX="353739" PosY="-5568.84" PosZ="-125927" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8822" Name="Media_Labor_01_021" PosX="353156" PosY="-5503.07" PosZ="-126785" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8823" Name="Media_Labor_01_022" PosX="353112" PosY="-5475.48" PosZ="-127777" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8824" Name="Media_Labor_01_023" PosX="352959" PosY="-5426.28" PosZ="-128956" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8825" Name="Media_Labor_01_024" PosX="352934" PosY="-5410.81" PosZ="-129536" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8826" Name="Media_Labor_01_025" PosX="352698" PosY="-5367.85" PosZ="-130207" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8827" Name="Media_Labor_01_026" PosX="352444" PosY="-5337" PosZ="-130856" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8828" Name="Media_Labor_01_027" PosX="352651" PosY="-5397" PosZ="-131775" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8829" Name="Media_Labor_01_028" PosX="353670" PosY="-5603.73" PosZ="-132043" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8830" Name="Media_Labor_01_029" PosX="354934" PosY="-5926.37" PosZ="-132209" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8831" Name="Media_Labor_01_030" PosX="355205" PosY="-6217.63" PosZ="-131225" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8832" Name="Media_Labor_01_031" PosX="355311" PosY="-6266.91" PosZ="-130206" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8833" Name="Media_Labor_01_032" PosX="355367" PosY="-6242.33" PosZ="-129122" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8834" Name="Media_Labor_01_033" PosX="356001" PosY="-6252.49" PosZ="-128158" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8835" Name="Media_Labor_01_034" PosX="356993" PosY="-6307.35" PosZ="-127301" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8836" Name="Media_Labor_01_035" PosX="357919" PosY="-6327" PosZ="-126865" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8837" Name="Media_Labor_01_036" PosX="358795" PosY="-6301.74" PosZ="-126437" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8838" Name="Media_Labor_02_001" PosX="360339" PosY="-6344.98" PosZ="-125775" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8839" Name="Media_Labor_02_002" PosX="360232" PosY="-6324.81" PosZ="-125374" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8840" Name="Media_Labor_02_003" PosX="360062" PosY="-6299.58" PosZ="-125076" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8841" Name="Media_Labor_02_004" PosX="359696" PosY="-6230.48" PosZ="-124619" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8842" Name="Media_Labor_02_005" PosX="359309" PosY="-6156.61" PosZ="-124227" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8843" Name="Media_Labor_02_006" PosX="358838" PosY="-6089.78" PosZ="-123992" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8844" Name="Media_Labor_02_007" PosX="358351" PosY="-5999.83" PosZ="-123747" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8845" Name="Media_Labor_02_008" PosX="357871" PosY="-5941.63" PosZ="-123663" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8846" Name="Media_Labor_02_009" PosX="357196" PosY="-5877.98" PosZ="-123656" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8847" Name="Media_Labor_02_010" PosX="356536" PosY="-5831.4" PosZ="-123607" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8848" Name="Media_Labor_02_011" PosX="355784" PosY="-5774.29" PosZ="-123814" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8849" Name="Media_Labor_02_012" PosX="355230" PosY="-5737.01" PosZ="-124428" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8850" Name="Media_Labor_02_013" PosX="354916" PosY="-5709.7" PosZ="-125130" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8851" Name="Media_Labor_02_014" PosX="354835" PosY="-5680.4" PosZ="-125795" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8852" Name="Media_Labor_02_015" PosX="354923" PosY="-5671.93" PosZ="-126042" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8853" Name="Media_Labor_02_016" PosX="355287" PosY="-5656.53" PosZ="-126410" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8854" Name="Media_Labor_02_017" PosX="355789" PosY="-5656.53" PosZ="-126817" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8855" Name="Media_Labor_02_018" PosX="354598" PosY="-5602.38" PosZ="-125949" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8856" Name="Media_Labor_02_019" PosX="354092" PosY="-5598.95" PosZ="-126127" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8857" Name="Media_Labor_02_020" PosX="353575" PosY="-5502.09" PosZ="-126410" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8858" Name="Media_Labor_02_021" PosX="353090" PosY="-5493.85" PosZ="-126661" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8859" Name="Media_Labor_02_022" PosX="352807" PosY="-5462.9" PosZ="-126968" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8860" Name="Media_Labor_02_023" PosX="352790" PosY="-5454.51" PosZ="-127439" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8861" Name="Media_Labor_02_024" PosX="352769" PosY="-5429.77" PosZ="-128263" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8862" Name="Media_Labor_02_025" PosX="352798" PosY="-5414.34" PosZ="-128880" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8863" Name="Media_Labor_02_026" PosX="352761" PosY="-5383.33" PosZ="-129661" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8864" Name="Media_Labor_02_027" PosX="352651" PosY="-5389.19" PosZ="-130600" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8865" Name="Media_Labor_02_028" PosX="352710" PosY="-5350.44" PosZ="-131630" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8866" Name="Media_Labor_02_029" PosX="353242" PosY="-5529.24" PosZ="-132165" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8867" Name="Media_Labor_02_030" PosX="354072" PosY="-5701.94" PosZ="-132125" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8868" Name="Media_Labor_02_031" PosX="354888" PosY="-5988.47" PosZ="-132049" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8869" Name="Media_Labor_02_032" PosX="355403" PosY="-6189.86" PosZ="-131628" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8870" Name="Media_Labor_02_033" PosX="355473" PosY="-6280.56" PosZ="-130436" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8871" Name="Media_Labor_02_034" PosX="355491" PosY="-6275.62" PosZ="-129722" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8872" Name="Media_Labor_02_035" PosX="355420" PosY="-6236.62" PosZ="-128804" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8873" Name="Media_Labor_02_036" PosX="356350" PosY="-6268.02" PosZ="-128013" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8874" Name="Media_Labor_02_037" PosX="357124" PosY="-6316.01" PosZ="-127457" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8875" Name="Media_Labor_02_038" PosX="357699" PosY="-6335.09" PosZ="-127226" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8876" Name="Media_Labor_02_039" PosX="358382" PosY="-6340.47" PosZ="-126632" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8877" Name="Media_Labor_02_040" PosX="359441" PosY="-6357.7" PosZ="-126011" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8878" Name="Media_Labor_02_041" PosX="359944" PosY="-6353.46" PosZ="-125766" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8879" Name="Media_Labor_03_001" PosX="356857" PosY="-6293.95" PosZ="-127762" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8880" Name="Media_Labor_03_002" PosX="356543" PosY="-6275.31" PosZ="-127674" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8881" Name="Media_Labor_03_003" PosX="356073" PosY="-6256.42" PosZ="-128142" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8882" Name="Media_Labor_03_004" PosX="355710" PosY="-6252.29" PosZ="-128701" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8883" Name="Media_Labor_03_005" PosX="355554" PosY="-6273.9" PosZ="-129513" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8884" Name="Media_Labor_03_006" PosX="355573" PosY="-6286.21" PosZ="-130211" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8885" Name="Media_Labor_03_007" PosX="355585" PosY="-6257.32" PosZ="-130700" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8886" Name="Media_Labor_03_008" PosX="355533" PosY="-6188.71" PosZ="-131275" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8887" Name="Media_Labor_03_009" PosX="355254" PosY="-6093.86" PosZ="-131884" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8888" Name="Media_Labor_03_010" PosX="354572" PosY="-5807.86" PosZ="-132217" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8889" Name="Media_Labor_03_011" PosX="353407" PosY="-5569.03" PosZ="-132119" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8890" Name="Media_Labor_03_012" PosX="352754" PosY="-5401.5" PosZ="-131510" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8891" Name="Media_Labor_03_013" PosX="352748" PosY="-5376.53" PosZ="-130876" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8892" Name="Media_Labor_03_014" PosX="352882" PosY="-5399.01" PosZ="-129760" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8893" Name="Media_Labor_03_015" PosX="352967" PosY="-5441.86" PosZ="-128636" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8894" Name="Media_Labor_03_016" PosX="352954" PosY="-5452.95" PosZ="-128035" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8895" Name="Media_Labor_03_017" PosX="353293" PosY="-5452.16" PosZ="-127417" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8896" Name="Media_Labor_03_018" PosX="353610" PosY="-5461.49" PosZ="-127184" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8897" Name="Media_Labor_03_019" PosX="353984" PosY="-5483.96" PosZ="-126952" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8898" Name="Media_Labor_03_020" PosX="354285" PosY="-5483.21" PosZ="-127003" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8899" Name="Media_Labor_03_021" PosX="354620" PosY="-5587.41" PosZ="-127107" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8900" Name="Media_Labor_03_022" PosX="355190" PosY="-5588.75" PosZ="-127403" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8901" Name="Media_Labor_03_023" PosX="354314" PosY="-5514.01" PosZ="-126883" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8902" Name="Media_Labor_03_024" PosX="354079" PosY="-5570.94" PosZ="-126656" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8903" Name="Media_Labor_03_025" PosX="354069" PosY="-5585.87" PosZ="-126434" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8904" Name="Media_Labor_03_026" PosX="354169" PosY="-5612.89" PosZ="-126007" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8905" Name="Media_Labor_03_027" PosX="354737" PosY="-5683.64" PosZ="-125660" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8906" Name="Media_Labor_03_028" PosX="355401" PosY="-5750.57" PosZ="-124723" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8907" Name="Media_Labor_03_029" PosX="356130" PosY="-5807.84" PosZ="-124021" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8908" Name="Media_Labor_03_030" PosX="356815" PosY="-5849.76" PosZ="-123710" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8909" Name="Media_Labor_03_031" PosX="357709" PosY="-5926.76" PosZ="-123757" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8910" Name="Media_Labor_03_032" PosX="358612" PosY="-6041.35" PosZ="-123861" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8911" Name="Media_Labor_03_033" PosX="359508" PosY="-6187.06" PosZ="-124344" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8912" Name="Media_Labor_03_034" PosX="359881" PosY="-6249" PosZ="-124669" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8913" Name="Media_Labor_03_035" PosX="359864" PosY="-6316.28" PosZ="-125245" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8914" Name="Media_Labor_03_036" PosX="359694" PosY="-6346.73" PosZ="-125525" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8915" Name="Media_Labor_03_037" PosX="359171" PosY="-6357.42" PosZ="-126271" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8916" Name="Media_Labor_03_038" PosX="358552" PosY="-6347.2" PosZ="-126603" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8917" Name="Media_Labor_03_039" PosX="357725" PosY="-6330.7" PosZ="-127084" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8918" Name="Media_Labor_03_040" PosX="356961" PosY="-6303.54" PosZ="-127444" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8919" Name="Media_Labor_04_001" PosX="359168" PosY="-6346.15" PosZ="-128547" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8920" Name="Media_Labor_04_002" PosX="359709" PosY="-6300.33" PosZ="-128676" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8921" Name="Media_Labor_04_003" PosX="360210" PosY="-6339.65" PosZ="-128496" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8922" Name="Media_Labor_04_004" PosX="360561" PosY="-6345.62" PosZ="-128089" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8923" Name="Media_Labor_04_005" PosX="360912" PosY="-6319.85" PosZ="-127705" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8924" Name="Media_Labor_04_006" PosX="360949" PosY="-6337.46" PosZ="-127245" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8925" Name="Media_Labor_04_007" PosX="360912" PosY="-6351.57" PosZ="-126888" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8926" Name="Media_Labor_04_008" PosX="360590" PosY="-6349.62" PosZ="-126681" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8927" Name="Media_Labor_04_009" PosX="360199" PosY="-6300.66" PosZ="-126420" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8928" Name="Media_Labor_04_010" PosX="360020" PosY="-6357.64" PosZ="-126181" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8929" Name="Media_Labor_04_011" PosX="360086" PosY="-6351.26" PosZ="-125776" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8930" Name="Media_Labor_04_012" PosX="360223" PosY="-6335.59" PosZ="-125516" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8931" Name="Media_Labor_04_013" PosX="360424" PosY="-6307.74" PosZ="-125194" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8932" Name="Media_Labor_04_014" PosX="360963" PosY="-6335.6" PosZ="-124989" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8933" Name="Media_Labor_04_015" PosX="361252" PosY="-6345.34" PosZ="-125312" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8934" Name="Media_Labor_04_016" PosX="361489" PosY="-6343.29" PosZ="-125797" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8935" Name="Media_Labor_04_017" PosX="361612" PosY="-6337.07" PosZ="-126219" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8936" Name="Media_Labor_04_018" PosX="361412" PosY="-6336.48" PosZ="-126651" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8937" Name="Media_Labor_04_019" PosX="361120" PosY="-6349.21" PosZ="-126783" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8938" Name="Media_Labor_04_020" PosX="359819" PosY="-6355.25" PosZ="-126321" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8939" Name="Media_Labor_04_021" PosX="359499" PosY="-6355.71" PosZ="-126288" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8940" Name="Media_Labor_04_022" PosX="359072" PosY="-6355.83" PosZ="-126387" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8941" Name="Media_Labor_04_023" PosX="358758" PosY="-6357.18" PosZ="-126750" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8942" Name="Media_Labor_04_024" PosX="358470" PosY="-6351.89" PosZ="-127011" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8943" Name="Media_Labor_04_025" PosX="358275" PosY="-6349.1" PosZ="-127407" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8944" Name="Media_Labor_04_026" PosX="358307" PosY="-6357.99" PosZ="-127845" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8945" Name="Media_Labor_04_027" PosX="358491" PosY="-6361.61" PosZ="-128118" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8946" Name="Media_Labor_04_028" PosX="358799" PosY="-6352.69" PosZ="-128382" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8947" Name="Media_Labor_04_029" PosX="357961" PosY="-6339.27" PosZ="-127537" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8948" Name="Media_Labor_04_030" PosX="357593" PosY="-6333.55" PosZ="-127446" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8949" Name="Media_Labor_04_031" PosX="358012" PosY="-6342.59" PosZ="-127240" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8950" Name="Media_Labor_04_032" PosX="359558" PosY="-6357.54" PosZ="-125963" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8951" Name="Media_Labor_04_033" PosX="359914" PosY="-6351.93" PosZ="-125719" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8952" Name="Media_Labor_04_034" PosX="357119" PosY="-6316.31" PosZ="-127551" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8953" Name="Media_Labor_04_035" PosX="356642" PosY="-6282.96" PosZ="-127703" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8954" Name="Media_Labor_04_036" PosX="356187" PosY="-6267.68" PosZ="-128219" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8955" Name="Media_Labor_04_037" PosX="355764" PosY="-6259.52" PosZ="-128737" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8956" Name="Media_Labor_04_038" PosX="355498" PosY="-6271.51" PosZ="-129324" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8957" Name="Media_Labor_04_039" PosX="355458" PosY="-6277.57" PosZ="-130060" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8958" Name="Media_Labor_04_040" PosX="355479" PosY="-6292.65" PosZ="-130764" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8959" Name="Media_Labor_04_041" PosX="355246" PosY="-6186.2" PosZ="-131566" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8960" Name="Media_Labor_04_042" PosX="354980" PosY="-6046.33" PosZ="-131819" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8961" Name="Media_Labor_04_043" PosX="354241" PosY="-5822.33" PosZ="-131989" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8962" Name="Media_Labor_04_044" PosX="353315" PosY="-5555.75" PosZ="-131945" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8963" Name="Media_Labor_04_045" PosX="352580" PosY="-5354.47" PosZ="-131276" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8964" Name="Media_Labor_04_046" PosX="352664" PosY="-5361.44" PosZ="-130464" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8965" Name="Media_Labor_04_047" PosX="352833" PosY="-5387.69" PosZ="-129964" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8966" Name="Media_Labor_04_048" PosX="352999" PosY="-5424.66" PosZ="-129295" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8967" Name="Media_Labor_04_049" PosX="352938" PosY="-5443.05" PosZ="-128404" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8968" Name="Media_Labor_04_050" PosX="352925" PosY="-5469.82" PosZ="-127368" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8969" Name="Media_Labor_04_051" PosX="353159" PosY="-5450.46" PosZ="-126571" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8970" Name="Media_Labor_04_052" PosX="353568" PosY="-5500.55" PosZ="-126103" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8971" Name="Media_Labor_04_053" PosX="354191" PosY="-5618.6" PosZ="-125922" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8972" Name="Media_Labor_04_054" PosX="354919" PosY="-5702.31" PosZ="-125498" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8973" Name="Media_Labor_04_055" PosX="355292" PosY="-5741.27" PosZ="-124502" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8974" Name="Media_Labor_04_056" PosX="356135" PosY="-5807.38" PosZ="-123891" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8975" Name="Media_Labor_04_057" PosX="356656" PosY="-5839.73" PosZ="-123758" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8976" Name="Media_Labor_04_058" PosX="357077" PosY="-5870.68" PosZ="-123784" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8977" Name="Media_Labor_04_059" PosX="357640" PosY="-5922.94" PosZ="-123858" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8978" Name="Media_Labor_04_060" PosX="358409" PosY="-6022.84" PosZ="-123966" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8979" Name="Media_Labor_04_061" PosX="358964" PosY="-6111.48" PosZ="-124106" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8980" Name="Media_Labor_04_062" PosX="359664" PosY="-6202.08" PosZ="-124334" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8981" Name="Media_Labor_04_063" PosX="359798" PosY="-6276.69" PosZ="-124892" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8982" Name="Media_Labor_04_064" PosX="359780" PosY="-6328.15" PosZ="-125349" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8983" Name="Media_Labor_04_065" PosX="360332" PosY="-6275.4" PosZ="-124618" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="8802" TargetWaypoint="8803"/>
+	<Link SourceWaypoint="8803" TargetWaypoint="8804"/>
+	<Link SourceWaypoint="8804" TargetWaypoint="8805"/>
+	<Link SourceWaypoint="8805" TargetWaypoint="8806"/>
+	<Link SourceWaypoint="8806" TargetWaypoint="8807"/>
+	<Link SourceWaypoint="8807" TargetWaypoint="8808"/>
+	<Link SourceWaypoint="8808" TargetWaypoint="8809"/>
+	<Link SourceWaypoint="8809" TargetWaypoint="8810"/>
+	<Link SourceWaypoint="8810" TargetWaypoint="8811"/>
+	<Link SourceWaypoint="8811" TargetWaypoint="8812"/>
+	<Link SourceWaypoint="8812" TargetWaypoint="8813"/>
+	<Link SourceWaypoint="8813" TargetWaypoint="8814"/>
+	<Link SourceWaypoint="8814" TargetWaypoint="8815"/>
+	<Link SourceWaypoint="8815" TargetWaypoint="8816"/>
+	<Link SourceWaypoint="8815" TargetWaypoint="8818"/>
+	<Link SourceWaypoint="8816" TargetWaypoint="8817"/>
+	<Link SourceWaypoint="8816" TargetWaypoint="8815"/>
+	<Link SourceWaypoint="8817" TargetWaypoint="8816"/>
+	<Link SourceWaypoint="8818" TargetWaypoint="8819"/>
+	<Link SourceWaypoint="8819" TargetWaypoint="8820"/>
+	<Link SourceWaypoint="8820" TargetWaypoint="8821"/>
+	<Link SourceWaypoint="8821" TargetWaypoint="8822"/>
+	<Link SourceWaypoint="8822" TargetWaypoint="8823"/>
+	<Link SourceWaypoint="8823" TargetWaypoint="8824"/>
+	<Link SourceWaypoint="8824" TargetWaypoint="8825"/>
+	<Link SourceWaypoint="8825" TargetWaypoint="8826"/>
+	<Link SourceWaypoint="8826" TargetWaypoint="8827"/>
+	<Link SourceWaypoint="8827" TargetWaypoint="8828"/>
+	<Link SourceWaypoint="8828" TargetWaypoint="8829"/>
+	<Link SourceWaypoint="8829" TargetWaypoint="8830"/>
+	<Link SourceWaypoint="8830" TargetWaypoint="8831"/>
+	<Link SourceWaypoint="8831" TargetWaypoint="8832"/>
+	<Link SourceWaypoint="8832" TargetWaypoint="8833"/>
+	<Link SourceWaypoint="8833" TargetWaypoint="8834"/>
+	<Link SourceWaypoint="8834" TargetWaypoint="8835"/>
+	<Link SourceWaypoint="8835" TargetWaypoint="8836"/>
+	<Link SourceWaypoint="8836" TargetWaypoint="8837"/>
+	<Link SourceWaypoint="8837" TargetWaypoint="8802"/>
+	<Link SourceWaypoint="8838" TargetWaypoint="8839"/>
+	<Link SourceWaypoint="8839" TargetWaypoint="8840"/>
+	<Link SourceWaypoint="8840" TargetWaypoint="8841"/>
+	<Link SourceWaypoint="8841" TargetWaypoint="8842"/>
+	<Link SourceWaypoint="8842" TargetWaypoint="8843"/>
+	<Link SourceWaypoint="8843" TargetWaypoint="8844"/>
+	<Link SourceWaypoint="8844" TargetWaypoint="8845"/>
+	<Link SourceWaypoint="8845" TargetWaypoint="8846"/>
+	<Link SourceWaypoint="8846" TargetWaypoint="8847"/>
+	<Link SourceWaypoint="8847" TargetWaypoint="8848"/>
+	<Link SourceWaypoint="8848" TargetWaypoint="8849"/>
+	<Link SourceWaypoint="8849" TargetWaypoint="8850"/>
+	<Link SourceWaypoint="8850" TargetWaypoint="8851"/>
+	<Link SourceWaypoint="8851" TargetWaypoint="8852"/>
+	<Link SourceWaypoint="8852" TargetWaypoint="8853"/>
+	<Link SourceWaypoint="8852" TargetWaypoint="8855"/>
+	<Link SourceWaypoint="8853" TargetWaypoint="8854"/>
+	<Link SourceWaypoint="8853" TargetWaypoint="8852"/>
+	<Link SourceWaypoint="8854" TargetWaypoint="8853"/>
+	<Link SourceWaypoint="8855" TargetWaypoint="8856"/>
+	<Link SourceWaypoint="8856" TargetWaypoint="8857"/>
+	<Link SourceWaypoint="8857" TargetWaypoint="8858"/>
+	<Link SourceWaypoint="8858" TargetWaypoint="8859"/>
+	<Link SourceWaypoint="8859" TargetWaypoint="8860"/>
+	<Link SourceWaypoint="8860" TargetWaypoint="8861"/>
+	<Link SourceWaypoint="8861" TargetWaypoint="8862"/>
+	<Link SourceWaypoint="8862" TargetWaypoint="8863"/>
+	<Link SourceWaypoint="8863" TargetWaypoint="8864"/>
+	<Link SourceWaypoint="8864" TargetWaypoint="8865"/>
+	<Link SourceWaypoint="8865" TargetWaypoint="8866"/>
+	<Link SourceWaypoint="8866" TargetWaypoint="8867"/>
+	<Link SourceWaypoint="8867" TargetWaypoint="8868"/>
+	<Link SourceWaypoint="8868" TargetWaypoint="8869"/>
+	<Link SourceWaypoint="8869" TargetWaypoint="8870"/>
+	<Link SourceWaypoint="8870" TargetWaypoint="8871"/>
+	<Link SourceWaypoint="8871" TargetWaypoint="8872"/>
+	<Link SourceWaypoint="8872" TargetWaypoint="8873"/>
+	<Link SourceWaypoint="8873" TargetWaypoint="8874"/>
+	<Link SourceWaypoint="8874" TargetWaypoint="8875"/>
+	<Link SourceWaypoint="8875" TargetWaypoint="8876"/>
+	<Link SourceWaypoint="8876" TargetWaypoint="8877"/>
+	<Link SourceWaypoint="8877" TargetWaypoint="8878"/>
+	<Link SourceWaypoint="8878" TargetWaypoint="8838"/>
+	<Link SourceWaypoint="8879" TargetWaypoint="8880"/>
+	<Link SourceWaypoint="8880" TargetWaypoint="8881"/>
+	<Link SourceWaypoint="8881" TargetWaypoint="8882"/>
+	<Link SourceWaypoint="8882" TargetWaypoint="8883"/>
+	<Link SourceWaypoint="8883" TargetWaypoint="8884"/>
+	<Link SourceWaypoint="8884" TargetWaypoint="8885"/>
+	<Link SourceWaypoint="8885" TargetWaypoint="8886"/>
+	<Link SourceWaypoint="8886" TargetWaypoint="8887"/>
+	<Link SourceWaypoint="8887" TargetWaypoint="8888"/>
+	<Link SourceWaypoint="8888" TargetWaypoint="8889"/>
+	<Link SourceWaypoint="8889" TargetWaypoint="8890"/>
+	<Link SourceWaypoint="8890" TargetWaypoint="8891"/>
+	<Link SourceWaypoint="8891" TargetWaypoint="8892"/>
+	<Link SourceWaypoint="8892" TargetWaypoint="8893"/>
+	<Link SourceWaypoint="8893" TargetWaypoint="8894"/>
+	<Link SourceWaypoint="8894" TargetWaypoint="8895"/>
+	<Link SourceWaypoint="8895" TargetWaypoint="8896"/>
+	<Link SourceWaypoint="8896" TargetWaypoint="8897"/>
+	<Link SourceWaypoint="8897" TargetWaypoint="8898"/>
+	<Link SourceWaypoint="8898" TargetWaypoint="8899"/>
+	<Link SourceWaypoint="8899" TargetWaypoint="8900"/>
+	<Link SourceWaypoint="8899" TargetWaypoint="8901"/>
+	<Link SourceWaypoint="8900" TargetWaypoint="8899"/>
+	<Link SourceWaypoint="8901" TargetWaypoint="8902"/>
+	<Link SourceWaypoint="8902" TargetWaypoint="8903"/>
+	<Link SourceWaypoint="8903" TargetWaypoint="8904"/>
+	<Link SourceWaypoint="8904" TargetWaypoint="8905"/>
+	<Link SourceWaypoint="8905" TargetWaypoint="8906"/>
+	<Link SourceWaypoint="8906" TargetWaypoint="8907"/>
+	<Link SourceWaypoint="8907" TargetWaypoint="8908"/>
+	<Link SourceWaypoint="8908" TargetWaypoint="8909"/>
+	<Link SourceWaypoint="8909" TargetWaypoint="8910"/>
+	<Link SourceWaypoint="8910" TargetWaypoint="8911"/>
+	<Link SourceWaypoint="8911" TargetWaypoint="8912"/>
+	<Link SourceWaypoint="8912" TargetWaypoint="8913"/>
+	<Link SourceWaypoint="8913" TargetWaypoint="8914"/>
+	<Link SourceWaypoint="8914" TargetWaypoint="8915"/>
+	<Link SourceWaypoint="8915" TargetWaypoint="8916"/>
+	<Link SourceWaypoint="8916" TargetWaypoint="8917"/>
+	<Link SourceWaypoint="8917" TargetWaypoint="8918"/>
+	<Link SourceWaypoint="8918" TargetWaypoint="8879"/>
+	<Link SourceWaypoint="8919" TargetWaypoint="8920"/>
+	<Link SourceWaypoint="8919" TargetWaypoint="8946"/>
+	<Link SourceWaypoint="8920" TargetWaypoint="8919"/>
+	<Link SourceWaypoint="8920" TargetWaypoint="8921"/>
+	<Link SourceWaypoint="8921" TargetWaypoint="8920"/>
+	<Link SourceWaypoint="8921" TargetWaypoint="8922"/>
+	<Link SourceWaypoint="8922" TargetWaypoint="8921"/>
+	<Link SourceWaypoint="8922" TargetWaypoint="8923"/>
+	<Link SourceWaypoint="8923" TargetWaypoint="8922"/>
+	<Link SourceWaypoint="8923" TargetWaypoint="8924"/>
+	<Link SourceWaypoint="8924" TargetWaypoint="8923"/>
+	<Link SourceWaypoint="8924" TargetWaypoint="8925"/>
+	<Link SourceWaypoint="8925" TargetWaypoint="8924"/>
+	<Link SourceWaypoint="8925" TargetWaypoint="8926"/>
+	<Link SourceWaypoint="8925" TargetWaypoint="8937"/>
+	<Link SourceWaypoint="8926" TargetWaypoint="8925"/>
+	<Link SourceWaypoint="8926" TargetWaypoint="8927"/>
+	<Link SourceWaypoint="8927" TargetWaypoint="8926"/>
+	<Link SourceWaypoint="8927" TargetWaypoint="8928"/>
+	<Link SourceWaypoint="8927" TargetWaypoint="8938"/>
+	<Link SourceWaypoint="8928" TargetWaypoint="8927"/>
+	<Link SourceWaypoint="8928" TargetWaypoint="8929"/>
+	<Link SourceWaypoint="8929" TargetWaypoint="8928"/>
+	<Link SourceWaypoint="8929" TargetWaypoint="8930"/>
+	<Link SourceWaypoint="8930" TargetWaypoint="8929"/>
+	<Link SourceWaypoint="8930" TargetWaypoint="8931"/>
+	<Link SourceWaypoint="8930" TargetWaypoint="8951"/>
+	<Link SourceWaypoint="8931" TargetWaypoint="8930"/>
+	<Link SourceWaypoint="8931" TargetWaypoint="8932"/>
+	<Link SourceWaypoint="8932" TargetWaypoint="8931"/>
+	<Link SourceWaypoint="8932" TargetWaypoint="8933"/>
+	<Link SourceWaypoint="8932" TargetWaypoint="8983"/>
+	<Link SourceWaypoint="8933" TargetWaypoint="8932"/>
+	<Link SourceWaypoint="8933" TargetWaypoint="8934"/>
+	<Link SourceWaypoint="8934" TargetWaypoint="8933"/>
+	<Link SourceWaypoint="8934" TargetWaypoint="8935"/>
+	<Link SourceWaypoint="8935" TargetWaypoint="8934"/>
+	<Link SourceWaypoint="8935" TargetWaypoint="8936"/>
+	<Link SourceWaypoint="8936" TargetWaypoint="8935"/>
+	<Link SourceWaypoint="8936" TargetWaypoint="8937"/>
+	<Link SourceWaypoint="8937" TargetWaypoint="8936"/>
+	<Link SourceWaypoint="8937" TargetWaypoint="8925"/>
+	<Link SourceWaypoint="8938" TargetWaypoint="8927"/>
+	<Link SourceWaypoint="8938" TargetWaypoint="8939"/>
+	<Link SourceWaypoint="8939" TargetWaypoint="8938"/>
+	<Link SourceWaypoint="8939" TargetWaypoint="8940"/>
+	<Link SourceWaypoint="8940" TargetWaypoint="8939"/>
+	<Link SourceWaypoint="8940" TargetWaypoint="8941"/>
+	<Link SourceWaypoint="8940" TargetWaypoint="8950"/>
+	<Link SourceWaypoint="8941" TargetWaypoint="8940"/>
+	<Link SourceWaypoint="8941" TargetWaypoint="8942"/>
+	<Link SourceWaypoint="8942" TargetWaypoint="8941"/>
+	<Link SourceWaypoint="8942" TargetWaypoint="8943"/>
+	<Link SourceWaypoint="8942" TargetWaypoint="8949"/>
+	<Link SourceWaypoint="8943" TargetWaypoint="8942"/>
+	<Link SourceWaypoint="8943" TargetWaypoint="8944"/>
+	<Link SourceWaypoint="8944" TargetWaypoint="8943"/>
+	<Link SourceWaypoint="8944" TargetWaypoint="8945"/>
+	<Link SourceWaypoint="8944" TargetWaypoint="8947"/>
+	<Link SourceWaypoint="8945" TargetWaypoint="8944"/>
+	<Link SourceWaypoint="8945" TargetWaypoint="8946"/>
+	<Link SourceWaypoint="8946" TargetWaypoint="8945"/>
+	<Link SourceWaypoint="8946" TargetWaypoint="8919"/>
+	<Link SourceWaypoint="8947" TargetWaypoint="8944"/>
+	<Link SourceWaypoint="8947" TargetWaypoint="8948"/>
+	<Link SourceWaypoint="8948" TargetWaypoint="8947"/>
+	<Link SourceWaypoint="8948" TargetWaypoint="8949"/>
+	<Link SourceWaypoint="8948" TargetWaypoint="8952"/>
+	<Link SourceWaypoint="8949" TargetWaypoint="8948"/>
+	<Link SourceWaypoint="8949" TargetWaypoint="8942"/>
+	<Link SourceWaypoint="8950" TargetWaypoint="8940"/>
+	<Link SourceWaypoint="8950" TargetWaypoint="8951"/>
+	<Link SourceWaypoint="8950" TargetWaypoint="8982"/>
+	<Link SourceWaypoint="8951" TargetWaypoint="8950"/>
+	<Link SourceWaypoint="8951" TargetWaypoint="8930"/>
+	<Link SourceWaypoint="8952" TargetWaypoint="8948"/>
+	<Link SourceWaypoint="8952" TargetWaypoint="8953"/>
+	<Link SourceWaypoint="8953" TargetWaypoint="8952"/>
+	<Link SourceWaypoint="8953" TargetWaypoint="8954"/>
+	<Link SourceWaypoint="8954" TargetWaypoint="8953"/>
+	<Link SourceWaypoint="8954" TargetWaypoint="8955"/>
+	<Link SourceWaypoint="8955" TargetWaypoint="8954"/>
+	<Link SourceWaypoint="8955" TargetWaypoint="8956"/>
+	<Link SourceWaypoint="8956" TargetWaypoint="8955"/>
+	<Link SourceWaypoint="8956" TargetWaypoint="8957"/>
+	<Link SourceWaypoint="8957" TargetWaypoint="8956"/>
+	<Link SourceWaypoint="8957" TargetWaypoint="8958"/>
+	<Link SourceWaypoint="8958" TargetWaypoint="8957"/>
+	<Link SourceWaypoint="8958" TargetWaypoint="8959"/>
+	<Link SourceWaypoint="8959" TargetWaypoint="8958"/>
+	<Link SourceWaypoint="8959" TargetWaypoint="8960"/>
+	<Link SourceWaypoint="8960" TargetWaypoint="8959"/>
+	<Link SourceWaypoint="8960" TargetWaypoint="8961"/>
+	<Link SourceWaypoint="8961" TargetWaypoint="8960"/>
+	<Link SourceWaypoint="8961" TargetWaypoint="8962"/>
+	<Link SourceWaypoint="8962" TargetWaypoint="8961"/>
+	<Link SourceWaypoint="8962" TargetWaypoint="8963"/>
+	<Link SourceWaypoint="8963" TargetWaypoint="8962"/>
+	<Link SourceWaypoint="8963" TargetWaypoint="8964"/>
+	<Link SourceWaypoint="8964" TargetWaypoint="8963"/>
+	<Link SourceWaypoint="8964" TargetWaypoint="8965"/>
+	<Link SourceWaypoint="8965" TargetWaypoint="8964"/>
+	<Link SourceWaypoint="8965" TargetWaypoint="8966"/>
+	<Link SourceWaypoint="8966" TargetWaypoint="8965"/>
+	<Link SourceWaypoint="8966" TargetWaypoint="8967"/>
+	<Link SourceWaypoint="8967" TargetWaypoint="8966"/>
+	<Link SourceWaypoint="8967" TargetWaypoint="8968"/>
+	<Link SourceWaypoint="8968" TargetWaypoint="8967"/>
+	<Link SourceWaypoint="8968" TargetWaypoint="8969"/>
+	<Link SourceWaypoint="8969" TargetWaypoint="8968"/>
+	<Link SourceWaypoint="8969" TargetWaypoint="8970"/>
+	<Link SourceWaypoint="8970" TargetWaypoint="8969"/>
+	<Link SourceWaypoint="8970" TargetWaypoint="8971"/>
+	<Link SourceWaypoint="8971" TargetWaypoint="8970"/>
+	<Link SourceWaypoint="8971" TargetWaypoint="8972"/>
+	<Link SourceWaypoint="8972" TargetWaypoint="8971"/>
+	<Link SourceWaypoint="8972" TargetWaypoint="8973"/>
+	<Link SourceWaypoint="8973" TargetWaypoint="8972"/>
+	<Link SourceWaypoint="8973" TargetWaypoint="8974"/>
+	<Link SourceWaypoint="8974" TargetWaypoint="8973"/>
+	<Link SourceWaypoint="8974" TargetWaypoint="8975"/>
+	<Link SourceWaypoint="8975" TargetWaypoint="8974"/>
+	<Link SourceWaypoint="8975" TargetWaypoint="8976"/>
+	<Link SourceWaypoint="8976" TargetWaypoint="8975"/>
+	<Link SourceWaypoint="8976" TargetWaypoint="8977"/>
+	<Link SourceWaypoint="8977" TargetWaypoint="8976"/>
+	<Link SourceWaypoint="8977" TargetWaypoint="8978"/>
+	<Link SourceWaypoint="8978" TargetWaypoint="8977"/>
+	<Link SourceWaypoint="8978" TargetWaypoint="8979"/>
+	<Link SourceWaypoint="8979" TargetWaypoint="8978"/>
+	<Link SourceWaypoint="8979" TargetWaypoint="8980"/>
+	<Link SourceWaypoint="8980" TargetWaypoint="8979"/>
+	<Link SourceWaypoint="8980" TargetWaypoint="8981"/>
+	<Link SourceWaypoint="8980" TargetWaypoint="8983"/>
+	<Link SourceWaypoint="8981" TargetWaypoint="8980"/>
+	<Link SourceWaypoint="8981" TargetWaypoint="8982"/>
+	<Link SourceWaypoint="8982" TargetWaypoint="8981"/>
+	<Link SourceWaypoint="8982" TargetWaypoint="8950"/>
+	<Link SourceWaypoint="8983" TargetWaypoint="8980"/>
+	<Link SourceWaypoint="8983" TargetWaypoint="8932"/>
+</LinkList>
+<GroupList>
+	<Group Key="12" Name="Media_Labor"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

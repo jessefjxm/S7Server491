@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="n_att07">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="997" Name="n_att07_01" PosX="17936.3" PosY="-1965.89" PosZ="-89527.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="998" Name="n_att07_02" PosX="13664.5" PosY="-1907.18" PosZ="-90939" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="999" Name="n_att07_03" PosX="15344.7" PosY="-1495.59" PosZ="-87649.3" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="997" TargetWaypoint="998"/>
+	<Link SourceWaypoint="997" TargetWaypoint="999"/>
+	<Link SourceWaypoint="998" TargetWaypoint="997"/>
+	<Link SourceWaypoint="999" TargetWaypoint="997"/>
+</LinkList>
+<GroupList>
+	<Group Key="10" Name="n_att07"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

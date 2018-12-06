@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script src="/Areas/Customizing/common/js/authorRank.js"></script>
+<link href="/Areas/Customizing/common/css/authorRank.css?v=4" rel="stylesheet"/>
+
+<script>
+    $(document).ready(function () {
+        common.openPage();
+
+        initPage();
+
+        common.closePage();
+    });
+</script>
+<div id="authorRank" class="container scroll">
+    <div id="searchBox">
+        <div class="label" data-str="WEB_CUSTOMIZING_SEARCH_DOWNLOAD_TIME"></div>
+        <div class="search">
+            <div class="radioArea">
+            </div>
+        </div>
+    </div>
+    <div class="textArea arial">
+        <div style="width:28%; text-align:right;"><img src="/Areas/Customizing/common/img/line_left.png"/></div>
+        <div style="width:44%">
+            <span class="border bold" data-str="WEB_CUSTOMIZING_AUTHOR_DOWNLOAD_RANK"> </span>
+            <span class="text bold" data-str="WEB_CUSTOMIZING_AUTHOR_DOWNLOAD_RANK"> </span>
+            <span class="shadow bold" data-str="WEB_CUSTOMIZING_AUTHOR_DOWNLOAD_RANK"> </span>
+        </div>
+        <div style="width:28%; text-align:left;"><img src="/Areas/Customizing/common/img/line_right.png"/></div>
+    </div>
+    <div class="subText" data-str="WEB_CUSTOMIZING_ALERT_AUTHOR_SAVE"></div>
+    <div class="cmArea" data-formatType="authorFormat">
+        <div class="CMBox">
+
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

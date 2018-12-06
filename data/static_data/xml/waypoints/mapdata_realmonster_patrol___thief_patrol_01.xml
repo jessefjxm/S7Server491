@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="thief_patrol_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6984" Name="Thief_patrol_01" PosX="-91469.2" PosY="-2648.26" PosZ="-44739.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6985" Name="Thief_patrol_02" PosX="-90076.6" PosY="-2360.57" PosZ="-44276.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6986" Name="Thief_patrol_03" PosX="-89330.9" PosY="-2172.7" PosZ="-43477.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6987" Name="Thief_patrol_04" PosX="-88785.5" PosY="-1997.71" PosZ="-42672.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6988" Name="Thief_patrol_05" PosX="-88820.4" PosY="-1741.66" PosZ="-41368.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6989" Name="Thief_patrol_06" PosX="-88684.7" PosY="-1442.67" PosZ="-40127.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6990" Name="Thief_patrol_07" PosX="-88021.2" PosY="-1019.11" PosZ="-38601.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6991" Name="Thief_patrol_08" PosX="-87424.1" PosY="-1044.68" PosZ="-37771.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6992" Name="Thief_patrol_09" PosX="-86007" PosY="-1130.37" PosZ="-37298.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6993" Name="Thief_patrol_10" PosX="-84955.4" PosY="-1330.69" PosZ="-37029.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6994" Name="Thief_patrol_11" PosX="-84358.4" PosY="-1362.94" PosZ="-36322.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6995" Name="Thief_patrol_12" PosX="-84461.6" PosY="-1166.09" PosZ="-35618.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6996" Name="Thief_patrol_13" PosX="-85256.1" PosY="-948.951" PosZ="-35067.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6997" Name="Thief_patrol_14" PosX="-86456.7" PosY="-717.632" PosZ="-34804.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6998" Name="Thief_patrol_15" PosX="-87302.5" PosY="-618.07" PosZ="-34708.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6999" Name="Thief_patrol_16" PosX="-87750.6" PosY="-344.899" PosZ="-33858.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7000" Name="Thief_patrol_17" PosX="-87204.3" PosY="-163.315" PosZ="-32213.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7001" Name="Thief_patrol_18" PosX="-86800.9" PosY="11.3395" PosZ="-31120.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7002" Name="Thief_patrol_19" PosX="-86139.8" PosY="-63.506" PosZ="-30326.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7003" Name="Thief_patrol_20" PosX="-84660.1" PosY="-295.351" PosZ="-30030.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7004" Name="Thief_patrol_21" PosX="-83410.3" PosY="-530.816" PosZ="-29291.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7005" Name="Thief_patrol_22" PosX="-82384" PosY="-607.526" PosZ="-28023.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7006" Name="Thief_patrol_23" PosX="-82569" PosY="-587.71" PosZ="-26730.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7007" Name="Thief_patrol_24" PosX="-82721.6" PosY="-680.038" PosZ="-25519.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7008" Name="Thief_patrol_25" PosX="-83158.5" PosY="-708.054" PosZ="-24850.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7009" Name="Thief_patrol_26" PosX="-84124.4" PosY="-857.722" PosZ="-24079.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7010" Name="Thief_patrol_27" PosX="-85478.3" PosY="-1076.56" PosZ="-23064.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7011" Name="Thief_patrol_28" PosX="-86629.3" PosY="-1258.75" PosZ="-22534.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7012" Name="Thief_patrol_29" PosX="-88065.5" PosY="-1232.24" PosZ="-22355.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7013" Name="Thief_patrol_30" PosX="-89457.5" PosY="-1065.33" PosZ="-22483.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7014" Name="Thief_patrol_31" PosX="-91299.9" PosY="-1032.01" PosZ="-22543.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7015" Name="Thief_patrol_32" PosX="-93095.4" PosY="-1249.31" PosZ="-22799.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7016" Name="Thief_patrol_33" PosX="-94554.3" PosY="-1500.63" PosZ="-23233.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7017" Name="Thief_patrol_34" PosX="-95407.3" PosY="-1764.46" PosZ="-23857.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7018" Name="Thief_patrol_35" PosX="-96480.8" PosY="-2135.19" PosZ="-25553.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7019" Name="Thief_patrol_36" PosX="-97589.7" PosY="-2452.04" PosZ="-27302" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7020" Name="Thief_patrol_37" PosX="-98546.3" PosY="-2591.88" PosZ="-28350.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7021" Name="Thief_patrol_38" PosX="-99959.9" PosY="-2770.05" PosZ="-29598.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7022" Name="Thief_patrol_39" PosX="-100965" PosY="-2758.81" PosZ="-30543.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7023" Name="Thief_patrol_40" PosX="-101106" PosY="-2737.13" PosZ="-31649.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7024" Name="Thief_patrol_41" PosX="-100681" PosY="-2795.25" PosZ="-32531.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7025" Name="Thief_patrol_42" PosX="-100071" PosY="-2826.48" PosZ="-33665.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7026" Name="Thief_patrol_43" PosX="-99265.4" PosY="-2909.42" PosZ="-34645.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7027" Name="Thief_patrol_44" PosX="-99250.6" PosY="-2942.84" PosZ="-36460.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7028" Name="Thief_patrol_45" PosX="-98070.9" PosY="-2979.22" PosZ="-37927.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7029" Name="Thief_patrol_46" PosX="-97031.9" PosY="-2993.5" PosZ="-39237.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7030" Name="Thief_patrol_47" PosX="-95743.8" PosY="-2984.21" PosZ="-40465.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7031" Name="Thief_patrol_48" PosX="-95200.5" PosY="-2883.79" PosZ="-42202.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7032" Name="Thief_patrol_49" PosX="-94447.8" PosY="-2763.3" PosZ="-43945.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7033" Name="Thief_patrol_50" PosX="-93331.9" PosY="-2748.08" PosZ="-44760.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7034" Name="Thief_patrol_51" PosX="-92589.4" PosY="-2737.61" PosZ="-45380.2" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="6984" TargetWaypoint="6985"/>
+	<Link SourceWaypoint="6985" TargetWaypoint="6986"/>
+	<Link SourceWaypoint="6986" TargetWaypoint="6987"/>
+	<Link SourceWaypoint="6987" TargetWaypoint="6988"/>
+	<Link SourceWaypoint="6988" TargetWaypoint="6989"/>
+	<Link SourceWaypoint="6989" TargetWaypoint="6990"/>
+	<Link SourceWaypoint="6990" TargetWaypoint="6991"/>
+	<Link SourceWaypoint="6991" TargetWaypoint="6992"/>
+	<Link SourceWaypoint="6992" TargetWaypoint="6993"/>
+	<Link SourceWaypoint="6993" TargetWaypoint="6994"/>
+	<Link SourceWaypoint="6994" TargetWaypoint="6995"/>
+	<Link SourceWaypoint="6995" TargetWaypoint="6996"/>
+	<Link SourceWaypoint="6996" TargetWaypoint="6997"/>
+	<Link SourceWaypoint="6997" TargetWaypoint="6998"/>
+	<Link SourceWaypoint="6998" TargetWaypoint="6999"/>
+	<Link SourceWaypoint="6999" TargetWaypoint="7000"/>
+	<Link SourceWaypoint="7000" TargetWaypoint="7001"/>
+	<Link SourceWaypoint="7001" TargetWaypoint="7002"/>
+	<Link SourceWaypoint="7002" TargetWaypoint="7003"/>
+	<Link SourceWaypoint="7003" TargetWaypoint="7004"/>
+	<Link SourceWaypoint="7004" TargetWaypoint="7005"/>
+	<Link SourceWaypoint="7005" TargetWaypoint="7006"/>
+	<Link SourceWaypoint="7006" TargetWaypoint="7007"/>
+	<Link SourceWaypoint="7007" TargetWaypoint="7008"/>
+	<Link SourceWaypoint="7008" TargetWaypoint="7009"/>
+	<Link SourceWaypoint="7009" TargetWaypoint="7010"/>
+	<Link SourceWaypoint="7010" TargetWaypoint="7011"/>
+	<Link SourceWaypoint="7011" TargetWaypoint="7012"/>
+	<Link SourceWaypoint="7012" TargetWaypoint="7013"/>
+	<Link SourceWaypoint="7013" TargetWaypoint="7014"/>
+	<Link SourceWaypoint="7014" TargetWaypoint="7015"/>
+	<Link SourceWaypoint="7015" TargetWaypoint="7016"/>
+	<Link SourceWaypoint="7016" TargetWaypoint="7017"/>
+	<Link SourceWaypoint="7017" TargetWaypoint="7018"/>
+	<Link SourceWaypoint="7018" TargetWaypoint="7019"/>
+	<Link SourceWaypoint="7019" TargetWaypoint="7020"/>
+	<Link SourceWaypoint="7020" TargetWaypoint="7021"/>
+	<Link SourceWaypoint="7021" TargetWaypoint="7022"/>
+	<Link SourceWaypoint="7022" TargetWaypoint="7023"/>
+	<Link SourceWaypoint="7023" TargetWaypoint="7024"/>
+	<Link SourceWaypoint="7024" TargetWaypoint="7025"/>
+	<Link SourceWaypoint="7025" TargetWaypoint="7026"/>
+	<Link SourceWaypoint="7026" TargetWaypoint="7027"/>
+	<Link SourceWaypoint="7027" TargetWaypoint="7028"/>
+	<Link SourceWaypoint="7028" TargetWaypoint="7029"/>
+	<Link SourceWaypoint="7029" TargetWaypoint="7030"/>
+	<Link SourceWaypoint="7030" TargetWaypoint="7031"/>
+	<Link SourceWaypoint="7031" TargetWaypoint="7032"/>
+	<Link SourceWaypoint="7032" TargetWaypoint="7033"/>
+	<Link SourceWaypoint="7033" TargetWaypoint="7034"/>
+	<Link SourceWaypoint="7034" TargetWaypoint="6984"/>
+</LinkList>
+<GroupList>
+	<Group Key="18" Name="Thief_patrol_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

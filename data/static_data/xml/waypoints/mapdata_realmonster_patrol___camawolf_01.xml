@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="camawolf_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39784" Name="CamaWolf_01_001" PosX="-435922" PosY="-3478.48" PosZ="-411475" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39785" Name="CamaWolf_01_002" PosX="-435970" PosY="-3541.99" PosZ="-412574" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39786" Name="CamaWolf_01_003" PosX="-435416" PosY="-3527.17" PosZ="-413659" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39787" Name="CamaWolf_01_004" PosX="-434147" PosY="-3518.42" PosZ="-414725" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39788" Name="CamaWolf_01_005" PosX="-431551" PosY="-3457.52" PosZ="-415173" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39789" Name="CamaWolf_01_006" PosX="-429369" PosY="-3155.76" PosZ="-415561" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39790" Name="CamaWolf_01_007" PosX="-426277" PosY="-2760.07" PosZ="-416722" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39791" Name="CamaWolf_01_008" PosX="-424651" PosY="-2649.99" PosZ="-416207" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39792" Name="CamaWolf_01_009" PosX="-422125" PosY="-2352.3" PosZ="-416013" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39793" Name="CamaWolf_01_010" PosX="-418981" PosY="-2230.71" PosZ="-415942" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39794" Name="CamaWolf_01_011" PosX="-416584" PosY="-2201.93" PosZ="-416321" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39795" Name="CamaWolf_01_012" PosX="-414058" PosY="-2202.92" PosZ="-416672" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39796" Name="CamaWolf_01_013" PosX="-413049" PosY="-2162.67" PosZ="-418201" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39797" Name="CamaWolf_01_014" PosX="-413394" PosY="-2123.53" PosZ="-419289" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39798" Name="CamaWolf_01_015" PosX="-414448" PosY="-2088.55" PosZ="-420126" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39799" Name="CamaWolf_01_016" PosX="-415983" PosY="-2141.61" PosZ="-420189" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39800" Name="CamaWolf_01_017" PosX="-417295" PosY="-2200.54" PosZ="-419015" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39801" Name="CamaWolf_01_018" PosX="-419710" PosY="-2285" PosZ="-417217" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39802" Name="CamaWolf_01_019" PosX="-422197" PosY="-2354.22" PosZ="-415111" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39803" Name="CamaWolf_01_020" PosX="-425199" PosY="-2450.16" PosZ="-414463" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39804" Name="CamaWolf_01_021" PosX="-427007" PosY="-2635.72" PosZ="-413660" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39805" Name="CamaWolf_01_022" PosX="-428792" PosY="-2814.63" PosZ="-412282" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39806" Name="CamaWolf_01_023" PosX="-431091" PosY="-3168.35" PosZ="-411137" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39807" Name="CamaWolf_01_024" PosX="-432444" PosY="-3258.57" PosZ="-410209" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39808" Name="CamaWolf_01_025" PosX="-433566" PosY="-3245.22" PosZ="-409695" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39809" Name="CamaWolf_01_026" PosX="-435082" PosY="-3260.02" PosZ="-410114" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="39784" TargetWaypoint="39785"/>
+	<Link SourceWaypoint="39785" TargetWaypoint="39786"/>
+	<Link SourceWaypoint="39786" TargetWaypoint="39787"/>
+	<Link SourceWaypoint="39787" TargetWaypoint="39788"/>
+	<Link SourceWaypoint="39788" TargetWaypoint="39789"/>
+	<Link SourceWaypoint="39789" TargetWaypoint="39790"/>
+	<Link SourceWaypoint="39790" TargetWaypoint="39791"/>
+	<Link SourceWaypoint="39791" TargetWaypoint="39792"/>
+	<Link SourceWaypoint="39792" TargetWaypoint="39793"/>
+	<Link SourceWaypoint="39793" TargetWaypoint="39794"/>
+	<Link SourceWaypoint="39794" TargetWaypoint="39795"/>
+	<Link SourceWaypoint="39795" TargetWaypoint="39796"/>
+	<Link SourceWaypoint="39796" TargetWaypoint="39797"/>
+	<Link SourceWaypoint="39797" TargetWaypoint="39798"/>
+	<Link SourceWaypoint="39798" TargetWaypoint="39799"/>
+	<Link SourceWaypoint="39799" TargetWaypoint="39800"/>
+	<Link SourceWaypoint="39800" TargetWaypoint="39801"/>
+	<Link SourceWaypoint="39801" TargetWaypoint="39802"/>
+	<Link SourceWaypoint="39802" TargetWaypoint="39803"/>
+	<Link SourceWaypoint="39803" TargetWaypoint="39804"/>
+	<Link SourceWaypoint="39804" TargetWaypoint="39805"/>
+	<Link SourceWaypoint="39805" TargetWaypoint="39806"/>
+	<Link SourceWaypoint="39806" TargetWaypoint="39807"/>
+	<Link SourceWaypoint="39807" TargetWaypoint="39808"/>
+	<Link SourceWaypoint="39808" TargetWaypoint="39809"/>
+	<Link SourceWaypoint="39809" TargetWaypoint="39784"/>
+</LinkList>
+<GroupList>
+	<Group Key="203" Name="CamaWolf_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

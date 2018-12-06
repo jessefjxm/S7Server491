@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="ram_patrol">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="603" Name="ram_1" PosX="-19797.9" PosY="5424.45" PosZ="2452" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="604" Name="ram_2" PosX="-23835.2" PosY="6000.87" PosZ="-579.678" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="605" Name="ram_3" PosX="-26193.7" PosY="4326.79" PosZ="-8100.34" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="606" Name="ram_4" PosX="-18582.6" PosY="1659.55" PosZ="-10107.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="607" Name="ram_5" PosX="-19380.2" PosY="3362.63" PosZ="-5365.92" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="611" Name="ram_rute_01" PosX="-18212.2" PosY="4258.58" PosZ="-1464.83" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="612" Name="ram_rute_02" PosX="-20351.5" PosY="2603.83" PosZ="-7787.36" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="613" Name="ram_rute_03" PosX="-24496.4" PosY="1455.91" PosZ="-13718.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="614" Name="ram_rute_04" PosX="-26189.2" PosY="2686.2" PosZ="-12770.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="615" Name="ram_rute_05" PosX="-26495.7" PosY="3307.44" PosZ="-10893.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="616" Name="ram_rute_06" PosX="-24719.1" PosY="5277.98" PosZ="-4496.26" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="617" Name="ram_rute_07" PosX="-22907.4" PosY="4553.36" PosZ="-5125.97" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="618" Name="ram_rute_08" PosX="-24146.8" PosY="5788.68" PosZ="2345.53" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="619" Name="ram_rute_09" PosX="-21355.3" PosY="5456.15" PosZ="-301.896" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="620" Name="ram_rute_10" PosX="-20348.8" PosY="4790.68" PosZ="-1881.45" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="629" Name="ram_6" PosX="-28231.3" PosY="6325.86" PosZ="1859.41" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="630" Name="ram_7" PosX="-9303.75" PosY="5452" PosZ="6207.07" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="631" Name="ram_8" PosX="-15330.1" PosY="2832.49" PosZ="-3015.28" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="632" Name="ram_rute_11" PosX="-14082" PosY="6132.77" PosZ="5713.57" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="633" Name="ram_rute_12" PosX="-18141.8" PosY="5627.31" PosZ="3499.74" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="841" Name="Lost_Sheep_1" PosX="-15216.8" PosY="-344.723" PosZ="-16335.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="842" Name="Lost_Sheep_2" PosX="-15666.3" PosY="-3103.38" PosZ="-34690.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="843" Name="Lost_Sheep_3" PosX="-4769.17" PosY="-917.134" PosZ="-21504.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="844" Name="Lost_Sheep_4" PosX="-23880.7" PosY="-580.862" PosZ="-22980.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="845" Name="Lost_Sheep_5" PosX="-40798.6" PosY="-228.61" PosZ="-27777.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="846" Name="Lost_Sheep_6" PosX="7718.59" PosY="655.331" PosZ="-7482.75" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="848" Name="Lost_Sheep_8" PosX="-43566.4" PosY="598.03" PosZ="-21035.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="849" Name="Lost_Sheep_Route_1" PosX="-6523.1" PosY="2993.85" PosZ="1413.78" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="850" Name="Lost_Sheep_Route_2" PosX="-5758.28" PosY="707.135" PosZ="-5524.15" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="851" Name="Lost_Sheep_Route_3" PosX="-11615.4" PosY="1600.4" PosZ="-4800.97" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="852" Name="Lost_Sheep_Route_4" PosX="-16813.1" PosY="1701.41" PosZ="-8772.23" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="853" Name="Lost_Sheep_Route_5" PosX="-15811.3" PosY="-576.296" PosZ="-19545.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="854" Name="Lost_Sheep_Route_6" PosX="7.92566" PosY="1445.88" PosZ="-3334.23" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="855" Name="Lost_Sheep_Route_7" PosX="4469.95" PosY="1100.22" PosZ="-2125.79" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="856" Name="Lost_Sheep_Route_8" PosX="8564.29" PosY="1195.1" PosZ="-3227.96" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="857" Name="Lost_Sheep_Route_9" PosX="8063.88" PosY="804.343" PosZ="-5887.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="858" Name="Lost_Sheep_Route_10" PosX="-13741.8" PosY="-926.466" PosZ="-19081" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="859" Name="Lost_Sheep_Route_11" PosX="-10493.6" PosY="-1054.14" PosZ="-20510.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="860" Name="Lost_Sheep_Route_12" PosX="-7146.96" PosY="-1311.85" PosZ="-22453.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="861" Name="Lost_Sheep_Route_13" PosX="-9634.42" PosY="-603.07" PosZ="-14181.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="862" Name="Lost_Sheep_Route_14" PosX="-3133.9" PosY="955.345" PosZ="-5883.19" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="863" Name="Lost_Sheep_Route_15" PosX="-22086.1" PosY="-971.944" PosZ="-24583" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="864" Name="Lost_Sheep_Route_16" PosX="-21479.8" PosY="-1520.58" PosZ="-27922.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="865" Name="Lost_Sheep_Route_17" PosX="-20194.8" PosY="-1939.53" PosZ="-29235.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="866" Name="Lost_Sheep_Route_18" PosX="-15526.5" PosY="-2433.44" PosZ="-30729.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="867" Name="Lost_Sheep_Route_19" PosX="-15007" PosY="-2761.23" PosZ="-32051.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="868" Name="Lost_Sheep_Route_20" PosX="-25985.6" PosY="-592.66" PosZ="-24083.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="869" Name="Lost_Sheep_Route_21" PosX="-28914.2" PosY="-742.837" PosZ="-24267.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="870" Name="Lost_Sheep_Route_22" PosX="-30929.9" PosY="-1287.3" PosZ="-26490.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="871" Name="Lost_Sheep_Route_23" PosX="-31713.9" PosY="-1540.02" PosZ="-28533" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="872" Name="Lost_Sheep_Route_24" PosX="-31016.2" PosY="-2127.37" PosZ="-33583.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="873" Name="Lost_Sheep_Route_25" PosX="-32785.9" PosY="-2548.77" PosZ="-36637.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="874" Name="Lost_Sheep_Route_26" PosX="-33154.9" PosY="-1142.02" PosZ="-26208.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="875" Name="Lost_Sheep_Route_27" PosX="-36367.4" PosY="-505.91" PosZ="-25053.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="876" Name="Lost_Sheep_Route_28" PosX="-40128" PosY="561.081" PosZ="-22431.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="877" Name="Lost_Sheep_Route_29" PosX="-35108.3" PosY="-1483.57" PosZ="-28343.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="878" Name="Lost_Sheep_Route_30" PosX="-39406.1" PosY="-1472.25" PosZ="-31566.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="879" Name="Lost_Sheep_Route_31" PosX="-40906.8" PosY="-1323.65" PosZ="-31425.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="880" Name="Lost_Sheep_Route_32" PosX="-41874.9" PosY="-972.792" PosZ="-30286.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="881" Name="Lost_Sheep_Route_33" PosX="-25165.4" PosY="532.739" PosZ="-18097" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="882" Name="Lost_Sheep_Route_34" PosX="-19000.8" PosY="308.795" PosZ="-16297.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="883" Name="Lost_Sheep_Route_35" PosX="-26659.3" PosY="-373.861" PosZ="-22753.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1026" Name="ram_9" PosX="-19319.1" PosY="5295.86" PosZ="859.629" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1027" Name="ram_10" PosX="-16656.3" PosY="-409.49" PosZ="-19126.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1028" Name="ram_rute_13" PosX="-20240" PosY="1019.92" PosZ="-14266.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1029" Name="Lost_Sheep_9" PosX="-23440.6" PosY="-398.499" PosZ="-21270.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1030" Name="Lost_Sheep_10" PosX="-24839.1" PosY="171.902" PosZ="-19359.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1032" Name="Lost_Sheep_Route_36" PosX="-15334.3" PosY="-600.278" PosZ="-19399.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1033" Name="Lost_Sheep_Route_37" PosX="-15966.4" PosY="-407.916" PosZ="-18305.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1034" Name="Lost_Sheep_Route_38" PosX="-31433.3" PosY="-1759.04" PosZ="-31247.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1035" Name="ram_rute_14" PosX="-12063.5" PosY="6133.65" PosZ="6011.14" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1036" Name="ram_rute_15" PosX="-23864.8" PosY="5909.57" PosZ="388.382" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1037" Name="ram_rute_16" PosX="-21147.5" PosY="5331.76" PosZ="-1142.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1038" Name="ram_rute_17" PosX="-24273.1" PosY="5832.29" PosZ="-2409.17" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1039" Name="ram_rute_18" PosX="-25768.7" PosY="5281.63" PosZ="-5635.96" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1040" Name="ram_rute_19" PosX="-24710.8" PosY="4823.32" PosZ="-6210.68" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1041" Name="ram_rute_20" PosX="-17629" PosY="3450.36" PosZ="-4108.65" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1042" Name="ram_rute_21" PosX="-18760.4" PosY="3875.49" PosZ="-3550.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1043" Name="ram_rute_22" PosX="-18893.5" PosY="2594.37" PosZ="-8127.54" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1044" Name="Lost_Sheep_Route_39" PosX="-36502.3" PosY="-1344" PosZ="-29253.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1045" Name="Lost_Sheep_Route_40" PosX="-37068.3" PosY="-656.804" PosZ="-25020.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1046" Name="Lost_Sheep_Route_41" PosX="-37978.5" PosY="-126.602" PosZ="-24013.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1047" Name="Lost_Sheep_Route_42" PosX="-38837.3" PosY="313.982" PosZ="-23090.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1048" Name="Lost_Sheep_Route_43" PosX="-41355.9" PosY="731.296" PosZ="-21414" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1049" Name="Lost_Sheep_Route_444" PosX="-16774.6" PosY="3.8913" PosZ="-16653" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1059" Name="Lost_Sheep_Route_38_1" PosX="-31816.8" PosY="-1693.48" PosZ="-30401.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1060" Name="Lost_Sheep_Route_38_2" PosX="-33002.2" PosY="-1781.85" PosZ="-29825.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="1061" Name="Lost_Sheep_Route_38_3" PosX="-32745.9" PosY="-1594.06" PosZ="-29126" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6415" Name="Lost_Sheep_8_1" PosX="-43192.5" PosY="677.158" PosZ="-20881.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6416" Name="Lost_Sheep_8_2" PosX="-42290.7" PosY="873.323" PosZ="-20748.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6417" Name="Lost_Sheep_8_3" PosX="-41706.1" PosY="810.101" PosZ="-21067.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6418" Name="Lost_Sheep_Route_43_1" PosX="-40858.8" PosY="650.342" PosZ="-21867.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6419" Name="Lost_Sheep_Route_43_2" PosX="-40665.4" PosY="592.759" PosZ="-22296.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6420" Name="Lost_Sheep_Route_28_1" PosX="-39917.3" PosY="508.86" PosZ="-22909.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6421" Name="Lost_Sheep_Route_28_2" PosX="-39381.4" PosY="430.496" PosZ="-23143.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6422" Name="Lost_Sheep_Route_27_1" PosX="-35168.1" PosY="-981.143" PosZ="-25944" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6423" Name="Lost_Sheep_Route_27_2" PosX="-33837.9" PosY="-935.361" PosZ="-25914.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6424" Name="Lost_Sheep_Route_26_1" PosX="-32515.2" PosY="-1069.05" PosZ="-25813.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6425" Name="Lost_Sheep_Route_26_2" PosX="-31985.9" PosY="-1109.81" PosZ="-25977.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6426" Name="Lost_Sheep_Route_26_3" PosX="-31043.4" PosY="-560.251" PosZ="-24694.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6427" Name="Lost_Sheep_Route_26_4" PosX="-30009.1" PosY="-796.731" PosZ="-24636.6" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="603" TargetWaypoint="618"/>
+	<Link SourceWaypoint="603" TargetWaypoint="633"/>
+	<Link SourceWaypoint="603" TargetWaypoint="619"/>
+	<Link SourceWaypoint="603" TargetWaypoint="1026"/>
+	<Link SourceWaypoint="604" TargetWaypoint="618"/>
+	<Link SourceWaypoint="604" TargetWaypoint="619"/>
+	<Link SourceWaypoint="604" TargetWaypoint="617"/>
+	<Link SourceWaypoint="604" TargetWaypoint="629"/>
+	<Link SourceWaypoint="604" TargetWaypoint="1038"/>
+	<Link SourceWaypoint="605" TargetWaypoint="615"/>
+	<Link SourceWaypoint="605" TargetWaypoint="1039"/>
+	<Link SourceWaypoint="605" TargetWaypoint="1040"/>
+	<Link SourceWaypoint="606" TargetWaypoint="1043"/>
+	<Link SourceWaypoint="606" TargetWaypoint="852"/>
+	<Link SourceWaypoint="607" TargetWaypoint="612"/>
+	<Link SourceWaypoint="607" TargetWaypoint="617"/>
+	<Link SourceWaypoint="607" TargetWaypoint="620"/>
+	<Link SourceWaypoint="607" TargetWaypoint="1041"/>
+	<Link SourceWaypoint="607" TargetWaypoint="1042"/>
+	<Link SourceWaypoint="611" TargetWaypoint="619"/>
+	<Link SourceWaypoint="611" TargetWaypoint="631"/>
+	<Link SourceWaypoint="611" TargetWaypoint="620"/>
+	<Link SourceWaypoint="611" TargetWaypoint="1042"/>
+	<Link SourceWaypoint="612" TargetWaypoint="607"/>
+	<Link SourceWaypoint="612" TargetWaypoint="617"/>
+	<Link SourceWaypoint="612" TargetWaypoint="1043"/>
+	<Link SourceWaypoint="613" TargetWaypoint="614"/>
+	<Link SourceWaypoint="613" TargetWaypoint="1028"/>
+	<Link SourceWaypoint="614" TargetWaypoint="613"/>
+	<Link SourceWaypoint="614" TargetWaypoint="615"/>
+	<Link SourceWaypoint="614" TargetWaypoint="881"/>
+	<Link SourceWaypoint="615" TargetWaypoint="614"/>
+	<Link SourceWaypoint="615" TargetWaypoint="605"/>
+	<Link SourceWaypoint="616" TargetWaypoint="617"/>
+	<Link SourceWaypoint="616" TargetWaypoint="1038"/>
+	<Link SourceWaypoint="616" TargetWaypoint="1039"/>
+	<Link SourceWaypoint="617" TargetWaypoint="607"/>
+	<Link SourceWaypoint="617" TargetWaypoint="612"/>
+	<Link SourceWaypoint="617" TargetWaypoint="604"/>
+	<Link SourceWaypoint="617" TargetWaypoint="616"/>
+	<Link SourceWaypoint="617" TargetWaypoint="1040"/>
+	<Link SourceWaypoint="618" TargetWaypoint="604"/>
+	<Link SourceWaypoint="618" TargetWaypoint="603"/>
+	<Link SourceWaypoint="618" TargetWaypoint="629"/>
+	<Link SourceWaypoint="619" TargetWaypoint="604"/>
+	<Link SourceWaypoint="619" TargetWaypoint="611"/>
+	<Link SourceWaypoint="619" TargetWaypoint="603"/>
+	<Link SourceWaypoint="619" TargetWaypoint="1036"/>
+	<Link SourceWaypoint="619" TargetWaypoint="1037"/>
+	<Link SourceWaypoint="620" TargetWaypoint="607"/>
+	<Link SourceWaypoint="620" TargetWaypoint="611"/>
+	<Link SourceWaypoint="620" TargetWaypoint="1037"/>
+	<Link SourceWaypoint="629" TargetWaypoint="618"/>
+	<Link SourceWaypoint="629" TargetWaypoint="604"/>
+	<Link SourceWaypoint="629" TargetWaypoint="1036"/>
+	<Link SourceWaypoint="630" TargetWaypoint="1035"/>
+	<Link SourceWaypoint="631" TargetWaypoint="611"/>
+	<Link SourceWaypoint="631" TargetWaypoint="851"/>
+	<Link SourceWaypoint="631" TargetWaypoint="1041"/>
+	<Link SourceWaypoint="632" TargetWaypoint="633"/>
+	<Link SourceWaypoint="632" TargetWaypoint="1035"/>
+	<Link SourceWaypoint="633" TargetWaypoint="632"/>
+	<Link SourceWaypoint="633" TargetWaypoint="603"/>
+	<Link SourceWaypoint="841" TargetWaypoint="852"/>
+	<Link SourceWaypoint="841" TargetWaypoint="858"/>
+	<Link SourceWaypoint="841" TargetWaypoint="861"/>
+	<Link SourceWaypoint="841" TargetWaypoint="1049"/>
+	<Link SourceWaypoint="842" TargetWaypoint="867"/>
+	<Link SourceWaypoint="843" TargetWaypoint="860"/>
+	<Link SourceWaypoint="844" TargetWaypoint="863"/>
+	<Link SourceWaypoint="844" TargetWaypoint="868"/>
+	<Link SourceWaypoint="844" TargetWaypoint="1029"/>
+	<Link SourceWaypoint="845" TargetWaypoint="880"/>
+	<Link SourceWaypoint="846" TargetWaypoint="857"/>
+	<Link SourceWaypoint="848" TargetWaypoint="6415"/>
+	<Link SourceWaypoint="849" TargetWaypoint="850"/>
+	<Link SourceWaypoint="850" TargetWaypoint="849"/>
+	<Link SourceWaypoint="850" TargetWaypoint="851"/>
+	<Link SourceWaypoint="850" TargetWaypoint="862"/>
+	<Link SourceWaypoint="851" TargetWaypoint="850"/>
+	<Link SourceWaypoint="851" TargetWaypoint="631"/>
+	<Link SourceWaypoint="851" TargetWaypoint="852"/>
+	<Link SourceWaypoint="852" TargetWaypoint="851"/>
+	<Link SourceWaypoint="852" TargetWaypoint="841"/>
+	<Link SourceWaypoint="852" TargetWaypoint="1043"/>
+	<Link SourceWaypoint="852" TargetWaypoint="606"/>
+	<Link SourceWaypoint="853" TargetWaypoint="1032"/>
+	<Link SourceWaypoint="853" TargetWaypoint="1033"/>
+	<Link SourceWaypoint="854" TargetWaypoint="855"/>
+	<Link SourceWaypoint="854" TargetWaypoint="862"/>
+	<Link SourceWaypoint="855" TargetWaypoint="854"/>
+	<Link SourceWaypoint="855" TargetWaypoint="856"/>
+	<Link SourceWaypoint="856" TargetWaypoint="855"/>
+	<Link SourceWaypoint="856" TargetWaypoint="857"/>
+	<Link SourceWaypoint="857" TargetWaypoint="856"/>
+	<Link SourceWaypoint="857" TargetWaypoint="846"/>
+	<Link SourceWaypoint="858" TargetWaypoint="859"/>
+	<Link SourceWaypoint="858" TargetWaypoint="861"/>
+	<Link SourceWaypoint="858" TargetWaypoint="841"/>
+	<Link SourceWaypoint="859" TargetWaypoint="858"/>
+	<Link SourceWaypoint="859" TargetWaypoint="860"/>
+	<Link SourceWaypoint="860" TargetWaypoint="859"/>
+	<Link SourceWaypoint="860" TargetWaypoint="843"/>
+	<Link SourceWaypoint="861" TargetWaypoint="858"/>
+	<Link SourceWaypoint="861" TargetWaypoint="862"/>
+	<Link SourceWaypoint="861" TargetWaypoint="841"/>
+	<Link SourceWaypoint="862" TargetWaypoint="861"/>
+	<Link SourceWaypoint="862" TargetWaypoint="854"/>
+	<Link SourceWaypoint="862" TargetWaypoint="850"/>
+	<Link SourceWaypoint="863" TargetWaypoint="844"/>
+	<Link SourceWaypoint="863" TargetWaypoint="864"/>
+	<Link SourceWaypoint="864" TargetWaypoint="863"/>
+	<Link SourceWaypoint="864" TargetWaypoint="865"/>
+	<Link SourceWaypoint="865" TargetWaypoint="864"/>
+	<Link SourceWaypoint="865" TargetWaypoint="866"/>
+	<Link SourceWaypoint="866" TargetWaypoint="865"/>
+	<Link SourceWaypoint="866" TargetWaypoint="867"/>
+	<Link SourceWaypoint="867" TargetWaypoint="866"/>
+	<Link SourceWaypoint="867" TargetWaypoint="842"/>
+	<Link SourceWaypoint="868" TargetWaypoint="844"/>
+	<Link SourceWaypoint="868" TargetWaypoint="869"/>
+	<Link SourceWaypoint="869" TargetWaypoint="868"/>
+	<Link SourceWaypoint="869" TargetWaypoint="870"/>
+	<Link SourceWaypoint="869" TargetWaypoint="883"/>
+	<Link SourceWaypoint="869" TargetWaypoint="6427"/>
+	<Link SourceWaypoint="870" TargetWaypoint="869"/>
+	<Link SourceWaypoint="870" TargetWaypoint="871"/>
+	<Link SourceWaypoint="870" TargetWaypoint="877"/>
+	<Link SourceWaypoint="871" TargetWaypoint="870"/>
+	<Link SourceWaypoint="871" TargetWaypoint="1061"/>
+	<Link SourceWaypoint="872" TargetWaypoint="873"/>
+	<Link SourceWaypoint="873" TargetWaypoint="872"/>
+	<Link SourceWaypoint="874" TargetWaypoint="6423"/>
+	<Link SourceWaypoint="874" TargetWaypoint="6424"/>
+	<Link SourceWaypoint="875" TargetWaypoint="1045"/>
+	<Link SourceWaypoint="875" TargetWaypoint="6422"/>
+	<Link SourceWaypoint="876" TargetWaypoint="6419"/>
+	<Link SourceWaypoint="876" TargetWaypoint="6420"/>
+	<Link SourceWaypoint="877" TargetWaypoint="870"/>
+	<Link SourceWaypoint="877" TargetWaypoint="1044"/>
+	<Link SourceWaypoint="878" TargetWaypoint="879"/>
+	<Link SourceWaypoint="878" TargetWaypoint="1044"/>
+	<Link SourceWaypoint="879" TargetWaypoint="878"/>
+	<Link SourceWaypoint="879" TargetWaypoint="880"/>
+	<Link SourceWaypoint="880" TargetWaypoint="879"/>
+	<Link SourceWaypoint="880" TargetWaypoint="845"/>
+	<Link SourceWaypoint="881" TargetWaypoint="614"/>
+	<Link SourceWaypoint="881" TargetWaypoint="883"/>
+	<Link SourceWaypoint="882" TargetWaypoint="1049"/>
+	<Link SourceWaypoint="883" TargetWaypoint="869"/>
+	<Link SourceWaypoint="883" TargetWaypoint="881"/>
+	<Link SourceWaypoint="1026" TargetWaypoint="603"/>
+	<Link SourceWaypoint="1026" TargetWaypoint="611"/>
+	<Link SourceWaypoint="1027" TargetWaypoint="853"/>
+	<Link SourceWaypoint="1028" TargetWaypoint="613"/>
+	<Link SourceWaypoint="1028" TargetWaypoint="882"/>
+	<Link SourceWaypoint="1029" TargetWaypoint="844"/>
+	<Link SourceWaypoint="1029" TargetWaypoint="1030"/>
+	<Link SourceWaypoint="1030" TargetWaypoint="1029"/>
+	<Link SourceWaypoint="1030" TargetWaypoint="881"/>
+	<Link SourceWaypoint="1032" TargetWaypoint="853"/>
+	<Link SourceWaypoint="1032" TargetWaypoint="858"/>
+	<Link SourceWaypoint="1033" TargetWaypoint="853"/>
+	<Link SourceWaypoint="1033" TargetWaypoint="841"/>
+	<Link SourceWaypoint="1034" TargetWaypoint="872"/>
+	<Link SourceWaypoint="1034" TargetWaypoint="1059"/>
+	<Link SourceWaypoint="1035" TargetWaypoint="630"/>
+	<Link SourceWaypoint="1035" TargetWaypoint="632"/>
+	<Link SourceWaypoint="1036" TargetWaypoint="629"/>
+	<Link SourceWaypoint="1036" TargetWaypoint="619"/>
+	<Link SourceWaypoint="1037" TargetWaypoint="619"/>
+	<Link SourceWaypoint="1037" TargetWaypoint="620"/>
+	<Link SourceWaypoint="1038" TargetWaypoint="616"/>
+	<Link SourceWaypoint="1038" TargetWaypoint="604"/>
+	<Link SourceWaypoint="1039" TargetWaypoint="605"/>
+	<Link SourceWaypoint="1039" TargetWaypoint="616"/>
+	<Link SourceWaypoint="1040" TargetWaypoint="605"/>
+	<Link SourceWaypoint="1040" TargetWaypoint="617"/>
+	<Link SourceWaypoint="1041" TargetWaypoint="607"/>
+	<Link SourceWaypoint="1041" TargetWaypoint="631"/>
+	<Link SourceWaypoint="1042" TargetWaypoint="611"/>
+	<Link SourceWaypoint="1042" TargetWaypoint="607"/>
+	<Link SourceWaypoint="1043" TargetWaypoint="852"/>
+	<Link SourceWaypoint="1043" TargetWaypoint="612"/>
+	<Link SourceWaypoint="1043" TargetWaypoint="606"/>
+	<Link SourceWaypoint="1044" TargetWaypoint="877"/>
+	<Link SourceWaypoint="1044" TargetWaypoint="878"/>
+	<Link SourceWaypoint="1045" TargetWaypoint="875"/>
+	<Link SourceWaypoint="1045" TargetWaypoint="1046"/>
+	<Link SourceWaypoint="1046" TargetWaypoint="1045"/>
+	<Link SourceWaypoint="1046" TargetWaypoint="1047"/>
+	<Link SourceWaypoint="1047" TargetWaypoint="1046"/>
+	<Link SourceWaypoint="1047" TargetWaypoint="6421"/>
+	<Link SourceWaypoint="1048" TargetWaypoint="6417"/>
+	<Link SourceWaypoint="1048" TargetWaypoint="6418"/>
+	<Link SourceWaypoint="1049" TargetWaypoint="882"/>
+	<Link SourceWaypoint="1049" TargetWaypoint="841"/>
+	<Link SourceWaypoint="1059" TargetWaypoint="1034"/>
+	<Link SourceWaypoint="1059" TargetWaypoint="1060"/>
+	<Link SourceWaypoint="1060" TargetWaypoint="1059"/>
+	<Link SourceWaypoint="1060" TargetWaypoint="1061"/>
+	<Link SourceWaypoint="1061" TargetWaypoint="1060"/>
+	<Link SourceWaypoint="1061" TargetWaypoint="871"/>
+	<Link SourceWaypoint="6415" TargetWaypoint="848"/>
+	<Link SourceWaypoint="6415" TargetWaypoint="6416"/>
+	<Link SourceWaypoint="6416" TargetWaypoint="6415"/>
+	<Link SourceWaypoint="6416" TargetWaypoint="6417"/>
+	<Link SourceWaypoint="6417" TargetWaypoint="6416"/>
+	<Link SourceWaypoint="6417" TargetWaypoint="1048"/>
+	<Link SourceWaypoint="6418" TargetWaypoint="1048"/>
+	<Link SourceWaypoint="6418" TargetWaypoint="6419"/>
+	<Link SourceWaypoint="6419" TargetWaypoint="6418"/>
+	<Link SourceWaypoint="6419" TargetWaypoint="876"/>
+	<Link SourceWaypoint="6420" TargetWaypoint="876"/>
+	<Link SourceWaypoint="6420" TargetWaypoint="6421"/>
+	<Link SourceWaypoint="6421" TargetWaypoint="6420"/>
+	<Link SourceWaypoint="6421" TargetWaypoint="1047"/>
+	<Link SourceWaypoint="6422" TargetWaypoint="875"/>
+	<Link SourceWaypoint="6422" TargetWaypoint="6423"/>
+	<Link SourceWaypoint="6423" TargetWaypoint="6422"/>
+	<Link SourceWaypoint="6423" TargetWaypoint="874"/>
+	<Link SourceWaypoint="6424" TargetWaypoint="874"/>
+	<Link SourceWaypoint="6424" TargetWaypoint="6425"/>
+	<Link SourceWaypoint="6425" TargetWaypoint="6424"/>
+	<Link SourceWaypoint="6425" TargetWaypoint="6426"/>
+	<Link SourceWaypoint="6426" TargetWaypoint="6425"/>
+	<Link SourceWaypoint="6426" TargetWaypoint="6427"/>
+	<Link SourceWaypoint="6427" TargetWaypoint="6426"/>
+	<Link SourceWaypoint="6427" TargetWaypoint="869"/>
+</LinkList>
+<GroupList>
+	<Group Key="15" Name="ram_patrol"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

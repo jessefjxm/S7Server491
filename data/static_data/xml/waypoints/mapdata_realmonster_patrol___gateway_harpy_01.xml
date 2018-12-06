@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="gateway_harpy_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6428" Name="Gateway_Harpy_01_001" PosX="-130705" PosY="4924.04" PosZ="-53515.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6429" Name="Gateway_Harpy_01_002" PosX="-132500" PosY="4375.89" PosZ="-52204.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6430" Name="Gateway_Harpy_01_003" PosX="-133156" PosY="4043.7" PosZ="-49728.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6431" Name="Gateway_Harpy_01_004" PosX="-136486" PosY="6466.64" PosZ="-47119.5" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6432" Name="Gateway_Harpy_01_005" PosX="-136888" PosY="11391.5" PosZ="-46570" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6433" Name="Gateway_Harpy_01_006" PosX="-134634" PosY="11167" PosZ="-51943.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6434" Name="Gateway_Harpy_01_007" PosX="-133220" PosY="11210.3" PosZ="-55397.8" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6435" Name="Gateway_Harpy_01_008" PosX="-131935" PosY="6961" PosZ="-55988.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6436" Name="Gateway_Harpy_01_009" PosX="-130461" PosY="7084.12" PosZ="-54295.3" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6437" Name="Gateway_Harpy_01_Stop_1" PosX="-135203" PosY="10157" PosZ="-47943.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6438" Name="Gateway_Harpy_01_Stop_2" PosX="-135248" PosY="10198.4" PosZ="-48417.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6439" Name="Gateway_Harpy_01_Stop_3" PosX="-135956" PosY="9962.23" PosZ="-50165.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6440" Name="Gateway_Harpy_01_Stop_4" PosX="-136785" PosY="10068.1" PosZ="-53102.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6441" Name="Gateway_Harpy_01_Stop_5" PosX="-135478" PosY="11532.1" PosZ="-54578.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6442" Name="Gateway_Harpy_01_Stop_6" PosX="-135039" PosY="9558.79" PosZ="-54200.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6443" Name="Gateway_Harpy_01_Stop_7" PosX="-131635" PosY="5376.6" PosZ="-55801" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6444" Name="Gateway_Harpy_01_Stop_8" PosX="-131930" PosY="5378.63" PosZ="-55437.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6445" Name="Gateway_Harpy_01_Stop_9" PosX="-132043" PosY="5325.8" PosZ="-54932.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6446" Name="Gateway_Harpy_01_Stop_10" PosX="-132554" PosY="5592.38" PosZ="-53366.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6447" Name="Gateway_Harpy_01_Stop_11" PosX="-133109" PosY="8351" PosZ="-53769.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6448" Name="Gateway_Harpy_01_Stop_12" PosX="-133444" PosY="8287" PosZ="-53165.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6449" Name="Gateway_Harpy_01_Stop_13" PosX="-133954" PosY="5996.85" PosZ="-51286" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6450" Name="Gateway_Harpy_01_Stop_14" PosX="-134349" PosY="8507" PosZ="-51793.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6451" Name="Gateway_Harpy_01_010" PosX="-131058" PosY="11851.7" PosZ="-49567.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6452" Name="Gateway_Harpy_01_Stop_15" PosX="-133833" PosY="9894.4" PosZ="-48373.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6453" Name="Gateway_Harpy_01_Stop_16" PosX="-134240" PosY="10034.2" PosZ="-49743.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6454" Name="Gateway_Harpy_01_Stop_17" PosX="-137201" PosY="8175.42" PosZ="-50737.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6455" Name="Gateway_Harpy_01_011" PosX="-140023" PosY="11880.2" PosZ="-49583.9" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6456" Name="Gateway_Harpy_01_012" PosX="-141615" PosY="14481.9" PosZ="-54950.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6457" Name="Gateway_Harpy_01_013" PosX="-141592" PosY="13556.1" PosZ="-60206.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6458" Name="Gateway_Harpy_01_014" PosX="-136690" PosY="13368.2" PosZ="-61675.1" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6459" Name="Gateway_Harpy_01_015" PosX="-131529" PosY="12650.4" PosZ="-59534.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6460" Name="Gateway_Harpy_01_Stop_18" PosX="-139642" PosY="10072.7" PosZ="-57669.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6461" Name="Gateway_Harpy_01_Stop_19" PosX="-139620" PosY="9933.8" PosZ="-58215.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6462" Name="Gateway_Harpy_01_Stop_20" PosX="-138328" PosY="9920.93" PosZ="-59200.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6463" Name="Gateway_Harpy_01_Stop_21" PosX="-138083" PosY="9874.76" PosZ="-59282.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6464" Name="Gateway_Harpy_01_Stop_22" PosX="-135705" PosY="10151.1" PosZ="-59166.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6465" Name="Gateway_Harpy_01_Stop_23" PosX="-135526" PosY="10170.2" PosZ="-59004.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6466" Name="Gateway_Harpy_01_Stop_24" PosX="-139249" PosY="9867.09" PosZ="-53222.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6467" Name="Gateway_Harpy_01_Stop_25" PosX="-139471" PosY="9913.37" PosZ="-55337.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6468" Name="Gateway_Harpy_01_Stop_26" PosX="-139449" PosY="9963.2" PosZ="-55563.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6469" Name="Gateway_Harpy_01_Stop_27" PosX="-139157" PosY="10066.1" PosZ="-52982.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6470" Name="Gateway_Harpy_01_016" PosX="-136425" PosY="16475.7" PosZ="-45487.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6471" Name="Gateway_Harpy_01_017" PosX="-135865" PosY="16714.6" PosZ="-48202.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6472" Name="Gateway_Harpy_01_018" PosX="-129480" PosY="17552.1" PosZ="-49066.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6473" Name="Gateway_Harpy_01_019" PosX="-127282" PosY="17602.9" PosZ="-44835.5" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6474" Name="Gateway_Harpy_01_020" PosX="-131295" PosY="17208.6" PosZ="-40372.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6475" Name="Gateway_Harpy_01_021" PosX="-135193" PosY="17333.1" PosZ="-40914.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6476" Name="Gateway_Harpy_01_Stop_28" PosX="-129164" PosY="15101.1" PosZ="-45404" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6477" Name="Gateway_Harpy_01_Stop_29" PosX="-129338" PosY="15158.1" PosZ="-43462.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6478" Name="Gateway_Harpy_01_Stop_30" PosX="-128686" PosY="15440" PosZ="-42559.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6479" Name="Gateway_Harpy_01_Stop_31" PosX="-129309" PosY="15134.1" PosZ="-40641.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6480" Name="Gateway_Harpy_01_Stop_32" PosX="-130315" PosY="15084.1" PosZ="-41186.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6481" Name="Gateway_Harpy_01_Stop_33" PosX="-131159" PosY="15264.1" PosZ="-40863.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6482" Name="Gateway_Harpy_01_Stop_34" PosX="-134672" PosY="16495.9" PosZ="-41801.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6483" Name="Gateway_Harpy_01_Stop_35" PosX="-135714" PosY="14915.1" PosZ="-44852.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6484" Name="Gateway_Harpy_01_Stop_36" PosX="-134325" PosY="14531.1" PosZ="-46654.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6485" Name="Gateway_Harpy_01_Stop_37" PosX="-135363" PosY="15130.1" PosZ="-46290.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6486" Name="Gateway_Harpy_01_Stop_38" PosX="-134381" PosY="15703.1" PosZ="-46128.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6487" Name="Gateway_Harpy_01_Stop_39" PosX="-133006" PosY="15747.1" PosZ="-47145.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6488" Name="Gateway_Harpy_01_Stop_40" PosX="-130390" PosY="15982.1" PosZ="-48919.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6489" Name="Gateway_Harpy_01_Stop_41" PosX="-131565" PosY="15859.6" PosZ="-48547.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6490" Name="Gateway_Harpy_01_Stop_42" PosX="-128924" PosY="15742.1" PosZ="-46603" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6491" Name="Gateway_Harpy_01_022" PosX="-133613" PosY="16914.3" PosZ="-48008.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6591" Name="Gateway_Harpy_01_Stop_7_Gateway_Harpy_01_009_1" PosX="-131309" PosY="5673.07" PosZ="-55474.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6592" Name="Gateway_Harpy_01_Stop_7_Gateway_Harpy_01_009_2" PosX="-131176" PosY="5979.75" PosZ="-55328.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6593" Name="Gateway_Harpy_01_Stop_7_Gateway_Harpy_01_009_3" PosX="-131236" PosY="6296.63" PosZ="-55362.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6594" Name="Gateway_Harpy_01_Stop_7_Gateway_Harpy_01_009_4" PosX="-131489" PosY="6623.71" PosZ="-55576.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6595" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_009_1" PosX="-131501" PosY="6623.8" PosZ="-54772.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6596" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_009_2" PosX="-131283" PosY="6296.96" PosZ="-55019.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6597" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_009_3" PosX="-131282" PosY="5980.48" PosZ="-55063.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6598" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_009_4" PosX="-131498" PosY="5674.37" PosZ="-55187.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6600" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_009_1_Gateway_Harpy_01_009_2" PosX="-131145" PosY="6167.11" PosZ="-54511.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6601" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_009_1_Gateway_Harpy_01_009_3" PosX="-131253" PosY="5907.51" PosZ="-54580.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6602" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_009_1_Gateway_Harpy_01_009_4" PosX="-131553" PosY="5627.07" PosZ="-54722.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6717" Name="Gateway_Harpy_01_Stop_31_Gateway_Harpy_01_027_1" PosX="-129378" PosY="15143.2" PosZ="-40514.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6718" Name="Gateway_Harpy_01_Stop_31_Gateway_Harpy_01_027_2" PosX="-129611" PosY="15356.7" PosZ="-40423.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6719" Name="Gateway_Harpy_01_Stop_31_Gateway_Harpy_01_027_3" PosX="-130009" PosY="15774.4" PosZ="-40370" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6720" Name="Gateway_Harpy_01_Stop_31_Gateway_Harpy_01_027_4" PosX="-130571" PosY="16396.4" PosZ="-40352.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6721" Name="Gateway_Harpy_01_Stop_32_Gateway_Harpy_01_028_1" PosX="-130466" PosY="14970" PosZ="-41064.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6722" Name="Gateway_Harpy_01_Stop_32_Gateway_Harpy_01_028_2" PosX="-130639" PosY="15126.8" PosZ="-40922.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6723" Name="Gateway_Harpy_01_Stop_32_Gateway_Harpy_01_028_3" PosX="-130836" PosY="15554.5" PosZ="-40759.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6724" Name="Gateway_Harpy_01_Stop_32_Gateway_Harpy_01_028_4" PosX="-131055" PosY="16253.1" PosZ="-40576.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6726" Name="Gateway_Harpy_01_020_Gateway_Harpy_01_040_1" PosX="-131272" PosY="16491.2" PosZ="-40164.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6727" Name="Gateway_Harpy_01_020_Gateway_Harpy_01_040_2" PosX="-131246" PosY="15929.5" PosZ="-40110.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6728" Name="Gateway_Harpy_01_020_Gateway_Harpy_01_040_3" PosX="-131218" PosY="15537.8" PosZ="-40208.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6729" Name="Gateway_Harpy_01_020_Gateway_Harpy_01_040_4" PosX="-131189" PosY="15316" PosZ="-40459.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6730" Name="Gateway_Harpy_01_Stop_29_Gateway_Harpy_01_026_1" PosX="-129149" PosY="14908.6" PosZ="-43470.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6731" Name="Gateway_Harpy_01_Stop_29_Gateway_Harpy_01_026_2" PosX="-128849" PosY="15015.4" PosZ="-43611.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6732" Name="Gateway_Harpy_01_Stop_29_Gateway_Harpy_01_026_3" PosX="-128438" PosY="15478.4" PosZ="-43885.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6733" Name="Gateway_Harpy_01_Stop_29_Gateway_Harpy_01_026_4" PosX="-127916" PosY="16297.6" PosZ="-44293.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6734" Name="Gateway_Harpy_01_Stop_30_Gateway_Harpy_01_026_1" PosX="-128392" PosY="15105.8" PosZ="-42810.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6735" Name="Gateway_Harpy_01_Stop_30_Gateway_Harpy_01_026_2" PosX="-128257" PosY="15116.9" PosZ="-43286.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6736" Name="Gateway_Harpy_01_Stop_30_Gateway_Harpy_01_026_3" PosX="-127976" PosY="15523.5" PosZ="-43741.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6737" Name="Gateway_Harpy_01_Stop_30_Gateway_Harpy_01_026_4" PosX="-127651" PosY="16308.9" PosZ="-44257.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6738" Name="Gateway_Harpy_01_Stop_28_Gateway_Harpy_01_026_1" PosX="-128796" PosY="14872.1" PosZ="-45277.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6739" Name="Gateway_Harpy_01_Stop_28_Gateway_Harpy_01_026_2" PosX="-128424" PosY="14994.9" PosZ="-45157.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6740" Name="Gateway_Harpy_01_Stop_28_Gateway_Harpy_01_026_3" PosX="-128038" PosY="15476.6" PosZ="-45031.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6741" Name="Gateway_Harpy_01_Stop_28_Gateway_Harpy_01_026_4" PosX="-127667" PosY="16295.3" PosZ="-44936.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6742" Name="Gateway_Harpy_01_019_Gateway_Harpy_01_025_1" PosX="-127553" PosY="16605.1" PosZ="-45565.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6743" Name="Gateway_Harpy_01_019_Gateway_Harpy_01_025_2" PosX="-127852" PosY="15998.1" PosZ="-46106.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6744" Name="Gateway_Harpy_01_019_Gateway_Harpy_01_025_3" PosX="-128181" PosY="15651.9" PosZ="-46460.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6745" Name="Gateway_Harpy_01_019_Gateway_Harpy_01_025_4" PosX="-128538" PosY="15566.5" PosZ="-46625.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6747" Name="Gateway_Harpy_01_001_Gateway_Harpy_01_041_1" PosX="-131127" PosY="4730.93" PosZ="-53463.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6748" Name="Gateway_Harpy_01_001_Gateway_Harpy_01_041_2" PosX="-131523" PosY="4701.21" PosZ="-53423.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6749" Name="Gateway_Harpy_01_001_Gateway_Harpy_01_041_3" PosX="-131893" PosY="4834.87" PosZ="-53393.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6750" Name="Gateway_Harpy_01_001_Gateway_Harpy_01_041_4" PosX="-132237" PosY="5131.93" PosZ="-53374.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6752" Name="Gateway_Harpy_01_Stop_13_Gateway_Harpy_01_041_1" PosX="-134010" PosY="5207.42" PosZ="-51202.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6753" Name="Gateway_Harpy_01_Stop_13_Gateway_Harpy_01_041_2" PosX="-133958" PosY="4617.39" PosZ="-51005.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6754" Name="Gateway_Harpy_01_Stop_13_Gateway_Harpy_01_041_3" PosX="-133798" PosY="4226.76" PosZ="-50694.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6755" Name="Gateway_Harpy_01_Stop_13_Gateway_Harpy_01_041_4" PosX="-133531" PosY="4035.53" PosZ="-50268.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6757" Name="Gateway_Harpy_01_Stop_11_Gateway_Harpy_01_041_1" PosX="-132432" PosY="8539.92" PosZ="-53705.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6758" Name="Gateway_Harpy_01_Stop_11_Gateway_Harpy_01_041_2" PosX="-131995" PosY="8309.68" PosZ="-53627.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6759" Name="Gateway_Harpy_01_Stop_11_Gateway_Harpy_01_041_3" PosX="-131561" PosY="7530.29" PosZ="-53569.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6760" Name="Gateway_Harpy_01_Stop_11_Gateway_Harpy_01_041_4" PosX="-131131" PosY="6401.74" PosZ="-53532.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6770" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_037_2" PosX="-132338" PosY="10559.3" PosZ="-50697.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6771" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_037_3" PosX="-132875" PosY="10315.8" PosZ="-50420.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6772" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_037_4" PosX="-133344" PosY="10340.8" PosZ="-50132.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6773" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_036_1" PosX="-131574" PosY="11048.5" PosZ="-49364.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6774" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_036_2" PosX="-132026" PosY="10468.1" PosZ="-49185.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6775" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_036_3" PosX="-132414" PosY="10110.7" PosZ="-49030.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6776" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_036_4" PosX="-132738" PosY="9976.08" PosZ="-48897.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6777" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_007_1" PosX="-132451" PosY="8026.2" PosZ="-55743.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6778" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_007_2" PosX="-132917" PosY="8804.58" PosZ="-55509.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6779" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_007_3" PosX="-133995" PosY="9296.13" PosZ="-54797" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6780" Name="Gateway_Harpy_01_008_Gateway_Harpy_01_007_4" PosX="-134494" PosY="9500.87" PosZ="-54452.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6781" Name="Gateway_Harpy_01_040" PosX="-132812" PosY="9926.83" PosZ="-55499.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6782" Name="Gateway_Harpy_01_040_Gateway_Harpy_01_007_1" PosX="-133186" PosY="10600.7" PosZ="-55460.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6783" Name="Gateway_Harpy_01_040_Gateway_Harpy_01_007_2" PosX="-133531" PosY="10927.3" PosZ="-55324.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6784" Name="Gateway_Harpy_01_040_Gateway_Harpy_01_007_3" PosX="-134028" PosY="11191.4" PosZ="-55132.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6785" Name="Gateway_Harpy_01_040_Gateway_Harpy_01_007_4" PosX="-134677" PosY="11393" PosZ="-54883.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6787" Name="Gateway_Harpy_01_005_Gateway_Harpy_01_038_2" PosX="-136824" PosY="10716.4" PosZ="-47758.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6788" Name="Gateway_Harpy_01_005_Gateway_Harpy_01_038_3" PosX="-136647" PosY="10472.8" PosZ="-47827.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6789" Name="Gateway_Harpy_01_005_Gateway_Harpy_01_038_4" PosX="-136373" PosY="10291.8" PosZ="-47946.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6796" Name="Gateway_Harpy_01_Stop_1_Gateway_Harpy_01_005_Gateway_Harpy_01_041_4_1" PosX="-135556" PosY="9999.95" PosZ="-47489.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6797" Name="Gateway_Harpy_01_Stop_1_Gateway_Harpy_01_005_Gateway_Harpy_01_041_4_2" PosX="-135901" PosY="10044.9" PosZ="-47124.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6798" Name="Gateway_Harpy_01_Stop_1_Gateway_Harpy_01_005_Gateway_Harpy_01_041_4_3" PosX="-136238" PosY="10291.8" PosZ="-46850.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6799" Name="Gateway_Harpy_01_Stop_1_Gateway_Harpy_01_005_Gateway_Harpy_01_041_4_4" PosX="-136567" PosY="10740.7" PosZ="-46665.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6800" Name="Gateway_Harpy_01_Stop_3_Gateway_Harpy_01_039_1" PosX="-136916" PosY="10798" PosZ="-49357.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6801" Name="Gateway_Harpy_01_Stop_3_Gateway_Harpy_01_039_2" PosX="-137332" PosY="11100.7" PosZ="-48871.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6802" Name="Gateway_Harpy_01_Stop_3_Gateway_Harpy_01_039_3" PosX="-137466" PosY="11300.5" PosZ="-48244.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6803" Name="Gateway_Harpy_01_Stop_3_Gateway_Harpy_01_039_4" PosX="-137318" PosY="11397.5" PosZ="-47477.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6821" Name="Gateway_Harpy_01_Stop_19_Gateway_Harpy_01_041_1" PosX="-140205" PosY="10372.1" PosZ="-58852.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6822" Name="Gateway_Harpy_01_Stop_19_Gateway_Harpy_01_041_2" PosX="-140448" PosY="10689.4" PosZ="-59093.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6823" Name="Gateway_Harpy_01_Stop_19_Gateway_Harpy_01_041_3" PosX="-141198" PosY="11325.9" PosZ="-59766.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6824" Name="Gateway_Harpy_01_Stop_19_Gateway_Harpy_01_041_4" PosX="-141436" PosY="12281.4" PosZ="-59982.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6829" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_030_1" PosX="-141687" PosY="13063.1" PosZ="-55450.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6830" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_030_2" PosX="-141438" PosY="11964.6" PosZ="-55469.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6831" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_030_3" PosX="-141133" PosY="11172.5" PosZ="-55502.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6832" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_030_4" PosX="-140701" PosY="10687.1" PosZ="-55538.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6834" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_041_1" PosX="-141850" PosY="12810.3" PosZ="-54593" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6852" Name="Gateway_Harpy_01_017_Gateway_Harpy_01_041_1" PosX="-135522" PosY="15742.8" PosZ="-48198.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6853" Name="Gateway_Harpy_01_017_Gateway_Harpy_01_041_2" PosX="-135197" PosY="15037.8" PosZ="-48029.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6854" Name="Gateway_Harpy_01_017_Gateway_Harpy_01_041_3" PosX="-134889" PosY="14624" PosZ="-47720" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6855" Name="Gateway_Harpy_01_017_Gateway_Harpy_01_041_4" PosX="-134598" PosY="14455.1" PosZ="-47261.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6856" Name="Gateway_Harpy_01_041" PosX="-135622" PosY="15230" PosZ="-47484" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6857" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_024_1" PosX="-129477" PosY="17081.3" PosZ="-49541.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6858" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_024_2" PosX="-129577" PosY="16688.9" PosZ="-49764.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6859" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_024_3" PosX="-129759" PosY="16374.9" PosZ="-49734.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6860" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_024_4" PosX="-130030" PosY="16139.3" PosZ="-49452.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6861" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_023_1" PosX="-130354" PosY="16992.5" PosZ="-49239.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6862" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_023_2" PosX="-131000" PosY="16543.5" PosZ="-49273.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6863" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_023_3" PosX="-131417" PosY="16205" PosZ="-49169.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6864" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_023_4" PosX="-131605" PosY="15977" PosZ="-48927.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6866" Name="Gateway_Harpy_01_014_asss_1" PosX="-137684" PosY="14510.6" PosZ="-61726.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6867" Name="Gateway_Harpy_01_014_asss_2" PosX="-138667" PosY="15100.5" PosZ="-61604.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6868" Name="Gateway_Harpy_01_014_asss_3" PosX="-139646" PosY="15138.1" PosZ="-61311.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6869" Name="Gateway_Harpy_01_014_asss_4" PosX="-140621" PosY="14623.3" PosZ="-60845.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6870" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_037_2_Gateway_Harpy_01_010_Gateway_Harpy_01_037_1_1" PosX="-132236" PosY="10747.4" PosZ="-50827.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6871" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_037_2_Gateway_Harpy_01_010_Gateway_Harpy_01_037_1_2" PosX="-132414" PosY="10902.3" PosZ="-51017.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6872" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_037_2_Gateway_Harpy_01_010_Gateway_Harpy_01_037_1_3" PosX="-132874" PosY="11023.8" PosZ="-51266.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6873" Name="Gateway_Harpy_01_010_Gateway_Harpy_01_037_2_Gateway_Harpy_01_010_Gateway_Harpy_01_037_1_4" PosX="-133614" PosY="11112.1" PosZ="-51575" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6874" Name="Gateway_Harpy_01_011_Gateway_Harpy_01_005_Gateway_Harpy_01_038_1_1" PosX="-138897" PosY="11926.1" PosZ="-48919.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6875" Name="Gateway_Harpy_01_011_Gateway_Harpy_01_005_Gateway_Harpy_01_038_1_2" PosX="-138014" PosY="11854.7" PosZ="-48405" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6876" Name="Gateway_Harpy_01_011_Gateway_Harpy_01_005_Gateway_Harpy_01_038_1_3" PosX="-137374" PosY="11629.3" PosZ="-48040" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6877" Name="Gateway_Harpy_01_011_Gateway_Harpy_01_005_Gateway_Harpy_01_038_1_4" PosX="-137073" PosY="11249.9" PosZ="-47824.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6878" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_011_0.5" PosX="-142219" PosY="13910.8" PosZ="-52712.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6881" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_011_0.5_Gateway_Harpy_01_012_0.8" PosX="-141736" PosY="14356.8" PosZ="-54503" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6882" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_013_0.1" PosX="-141613" PosY="14377.1" PosZ="-55451.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6883" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_013_0.1_Gateway_Harpy_01_013_0.6" PosX="-141600" PosY="13884.5" PosZ="-58304.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6884" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.3" PosX="-133080" PosY="12865.7" PosZ="-60176.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6885" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.7" PosX="-135147" PosY="13152.9" PosZ="-61032.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6887" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.7_Gateway_Harpy_01_Stop_22_Gateway_Harpy_01_034_1_1" PosX="-135058" PosY="11805.7" PosZ="-61179" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6888" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.7_Gateway_Harpy_01_Stop_22_Gateway_Harpy_01_034_1_2" PosX="-135080" PosY="10867.1" PosZ="-61138.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6889" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.7_Gateway_Harpy_01_Stop_22_Gateway_Harpy_01_034_1_3" PosX="-135214" PosY="10337.1" PosZ="-60911.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6890" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.7_Gateway_Harpy_01_Stop_22_Gateway_Harpy_01_034_1_4" PosX="-135405" PosY="10215.6" PosZ="-60187.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6892" Name="Gateway_Harpy_01_004_Gateway_Harpy_01_Stop_17_Gateway_Harpy_01_004_0.5_1" PosX="-136865" PosY="6574.09" PosZ="-48250" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6893" Name="Gateway_Harpy_01_004_Gateway_Harpy_01_Stop_17_Gateway_Harpy_01_004_0.5_2" PosX="-136949" PosY="6609.62" PosZ="-48879" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6894" Name="Gateway_Harpy_01_004_Gateway_Harpy_01_Stop_17_Gateway_Harpy_01_004_0.5_3" PosX="-137033" PosY="6888.36" PosZ="-49503.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6895" Name="Gateway_Harpy_01_004_Gateway_Harpy_01_Stop_17_Gateway_Harpy_01_004_0.5_4" PosX="-137117" PosY="7410.29" PosZ="-50122.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6907" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_011_0.5_Gateway_Harpy_01_011_0.8" PosX="-140322" PosY="12192" PosZ="-49929.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6914" Name="Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4" PosX="-132317" PosY="7166.9" PosZ="-49664.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6916" Name="Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_Gateway_Harpy_01_Stop_14_Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_0.5_1" PosX="-132723" PosY="7940.52" PosZ="-50090.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6917" Name="Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_Gateway_Harpy_01_Stop_14_Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_0.5_2" PosX="-133130" PosY="8461.34" PosZ="-50515.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6918" Name="Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_Gateway_Harpy_01_Stop_14_Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_0.5_3" PosX="-133536" PosY="8729.36" PosZ="-50941.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6919" Name="Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_Gateway_Harpy_01_Stop_14_Gateway_Harpy_01_003_Gateway_Harpy_01_010_0.4_0.5_4" PosX="-133943" PosY="8744.58" PosZ="-51367.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6920" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_013_0.1_Gateway_Harpy_01_013_0.6_Gateway_Harpy_01_Stop_18_Gateway_Harpy_01_031_1_1" PosX="-141972" PosY="12885" PosZ="-58288.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6921" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_013_0.1_Gateway_Harpy_01_013_0.6_Gateway_Harpy_01_Stop_18_Gateway_Harpy_01_031_1_2" PosX="-141989" PosY="12004.1" PosZ="-58217" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6922" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_013_0.1_Gateway_Harpy_01_013_0.6_Gateway_Harpy_01_Stop_18_Gateway_Harpy_01_031_1_3" PosX="-141653" PosY="11241.7" PosZ="-58089.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6923" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_013_0.1_Gateway_Harpy_01_013_0.6_Gateway_Harpy_01_Stop_18_Gateway_Harpy_01_031_1_4" PosX="-140962" PosY="10597.9" PosZ="-57907.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6924" Name="Gateway_Harpy_01_018_Gateway_Harpy_01_015_0.5" PosX="-130505" PosY="15101.3" PosZ="-54300.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6938" Name="Gateway_Harpy_01_042" PosX="-132753" PosY="6890.06" PosZ="-52889.6" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6940" Name="Gateway_Harpy_01_042_Gateway_Harpy_01_043_1" PosX="-132965" PosY="7206.36" PosZ="-52547.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6941" Name="Gateway_Harpy_01_042_Gateway_Harpy_01_043_2" PosX="-133025" PosY="7649.14" PosZ="-52640" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6942" Name="Gateway_Harpy_01_042_Gateway_Harpy_01_043_3" PosX="-133125" PosY="7976.84" PosZ="-52773.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6943" Name="Gateway_Harpy_01_042_Gateway_Harpy_01_043_4" PosX="-133265" PosY="8189.46" PosZ="-52948.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6948" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.3_Gateway_Harpy_01_035_11111_1" PosX="-133342" PosY="11541.1" PosZ="-60182.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6949" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.3_Gateway_Harpy_01_035_11111_2" PosX="-133718" PosY="10609.3" PosZ="-60068.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6950" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.3_Gateway_Harpy_01_035_11111_3" PosX="-134207" PosY="10070.2" PosZ="-59833.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6951" Name="Gateway_Harpy_01_015_Gateway_Harpy_01_014_0.3_Gateway_Harpy_01_035_11111_4" PosX="-134810" PosY="9923.8" PosZ="-59479.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6953" Name="Gateway_Harpy_01_014_asss_3_Gateway_Harpy_01_043_1" PosX="-139558" PosY="13200.8" PosZ="-61281.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6954" Name="Gateway_Harpy_01_014_asss_3_Gateway_Harpy_01_043_2" PosX="-139382" PosY="11710.5" PosZ="-61055.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6955" Name="Gateway_Harpy_01_014_asss_3_Gateway_Harpy_01_043_3" PosX="-139119" PosY="10667" PosZ="-60633" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6956" Name="Gateway_Harpy_01_014_asss_3_Gateway_Harpy_01_043_4" PosX="-138767" PosY="10070.5" PosZ="-60014.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6958" Name="Gateway_Harpy_01_Stop_21_Gateway_Harpy_01_043_1" PosX="-138122" PosY="10018.2" PosZ="-60510.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6959" Name="Gateway_Harpy_01_Stop_21_Gateway_Harpy_01_043_2" PosX="-138200" PosY="10612.5" PosZ="-61357.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6960" Name="Gateway_Harpy_01_Stop_21_Gateway_Harpy_01_043_3" PosX="-138317" PosY="11657.6" PosZ="-61821.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6961" Name="Gateway_Harpy_01_Stop_21_Gateway_Harpy_01_043_4" PosX="-138472" PosY="13153.6" PosZ="-61904.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6963" Name="Gateway_Harpy_01_Stop_24_Gateway_Harpy_01_043_1" PosX="-140245" PosY="9891.85" PosZ="-53154.2" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6964" Name="Gateway_Harpy_01_Stop_24_Gateway_Harpy_01_043_2" PosX="-141040" PosY="10308.6" PosZ="-53068.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6965" Name="Gateway_Harpy_01_Stop_24_Gateway_Harpy_01_043_3" PosX="-141634" PosY="11117.3" PosZ="-52966.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6966" Name="Gateway_Harpy_01_Stop_24_Gateway_Harpy_01_043_4" PosX="-142027" PosY="12318.1" PosZ="-52848" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6968" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_011_0.5_Gateway_Harpy_01_011_0.8_Gateway_Harpy_01_043_1" PosX="-140375" PosY="11168.4" PosZ="-50653.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6969" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_011_0.5_Gateway_Harpy_01_011_0.8_Gateway_Harpy_01_043_2" PosX="-140202" PosY="10387.6" PosZ="-51152.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6970" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_011_0.5_Gateway_Harpy_01_011_0.8_Gateway_Harpy_01_043_3" PosX="-139941" PosY="9914.66" PosZ="-51707.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6971" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_011_0.5_Gateway_Harpy_01_011_0.8_Gateway_Harpy_01_043_4" PosX="-139592" PosY="9749.48" PosZ="-52316.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6973" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_041_1_Gateway_Harpy_01_043_1" PosX="-141678" PosY="11588.6" PosZ="-54693.4" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6974" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_041_1_Gateway_Harpy_01_043_2" PosX="-141376" PosY="10688.1" PosZ="-54818.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6975" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_041_1_Gateway_Harpy_01_043_3" PosX="-140900" PosY="10108.7" PosZ="-54967.1" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6976" Name="Gateway_Harpy_01_012_Gateway_Harpy_01_041_1_Gateway_Harpy_01_043_4" PosX="-140265" PosY="9850.47" PosZ="-55140.3" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6977" Name="Gateway_Harpy_01_043" PosX="-137799" PosY="12334.3" PosZ="-51772.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6980" Name="Gateway_Harpy_01_Stop_4_Gateway_Harpy_01_043_Gateway_Harpy_01_Stop_4_0.9_1" PosX="-136858" PosY="11030.7" PosZ="-53006.5" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6981" Name="Gateway_Harpy_01_Stop_4_Gateway_Harpy_01_043_Gateway_Harpy_01_Stop_4_0.9_2" PosX="-136996" PosY="11753.4" PosZ="-52825.7" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6982" Name="Gateway_Harpy_01_Stop_4_Gateway_Harpy_01_043_Gateway_Harpy_01_Stop_4_0.9_3" PosX="-137199" PosY="12236.1" PosZ="-52559.8" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6983" Name="Gateway_Harpy_01_Stop_4_Gateway_Harpy_01_043_Gateway_Harpy_01_Stop_4_0.9_4" PosX="-137467" PosY="12479" PosZ="-52208.9" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12331" Name="Gateway_Harpy_01_004_Gateway_Harpy_01_011_0.5" PosX="-138231" PosY="9173.42" PosZ="-48351.7" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="12332" Name="Gateway_Harpy_01_004_Gateway_Harpy_01_011_0.5_Gateway_Harpy_01_004_0.5" PosX="-137371" PosY="7820.03" PosZ="-47735.6" Property="all"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="6428" TargetWaypoint="6429"/>
+	<Link SourceWaypoint="6428" TargetWaypoint="6436"/>
+	<Link SourceWaypoint="6428" TargetWaypoint="6747"/>
+	<Link SourceWaypoint="6428" TargetWaypoint="6760"/>
+	<Link SourceWaypoint="6428" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6428" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6429" TargetWaypoint="6428"/>
+	<Link SourceWaypoint="6429" TargetWaypoint="6430"/>
+	<Link SourceWaypoint="6429" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6429" TargetWaypoint="6914"/>
+	<Link SourceWaypoint="6429" TargetWaypoint="6431"/>
+	<Link SourceWaypoint="6429" TargetWaypoint="6938"/>
+	<Link SourceWaypoint="6430" TargetWaypoint="6429"/>
+	<Link SourceWaypoint="6430" TargetWaypoint="6431"/>
+	<Link SourceWaypoint="6430" TargetWaypoint="6755"/>
+	<Link SourceWaypoint="6430" TargetWaypoint="6436"/>
+	<Link SourceWaypoint="6430" TargetWaypoint="6435"/>
+	<Link SourceWaypoint="6430" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6430" TargetWaypoint="6914"/>
+	<Link SourceWaypoint="6431" TargetWaypoint="6430"/>
+	<Link SourceWaypoint="6431" TargetWaypoint="6432"/>
+	<Link SourceWaypoint="6431" TargetWaypoint="6892"/>
+	<Link SourceWaypoint="6431" TargetWaypoint="6914"/>
+	<Link SourceWaypoint="6431" TargetWaypoint="6429"/>
+	<Link SourceWaypoint="6431" TargetWaypoint="12332"/>
+	<Link SourceWaypoint="6432" TargetWaypoint="6431"/>
+	<Link SourceWaypoint="6432" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6432" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6432" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6432" TargetWaypoint="6799"/>
+	<Link SourceWaypoint="6432" TargetWaypoint="6803"/>
+	<Link SourceWaypoint="6432" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6432"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6435"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6428"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6429"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6595"/>
+	<Link SourceWaypoint="6433" TargetWaypoint="6873"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6781"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6428"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6430"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6457"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6884"/>
+	<Link SourceWaypoint="6434" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6435" TargetWaypoint="6594"/>
+	<Link SourceWaypoint="6435" TargetWaypoint="6777"/>
+	<Link SourceWaypoint="6435" TargetWaypoint="6781"/>
+	<Link SourceWaypoint="6435" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6435" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6435" TargetWaypoint="6430"/>
+	<Link SourceWaypoint="6436" TargetWaypoint="6428"/>
+	<Link SourceWaypoint="6436" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6436" TargetWaypoint="6430"/>
+	<Link SourceWaypoint="6436" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6436" TargetWaypoint="6458"/>
+	<Link SourceWaypoint="6437" TargetWaypoint="6796"/>
+	<Link SourceWaypoint="6438" TargetWaypoint="6789"/>
+	<Link SourceWaypoint="6439" TargetWaypoint="6800"/>
+	<Link SourceWaypoint="6440" TargetWaypoint="6980"/>
+	<Link SourceWaypoint="6441" TargetWaypoint="6785"/>
+	<Link SourceWaypoint="6442" TargetWaypoint="6780"/>
+	<Link SourceWaypoint="6443" TargetWaypoint="6591"/>
+	<Link SourceWaypoint="6444" TargetWaypoint="6598"/>
+	<Link SourceWaypoint="6445" TargetWaypoint="6602"/>
+	<Link SourceWaypoint="6446" TargetWaypoint="6750"/>
+	<Link SourceWaypoint="6447" TargetWaypoint="6757"/>
+	<Link SourceWaypoint="6448" TargetWaypoint="6943"/>
+	<Link SourceWaypoint="6449" TargetWaypoint="6752"/>
+	<Link SourceWaypoint="6450" TargetWaypoint="6919"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6432"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6773"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6436"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6600"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6914"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6458"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6456"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6451" TargetWaypoint="6885"/>
+	<Link SourceWaypoint="6452" TargetWaypoint="6776"/>
+	<Link SourceWaypoint="6453" TargetWaypoint="6772"/>
+	<Link SourceWaypoint="6454" TargetWaypoint="6895"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6432"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6874"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6907"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6881"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="6977"/>
+	<Link SourceWaypoint="6455" TargetWaypoint="12331"/>
+	<Link SourceWaypoint="6456" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6456" TargetWaypoint="6458"/>
+	<Link SourceWaypoint="6456" TargetWaypoint="6881"/>
+	<Link SourceWaypoint="6456" TargetWaypoint="6882"/>
+	<Link SourceWaypoint="6456" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6456" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6456" TargetWaypoint="6924"/>
+	<Link SourceWaypoint="6457" TargetWaypoint="6824"/>
+	<Link SourceWaypoint="6457" TargetWaypoint="6869"/>
+	<Link SourceWaypoint="6457" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6457" TargetWaypoint="6883"/>
+	<Link SourceWaypoint="6457" TargetWaypoint="6491"/>
+	<Link SourceWaypoint="6457" TargetWaypoint="6924"/>
+	<Link SourceWaypoint="6457" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6458" TargetWaypoint="6866"/>
+	<Link SourceWaypoint="6458" TargetWaypoint="6436"/>
+	<Link SourceWaypoint="6458" TargetWaypoint="6456"/>
+	<Link SourceWaypoint="6458" TargetWaypoint="6885"/>
+	<Link SourceWaypoint="6458" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6458" TargetWaypoint="6874"/>
+	<Link SourceWaypoint="6458" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6436"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6435"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6456"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6457"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6884"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6491"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6924"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6914"/>
+	<Link SourceWaypoint="6459" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6460" TargetWaypoint="6923"/>
+	<Link SourceWaypoint="6461" TargetWaypoint="6821"/>
+	<Link SourceWaypoint="6462" TargetWaypoint="6956"/>
+	<Link SourceWaypoint="6463" TargetWaypoint="6958"/>
+	<Link SourceWaypoint="6464" TargetWaypoint="6890"/>
+	<Link SourceWaypoint="6465" TargetWaypoint="6951"/>
+	<Link SourceWaypoint="6466" TargetWaypoint="6963"/>
+	<Link SourceWaypoint="6467" TargetWaypoint="6976"/>
+	<Link SourceWaypoint="6468" TargetWaypoint="6832"/>
+	<Link SourceWaypoint="6469" TargetWaypoint="6971"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6432"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6475"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6483"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6491"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6474"/>
+	<Link SourceWaypoint="6470" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6475"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6485"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6491"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6852"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6856"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6456"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6884"/>
+	<Link SourceWaypoint="6471" TargetWaypoint="6924"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6857"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6861"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6474"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6883"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6458"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6878"/>
+	<Link SourceWaypoint="6472" TargetWaypoint="6924"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6474"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6733"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6737"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6741"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6742"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6475"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6473" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6474" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6474" TargetWaypoint="6475"/>
+	<Link SourceWaypoint="6474" TargetWaypoint="6720"/>
+	<Link SourceWaypoint="6474" TargetWaypoint="6724"/>
+	<Link SourceWaypoint="6474" TargetWaypoint="6726"/>
+	<Link SourceWaypoint="6474" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6474" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6475" TargetWaypoint="6474"/>
+	<Link SourceWaypoint="6475" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6475" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6475" TargetWaypoint="6482"/>
+	<Link SourceWaypoint="6475" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6476" TargetWaypoint="6738"/>
+	<Link SourceWaypoint="6477" TargetWaypoint="6730"/>
+	<Link SourceWaypoint="6478" TargetWaypoint="6734"/>
+	<Link SourceWaypoint="6479" TargetWaypoint="6717"/>
+	<Link SourceWaypoint="6480" TargetWaypoint="6721"/>
+	<Link SourceWaypoint="6481" TargetWaypoint="6729"/>
+	<Link SourceWaypoint="6482" TargetWaypoint="6475"/>
+	<Link SourceWaypoint="6483" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6484" TargetWaypoint="6855"/>
+	<Link SourceWaypoint="6485" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6486" TargetWaypoint="6856"/>
+	<Link SourceWaypoint="6487" TargetWaypoint="6491"/>
+	<Link SourceWaypoint="6488" TargetWaypoint="6860"/>
+	<Link SourceWaypoint="6489" TargetWaypoint="6864"/>
+	<Link SourceWaypoint="6490" TargetWaypoint="6745"/>
+	<Link SourceWaypoint="6491" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6491" TargetWaypoint="6487"/>
+	<Link SourceWaypoint="6491" TargetWaypoint="6470"/>
+	<Link SourceWaypoint="6491" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6491" TargetWaypoint="6457"/>
+	<Link SourceWaypoint="6591" TargetWaypoint="6443"/>
+	<Link SourceWaypoint="6591" TargetWaypoint="6592"/>
+	<Link SourceWaypoint="6592" TargetWaypoint="6591"/>
+	<Link SourceWaypoint="6592" TargetWaypoint="6593"/>
+	<Link SourceWaypoint="6593" TargetWaypoint="6592"/>
+	<Link SourceWaypoint="6593" TargetWaypoint="6594"/>
+	<Link SourceWaypoint="6594" TargetWaypoint="6593"/>
+	<Link SourceWaypoint="6594" TargetWaypoint="6435"/>
+	<Link SourceWaypoint="6595" TargetWaypoint="6596"/>
+	<Link SourceWaypoint="6595" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6596" TargetWaypoint="6595"/>
+	<Link SourceWaypoint="6596" TargetWaypoint="6597"/>
+	<Link SourceWaypoint="6597" TargetWaypoint="6596"/>
+	<Link SourceWaypoint="6597" TargetWaypoint="6598"/>
+	<Link SourceWaypoint="6598" TargetWaypoint="6597"/>
+	<Link SourceWaypoint="6598" TargetWaypoint="6444"/>
+	<Link SourceWaypoint="6600" TargetWaypoint="6601"/>
+	<Link SourceWaypoint="6600" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6601" TargetWaypoint="6600"/>
+	<Link SourceWaypoint="6601" TargetWaypoint="6602"/>
+	<Link SourceWaypoint="6602" TargetWaypoint="6601"/>
+	<Link SourceWaypoint="6602" TargetWaypoint="6445"/>
+	<Link SourceWaypoint="6717" TargetWaypoint="6479"/>
+	<Link SourceWaypoint="6717" TargetWaypoint="6718"/>
+	<Link SourceWaypoint="6718" TargetWaypoint="6717"/>
+	<Link SourceWaypoint="6718" TargetWaypoint="6719"/>
+	<Link SourceWaypoint="6719" TargetWaypoint="6718"/>
+	<Link SourceWaypoint="6719" TargetWaypoint="6720"/>
+	<Link SourceWaypoint="6720" TargetWaypoint="6719"/>
+	<Link SourceWaypoint="6720" TargetWaypoint="6474"/>
+	<Link SourceWaypoint="6721" TargetWaypoint="6480"/>
+	<Link SourceWaypoint="6721" TargetWaypoint="6722"/>
+	<Link SourceWaypoint="6722" TargetWaypoint="6721"/>
+	<Link SourceWaypoint="6722" TargetWaypoint="6723"/>
+	<Link SourceWaypoint="6723" TargetWaypoint="6722"/>
+	<Link SourceWaypoint="6723" TargetWaypoint="6724"/>
+	<Link SourceWaypoint="6724" TargetWaypoint="6723"/>
+	<Link SourceWaypoint="6724" TargetWaypoint="6474"/>
+	<Link SourceWaypoint="6726" TargetWaypoint="6474"/>
+	<Link SourceWaypoint="6726" TargetWaypoint="6727"/>
+	<Link SourceWaypoint="6727" TargetWaypoint="6726"/>
+	<Link SourceWaypoint="6727" TargetWaypoint="6728"/>
+	<Link SourceWaypoint="6728" TargetWaypoint="6727"/>
+	<Link SourceWaypoint="6728" TargetWaypoint="6729"/>
+	<Link SourceWaypoint="6729" TargetWaypoint="6728"/>
+	<Link SourceWaypoint="6729" TargetWaypoint="6481"/>
+	<Link SourceWaypoint="6730" TargetWaypoint="6477"/>
+	<Link SourceWaypoint="6730" TargetWaypoint="6731"/>
+	<Link SourceWaypoint="6731" TargetWaypoint="6730"/>
+	<Link SourceWaypoint="6731" TargetWaypoint="6732"/>
+	<Link SourceWaypoint="6732" TargetWaypoint="6731"/>
+	<Link SourceWaypoint="6732" TargetWaypoint="6733"/>
+	<Link SourceWaypoint="6733" TargetWaypoint="6732"/>
+	<Link SourceWaypoint="6733" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6734" TargetWaypoint="6478"/>
+	<Link SourceWaypoint="6734" TargetWaypoint="6735"/>
+	<Link SourceWaypoint="6735" TargetWaypoint="6734"/>
+	<Link SourceWaypoint="6735" TargetWaypoint="6736"/>
+	<Link SourceWaypoint="6736" TargetWaypoint="6735"/>
+	<Link SourceWaypoint="6736" TargetWaypoint="6737"/>
+	<Link SourceWaypoint="6737" TargetWaypoint="6736"/>
+	<Link SourceWaypoint="6737" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6738" TargetWaypoint="6476"/>
+	<Link SourceWaypoint="6738" TargetWaypoint="6739"/>
+	<Link SourceWaypoint="6739" TargetWaypoint="6738"/>
+	<Link SourceWaypoint="6739" TargetWaypoint="6740"/>
+	<Link SourceWaypoint="6740" TargetWaypoint="6739"/>
+	<Link SourceWaypoint="6740" TargetWaypoint="6741"/>
+	<Link SourceWaypoint="6741" TargetWaypoint="6740"/>
+	<Link SourceWaypoint="6741" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6742" TargetWaypoint="6473"/>
+	<Link SourceWaypoint="6742" TargetWaypoint="6743"/>
+	<Link SourceWaypoint="6743" TargetWaypoint="6742"/>
+	<Link SourceWaypoint="6743" TargetWaypoint="6744"/>
+	<Link SourceWaypoint="6744" TargetWaypoint="6743"/>
+	<Link SourceWaypoint="6744" TargetWaypoint="6745"/>
+	<Link SourceWaypoint="6745" TargetWaypoint="6744"/>
+	<Link SourceWaypoint="6745" TargetWaypoint="6490"/>
+	<Link SourceWaypoint="6747" TargetWaypoint="6428"/>
+	<Link SourceWaypoint="6747" TargetWaypoint="6748"/>
+	<Link SourceWaypoint="6748" TargetWaypoint="6747"/>
+	<Link SourceWaypoint="6748" TargetWaypoint="6749"/>
+	<Link SourceWaypoint="6749" TargetWaypoint="6748"/>
+	<Link SourceWaypoint="6749" TargetWaypoint="6750"/>
+	<Link SourceWaypoint="6750" TargetWaypoint="6749"/>
+	<Link SourceWaypoint="6750" TargetWaypoint="6446"/>
+	<Link SourceWaypoint="6752" TargetWaypoint="6449"/>
+	<Link SourceWaypoint="6752" TargetWaypoint="6753"/>
+	<Link SourceWaypoint="6753" TargetWaypoint="6752"/>
+	<Link SourceWaypoint="6753" TargetWaypoint="6754"/>
+	<Link SourceWaypoint="6754" TargetWaypoint="6753"/>
+	<Link SourceWaypoint="6754" TargetWaypoint="6755"/>
+	<Link SourceWaypoint="6755" TargetWaypoint="6754"/>
+	<Link SourceWaypoint="6755" TargetWaypoint="6430"/>
+	<Link SourceWaypoint="6757" TargetWaypoint="6447"/>
+	<Link SourceWaypoint="6757" TargetWaypoint="6758"/>
+	<Link SourceWaypoint="6758" TargetWaypoint="6757"/>
+	<Link SourceWaypoint="6758" TargetWaypoint="6759"/>
+	<Link SourceWaypoint="6759" TargetWaypoint="6758"/>
+	<Link SourceWaypoint="6759" TargetWaypoint="6760"/>
+	<Link SourceWaypoint="6760" TargetWaypoint="6759"/>
+	<Link SourceWaypoint="6760" TargetWaypoint="6428"/>
+	<Link SourceWaypoint="6770" TargetWaypoint="6771"/>
+	<Link SourceWaypoint="6770" TargetWaypoint="6870"/>
+	<Link SourceWaypoint="6771" TargetWaypoint="6770"/>
+	<Link SourceWaypoint="6771" TargetWaypoint="6772"/>
+	<Link SourceWaypoint="6772" TargetWaypoint="6771"/>
+	<Link SourceWaypoint="6772" TargetWaypoint="6453"/>
+	<Link SourceWaypoint="6773" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6773" TargetWaypoint="6774"/>
+	<Link SourceWaypoint="6774" TargetWaypoint="6773"/>
+	<Link SourceWaypoint="6774" TargetWaypoint="6775"/>
+	<Link SourceWaypoint="6775" TargetWaypoint="6774"/>
+	<Link SourceWaypoint="6775" TargetWaypoint="6776"/>
+	<Link SourceWaypoint="6776" TargetWaypoint="6775"/>
+	<Link SourceWaypoint="6776" TargetWaypoint="6452"/>
+	<Link SourceWaypoint="6777" TargetWaypoint="6435"/>
+	<Link SourceWaypoint="6777" TargetWaypoint="6778"/>
+	<Link SourceWaypoint="6778" TargetWaypoint="6777"/>
+	<Link SourceWaypoint="6778" TargetWaypoint="6779"/>
+	<Link SourceWaypoint="6779" TargetWaypoint="6778"/>
+	<Link SourceWaypoint="6779" TargetWaypoint="6780"/>
+	<Link SourceWaypoint="6780" TargetWaypoint="6779"/>
+	<Link SourceWaypoint="6780" TargetWaypoint="6442"/>
+	<Link SourceWaypoint="6781" TargetWaypoint="6435"/>
+	<Link SourceWaypoint="6781" TargetWaypoint="6782"/>
+	<Link SourceWaypoint="6781" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6782" TargetWaypoint="6781"/>
+	<Link SourceWaypoint="6782" TargetWaypoint="6783"/>
+	<Link SourceWaypoint="6783" TargetWaypoint="6782"/>
+	<Link SourceWaypoint="6783" TargetWaypoint="6784"/>
+	<Link SourceWaypoint="6784" TargetWaypoint="6783"/>
+	<Link SourceWaypoint="6784" TargetWaypoint="6785"/>
+	<Link SourceWaypoint="6785" TargetWaypoint="6784"/>
+	<Link SourceWaypoint="6785" TargetWaypoint="6441"/>
+	<Link SourceWaypoint="6787" TargetWaypoint="6788"/>
+	<Link SourceWaypoint="6787" TargetWaypoint="6877"/>
+	<Link SourceWaypoint="6788" TargetWaypoint="6787"/>
+	<Link SourceWaypoint="6788" TargetWaypoint="6789"/>
+	<Link SourceWaypoint="6789" TargetWaypoint="6788"/>
+	<Link SourceWaypoint="6789" TargetWaypoint="6438"/>
+	<Link SourceWaypoint="6796" TargetWaypoint="6437"/>
+	<Link SourceWaypoint="6796" TargetWaypoint="6797"/>
+	<Link SourceWaypoint="6797" TargetWaypoint="6796"/>
+	<Link SourceWaypoint="6797" TargetWaypoint="6798"/>
+	<Link SourceWaypoint="6798" TargetWaypoint="6797"/>
+	<Link SourceWaypoint="6798" TargetWaypoint="6799"/>
+	<Link SourceWaypoint="6799" TargetWaypoint="6798"/>
+	<Link SourceWaypoint="6799" TargetWaypoint="6432"/>
+	<Link SourceWaypoint="6800" TargetWaypoint="6439"/>
+	<Link SourceWaypoint="6800" TargetWaypoint="6801"/>
+	<Link SourceWaypoint="6801" TargetWaypoint="6800"/>
+	<Link SourceWaypoint="6801" TargetWaypoint="6802"/>
+	<Link SourceWaypoint="6802" TargetWaypoint="6801"/>
+	<Link SourceWaypoint="6802" TargetWaypoint="6803"/>
+	<Link SourceWaypoint="6803" TargetWaypoint="6802"/>
+	<Link SourceWaypoint="6803" TargetWaypoint="6432"/>
+	<Link SourceWaypoint="6821" TargetWaypoint="6461"/>
+	<Link SourceWaypoint="6821" TargetWaypoint="6822"/>
+	<Link SourceWaypoint="6822" TargetWaypoint="6821"/>
+	<Link SourceWaypoint="6822" TargetWaypoint="6823"/>
+	<Link SourceWaypoint="6823" TargetWaypoint="6822"/>
+	<Link SourceWaypoint="6823" TargetWaypoint="6824"/>
+	<Link SourceWaypoint="6824" TargetWaypoint="6823"/>
+	<Link SourceWaypoint="6824" TargetWaypoint="6457"/>
+	<Link SourceWaypoint="6829" TargetWaypoint="6830"/>
+	<Link SourceWaypoint="6829" TargetWaypoint="6882"/>
+	<Link SourceWaypoint="6830" TargetWaypoint="6829"/>
+	<Link SourceWaypoint="6830" TargetWaypoint="6831"/>
+	<Link SourceWaypoint="6831" TargetWaypoint="6830"/>
+	<Link SourceWaypoint="6831" TargetWaypoint="6832"/>
+	<Link SourceWaypoint="6832" TargetWaypoint="6831"/>
+	<Link SourceWaypoint="6832" TargetWaypoint="6468"/>
+	<Link SourceWaypoint="6834" TargetWaypoint="6881"/>
+	<Link SourceWaypoint="6834" TargetWaypoint="6973"/>
+	<Link SourceWaypoint="6852" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6852" TargetWaypoint="6853"/>
+	<Link SourceWaypoint="6853" TargetWaypoint="6852"/>
+	<Link SourceWaypoint="6853" TargetWaypoint="6854"/>
+	<Link SourceWaypoint="6854" TargetWaypoint="6853"/>
+	<Link SourceWaypoint="6854" TargetWaypoint="6855"/>
+	<Link SourceWaypoint="6855" TargetWaypoint="6854"/>
+	<Link SourceWaypoint="6855" TargetWaypoint="6484"/>
+	<Link SourceWaypoint="6856" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6856" TargetWaypoint="6486"/>
+	<Link SourceWaypoint="6857" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6857" TargetWaypoint="6858"/>
+	<Link SourceWaypoint="6858" TargetWaypoint="6857"/>
+	<Link SourceWaypoint="6858" TargetWaypoint="6859"/>
+	<Link SourceWaypoint="6859" TargetWaypoint="6858"/>
+	<Link SourceWaypoint="6859" TargetWaypoint="6860"/>
+	<Link SourceWaypoint="6860" TargetWaypoint="6859"/>
+	<Link SourceWaypoint="6860" TargetWaypoint="6488"/>
+	<Link SourceWaypoint="6861" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6861" TargetWaypoint="6862"/>
+	<Link SourceWaypoint="6862" TargetWaypoint="6861"/>
+	<Link SourceWaypoint="6862" TargetWaypoint="6863"/>
+	<Link SourceWaypoint="6863" TargetWaypoint="6862"/>
+	<Link SourceWaypoint="6863" TargetWaypoint="6864"/>
+	<Link SourceWaypoint="6864" TargetWaypoint="6863"/>
+	<Link SourceWaypoint="6864" TargetWaypoint="6489"/>
+	<Link SourceWaypoint="6866" TargetWaypoint="6458"/>
+	<Link SourceWaypoint="6866" TargetWaypoint="6867"/>
+	<Link SourceWaypoint="6867" TargetWaypoint="6866"/>
+	<Link SourceWaypoint="6867" TargetWaypoint="6868"/>
+	<Link SourceWaypoint="6867" TargetWaypoint="6961"/>
+	<Link SourceWaypoint="6868" TargetWaypoint="6867"/>
+	<Link SourceWaypoint="6868" TargetWaypoint="6869"/>
+	<Link SourceWaypoint="6868" TargetWaypoint="6953"/>
+	<Link SourceWaypoint="6869" TargetWaypoint="6868"/>
+	<Link SourceWaypoint="6869" TargetWaypoint="6457"/>
+	<Link SourceWaypoint="6870" TargetWaypoint="6770"/>
+	<Link SourceWaypoint="6870" TargetWaypoint="6871"/>
+	<Link SourceWaypoint="6871" TargetWaypoint="6870"/>
+	<Link SourceWaypoint="6871" TargetWaypoint="6872"/>
+	<Link SourceWaypoint="6872" TargetWaypoint="6871"/>
+	<Link SourceWaypoint="6872" TargetWaypoint="6873"/>
+	<Link SourceWaypoint="6873" TargetWaypoint="6872"/>
+	<Link SourceWaypoint="6873" TargetWaypoint="6433"/>
+	<Link SourceWaypoint="6874" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6874" TargetWaypoint="6875"/>
+	<Link SourceWaypoint="6874" TargetWaypoint="6458"/>
+	<Link SourceWaypoint="6875" TargetWaypoint="6874"/>
+	<Link SourceWaypoint="6875" TargetWaypoint="6876"/>
+	<Link SourceWaypoint="6876" TargetWaypoint="6875"/>
+	<Link SourceWaypoint="6876" TargetWaypoint="6877"/>
+	<Link SourceWaypoint="6877" TargetWaypoint="6876"/>
+	<Link SourceWaypoint="6877" TargetWaypoint="6787"/>
+	<Link SourceWaypoint="6878" TargetWaypoint="6881"/>
+	<Link SourceWaypoint="6878" TargetWaypoint="6907"/>
+	<Link SourceWaypoint="6878" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6878" TargetWaypoint="6966"/>
+	<Link SourceWaypoint="6881" TargetWaypoint="6878"/>
+	<Link SourceWaypoint="6881" TargetWaypoint="6456"/>
+	<Link SourceWaypoint="6881" TargetWaypoint="6834"/>
+	<Link SourceWaypoint="6881" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6882" TargetWaypoint="6829"/>
+	<Link SourceWaypoint="6882" TargetWaypoint="6456"/>
+	<Link SourceWaypoint="6882" TargetWaypoint="6883"/>
+	<Link SourceWaypoint="6882" TargetWaypoint="6907"/>
+	<Link SourceWaypoint="6883" TargetWaypoint="6882"/>
+	<Link SourceWaypoint="6883" TargetWaypoint="6457"/>
+	<Link SourceWaypoint="6883" TargetWaypoint="6920"/>
+	<Link SourceWaypoint="6883" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6884" TargetWaypoint="6885"/>
+	<Link SourceWaypoint="6884" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6884" TargetWaypoint="6907"/>
+	<Link SourceWaypoint="6884" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6884" TargetWaypoint="6434"/>
+	<Link SourceWaypoint="6884" TargetWaypoint="6948"/>
+	<Link SourceWaypoint="6885" TargetWaypoint="6458"/>
+	<Link SourceWaypoint="6885" TargetWaypoint="6884"/>
+	<Link SourceWaypoint="6885" TargetWaypoint="6887"/>
+	<Link SourceWaypoint="6885" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6887" TargetWaypoint="6885"/>
+	<Link SourceWaypoint="6887" TargetWaypoint="6888"/>
+	<Link SourceWaypoint="6888" TargetWaypoint="6887"/>
+	<Link SourceWaypoint="6888" TargetWaypoint="6889"/>
+	<Link SourceWaypoint="6889" TargetWaypoint="6888"/>
+	<Link SourceWaypoint="6889" TargetWaypoint="6890"/>
+	<Link SourceWaypoint="6890" TargetWaypoint="6889"/>
+	<Link SourceWaypoint="6890" TargetWaypoint="6464"/>
+	<Link SourceWaypoint="6892" TargetWaypoint="6431"/>
+	<Link SourceWaypoint="6892" TargetWaypoint="6893"/>
+	<Link SourceWaypoint="6893" TargetWaypoint="6892"/>
+	<Link SourceWaypoint="6893" TargetWaypoint="6894"/>
+	<Link SourceWaypoint="6894" TargetWaypoint="6893"/>
+	<Link SourceWaypoint="6894" TargetWaypoint="6895"/>
+	<Link SourceWaypoint="6895" TargetWaypoint="6894"/>
+	<Link SourceWaypoint="6895" TargetWaypoint="6454"/>
+	<Link SourceWaypoint="6907" TargetWaypoint="6878"/>
+	<Link SourceWaypoint="6907" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6907" TargetWaypoint="6882"/>
+	<Link SourceWaypoint="6907" TargetWaypoint="6884"/>
+	<Link SourceWaypoint="6907" TargetWaypoint="6968"/>
+	<Link SourceWaypoint="6914" TargetWaypoint="6430"/>
+	<Link SourceWaypoint="6914" TargetWaypoint="6451"/>
+	<Link SourceWaypoint="6914" TargetWaypoint="6916"/>
+	<Link SourceWaypoint="6914" TargetWaypoint="6429"/>
+	<Link SourceWaypoint="6914" TargetWaypoint="6431"/>
+	<Link SourceWaypoint="6914" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6916" TargetWaypoint="6914"/>
+	<Link SourceWaypoint="6916" TargetWaypoint="6917"/>
+	<Link SourceWaypoint="6917" TargetWaypoint="6916"/>
+	<Link SourceWaypoint="6917" TargetWaypoint="6918"/>
+	<Link SourceWaypoint="6918" TargetWaypoint="6917"/>
+	<Link SourceWaypoint="6918" TargetWaypoint="6919"/>
+	<Link SourceWaypoint="6919" TargetWaypoint="6918"/>
+	<Link SourceWaypoint="6919" TargetWaypoint="6450"/>
+	<Link SourceWaypoint="6920" TargetWaypoint="6883"/>
+	<Link SourceWaypoint="6920" TargetWaypoint="6921"/>
+	<Link SourceWaypoint="6921" TargetWaypoint="6920"/>
+	<Link SourceWaypoint="6921" TargetWaypoint="6922"/>
+	<Link SourceWaypoint="6922" TargetWaypoint="6921"/>
+	<Link SourceWaypoint="6922" TargetWaypoint="6923"/>
+	<Link SourceWaypoint="6923" TargetWaypoint="6922"/>
+	<Link SourceWaypoint="6923" TargetWaypoint="6460"/>
+	<Link SourceWaypoint="6924" TargetWaypoint="6472"/>
+	<Link SourceWaypoint="6924" TargetWaypoint="6459"/>
+	<Link SourceWaypoint="6924" TargetWaypoint="6457"/>
+	<Link SourceWaypoint="6924" TargetWaypoint="6471"/>
+	<Link SourceWaypoint="6924" TargetWaypoint="6456"/>
+	<Link SourceWaypoint="6938" TargetWaypoint="6429"/>
+	<Link SourceWaypoint="6938" TargetWaypoint="6940"/>
+	<Link SourceWaypoint="6940" TargetWaypoint="6938"/>
+	<Link SourceWaypoint="6940" TargetWaypoint="6941"/>
+	<Link SourceWaypoint="6941" TargetWaypoint="6940"/>
+	<Link SourceWaypoint="6941" TargetWaypoint="6942"/>
+	<Link SourceWaypoint="6942" TargetWaypoint="6941"/>
+	<Link SourceWaypoint="6942" TargetWaypoint="6943"/>
+	<Link SourceWaypoint="6943" TargetWaypoint="6942"/>
+	<Link SourceWaypoint="6943" TargetWaypoint="6448"/>
+	<Link SourceWaypoint="6948" TargetWaypoint="6884"/>
+	<Link SourceWaypoint="6948" TargetWaypoint="6949"/>
+	<Link SourceWaypoint="6949" TargetWaypoint="6948"/>
+	<Link SourceWaypoint="6949" TargetWaypoint="6950"/>
+	<Link SourceWaypoint="6950" TargetWaypoint="6949"/>
+	<Link SourceWaypoint="6950" TargetWaypoint="6951"/>
+	<Link SourceWaypoint="6951" TargetWaypoint="6950"/>
+	<Link SourceWaypoint="6951" TargetWaypoint="6465"/>
+	<Link SourceWaypoint="6953" TargetWaypoint="6868"/>
+	<Link SourceWaypoint="6953" TargetWaypoint="6954"/>
+	<Link SourceWaypoint="6954" TargetWaypoint="6953"/>
+	<Link SourceWaypoint="6954" TargetWaypoint="6955"/>
+	<Link SourceWaypoint="6955" TargetWaypoint="6954"/>
+	<Link SourceWaypoint="6955" TargetWaypoint="6956"/>
+	<Link SourceWaypoint="6956" TargetWaypoint="6955"/>
+	<Link SourceWaypoint="6956" TargetWaypoint="6462"/>
+	<Link SourceWaypoint="6958" TargetWaypoint="6463"/>
+	<Link SourceWaypoint="6958" TargetWaypoint="6959"/>
+	<Link SourceWaypoint="6959" TargetWaypoint="6958"/>
+	<Link SourceWaypoint="6959" TargetWaypoint="6960"/>
+	<Link SourceWaypoint="6960" TargetWaypoint="6959"/>
+	<Link SourceWaypoint="6960" TargetWaypoint="6961"/>
+	<Link SourceWaypoint="6961" TargetWaypoint="6960"/>
+	<Link SourceWaypoint="6961" TargetWaypoint="6867"/>
+	<Link SourceWaypoint="6963" TargetWaypoint="6466"/>
+	<Link SourceWaypoint="6963" TargetWaypoint="6964"/>
+	<Link SourceWaypoint="6964" TargetWaypoint="6963"/>
+	<Link SourceWaypoint="6964" TargetWaypoint="6965"/>
+	<Link SourceWaypoint="6965" TargetWaypoint="6964"/>
+	<Link SourceWaypoint="6965" TargetWaypoint="6966"/>
+	<Link SourceWaypoint="6966" TargetWaypoint="6965"/>
+	<Link SourceWaypoint="6966" TargetWaypoint="6878"/>
+	<Link SourceWaypoint="6968" TargetWaypoint="6907"/>
+	<Link SourceWaypoint="6968" TargetWaypoint="6969"/>
+	<Link SourceWaypoint="6969" TargetWaypoint="6968"/>
+	<Link SourceWaypoint="6969" TargetWaypoint="6970"/>
+	<Link SourceWaypoint="6970" TargetWaypoint="6969"/>
+	<Link SourceWaypoint="6970" TargetWaypoint="6971"/>
+	<Link SourceWaypoint="6971" TargetWaypoint="6970"/>
+	<Link SourceWaypoint="6971" TargetWaypoint="6469"/>
+	<Link SourceWaypoint="6973" TargetWaypoint="6834"/>
+	<Link SourceWaypoint="6973" TargetWaypoint="6974"/>
+	<Link SourceWaypoint="6974" TargetWaypoint="6973"/>
+	<Link SourceWaypoint="6974" TargetWaypoint="6975"/>
+	<Link SourceWaypoint="6975" TargetWaypoint="6974"/>
+	<Link SourceWaypoint="6975" TargetWaypoint="6976"/>
+	<Link SourceWaypoint="6976" TargetWaypoint="6975"/>
+	<Link SourceWaypoint="6976" TargetWaypoint="6467"/>
+	<Link SourceWaypoint="6977" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="6977" TargetWaypoint="6983"/>
+	<Link SourceWaypoint="6980" TargetWaypoint="6440"/>
+	<Link SourceWaypoint="6980" TargetWaypoint="6981"/>
+	<Link SourceWaypoint="6981" TargetWaypoint="6980"/>
+	<Link SourceWaypoint="6981" TargetWaypoint="6982"/>
+	<Link SourceWaypoint="6982" TargetWaypoint="6981"/>
+	<Link SourceWaypoint="6982" TargetWaypoint="6983"/>
+	<Link SourceWaypoint="6983" TargetWaypoint="6982"/>
+	<Link SourceWaypoint="6983" TargetWaypoint="6977"/>
+	<Link SourceWaypoint="12331" TargetWaypoint="6455"/>
+	<Link SourceWaypoint="12331" TargetWaypoint="12332"/>
+	<Link SourceWaypoint="12332" TargetWaypoint="12331"/>
+	<Link SourceWaypoint="12332" TargetWaypoint="6431"/>
+</LinkList>
+<GroupList>
+	<Group Key="17" Name="Gateway_Harpy_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="val_plunder_07">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33461" Name="Val_plunder_07_001" PosX="525741" PosY="1883.13" PosZ="214256" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33462" Name="Val_plunder_07_002" PosX="526608" PosY="2164.62" PosZ="214382" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33463" Name="Val_plunder_07_003" PosX="527165" PosY="2385.33" PosZ="214593" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33464" Name="Val_plunder_07_004" PosX="527853" PosY="2620.81" PosZ="214886" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33465" Name="Val_plunder_07_005" PosX="528718" PosY="2885.66" PosZ="215196" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33466" Name="Val_plunder_07_006" PosX="529703" PosY="3116.14" PosZ="215704" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33467" Name="Val_plunder_07_007" PosX="530445" PosY="3252.4" PosZ="216284" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33468" Name="Val_plunder_07_008" PosX="531047" PosY="3333.56" PosZ="216831" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33469" Name="Val_plunder_07_009" PosX="531941" PosY="3499.71" PosZ="217831" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33470" Name="Val_plunder_07_010" PosX="532836" PosY="3782.33" PosZ="218659" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33471" Name="Val_plunder_07_011" PosX="534003" PosY="3915.6" PosZ="219526" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33472" Name="Val_plunder_07_012" PosX="535585" PosY="4019.89" PosZ="220273" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33473" Name="Val_plunder_07_013" PosX="536712" PosY="4101.19" PosZ="220833" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33474" Name="Val_plunder_07_014" PosX="537759" PosY="4288.46" PosZ="221526" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33475" Name="Val_plunder_07_015" PosX="538815" PosY="4552.5" PosZ="222198" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33476" Name="Val_plunder_07_016" PosX="540118" PosY="4742.55" PosZ="223074" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33477" Name="Val_plunder_07_017" PosX="541238" PosY="4935.89" PosZ="223731" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33478" Name="Val_Plunder_07_018" PosX="542409" PosY="5332.49" PosZ="224529" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33479" Name="Val_plunder_07_019" PosX="543041" PosY="5297.65" PosZ="224034" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33480" Name="Val_plunder_07_020" PosX="543534" PosY="5284.35" PosZ="223662" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33481" Name="Val_plunder_07_021" PosX="544026" PosY="5214.77" PosZ="223163" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33482" Name="Val_plunder_07_022" PosX="544231" PosY="5270.92" PosZ="222776" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33483" Name="Val_plunder_07_023" PosX="544548" PosY="5244.93" PosZ="222207" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33484" Name="Val_plunder_07_024" PosX="544950" PosY="5296.55" PosZ="221543" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33485" Name="Val_plunder_07_025" PosX="545403" PosY="5420.87" PosZ="221258" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33486" Name="Val_plunder_07_026" PosX="545935" PosY="5557.94" PosZ="221025" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33487" Name="Val_plunder_07_027" PosX="546513" PosY="5776.83" PosZ="220959" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33488" Name="Val_plunder_07_028" PosX="547198" PosY="5904.19" PosZ="221043" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33489" Name="Val_plunder_07_029" PosX="547939" PosY="6079.44" PosZ="220979" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33490" Name="Val_plunder_07_030" PosX="549002" PosY="6351.26" PosZ="220892" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33491" Name="Val_plunder_07_031" PosX="550045" PosY="6570.02" PosZ="220960" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33492" Name="Val_plunder_07_032" PosX="550798" PosY="6706.78" PosZ="220996" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33493" Name="Val_plunder_07_033" PosX="551484" PosY="6776.12" PosZ="220988" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33494" Name="Val_plunder_07_034" PosX="552166" PosY="6929.64" PosZ="220906" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33495" Name="Val_plunder_07_035" PosX="552828" PosY="7061.5" PosZ="220813" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33496" Name="Val_plunder_07_036" PosX="553915" PosY="7271.04" PosZ="220580" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33497" Name="Val_plunder_07_037" PosX="555177" PosY="7355.58" PosZ="220246" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33498" Name="Val_plunder_07_038" PosX="556631" PosY="7360" PosZ="220190" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33499" Name="Val_plunder_07_039" PosX="543301" PosY="5539.11" PosZ="225349" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33500" Name="Val_plunder_07_040" PosX="544262" PosY="5872.25" PosZ="226354" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33501" Name="Val_plunder_07_041" PosX="545092" PosY="6146.78" PosZ="227395" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33502" Name="Val_plunder_07_042" PosX="545778" PosY="6465.71" PosZ="228500" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33503" Name="Val_plunder_07_043" PosX="546673" PosY="6586.44" PosZ="228681" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33504" Name="Val_plunder_07_044" PosX="547481" PosY="6645.31" PosZ="228485" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33505" Name="Val_plunder_07_045" PosX="548338" PosY="6651.76" PosZ="228105" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33506" Name="Val_plunder_07_046" PosX="549926" PosY="6692.33" PosZ="227736" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33507" Name="Val_plunder_07_047" PosX="550686" PosY="6760.8" PosZ="227757" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33508" Name="Val_plunder_07_048" PosX="551581" PosY="6721.47" PosZ="228289" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33509" Name="Val_plunder_07_049" PosX="552471" PosY="6743.81" PosZ="229006" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33510" Name="Val_plunder_07_050" PosX="553490" PosY="6820.67" PosZ="229477" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33511" Name="Val_plunder_07_051" PosX="554096" PosY="6850.71" PosZ="229611" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33512" Name="Val_plunder_07_052" PosX="555236" PosY="6876.65" PosZ="229881" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="33461" TargetWaypoint="33462"/>
+	<Link SourceWaypoint="33462" TargetWaypoint="33461"/>
+	<Link SourceWaypoint="33462" TargetWaypoint="33463"/>
+	<Link SourceWaypoint="33463" TargetWaypoint="33462"/>
+	<Link SourceWaypoint="33463" TargetWaypoint="33464"/>
+	<Link SourceWaypoint="33464" TargetWaypoint="33463"/>
+	<Link SourceWaypoint="33464" TargetWaypoint="33465"/>
+	<Link SourceWaypoint="33465" TargetWaypoint="33464"/>
+	<Link SourceWaypoint="33465" TargetWaypoint="33466"/>
+	<Link SourceWaypoint="33466" TargetWaypoint="33465"/>
+	<Link SourceWaypoint="33466" TargetWaypoint="33467"/>
+	<Link SourceWaypoint="33467" TargetWaypoint="33466"/>
+	<Link SourceWaypoint="33467" TargetWaypoint="33468"/>
+	<Link SourceWaypoint="33468" TargetWaypoint="33467"/>
+	<Link SourceWaypoint="33468" TargetWaypoint="33469"/>
+	<Link SourceWaypoint="33469" TargetWaypoint="33468"/>
+	<Link SourceWaypoint="33469" TargetWaypoint="33470"/>
+	<Link SourceWaypoint="33470" TargetWaypoint="33469"/>
+	<Link SourceWaypoint="33470" TargetWaypoint="33471"/>
+	<Link SourceWaypoint="33471" TargetWaypoint="33470"/>
+	<Link SourceWaypoint="33471" TargetWaypoint="33472"/>
+	<Link SourceWaypoint="33472" TargetWaypoint="33471"/>
+	<Link SourceWaypoint="33472" TargetWaypoint="33473"/>
+	<Link SourceWaypoint="33473" TargetWaypoint="33472"/>
+	<Link SourceWaypoint="33473" TargetWaypoint="33474"/>
+	<Link SourceWaypoint="33474" TargetWaypoint="33473"/>
+	<Link SourceWaypoint="33474" TargetWaypoint="33475"/>
+	<Link SourceWaypoint="33475" TargetWaypoint="33474"/>
+	<Link SourceWaypoint="33475" TargetWaypoint="33476"/>
+	<Link SourceWaypoint="33476" TargetWaypoint="33475"/>
+	<Link SourceWaypoint="33476" TargetWaypoint="33477"/>
+	<Link SourceWaypoint="33477" TargetWaypoint="33476"/>
+	<Link SourceWaypoint="33477" TargetWaypoint="33478"/>
+	<Link SourceWaypoint="33478" TargetWaypoint="33477"/>
+	<Link SourceWaypoint="33478" TargetWaypoint="33479"/>
+	<Link SourceWaypoint="33478" TargetWaypoint="33499"/>
+	<Link SourceWaypoint="33479" TargetWaypoint="33478"/>
+	<Link SourceWaypoint="33479" TargetWaypoint="33480"/>
+	<Link SourceWaypoint="33480" TargetWaypoint="33479"/>
+	<Link SourceWaypoint="33480" TargetWaypoint="33481"/>
+	<Link SourceWaypoint="33481" TargetWaypoint="33480"/>
+	<Link SourceWaypoint="33481" TargetWaypoint="33482"/>
+	<Link SourceWaypoint="33482" TargetWaypoint="33481"/>
+	<Link SourceWaypoint="33482" TargetWaypoint="33483"/>
+	<Link SourceWaypoint="33483" TargetWaypoint="33482"/>
+	<Link SourceWaypoint="33483" TargetWaypoint="33484"/>
+	<Link SourceWaypoint="33484" TargetWaypoint="33483"/>
+	<Link SourceWaypoint="33484" TargetWaypoint="33485"/>
+	<Link SourceWaypoint="33485" TargetWaypoint="33484"/>
+	<Link SourceWaypoint="33485" TargetWaypoint="33486"/>
+	<Link SourceWaypoint="33486" TargetWaypoint="33485"/>
+	<Link SourceWaypoint="33486" TargetWaypoint="33487"/>
+	<Link SourceWaypoint="33487" TargetWaypoint="33486"/>
+	<Link SourceWaypoint="33487" TargetWaypoint="33488"/>
+	<Link SourceWaypoint="33488" TargetWaypoint="33487"/>
+	<Link SourceWaypoint="33488" TargetWaypoint="33489"/>
+	<Link SourceWaypoint="33489" TargetWaypoint="33488"/>
+	<Link SourceWaypoint="33489" TargetWaypoint="33490"/>
+	<Link SourceWaypoint="33490" TargetWaypoint="33489"/>
+	<Link SourceWaypoint="33490" TargetWaypoint="33491"/>
+	<Link SourceWaypoint="33491" TargetWaypoint="33490"/>
+	<Link SourceWaypoint="33491" TargetWaypoint="33492"/>
+	<Link SourceWaypoint="33492" TargetWaypoint="33491"/>
+	<Link SourceWaypoint="33492" TargetWaypoint="33493"/>
+	<Link SourceWaypoint="33493" TargetWaypoint="33492"/>
+	<Link SourceWaypoint="33493" TargetWaypoint="33494"/>
+	<Link SourceWaypoint="33494" TargetWaypoint="33493"/>
+	<Link SourceWaypoint="33494" TargetWaypoint="33495"/>
+	<Link SourceWaypoint="33495" TargetWaypoint="33494"/>
+	<Link SourceWaypoint="33495" TargetWaypoint="33496"/>
+	<Link SourceWaypoint="33496" TargetWaypoint="33495"/>
+	<Link SourceWaypoint="33496" TargetWaypoint="33497"/>
+	<Link SourceWaypoint="33497" TargetWaypoint="33496"/>
+	<Link SourceWaypoint="33497" TargetWaypoint="33498"/>
+	<Link SourceWaypoint="33498" TargetWaypoint="33497"/>
+	<Link SourceWaypoint="33499" TargetWaypoint="33478"/>
+	<Link SourceWaypoint="33499" TargetWaypoint="33500"/>
+	<Link SourceWaypoint="33500" TargetWaypoint="33499"/>
+	<Link SourceWaypoint="33500" TargetWaypoint="33501"/>
+	<Link SourceWaypoint="33501" TargetWaypoint="33500"/>
+	<Link SourceWaypoint="33501" TargetWaypoint="33502"/>
+	<Link SourceWaypoint="33502" TargetWaypoint="33501"/>
+	<Link SourceWaypoint="33502" TargetWaypoint="33503"/>
+	<Link SourceWaypoint="33503" TargetWaypoint="33502"/>
+	<Link SourceWaypoint="33503" TargetWaypoint="33504"/>
+	<Link SourceWaypoint="33504" TargetWaypoint="33503"/>
+	<Link SourceWaypoint="33504" TargetWaypoint="33505"/>
+	<Link SourceWaypoint="33505" TargetWaypoint="33504"/>
+	<Link SourceWaypoint="33505" TargetWaypoint="33506"/>
+	<Link SourceWaypoint="33506" TargetWaypoint="33505"/>
+	<Link SourceWaypoint="33506" TargetWaypoint="33507"/>
+	<Link SourceWaypoint="33507" TargetWaypoint="33506"/>
+	<Link SourceWaypoint="33507" TargetWaypoint="33508"/>
+	<Link SourceWaypoint="33508" TargetWaypoint="33507"/>
+	<Link SourceWaypoint="33508" TargetWaypoint="33509"/>
+	<Link SourceWaypoint="33509" TargetWaypoint="33508"/>
+	<Link SourceWaypoint="33509" TargetWaypoint="33510"/>
+	<Link SourceWaypoint="33510" TargetWaypoint="33509"/>
+	<Link SourceWaypoint="33510" TargetWaypoint="33511"/>
+	<Link SourceWaypoint="33511" TargetWaypoint="33510"/>
+	<Link SourceWaypoint="33511" TargetWaypoint="33512"/>
+	<Link SourceWaypoint="33512" TargetWaypoint="33511"/>
+</LinkList>
+<GroupList>
+	<Group Key="158" Name="Val_Plunder_07"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

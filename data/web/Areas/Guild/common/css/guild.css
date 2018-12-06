@@ -1,0 +1,323 @@
+.bbsBg {
+    background-image: url('/Areas/Guild/Common/img/bg_guildBbs.jpg');
+    background-size: 100%;
+    width: 323px;
+    height: 272px;
+    background-color: black;
+}
+
+.bbsFont {
+    font-size: 12px;
+    height: 18px;
+    color: #000;
+}
+
+.bbsFont .commentShort {
+    float: left;
+    width: 290px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.bbsFont .commentShort a {
+    color: #000;
+}
+
+.bbsFont .commentShort a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.noneCommentMsg {
+    width: 290px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
+
+#errorPg .bbsBg .errorFontWrap {
+    position: absolute;
+    width: 323px;
+    height: 272px;
+}
+
+#errorPg .bbsBg .errorFont {
+    position: relative;
+    margin: 100px 0 0 0;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+}
+
+#container .guildComments {
+    width: 323px;
+    height: 272px;
+    border: 0px solid blue;
+}
+
+#container .guildComments .commentArea {
+    width: 260px;
+    border: 1px solid #666666;
+    line-height: 22px;
+    margin: 10px 5px 5px 10px;
+    background-color: black;
+    color: #fff;
+}
+
+#container .guildComments .iconDel {
+    float: left;
+    color: #ff0000;
+    cursor: pointer;
+}
+
+#container .confirmLayer {
+    position: absolute;
+    width: 202px;
+    height: 62px;
+    margin: 80px 0px 0px 55px;
+    display: none;
+    background-image: url('/Areas/Guild/Common/img/popupBg.png');
+}
+
+#container .confirmLayer .confirmMsg {
+    float: left;
+    width: 202px;
+    height: 20px;
+    line-height: 35px;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#container .confirmLayer .confirmYes {
+    border: 1px solid #808080;
+    float: left;
+    width: 66px;
+    height: 18px;
+    line-height: 18px;
+    margin: 15px 0px 0px 25px;
+    background-image: url('/Areas/Guild/Common/img/buttonNormal.png');
+    cursor: pointer;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#container .confirmLayer .confirmNo {
+    border: 1px solid #808080;
+    float: right;
+    width: 66px;
+    height: 18px;
+    line-height: 18px;
+    margin: 15px 25px 0px 0px;
+    background-image: url('/Areas/Guild/Common/img/buttonNormal.png');
+    cursor: pointer;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#container .alertLayer {
+    position: absolute;
+    width: 202px;
+    height: 62px;
+    margin: 80px 0 0 55px;
+    background-image: url('/Areas/Guild/Common/img/popupBg.png');
+    display: none;
+}
+
+#container .alertLayer .alertLayerWrap {
+    position: relative;
+    width: 202px;
+    height: 62px;
+}
+
+#container .alertLayer .alertLayerWrap .alertMsg {
+    width: 202px;
+    height: 20px;
+    line-height: 35px;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#container .alertLayer .alertLayerWrap .alertOk {
+    border: 1px solid #808080;
+    width: 66px;
+    height: 18px;
+    line-height: 18px;
+    margin: 15px 0px 0px 68px;
+    background-image: url('/Areas/Guild/Common/img/buttonNormal.png');
+    cursor: pointer;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#container .guildComments .layerComment {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 250px;
+    height: 115px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding: 10px;
+    display: none;
+    background-color: #fefece;
+    white-space: normal;
+    word-break: break-all;
+    display: none;
+}
+
+#inputButton.inputButton {
+    font-size: 12px;
+    width: 35px;
+    height: 25px;
+    top: 10px;
+    left: 280px;
+    position: absolute;
+}
+
+#container .commentList {
+    margin-left: 10px;
+    border: 0px solid blue;
+    width: 313px;
+    height: 205px;
+}
+
+/*#container	.naviFirstPage { width: 150px; text-align: right; float: left; }
+#container	.naviNextPage { width: 150px; text-align: left; float: right; }*/
+
+.registerDate {
+    float: right;
+    color: #888888;
+}
+
+.commentsAllContent {
+    clear: both;
+    margin-top: 20px
+}
+
+.btn {
+    font-size: 14px;
+    color: white;
+    cursor: pointer;
+    line-height: 25px;
+    position: relative;
+    vertical-align: middle;
+    background-color: #5a4a36;
+    box-sizing: border-box;
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.3);
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 1);
+}
+
+.btn:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(rgba(255, 255, 255, 0.2), transparent);
+}
+
+.btn:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+    top: -45%;
+    left: 0;
+    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+}
+
+.btn:hover:before {
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.1));
+}
+
+.btn:active {
+    line-height: 25px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.btn:active:before {
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.2));
+}
+
+.btn:active:after {
+    opacity: 0;
+}
+
+.btn:hover, .btn:active, .btn:focus {
+    text-decoration: none !important;
+}
+
+a.remove {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    background-color: #41403c;
+    border: 1px solid rgba(147, 149, 156, 0.60);
+    border-radius: 1px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    position: relative;
+    box-sizing: border-box;
+}
+
+a.remove:before {
+    content: '';
+    background: url(/Areas/Guild/Common/img/icn_smalldelete.png) no-repeat;
+    display: inline-block;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: center;
+}
+
+.buttonArea {
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.naviFirstPage, .naviNextPage, .naviPrevPage {
+    position: absolute;
+    margin-bottom: 2px;
+    display: inline-block;
+    color: #5c4927 !important;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 1px solid #5c4927;
+    padding: 2px 5px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.naviFirstPage:hover, .naviNextPage:hover, .naviPrevPage:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    text-decoration: none !important;
+}
+
+.naviFirstPage {
+    left: 100px;
+}
+
+.naviPrevPage {
+    left: 140px;
+    margin-left: 5px;
+}
+
+.naviNextPage {
+    left: 170px;
+}
+
+

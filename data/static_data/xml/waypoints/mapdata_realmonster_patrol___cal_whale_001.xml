@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_whale_001">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15556" Name="Cal_Whale_001" PosX="-462029" PosY="-8200" PosZ="131319" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15557" Name="Cal_Whale_002" PosX="-458241" PosY="-8200" PosZ="124139" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15558" Name="Cal_Whale_003" PosX="-451221" PosY="-8200" PosZ="119778" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15559" Name="Cal_Whale_004" PosX="-444825" PosY="-8200" PosZ="118871" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15560" Name="Cal_Whale_005" PosX="-438920" PosY="-8200" PosZ="119101" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15561" Name="Cal_Whale_006" PosX="-434347" PosY="-8200" PosZ="120481" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15562" Name="Cal_Whale_007" PosX="-429173" PosY="-8200" PosZ="120857" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15563" Name="Cal_Whale_008" PosX="-423546" PosY="-8200" PosZ="121287" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15564" Name="Cal_Whale_009" PosX="-418592" PosY="-8200" PosZ="121076" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15565" Name="Cal_Whale_010" PosX="-411525" PosY="-8200" PosZ="121766" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15566" Name="Cal_Whale_011" PosX="-403729" PosY="-8200" PosZ="126225" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15567" Name="Cal_Whale_012" PosX="-400883" PosY="-8200" PosZ="133273" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15568" Name="Cal_Whale_013" PosX="-397688" PosY="-8200" PosZ="138047" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15569" Name="Cal_Whale_014" PosX="-394113" PosY="-8200" PosZ="140774" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15570" Name="Cal_Whale_015" PosX="-389422" PosY="-8200" PosZ="142757" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15571" Name="Cal_Whale_016" PosX="-385106" PosY="-8200" PosZ="144836" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15572" Name="Cal_Whale_017" PosX="-381297" PosY="-8200" PosZ="150456" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15573" Name="Cal_Whale_018" PosX="-374959" PosY="-8200" PosZ="154622" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15574" Name="Cal_Whale_019" PosX="-370999" PosY="-8200" PosZ="156387" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15575" Name="Cal_Whale_020" PosX="-366150" PosY="-8200" PosZ="158696" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15576" Name="Cal_Whale_021" PosX="-361085" PosY="-8200" PosZ="162022" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15577" Name="Cal_Whale_022" PosX="-356837" PosY="-8200" PosZ="167047" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15578" Name="Cal_Whale_023" PosX="-352222" PosY="-8200" PosZ="173750" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15579" Name="Cal_Whale_024" PosX="-347162" PosY="-8200" PosZ="179260" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15580" Name="Cal_Whale_025" PosX="-344056" PosY="-8200" PosZ="186076" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15581" Name="Cal_Whale_026" PosX="-341240" PosY="-8200" PosZ="192346" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15582" Name="Cal_Whale_027" PosX="-335354" PosY="-8200" PosZ="195225" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15583" Name="Cal_Whale_028" PosX="-330030" PosY="-8200" PosZ="197322" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15584" Name="Cal_Whale_029" PosX="-324499" PosY="-8200" PosZ="200883" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15585" Name="Cal_Whale_030" PosX="-318608" PosY="-8200" PosZ="204331" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15586" Name="Cal_Whale_031" PosX="-310833" PosY="-8200" PosZ="204693" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15587" Name="Cal_Whale_032" PosX="-304660" PosY="-8200" PosZ="202642" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15588" Name="Cal_Whale_033" PosX="-298047" PosY="-8200" PosZ="202740" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15589" Name="Cal_Whale_034" PosX="-291257" PosY="-8200" PosZ="205732" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15590" Name="Cal_Whale_035" PosX="-286148" PosY="-8200" PosZ="211396" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15591" Name="Cal_Whale_036" PosX="-281174" PosY="-8200" PosZ="216830" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15592" Name="Cal_Whale_037" PosX="-279281" PosY="-8150" PosZ="279951" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15593" Name="Cal_Whale_038" PosX="-285340" PosY="-8150" PosZ="273121" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15594" Name="Cal_Whale_039" PosX="-289946" PosY="-8150" PosZ="268944" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15595" Name="Cal_Whale_040" PosX="-294169" PosY="-8150" PosZ="266113" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15596" Name="Cal_Whale_041" PosX="-300517" PosY="-8200" PosZ="263057" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15597" Name="Cal_Whale_042" PosX="-305796" PosY="-8200" PosZ="259157" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15598" Name="Cal_Whale_043" PosX="-310543" PosY="-8200" PosZ="256051" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15599" Name="Cal_Whale_044" PosX="-316130" PosY="-8200" PosZ="255360" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15600" Name="Cal_Whale_045" PosX="-321246" PosY="-8150" PosZ="255077" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15601" Name="Cal_Whale_046" PosX="-327460" PosY="-8200" PosZ="254551" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15602" Name="Cal_Whale_047" PosX="-333230" PosY="-8200" PosZ="252916" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15603" Name="Cal_Whale_048" PosX="-339335" PosY="-8200" PosZ="251168" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15604" Name="Cal_Whale_049" PosX="-347236" PosY="-8200" PosZ="247451" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15605" Name="Cal_Whale_050" PosX="-350744" PosY="-8200" PosZ="242904" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15606" Name="Cal_Whale_051" PosX="-350910" PosY="-8200" PosZ="236794" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15607" Name="Cal_Whale_052" PosX="-348418" PosY="-8200" PosZ="232428" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15608" Name="Cal_Whale_053" PosX="-346171" PosY="-8200" PosZ="229007" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15609" Name="Cal_Whale_054" PosX="-345284" PosY="-8200" PosZ="226186" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15610" Name="Cal_Whale_055" PosX="-343950" PosY="-8200" PosZ="221618" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15611" Name="Cal_Whale_056" PosX="-342171" PosY="-8200" PosZ="217881" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15612" Name="Cal_Whale_057" PosX="-340978" PosY="-8150" PosZ="214731" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15613" Name="Cal_Whale_058" PosX="-339964" PosY="-8200" PosZ="211910" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15614" Name="Cal_Whale_059" PosX="-379291" PosY="-8200" PosZ="155231" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15615" Name="Cal_Whale_060" PosX="-378702" PosY="-8200" PosZ="158515" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15616" Name="Cal_Whale_061" PosX="-379955" PosY="-8200" PosZ="162009" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15617" Name="Cal_Whale_062" PosX="-382462" PosY="-8200" PosZ="164218" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15618" Name="Cal_Whale_063" PosX="-386575" PosY="-8200" PosZ="164343" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15619" Name="Cal_Whale_064" PosX="-390173" PosY="-8200" PosZ="163353" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15620" Name="Cal_Whale_065" PosX="-394876" PosY="-8200" PosZ="163249" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15621" Name="Cal_Whale_066" PosX="-398545" PosY="-8200" PosZ="164708" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15622" Name="Cal_Whale_067" PosX="-402847" PosY="-8200" PosZ="167396" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15623" Name="Cal_Whale_068" PosX="-405822" PosY="-8200" PosZ="170058" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15624" Name="Cal_Whale_069" PosX="-408096" PosY="-8200" PosZ="173390" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15625" Name="Cal_Whale_070" PosX="-411128" PosY="-8200" PosZ="175897" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15626" Name="Cal_Whale_071" PosX="-416194" PosY="-8200" PosZ="177863" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15627" Name="Cal_Whale_072" PosX="-420236" PosY="-8200" PosZ="177640" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15628" Name="Cal_Whale_073" PosX="-425262" PosY="-8200" PosZ="176211" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15629" Name="Cal_Whale_074" PosX="-429353" PosY="-8200" PosZ="175280" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15630" Name="Cal_Whale_075" PosX="-438407" PosY="-8200" PosZ="174224" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15631" Name="Cal_Whale_076" PosX="-448538" PosY="-8200" PosZ="173167" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15632" Name="Cal_Whale_077" PosX="-455829" PosY="-8200" PosZ="173414" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15633" Name="Cal_Whale_078" PosX="-461890" PosY="-8200" PosZ="173261" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15634" Name="Cal_Whale_079" PosX="-468029" PosY="-8200" PosZ="172271" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15635" Name="Cal_Whale_080" PosX="-472209" PosY="-8200" PosZ="169462" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15636" Name="Cal_Whale_081" PosX="-475022" PosY="-8200" PosZ="165981" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15637" Name="Cal_Whale_082" PosX="-476378" PosY="-8200" PosZ="160954" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15638" Name="Cal_Whale_083" PosX="-475166" PosY="-8200" PosZ="154139" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15639" Name="Cal_Whale_084" PosX="-471426" PosY="-8200" PosZ="149600" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15640" Name="Cal_Whale_085" PosX="-467090" PosY="-8200" PosZ="144125" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15641" Name="Cal_Whale_086" PosX="-465593" PosY="-8200" PosZ="137777" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32739" Name="Cal_Whale_087" PosX="-275434" PosY="-8200" PosZ="222491" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32740" Name="Cal_Whale_088" PosX="-267908" PosY="-8200" PosZ="225822" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32741" Name="Cal_Whale_089" PosX="-262381" PosY="-8200" PosZ="226840" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32742" Name="Cal_Whale_090" PosX="-255993" PosY="-8200" PosZ="227993" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32743" Name="Cal_Whale_091" PosX="-250741" PosY="-8200" PosZ="229202" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32744" Name="Cal_Whale_092" PosX="-245565" PosY="-8200" PosZ="231698" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32745" Name="Cal_Whale_093" PosX="-238911" PosY="-8200" PosZ="237952" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32746" Name="Cal_Whale_094" PosX="-234636" PosY="-8200" PosZ="240657" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32747" Name="Cal_Whale_095" PosX="-228958" PosY="-8200" PosZ="245000" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32748" Name="Cal_Whale_096" PosX="-222355" PosY="-8200" PosZ="249968" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32749" Name="Cal_Whale_097" PosX="-215616" PosY="-8200" PosZ="254927" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32750" Name="Cal_Whale_098" PosX="-209996" PosY="-8200" PosZ="261809" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32751" Name="Cal_Whale_099" PosX="-207668" PosY="-8200" PosZ="269586" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32752" Name="Cal_Whale_100" PosX="-207975" PosY="-8200" PosZ="275813" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32753" Name="Cal_Whale_101" PosX="-211655" PosY="-8200" PosZ="282874" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32754" Name="Cal_Whale_102" PosX="-216880" PosY="-8200" PosZ="288963" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32755" Name="Cal_Whale_103" PosX="-223310" PosY="-8200" PosZ="294614" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32756" Name="Cal_Whale_104" PosX="-229992" PosY="-8200" PosZ="297430" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32757" Name="Cal_Whale_105" PosX="-238398" PosY="-8150" PosZ="299036" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32758" Name="Cal_Whale_106" PosX="-243981" PosY="-8200" PosZ="298070" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32759" Name="Cal_Whale_107" PosX="-252332" PosY="-8200" PosZ="296560" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32760" Name="Cal_Whale_108" PosX="-260324" PosY="-8150" PosZ="294643" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32761" Name="Cal_Whale_109" PosX="-266167" PosY="-8200" PosZ="292278" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32762" Name="Cal_Whale_110" PosX="-273036" PosY="-8150" PosZ="287910" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32763" Name="Cal_Whale_111" PosX="-336581" PosY="-8200" PosZ="209378" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32764" Name="Cal_Whale_112" PosX="-330932" PosY="-8200" PosZ="206859" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32765" Name="Cal_Whale_113" PosX="-324005" PosY="-8200" PosZ="204910" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32766" Name="Cal_Whale_114" PosX="-370998" PosY="-8200" PosZ="158571" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32767" Name="Cal_Whale_115" PosX="-373980" PosY="-8200" PosZ="158768" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32768" Name="Cal_Whale_116" PosX="-376602" PosY="-8200" PosZ="160237" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32769" Name="Cal_Whale_117" PosX="-332823" PosY="-8200" PosZ="197815" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32770" Name="Cal_Whale_118" PosX="-332022" PosY="-8200" PosZ="200169" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32771" Name="Cal_Whale_119" PosX="-331808" PosY="-8200" PosZ="203197" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32772" Name="Cal_Whale_120" PosX="-333107" PosY="-8200" PosZ="205786" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32773" Name="Cal_Whale_121" PosX="-456504" PosY="-8200" PosZ="82893.9" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32774" Name="Cal_Whale_122" PosX="-453103" PosY="-8200" PosZ="86975.1" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32775" Name="Cal_Whale_123" PosX="-451575" PosY="-8200" PosZ="92297.9" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32776" Name="Cal_Whale_124" PosX="-451659" PosY="-8200" PosZ="95754.4" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32777" Name="Cal_Whale_125" PosX="-451584" PosY="-8200" PosZ="99826.1" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32778" Name="Cal_Whale_126" PosX="-452108" PosY="-8200" PosZ="106130" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32779" Name="Cal_Whale_127" PosX="-453826" PosY="-8200" PosZ="111154" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32780" Name="Cal_Whale_128" PosX="-456124" PosY="-8200" PosZ="117111" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32781" Name="Cal_Whale_129" PosX="-458030" PosY="-8200" PosZ="122887" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32782" Name="Cal_Whale_130" PosX="-461728" PosY="-8200" PosZ="128741" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32783" Name="Cal_Whale_131" PosX="-464678" PosY="-8200" PosZ="134032" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32784" Name="Cal_Whale_132" PosX="-466854" PosY="-8200" PosZ="139595" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32785" Name="Cal_Whale_133" PosX="-468283" PosY="-8200" PosZ="144163" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32786" Name="Cal_Whale_134" PosX="-471682" PosY="-8200" PosZ="147845" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32787" Name="Cal_Whale_135" PosX="-476421" PosY="-8200" PosZ="152020" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32788" Name="Cal_Whale_136" PosX="-480617" PosY="-8200" PosZ="157150" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32789" Name="Cal_Whale_137" PosX="-482996" PosY="-8200" PosZ="161479" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32790" Name="Cal_Whale_138" PosX="-485164" PosY="-8200" PosZ="164699" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32791" Name="Cal_Whale_139" PosX="-487742" PosY="-8200" PosZ="168301" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32792" Name="Cal_Whale_140" PosX="-491615" PosY="-8200" PosZ="170917" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32793" Name="Cal_Whale_141" PosX="-494669" PosY="-8200" PosZ="173791" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32794" Name="Cal_Whale_142" PosX="-496738" PosY="-8200" PosZ="176133" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32795" Name="Cal_Whale_143" PosX="-499465" PosY="-8200" PosZ="178875" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32796" Name="Cal_Whale_144" PosX="-502659" PosY="-8200" PosZ="180243" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32797" Name="Cal_Whale_145" PosX="-506209" PosY="-8200" PosZ="181385" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32798" Name="Cal_Whale_146" PosX="-511031" PosY="-8150" PosZ="182029" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32799" Name="Cal_Whale_147" PosX="-516121" PosY="-8200" PosZ="181136" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32800" Name="Cal_Whale_148" PosX="-521687" PosY="-8200" PosZ="178220" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32801" Name="Cal_Whale_149" PosX="-524995" PosY="-8200" PosZ="176196" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32802" Name="Cal_Whale_150" PosX="-528471" PosY="-8200" PosZ="174036" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32803" Name="Cal_Whale_151" PosX="-531863" PosY="-8200" PosZ="171241" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32804" Name="Cal_Whale_152" PosX="-534000" PosY="-8200" PosZ="167810" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32805" Name="Cal_Whale_153" PosX="-535248" PosY="-8200" PosZ="163784" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32806" Name="Cal_Whale_154" PosX="-534846" PosY="-8200" PosZ="158209" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32807" Name="Cal_Whale_155" PosX="-534483" PosY="-8200" PosZ="154003" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32808" Name="Cal_Whale_156" PosX="-533234" PosY="-8200" PosZ="146470" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32809" Name="Cal_Whale_157" PosX="-530233" PosY="-8200" PosZ="141241" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32810" Name="Cal_Whale_158" PosX="-527732" PosY="-8200" PosZ="136381" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32811" Name="Cal_Whale_159" PosX="-524419" PosY="-8200" PosZ="132640" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32812" Name="Cal_Whale_160" PosX="-518382" PosY="-8200" PosZ="127458" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32813" Name="Cal_Whale_161" PosX="-513207" PosY="-8200" PosZ="121743" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32814" Name="Cal_Whale_162" PosX="-510149" PosY="-8200" PosZ="117279" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32815" Name="Cal_Whale_163" PosX="-507866" PosY="-8200" PosZ="108394" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32816" Name="Cal_Whale_164" PosX="-506697" PosY="-8200" PosZ="100674" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32817" Name="Cal_Whale_165" PosX="-505622" PosY="-8200" PosZ="93416.1" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32818" Name="Cal_Whale_166" PosX="-503103" PosY="-8200" PosZ="89277.4" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32819" Name="Cal_Whale_167" PosX="-498167" PosY="-8200" PosZ="85411.8" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32820" Name="Cal_Whale_168" PosX="-492544" PosY="-8200" PosZ="82678.8" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32821" Name="Cal_Whale_169" PosX="-485802" PosY="-8200" PosZ="80451.6" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32822" Name="Cal_Whale_171" PosX="-481625" PosY="-8200" PosZ="79515.4" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32823" Name="Cal_Whale_172" PosX="-477795" PosY="-8200" PosZ="78462.2" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32824" Name="Cal_Whale_173" PosX="-474301" PosY="-8200" PosZ="78422.5" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32825" Name="Cal_Whale_174" PosX="-470295" PosY="-8200" PosZ="77874.5" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32826" Name="Cal_Whale_175" PosX="-466092" PosY="-8200" PosZ="78521.7" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32827" Name="Cal_Whale_176" PosX="-461023" PosY="-8200" PosZ="79988.9" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32828" Name="Cal_Whale_177" PosX="-448462" PosY="-8200" PosZ="118076" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32829" Name="Cal_Whale_178" PosX="-450821" PosY="-8200" PosZ="116985" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32830" Name="Cal_Whale_179" PosX="-452068" PosY="-8200" PosZ="115615" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32831" Name="Cal_Whale_180" PosX="-452990" PosY="-8200" PosZ="114005" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32832" Name="Cal_Whale_181" PosX="-476608" PosY="-8200" PosZ="164226" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32833" Name="Cal_Whale_182" PosX="-478384" PosY="-8200" PosZ="163050" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32834" Name="Cal_Whale_183" PosX="-480622" PosY="-8200" PosZ="162253" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32835" Name="Cal_Whale_184" PosX="-482276" PosY="-8200" PosZ="162432" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32836" Name="Cal_Whale_185" PosX="-499777" PosY="-8200" PosZ="199326" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32837" Name="Cal_Whale_186" PosX="-496360" PosY="-8200" PosZ="196523" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32838" Name="Cal_Whale_187" PosX="-493133" PosY="-8200" PosZ="195570" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32839" Name="Cal_Whale_188" PosX="-489497" PosY="-8200" PosZ="195677" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32840" Name="Cal_Whale_189" PosX="-483095" PosY="-8200" PosZ="197025" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32841" Name="Cal_Whale_190" PosX="-477394" PosY="-8200" PosZ="199869" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32842" Name="Cal_Whale_191" PosX="-473583" PosY="-8200" PosZ="206125" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32843" Name="Cal_Whale_192" PosX="-472336" PosY="-8200" PosZ="213850" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32844" Name="Cal_Whale_193" PosX="-471765" PosY="-8200" PosZ="218540" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32845" Name="Cal_Whale_194" PosX="-470514" PosY="-8200" PosZ="228187" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32846" Name="Cal_Whale_195" PosX="-470254" PosY="-8200" PosZ="236745" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32847" Name="Cal_Whale_196" PosX="-467836" PosY="-8200" PosZ="243703" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32848" Name="Cal_Whale_197" PosX="-462685" PosY="-8150" PosZ="252556" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32849" Name="Cal_Whale_198" PosX="-460044" PosY="-8200" PosZ="263275" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32850" Name="Cal_Whale_199" PosX="-459735" PosY="-8200" PosZ="273635" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32851" Name="Cal_Whale_200" PosX="-461129" PosY="-8200" PosZ="280368" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32852" Name="Cal_Whale_201" PosX="-464633" PosY="-8200" PosZ="285701" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32853" Name="Cal_Whale_202" PosX="-470137" PosY="-8150" PosZ="289757" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32854" Name="Cal_Whale_203" PosX="-477975" PosY="-8150" PosZ="290269" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32855" Name="Cal_Whale_204" PosX="-483458" PosY="-8200" PosZ="287233" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32856" Name="Cal_Whale_205" PosX="-487722" PosY="-8200" PosZ="284231" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32857" Name="Cal_Whale_206" PosX="-492454" PosY="-8150" PosZ="283229" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32858" Name="Cal_Whale_207" PosX="-498328" PosY="-8200" PosZ="283632" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32859" Name="Cal_Whale_208" PosX="-502947" PosY="-8200" PosZ="281790" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32860" Name="Cal_Whale_209" PosX="-504247" PosY="-8200" PosZ="279713" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32861" Name="Cal_Whale_210" PosX="-505011" PosY="-8200" PosZ="277123" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32862" Name="Cal_Whale_211" PosX="-503550" PosY="-8200" PosZ="273186" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32863" Name="Cal_Whale_212" PosX="-502534" PosY="-8200" PosZ="269466" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32864" Name="Cal_Whale_213" PosX="-502215" PosY="-8200" PosZ="264007" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32865" Name="Cal_Whale_214" PosX="-501890" PosY="-8200" PosZ="257989" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32866" Name="Cal_Whale_215" PosX="-502476" PosY="-8200" PosZ="252932" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32867" Name="Cal_Whale_216" PosX="-502689" PosY="-8200" PosZ="248207" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32868" Name="Cal_Whale_217" PosX="-502845" PosY="-8200" PosZ="242841" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32869" Name="Cal_Whale_218" PosX="-503641" PosY="-8150" PosZ="238051" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32870" Name="Cal_Whale_219" PosX="-504316" PosY="-8150" PosZ="235514" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32871" Name="Cal_Whale_220" PosX="-504960" PosY="-8200" PosZ="231651" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32872" Name="Cal_Whale_221" PosX="-504804" PosY="-8200" PosZ="225763" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32873" Name="Cal_Whale_222" PosX="-504947" PosY="-8150" PosZ="221112" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32874" Name="Cal_Whale_223" PosX="-504543" PosY="-8200" PosZ="215602" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32875" Name="Cal_Whale_224" PosX="-503741" PosY="-8200" PosZ="209974" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32876" Name="Cal_Whale_225" PosX="-502170" PosY="-8150" PosZ="205083" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32877" Name="Cal_Whale_226" PosX="-504157" PosY="-8150" PosZ="207515" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32878" Name="Cal_Whale_227" PosX="-504840" PosY="-8150" PosZ="205919" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32879" Name="Cal_Whale_228" PosX="-501351" PosY="-8200" PosZ="200325" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32880" Name="Cal_Whale_229" PosX="-502946" PosY="-8200" PosZ="201127" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32881" Name="Cal_Whale_230" PosX="-504198" PosY="-8200" PosZ="201147" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32882" Name="Cal_Whale_231" PosX="-505679" PosY="-8200" PosZ="200494" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32883" Name="Cal_Whale_232" PosX="-506497" PosY="-8200" PosZ="199648" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32884" Name="Cal_Whale_233" PosX="-505570" PosY="-8200" PosZ="203956" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32885" Name="Cal_Whale_234" PosX="-506139" PosY="-8200" PosZ="202079" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32886" Name="Cal_Whale_235" PosX="-515023" PosY="-8200" PosZ="182296" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32887" Name="Cal_Whale_236" PosX="-514451" PosY="-8200" PosZ="183259" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32888" Name="Cal_Whale_237" PosX="-513648" PosY="-8200" PosZ="185150" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32889" Name="Cal_Whale_238" PosX="-511852" PosY="-8200" PosZ="182794" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32890" Name="Cal_Whale_239" PosX="-512386" PosY="-8200" PosZ="183642" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32891" Name="Cal_Whale_240" PosX="-512662" PosY="-8200" PosZ="184984" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32892" Name="Cal_Whale_241" PosX="-512708" PosY="-8200" PosZ="186364" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32893" Name="Cal_Whale_242" PosX="-510032" PosY="-8200" PosZ="192330" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32894" Name="Cal_Whale_243" PosX="-508312" PosY="-8200" PosZ="196058" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32895" Name="Cal_Whale_244" PosX="-466746" PosY="-8200" PosZ="174300" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32896" Name="Cal_Whale_245" PosX="-466694" PosY="-8200" PosZ="176366" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32897" Name="Cal_Whale_246" PosX="-467326" PosY="-8200" PosZ="180306" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32898" Name="Cal_Whale_247" PosX="-463689" PosY="-8200" PosZ="175891" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32899" Name="Cal_Whale_248" PosX="-465499" PosY="-8200" PosZ="178305" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32900" Name="Cal_Whale_249" PosX="-477655" PosY="-8200" PosZ="198071" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32901" Name="Cal_Whale_250" PosX="-477601" PosY="-8200" PosZ="196712" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32902" Name="Cal_Whale_251" PosX="-476756" PosY="-8200" PosZ="194926" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32903" Name="Cal_Whale_252" PosX="-481487" PosY="-8200" PosZ="196925" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32904" Name="Cal_Whale_253" PosX="-479328" PosY="-8200" PosZ="196073" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32905" Name="Cal_Whale_254" PosX="-477450" PosY="-8200" PosZ="194928" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32906" Name="Cal_Whale_255" PosX="-475904" PosY="-8200" PosZ="193698" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32907" Name="Cal_Whale_256" PosX="-472743" PosY="-8200" PosZ="189145" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="32908" Name="Cal_Whale_257" PosX="-470923" PosY="-8200" PosZ="185951" Property="water"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="15556" TargetWaypoint="15557"/>
+	<Link SourceWaypoint="15556" TargetWaypoint="15641"/>
+	<Link SourceWaypoint="15557" TargetWaypoint="15556"/>
+	<Link SourceWaypoint="15557" TargetWaypoint="15558"/>
+	<Link SourceWaypoint="15557" TargetWaypoint="32781"/>
+	<Link SourceWaypoint="15558" TargetWaypoint="15557"/>
+	<Link SourceWaypoint="15558" TargetWaypoint="15559"/>
+	<Link SourceWaypoint="15558" TargetWaypoint="32781"/>
+	<Link SourceWaypoint="15559" TargetWaypoint="15558"/>
+	<Link SourceWaypoint="15559" TargetWaypoint="15560"/>
+	<Link SourceWaypoint="15559" TargetWaypoint="32828"/>
+	<Link SourceWaypoint="15560" TargetWaypoint="15559"/>
+	<Link SourceWaypoint="15560" TargetWaypoint="15561"/>
+	<Link SourceWaypoint="15561" TargetWaypoint="15560"/>
+	<Link SourceWaypoint="15561" TargetWaypoint="15562"/>
+	<Link SourceWaypoint="15562" TargetWaypoint="15561"/>
+	<Link SourceWaypoint="15562" TargetWaypoint="15563"/>
+	<Link SourceWaypoint="15563" TargetWaypoint="15562"/>
+	<Link SourceWaypoint="15563" TargetWaypoint="15564"/>
+	<Link SourceWaypoint="15564" TargetWaypoint="15563"/>
+	<Link SourceWaypoint="15564" TargetWaypoint="15565"/>
+	<Link SourceWaypoint="15565" TargetWaypoint="15564"/>
+	<Link SourceWaypoint="15565" TargetWaypoint="15566"/>
+	<Link SourceWaypoint="15566" TargetWaypoint="15565"/>
+	<Link SourceWaypoint="15566" TargetWaypoint="15567"/>
+	<Link SourceWaypoint="15567" TargetWaypoint="15566"/>
+	<Link SourceWaypoint="15567" TargetWaypoint="15568"/>
+	<Link SourceWaypoint="15568" TargetWaypoint="15567"/>
+	<Link SourceWaypoint="15568" TargetWaypoint="15569"/>
+	<Link SourceWaypoint="15569" TargetWaypoint="15568"/>
+	<Link SourceWaypoint="15569" TargetWaypoint="15570"/>
+	<Link SourceWaypoint="15570" TargetWaypoint="15569"/>
+	<Link SourceWaypoint="15570" TargetWaypoint="15571"/>
+	<Link SourceWaypoint="15571" TargetWaypoint="15570"/>
+	<Link SourceWaypoint="15571" TargetWaypoint="15572"/>
+	<Link SourceWaypoint="15572" TargetWaypoint="15571"/>
+	<Link SourceWaypoint="15572" TargetWaypoint="15573"/>
+	<Link SourceWaypoint="15572" TargetWaypoint="15614"/>
+	<Link SourceWaypoint="15573" TargetWaypoint="15572"/>
+	<Link SourceWaypoint="15573" TargetWaypoint="15574"/>
+	<Link SourceWaypoint="15574" TargetWaypoint="15573"/>
+	<Link SourceWaypoint="15574" TargetWaypoint="15575"/>
+	<Link SourceWaypoint="15575" TargetWaypoint="15574"/>
+	<Link SourceWaypoint="15575" TargetWaypoint="15576"/>
+	<Link SourceWaypoint="15575" TargetWaypoint="32766"/>
+	<Link SourceWaypoint="15576" TargetWaypoint="15575"/>
+	<Link SourceWaypoint="15576" TargetWaypoint="15577"/>
+	<Link SourceWaypoint="15577" TargetWaypoint="15576"/>
+	<Link SourceWaypoint="15577" TargetWaypoint="15578"/>
+	<Link SourceWaypoint="15578" TargetWaypoint="15577"/>
+	<Link SourceWaypoint="15578" TargetWaypoint="15579"/>
+	<Link SourceWaypoint="15579" TargetWaypoint="15578"/>
+	<Link SourceWaypoint="15579" TargetWaypoint="15580"/>
+	<Link SourceWaypoint="15580" TargetWaypoint="15579"/>
+	<Link SourceWaypoint="15580" TargetWaypoint="15581"/>
+	<Link SourceWaypoint="15581" TargetWaypoint="15580"/>
+	<Link SourceWaypoint="15581" TargetWaypoint="15582"/>
+	<Link SourceWaypoint="15582" TargetWaypoint="15581"/>
+	<Link SourceWaypoint="15582" TargetWaypoint="15583"/>
+	<Link SourceWaypoint="15582" TargetWaypoint="32769"/>
+	<Link SourceWaypoint="15583" TargetWaypoint="15582"/>
+	<Link SourceWaypoint="15583" TargetWaypoint="15584"/>
+	<Link SourceWaypoint="15584" TargetWaypoint="15583"/>
+	<Link SourceWaypoint="15584" TargetWaypoint="15585"/>
+	<Link SourceWaypoint="15585" TargetWaypoint="15584"/>
+	<Link SourceWaypoint="15585" TargetWaypoint="15586"/>
+	<Link SourceWaypoint="15585" TargetWaypoint="32765"/>
+	<Link SourceWaypoint="15586" TargetWaypoint="15585"/>
+	<Link SourceWaypoint="15586" TargetWaypoint="15587"/>
+	<Link SourceWaypoint="15587" TargetWaypoint="15586"/>
+	<Link SourceWaypoint="15587" TargetWaypoint="15588"/>
+	<Link SourceWaypoint="15588" TargetWaypoint="15587"/>
+	<Link SourceWaypoint="15588" TargetWaypoint="15589"/>
+	<Link SourceWaypoint="15589" TargetWaypoint="15588"/>
+	<Link SourceWaypoint="15589" TargetWaypoint="15590"/>
+	<Link SourceWaypoint="15590" TargetWaypoint="15589"/>
+	<Link SourceWaypoint="15590" TargetWaypoint="15591"/>
+	<Link SourceWaypoint="15591" TargetWaypoint="15590"/>
+	<Link SourceWaypoint="15591" TargetWaypoint="32739"/>
+	<Link SourceWaypoint="15592" TargetWaypoint="15593"/>
+	<Link SourceWaypoint="15592" TargetWaypoint="32762"/>
+	<Link SourceWaypoint="15593" TargetWaypoint="15592"/>
+	<Link SourceWaypoint="15593" TargetWaypoint="15594"/>
+	<Link SourceWaypoint="15594" TargetWaypoint="15593"/>
+	<Link SourceWaypoint="15594" TargetWaypoint="15595"/>
+	<Link SourceWaypoint="15595" TargetWaypoint="15594"/>
+	<Link SourceWaypoint="15595" TargetWaypoint="15596"/>
+	<Link SourceWaypoint="15596" TargetWaypoint="15595"/>
+	<Link SourceWaypoint="15596" TargetWaypoint="15597"/>
+	<Link SourceWaypoint="15597" TargetWaypoint="15596"/>
+	<Link SourceWaypoint="15597" TargetWaypoint="15598"/>
+	<Link SourceWaypoint="15598" TargetWaypoint="15597"/>
+	<Link SourceWaypoint="15598" TargetWaypoint="15599"/>
+	<Link SourceWaypoint="15599" TargetWaypoint="15598"/>
+	<Link SourceWaypoint="15599" TargetWaypoint="15600"/>
+	<Link SourceWaypoint="15600" TargetWaypoint="15599"/>
+	<Link SourceWaypoint="15600" TargetWaypoint="15601"/>
+	<Link SourceWaypoint="15601" TargetWaypoint="15600"/>
+	<Link SourceWaypoint="15601" TargetWaypoint="15602"/>
+	<Link SourceWaypoint="15602" TargetWaypoint="15601"/>
+	<Link SourceWaypoint="15602" TargetWaypoint="15603"/>
+	<Link SourceWaypoint="15603" TargetWaypoint="15602"/>
+	<Link SourceWaypoint="15603" TargetWaypoint="15604"/>
+	<Link SourceWaypoint="15604" TargetWaypoint="15603"/>
+	<Link SourceWaypoint="15604" TargetWaypoint="15605"/>
+	<Link SourceWaypoint="15605" TargetWaypoint="15604"/>
+	<Link SourceWaypoint="15605" TargetWaypoint="15606"/>
+	<Link SourceWaypoint="15606" TargetWaypoint="15605"/>
+	<Link SourceWaypoint="15606" TargetWaypoint="15607"/>
+	<Link SourceWaypoint="15607" TargetWaypoint="15606"/>
+	<Link SourceWaypoint="15607" TargetWaypoint="15608"/>
+	<Link SourceWaypoint="15608" TargetWaypoint="15607"/>
+	<Link SourceWaypoint="15608" TargetWaypoint="15609"/>
+	<Link SourceWaypoint="15609" TargetWaypoint="15608"/>
+	<Link SourceWaypoint="15609" TargetWaypoint="15610"/>
+	<Link SourceWaypoint="15610" TargetWaypoint="15609"/>
+	<Link SourceWaypoint="15610" TargetWaypoint="15611"/>
+	<Link SourceWaypoint="15611" TargetWaypoint="15610"/>
+	<Link SourceWaypoint="15611" TargetWaypoint="15612"/>
+	<Link SourceWaypoint="15612" TargetWaypoint="15611"/>
+	<Link SourceWaypoint="15612" TargetWaypoint="15613"/>
+	<Link SourceWaypoint="15613" TargetWaypoint="15612"/>
+	<Link SourceWaypoint="15613" TargetWaypoint="32763"/>
+	<Link SourceWaypoint="15614" TargetWaypoint="15615"/>
+	<Link SourceWaypoint="15614" TargetWaypoint="15572"/>
+	<Link SourceWaypoint="15615" TargetWaypoint="15614"/>
+	<Link SourceWaypoint="15615" TargetWaypoint="15616"/>
+	<Link SourceWaypoint="15616" TargetWaypoint="15615"/>
+	<Link SourceWaypoint="15616" TargetWaypoint="15617"/>
+	<Link SourceWaypoint="15616" TargetWaypoint="32768"/>
+	<Link SourceWaypoint="15617" TargetWaypoint="15616"/>
+	<Link SourceWaypoint="15617" TargetWaypoint="15618"/>
+	<Link SourceWaypoint="15618" TargetWaypoint="15617"/>
+	<Link SourceWaypoint="15618" TargetWaypoint="15619"/>
+	<Link SourceWaypoint="15619" TargetWaypoint="15618"/>
+	<Link SourceWaypoint="15619" TargetWaypoint="15620"/>
+	<Link SourceWaypoint="15620" TargetWaypoint="15619"/>
+	<Link SourceWaypoint="15620" TargetWaypoint="15621"/>
+	<Link SourceWaypoint="15621" TargetWaypoint="15620"/>
+	<Link SourceWaypoint="15621" TargetWaypoint="15622"/>
+	<Link SourceWaypoint="15622" TargetWaypoint="15621"/>
+	<Link SourceWaypoint="15622" TargetWaypoint="15623"/>
+	<Link SourceWaypoint="15623" TargetWaypoint="15622"/>
+	<Link SourceWaypoint="15623" TargetWaypoint="15624"/>
+	<Link SourceWaypoint="15624" TargetWaypoint="15623"/>
+	<Link SourceWaypoint="15624" TargetWaypoint="15625"/>
+	<Link SourceWaypoint="15625" TargetWaypoint="15624"/>
+	<Link SourceWaypoint="15625" TargetWaypoint="15626"/>
+	<Link SourceWaypoint="15626" TargetWaypoint="15625"/>
+	<Link SourceWaypoint="15626" TargetWaypoint="15627"/>
+	<Link SourceWaypoint="15627" TargetWaypoint="15626"/>
+	<Link SourceWaypoint="15627" TargetWaypoint="15628"/>
+	<Link SourceWaypoint="15628" TargetWaypoint="15627"/>
+	<Link SourceWaypoint="15628" TargetWaypoint="15629"/>
+	<Link SourceWaypoint="15629" TargetWaypoint="15628"/>
+	<Link SourceWaypoint="15629" TargetWaypoint="15630"/>
+	<Link SourceWaypoint="15630" TargetWaypoint="15629"/>
+	<Link SourceWaypoint="15630" TargetWaypoint="15631"/>
+	<Link SourceWaypoint="15631" TargetWaypoint="15630"/>
+	<Link SourceWaypoint="15631" TargetWaypoint="15632"/>
+	<Link SourceWaypoint="15632" TargetWaypoint="15631"/>
+	<Link SourceWaypoint="15632" TargetWaypoint="15633"/>
+	<Link SourceWaypoint="15633" TargetWaypoint="15632"/>
+	<Link SourceWaypoint="15633" TargetWaypoint="15634"/>
+	<Link SourceWaypoint="15633" TargetWaypoint="32898"/>
+	<Link SourceWaypoint="15634" TargetWaypoint="15633"/>
+	<Link SourceWaypoint="15634" TargetWaypoint="15635"/>
+	<Link SourceWaypoint="15634" TargetWaypoint="32895"/>
+	<Link SourceWaypoint="15635" TargetWaypoint="15634"/>
+	<Link SourceWaypoint="15635" TargetWaypoint="15636"/>
+	<Link SourceWaypoint="15636" TargetWaypoint="15635"/>
+	<Link SourceWaypoint="15636" TargetWaypoint="15637"/>
+	<Link SourceWaypoint="15636" TargetWaypoint="32832"/>
+	<Link SourceWaypoint="15637" TargetWaypoint="15636"/>
+	<Link SourceWaypoint="15637" TargetWaypoint="15638"/>
+	<Link SourceWaypoint="15638" TargetWaypoint="15637"/>
+	<Link SourceWaypoint="15638" TargetWaypoint="15639"/>
+	<Link SourceWaypoint="15638" TargetWaypoint="32789"/>
+	<Link SourceWaypoint="15638" TargetWaypoint="32786"/>
+	<Link SourceWaypoint="15639" TargetWaypoint="15638"/>
+	<Link SourceWaypoint="15639" TargetWaypoint="15640"/>
+	<Link SourceWaypoint="15640" TargetWaypoint="15639"/>
+	<Link SourceWaypoint="15640" TargetWaypoint="15641"/>
+	<Link SourceWaypoint="15641" TargetWaypoint="15640"/>
+	<Link SourceWaypoint="15641" TargetWaypoint="15556"/>
+	<Link SourceWaypoint="32739" TargetWaypoint="15591"/>
+	<Link SourceWaypoint="32739" TargetWaypoint="32740"/>
+	<Link SourceWaypoint="32740" TargetWaypoint="32739"/>
+	<Link SourceWaypoint="32740" TargetWaypoint="32741"/>
+	<Link SourceWaypoint="32741" TargetWaypoint="32740"/>
+	<Link SourceWaypoint="32741" TargetWaypoint="32742"/>
+	<Link SourceWaypoint="32742" TargetWaypoint="32741"/>
+	<Link SourceWaypoint="32742" TargetWaypoint="32743"/>
+	<Link SourceWaypoint="32743" TargetWaypoint="32742"/>
+	<Link SourceWaypoint="32743" TargetWaypoint="32744"/>
+	<Link SourceWaypoint="32744" TargetWaypoint="32743"/>
+	<Link SourceWaypoint="32744" TargetWaypoint="32745"/>
+	<Link SourceWaypoint="32745" TargetWaypoint="32744"/>
+	<Link SourceWaypoint="32745" TargetWaypoint="32746"/>
+	<Link SourceWaypoint="32746" TargetWaypoint="32745"/>
+	<Link SourceWaypoint="32746" TargetWaypoint="32747"/>
+	<Link SourceWaypoint="32747" TargetWaypoint="32746"/>
+	<Link SourceWaypoint="32747" TargetWaypoint="32748"/>
+	<Link SourceWaypoint="32748" TargetWaypoint="32747"/>
+	<Link SourceWaypoint="32748" TargetWaypoint="32749"/>
+	<Link SourceWaypoint="32749" TargetWaypoint="32748"/>
+	<Link SourceWaypoint="32749" TargetWaypoint="32750"/>
+	<Link SourceWaypoint="32750" TargetWaypoint="32749"/>
+	<Link SourceWaypoint="32750" TargetWaypoint="32751"/>
+	<Link SourceWaypoint="32751" TargetWaypoint="32750"/>
+	<Link SourceWaypoint="32751" TargetWaypoint="32752"/>
+	<Link SourceWaypoint="32752" TargetWaypoint="32751"/>
+	<Link SourceWaypoint="32752" TargetWaypoint="32753"/>
+	<Link SourceWaypoint="32753" TargetWaypoint="32752"/>
+	<Link SourceWaypoint="32753" TargetWaypoint="32754"/>
+	<Link SourceWaypoint="32754" TargetWaypoint="32753"/>
+	<Link SourceWaypoint="32754" TargetWaypoint="32755"/>
+	<Link SourceWaypoint="32755" TargetWaypoint="32754"/>
+	<Link SourceWaypoint="32755" TargetWaypoint="32756"/>
+	<Link SourceWaypoint="32756" TargetWaypoint="32755"/>
+	<Link SourceWaypoint="32756" TargetWaypoint="32757"/>
+	<Link SourceWaypoint="32757" TargetWaypoint="32756"/>
+	<Link SourceWaypoint="32757" TargetWaypoint="32758"/>
+	<Link SourceWaypoint="32758" TargetWaypoint="32757"/>
+	<Link SourceWaypoint="32758" TargetWaypoint="32759"/>
+	<Link SourceWaypoint="32759" TargetWaypoint="32758"/>
+	<Link SourceWaypoint="32759" TargetWaypoint="32760"/>
+	<Link SourceWaypoint="32760" TargetWaypoint="32759"/>
+	<Link SourceWaypoint="32760" TargetWaypoint="32761"/>
+	<Link SourceWaypoint="32761" TargetWaypoint="32760"/>
+	<Link SourceWaypoint="32761" TargetWaypoint="32762"/>
+	<Link SourceWaypoint="32762" TargetWaypoint="32761"/>
+	<Link SourceWaypoint="32762" TargetWaypoint="15592"/>
+	<Link SourceWaypoint="32763" TargetWaypoint="15613"/>
+	<Link SourceWaypoint="32763" TargetWaypoint="32764"/>
+	<Link SourceWaypoint="32763" TargetWaypoint="32772"/>
+	<Link SourceWaypoint="32764" TargetWaypoint="32763"/>
+	<Link SourceWaypoint="32764" TargetWaypoint="32765"/>
+	<Link SourceWaypoint="32765" TargetWaypoint="32764"/>
+	<Link SourceWaypoint="32765" TargetWaypoint="15585"/>
+	<Link SourceWaypoint="32766" TargetWaypoint="15575"/>
+	<Link SourceWaypoint="32766" TargetWaypoint="32767"/>
+	<Link SourceWaypoint="32767" TargetWaypoint="32766"/>
+	<Link SourceWaypoint="32767" TargetWaypoint="32768"/>
+	<Link SourceWaypoint="32768" TargetWaypoint="32767"/>
+	<Link SourceWaypoint="32768" TargetWaypoint="15616"/>
+	<Link SourceWaypoint="32769" TargetWaypoint="15582"/>
+	<Link SourceWaypoint="32769" TargetWaypoint="32770"/>
+	<Link SourceWaypoint="32770" TargetWaypoint="32769"/>
+	<Link SourceWaypoint="32770" TargetWaypoint="32771"/>
+	<Link SourceWaypoint="32771" TargetWaypoint="32770"/>
+	<Link SourceWaypoint="32771" TargetWaypoint="32772"/>
+	<Link SourceWaypoint="32772" TargetWaypoint="32771"/>
+	<Link SourceWaypoint="32772" TargetWaypoint="32763"/>
+	<Link SourceWaypoint="32773" TargetWaypoint="32774"/>
+	<Link SourceWaypoint="32773" TargetWaypoint="32827"/>
+	<Link SourceWaypoint="32774" TargetWaypoint="32773"/>
+	<Link SourceWaypoint="32774" TargetWaypoint="32775"/>
+	<Link SourceWaypoint="32775" TargetWaypoint="32774"/>
+	<Link SourceWaypoint="32775" TargetWaypoint="32776"/>
+	<Link SourceWaypoint="32776" TargetWaypoint="32775"/>
+	<Link SourceWaypoint="32776" TargetWaypoint="32777"/>
+	<Link SourceWaypoint="32777" TargetWaypoint="32776"/>
+	<Link SourceWaypoint="32777" TargetWaypoint="32778"/>
+	<Link SourceWaypoint="32778" TargetWaypoint="32777"/>
+	<Link SourceWaypoint="32778" TargetWaypoint="32779"/>
+	<Link SourceWaypoint="32779" TargetWaypoint="32778"/>
+	<Link SourceWaypoint="32779" TargetWaypoint="32780"/>
+	<Link SourceWaypoint="32779" TargetWaypoint="32831"/>
+	<Link SourceWaypoint="32780" TargetWaypoint="32779"/>
+	<Link SourceWaypoint="32780" TargetWaypoint="32781"/>
+	<Link SourceWaypoint="32781" TargetWaypoint="32780"/>
+	<Link SourceWaypoint="32781" TargetWaypoint="32782"/>
+	<Link SourceWaypoint="32781" TargetWaypoint="15558"/>
+	<Link SourceWaypoint="32781" TargetWaypoint="15557"/>
+	<Link SourceWaypoint="32782" TargetWaypoint="32781"/>
+	<Link SourceWaypoint="32782" TargetWaypoint="32783"/>
+	<Link SourceWaypoint="32783" TargetWaypoint="32782"/>
+	<Link SourceWaypoint="32783" TargetWaypoint="32784"/>
+	<Link SourceWaypoint="32784" TargetWaypoint="32783"/>
+	<Link SourceWaypoint="32784" TargetWaypoint="32785"/>
+	<Link SourceWaypoint="32785" TargetWaypoint="32784"/>
+	<Link SourceWaypoint="32785" TargetWaypoint="32786"/>
+	<Link SourceWaypoint="32786" TargetWaypoint="32785"/>
+	<Link SourceWaypoint="32786" TargetWaypoint="32787"/>
+	<Link SourceWaypoint="32786" TargetWaypoint="15638"/>
+	<Link SourceWaypoint="32787" TargetWaypoint="32786"/>
+	<Link SourceWaypoint="32787" TargetWaypoint="32788"/>
+	<Link SourceWaypoint="32788" TargetWaypoint="32787"/>
+	<Link SourceWaypoint="32788" TargetWaypoint="32789"/>
+	<Link SourceWaypoint="32789" TargetWaypoint="32788"/>
+	<Link SourceWaypoint="32789" TargetWaypoint="32790"/>
+	<Link SourceWaypoint="32789" TargetWaypoint="15638"/>
+	<Link SourceWaypoint="32790" TargetWaypoint="32789"/>
+	<Link SourceWaypoint="32790" TargetWaypoint="32791"/>
+	<Link SourceWaypoint="32790" TargetWaypoint="32835"/>
+	<Link SourceWaypoint="32791" TargetWaypoint="32790"/>
+	<Link SourceWaypoint="32791" TargetWaypoint="32792"/>
+	<Link SourceWaypoint="32792" TargetWaypoint="32791"/>
+	<Link SourceWaypoint="32792" TargetWaypoint="32793"/>
+	<Link SourceWaypoint="32793" TargetWaypoint="32792"/>
+	<Link SourceWaypoint="32793" TargetWaypoint="32794"/>
+	<Link SourceWaypoint="32794" TargetWaypoint="32793"/>
+	<Link SourceWaypoint="32794" TargetWaypoint="32795"/>
+	<Link SourceWaypoint="32795" TargetWaypoint="32794"/>
+	<Link SourceWaypoint="32795" TargetWaypoint="32796"/>
+	<Link SourceWaypoint="32796" TargetWaypoint="32795"/>
+	<Link SourceWaypoint="32796" TargetWaypoint="32797"/>
+	<Link SourceWaypoint="32797" TargetWaypoint="32796"/>
+	<Link SourceWaypoint="32797" TargetWaypoint="32798"/>
+	<Link SourceWaypoint="32798" TargetWaypoint="32797"/>
+	<Link SourceWaypoint="32798" TargetWaypoint="32799"/>
+	<Link SourceWaypoint="32798" TargetWaypoint="32889"/>
+	<Link SourceWaypoint="32799" TargetWaypoint="32798"/>
+	<Link SourceWaypoint="32799" TargetWaypoint="32800"/>
+	<Link SourceWaypoint="32799" TargetWaypoint="32886"/>
+	<Link SourceWaypoint="32800" TargetWaypoint="32799"/>
+	<Link SourceWaypoint="32800" TargetWaypoint="32801"/>
+	<Link SourceWaypoint="32801" TargetWaypoint="32800"/>
+	<Link SourceWaypoint="32801" TargetWaypoint="32802"/>
+	<Link SourceWaypoint="32802" TargetWaypoint="32801"/>
+	<Link SourceWaypoint="32802" TargetWaypoint="32803"/>
+	<Link SourceWaypoint="32803" TargetWaypoint="32802"/>
+	<Link SourceWaypoint="32803" TargetWaypoint="32804"/>
+	<Link SourceWaypoint="32804" TargetWaypoint="32803"/>
+	<Link SourceWaypoint="32804" TargetWaypoint="32805"/>
+	<Link SourceWaypoint="32805" TargetWaypoint="32804"/>
+	<Link SourceWaypoint="32805" TargetWaypoint="32806"/>
+	<Link SourceWaypoint="32806" TargetWaypoint="32805"/>
+	<Link SourceWaypoint="32806" TargetWaypoint="32807"/>
+	<Link SourceWaypoint="32807" TargetWaypoint="32806"/>
+	<Link SourceWaypoint="32807" TargetWaypoint="32808"/>
+	<Link SourceWaypoint="32808" TargetWaypoint="32807"/>
+	<Link SourceWaypoint="32808" TargetWaypoint="32809"/>
+	<Link SourceWaypoint="32809" TargetWaypoint="32808"/>
+	<Link SourceWaypoint="32809" TargetWaypoint="32810"/>
+	<Link SourceWaypoint="32810" TargetWaypoint="32809"/>
+	<Link SourceWaypoint="32810" TargetWaypoint="32811"/>
+	<Link SourceWaypoint="32811" TargetWaypoint="32810"/>
+	<Link SourceWaypoint="32811" TargetWaypoint="32812"/>
+	<Link SourceWaypoint="32812" TargetWaypoint="32811"/>
+	<Link SourceWaypoint="32812" TargetWaypoint="32813"/>
+	<Link SourceWaypoint="32813" TargetWaypoint="32812"/>
+	<Link SourceWaypoint="32813" TargetWaypoint="32814"/>
+	<Link SourceWaypoint="32814" TargetWaypoint="32813"/>
+	<Link SourceWaypoint="32814" TargetWaypoint="32815"/>
+	<Link SourceWaypoint="32815" TargetWaypoint="32814"/>
+	<Link SourceWaypoint="32815" TargetWaypoint="32816"/>
+	<Link SourceWaypoint="32816" TargetWaypoint="32815"/>
+	<Link SourceWaypoint="32816" TargetWaypoint="32817"/>
+	<Link SourceWaypoint="32817" TargetWaypoint="32816"/>
+	<Link SourceWaypoint="32817" TargetWaypoint="32818"/>
+	<Link SourceWaypoint="32818" TargetWaypoint="32817"/>
+	<Link SourceWaypoint="32818" TargetWaypoint="32819"/>
+	<Link SourceWaypoint="32819" TargetWaypoint="32818"/>
+	<Link SourceWaypoint="32819" TargetWaypoint="32820"/>
+	<Link SourceWaypoint="32820" TargetWaypoint="32819"/>
+	<Link SourceWaypoint="32820" TargetWaypoint="32821"/>
+	<Link SourceWaypoint="32821" TargetWaypoint="32820"/>
+	<Link SourceWaypoint="32821" TargetWaypoint="32822"/>
+	<Link SourceWaypoint="32822" TargetWaypoint="32821"/>
+	<Link SourceWaypoint="32822" TargetWaypoint="32823"/>
+	<Link SourceWaypoint="32823" TargetWaypoint="32822"/>
+	<Link SourceWaypoint="32823" TargetWaypoint="32824"/>
+	<Link SourceWaypoint="32824" TargetWaypoint="32823"/>
+	<Link SourceWaypoint="32824" TargetWaypoint="32825"/>
+	<Link SourceWaypoint="32825" TargetWaypoint="32824"/>
+	<Link SourceWaypoint="32825" TargetWaypoint="32826"/>
+	<Link SourceWaypoint="32826" TargetWaypoint="32825"/>
+	<Link SourceWaypoint="32826" TargetWaypoint="32827"/>
+	<Link SourceWaypoint="32827" TargetWaypoint="32826"/>
+	<Link SourceWaypoint="32827" TargetWaypoint="32773"/>
+	<Link SourceWaypoint="32828" TargetWaypoint="15559"/>
+	<Link SourceWaypoint="32828" TargetWaypoint="32829"/>
+	<Link SourceWaypoint="32829" TargetWaypoint="32828"/>
+	<Link SourceWaypoint="32829" TargetWaypoint="32830"/>
+	<Link SourceWaypoint="32830" TargetWaypoint="32829"/>
+	<Link SourceWaypoint="32830" TargetWaypoint="32831"/>
+	<Link SourceWaypoint="32831" TargetWaypoint="32830"/>
+	<Link SourceWaypoint="32831" TargetWaypoint="32779"/>
+	<Link SourceWaypoint="32832" TargetWaypoint="15636"/>
+	<Link SourceWaypoint="32832" TargetWaypoint="32833"/>
+	<Link SourceWaypoint="32833" TargetWaypoint="32832"/>
+	<Link SourceWaypoint="32833" TargetWaypoint="32834"/>
+	<Link SourceWaypoint="32834" TargetWaypoint="32833"/>
+	<Link SourceWaypoint="32834" TargetWaypoint="32835"/>
+	<Link SourceWaypoint="32835" TargetWaypoint="32834"/>
+	<Link SourceWaypoint="32835" TargetWaypoint="32790"/>
+	<Link SourceWaypoint="32836" TargetWaypoint="32837"/>
+	<Link SourceWaypoint="32836" TargetWaypoint="32876"/>
+	<Link SourceWaypoint="32836" TargetWaypoint="32879"/>
+	<Link SourceWaypoint="32837" TargetWaypoint="32836"/>
+	<Link SourceWaypoint="32837" TargetWaypoint="32838"/>
+	<Link SourceWaypoint="32838" TargetWaypoint="32837"/>
+	<Link SourceWaypoint="32838" TargetWaypoint="32839"/>
+	<Link SourceWaypoint="32839" TargetWaypoint="32838"/>
+	<Link SourceWaypoint="32839" TargetWaypoint="32840"/>
+	<Link SourceWaypoint="32840" TargetWaypoint="32839"/>
+	<Link SourceWaypoint="32840" TargetWaypoint="32841"/>
+	<Link SourceWaypoint="32840" TargetWaypoint="32903"/>
+	<Link SourceWaypoint="32841" TargetWaypoint="32840"/>
+	<Link SourceWaypoint="32841" TargetWaypoint="32842"/>
+	<Link SourceWaypoint="32841" TargetWaypoint="32900"/>
+	<Link SourceWaypoint="32842" TargetWaypoint="32841"/>
+	<Link SourceWaypoint="32842" TargetWaypoint="32843"/>
+	<Link SourceWaypoint="32843" TargetWaypoint="32842"/>
+	<Link SourceWaypoint="32843" TargetWaypoint="32844"/>
+	<Link SourceWaypoint="32844" TargetWaypoint="32843"/>
+	<Link SourceWaypoint="32844" TargetWaypoint="32845"/>
+	<Link SourceWaypoint="32845" TargetWaypoint="32844"/>
+	<Link SourceWaypoint="32845" TargetWaypoint="32846"/>
+	<Link SourceWaypoint="32846" TargetWaypoint="32845"/>
+	<Link SourceWaypoint="32846" TargetWaypoint="32847"/>
+	<Link SourceWaypoint="32847" TargetWaypoint="32846"/>
+	<Link SourceWaypoint="32847" TargetWaypoint="32848"/>
+	<Link SourceWaypoint="32848" TargetWaypoint="32847"/>
+	<Link SourceWaypoint="32848" TargetWaypoint="32849"/>
+	<Link SourceWaypoint="32849" TargetWaypoint="32848"/>
+	<Link SourceWaypoint="32849" TargetWaypoint="32850"/>
+	<Link SourceWaypoint="32850" TargetWaypoint="32849"/>
+	<Link SourceWaypoint="32850" TargetWaypoint="32851"/>
+	<Link SourceWaypoint="32851" TargetWaypoint="32850"/>
+	<Link SourceWaypoint="32851" TargetWaypoint="32852"/>
+	<Link SourceWaypoint="32852" TargetWaypoint="32851"/>
+	<Link SourceWaypoint="32852" TargetWaypoint="32853"/>
+	<Link SourceWaypoint="32853" TargetWaypoint="32852"/>
+	<Link SourceWaypoint="32853" TargetWaypoint="32854"/>
+	<Link SourceWaypoint="32854" TargetWaypoint="32853"/>
+	<Link SourceWaypoint="32854" TargetWaypoint="32855"/>
+	<Link SourceWaypoint="32855" TargetWaypoint="32854"/>
+	<Link SourceWaypoint="32855" TargetWaypoint="32856"/>
+	<Link SourceWaypoint="32856" TargetWaypoint="32855"/>
+	<Link SourceWaypoint="32856" TargetWaypoint="32857"/>
+	<Link SourceWaypoint="32857" TargetWaypoint="32856"/>
+	<Link SourceWaypoint="32857" TargetWaypoint="32858"/>
+	<Link SourceWaypoint="32858" TargetWaypoint="32857"/>
+	<Link SourceWaypoint="32858" TargetWaypoint="32859"/>
+	<Link SourceWaypoint="32859" TargetWaypoint="32858"/>
+	<Link SourceWaypoint="32859" TargetWaypoint="32860"/>
+	<Link SourceWaypoint="32860" TargetWaypoint="32859"/>
+	<Link SourceWaypoint="32860" TargetWaypoint="32861"/>
+	<Link SourceWaypoint="32861" TargetWaypoint="32860"/>
+	<Link SourceWaypoint="32861" TargetWaypoint="32862"/>
+	<Link SourceWaypoint="32862" TargetWaypoint="32861"/>
+	<Link SourceWaypoint="32862" TargetWaypoint="32863"/>
+	<Link SourceWaypoint="32863" TargetWaypoint="32862"/>
+	<Link SourceWaypoint="32863" TargetWaypoint="32864"/>
+	<Link SourceWaypoint="32864" TargetWaypoint="32863"/>
+	<Link SourceWaypoint="32864" TargetWaypoint="32865"/>
+	<Link SourceWaypoint="32865" TargetWaypoint="32864"/>
+	<Link SourceWaypoint="32865" TargetWaypoint="32866"/>
+	<Link SourceWaypoint="32866" TargetWaypoint="32865"/>
+	<Link SourceWaypoint="32866" TargetWaypoint="32867"/>
+	<Link SourceWaypoint="32867" TargetWaypoint="32866"/>
+	<Link SourceWaypoint="32867" TargetWaypoint="32868"/>
+	<Link SourceWaypoint="32868" TargetWaypoint="32867"/>
+	<Link SourceWaypoint="32868" TargetWaypoint="32869"/>
+	<Link SourceWaypoint="32869" TargetWaypoint="32868"/>
+	<Link SourceWaypoint="32869" TargetWaypoint="32870"/>
+	<Link SourceWaypoint="32870" TargetWaypoint="32869"/>
+	<Link SourceWaypoint="32870" TargetWaypoint="32871"/>
+	<Link SourceWaypoint="32871" TargetWaypoint="32870"/>
+	<Link SourceWaypoint="32871" TargetWaypoint="32872"/>
+	<Link SourceWaypoint="32872" TargetWaypoint="32871"/>
+	<Link SourceWaypoint="32872" TargetWaypoint="32873"/>
+	<Link SourceWaypoint="32873" TargetWaypoint="32872"/>
+	<Link SourceWaypoint="32873" TargetWaypoint="32874"/>
+	<Link SourceWaypoint="32874" TargetWaypoint="32873"/>
+	<Link SourceWaypoint="32874" TargetWaypoint="32875"/>
+	<Link SourceWaypoint="32875" TargetWaypoint="32874"/>
+	<Link SourceWaypoint="32875" TargetWaypoint="32876"/>
+	<Link SourceWaypoint="32875" TargetWaypoint="32877"/>
+	<Link SourceWaypoint="32876" TargetWaypoint="32875"/>
+	<Link SourceWaypoint="32876" TargetWaypoint="32836"/>
+	<Link SourceWaypoint="32877" TargetWaypoint="32875"/>
+	<Link SourceWaypoint="32877" TargetWaypoint="32878"/>
+	<Link SourceWaypoint="32878" TargetWaypoint="32877"/>
+	<Link SourceWaypoint="32878" TargetWaypoint="32884"/>
+	<Link SourceWaypoint="32879" TargetWaypoint="32836"/>
+	<Link SourceWaypoint="32879" TargetWaypoint="32880"/>
+	<Link SourceWaypoint="32880" TargetWaypoint="32879"/>
+	<Link SourceWaypoint="32880" TargetWaypoint="32881"/>
+	<Link SourceWaypoint="32881" TargetWaypoint="32880"/>
+	<Link SourceWaypoint="32881" TargetWaypoint="32882"/>
+	<Link SourceWaypoint="32882" TargetWaypoint="32881"/>
+	<Link SourceWaypoint="32882" TargetWaypoint="32883"/>
+	<Link SourceWaypoint="32883" TargetWaypoint="32882"/>
+	<Link SourceWaypoint="32883" TargetWaypoint="32885"/>
+	<Link SourceWaypoint="32883" TargetWaypoint="32894"/>
+	<Link SourceWaypoint="32884" TargetWaypoint="32878"/>
+	<Link SourceWaypoint="32884" TargetWaypoint="32885"/>
+	<Link SourceWaypoint="32885" TargetWaypoint="32884"/>
+	<Link SourceWaypoint="32885" TargetWaypoint="32883"/>
+	<Link SourceWaypoint="32886" TargetWaypoint="32799"/>
+	<Link SourceWaypoint="32886" TargetWaypoint="32887"/>
+	<Link SourceWaypoint="32887" TargetWaypoint="32886"/>
+	<Link SourceWaypoint="32887" TargetWaypoint="32888"/>
+	<Link SourceWaypoint="32888" TargetWaypoint="32887"/>
+	<Link SourceWaypoint="32888" TargetWaypoint="32892"/>
+	<Link SourceWaypoint="32889" TargetWaypoint="32798"/>
+	<Link SourceWaypoint="32889" TargetWaypoint="32890"/>
+	<Link SourceWaypoint="32890" TargetWaypoint="32889"/>
+	<Link SourceWaypoint="32890" TargetWaypoint="32891"/>
+	<Link SourceWaypoint="32891" TargetWaypoint="32890"/>
+	<Link SourceWaypoint="32891" TargetWaypoint="32892"/>
+	<Link SourceWaypoint="32892" TargetWaypoint="32891"/>
+	<Link SourceWaypoint="32892" TargetWaypoint="32888"/>
+	<Link SourceWaypoint="32892" TargetWaypoint="32893"/>
+	<Link SourceWaypoint="32893" TargetWaypoint="32892"/>
+	<Link SourceWaypoint="32893" TargetWaypoint="32894"/>
+	<Link SourceWaypoint="32894" TargetWaypoint="32893"/>
+	<Link SourceWaypoint="32894" TargetWaypoint="32883"/>
+	<Link SourceWaypoint="32895" TargetWaypoint="15634"/>
+	<Link SourceWaypoint="32895" TargetWaypoint="32896"/>
+	<Link SourceWaypoint="32896" TargetWaypoint="32895"/>
+	<Link SourceWaypoint="32896" TargetWaypoint="32897"/>
+	<Link SourceWaypoint="32897" TargetWaypoint="32896"/>
+	<Link SourceWaypoint="32897" TargetWaypoint="32899"/>
+	<Link SourceWaypoint="32897" TargetWaypoint="32908"/>
+	<Link SourceWaypoint="32898" TargetWaypoint="15633"/>
+	<Link SourceWaypoint="32898" TargetWaypoint="32899"/>
+	<Link SourceWaypoint="32899" TargetWaypoint="32898"/>
+	<Link SourceWaypoint="32899" TargetWaypoint="32897"/>
+	<Link SourceWaypoint="32900" TargetWaypoint="32841"/>
+	<Link SourceWaypoint="32900" TargetWaypoint="32901"/>
+	<Link SourceWaypoint="32901" TargetWaypoint="32900"/>
+	<Link SourceWaypoint="32901" TargetWaypoint="32902"/>
+	<Link SourceWaypoint="32902" TargetWaypoint="32901"/>
+	<Link SourceWaypoint="32902" TargetWaypoint="32906"/>
+	<Link SourceWaypoint="32903" TargetWaypoint="32840"/>
+	<Link SourceWaypoint="32903" TargetWaypoint="32904"/>
+	<Link SourceWaypoint="32904" TargetWaypoint="32903"/>
+	<Link SourceWaypoint="32904" TargetWaypoint="32905"/>
+	<Link SourceWaypoint="32905" TargetWaypoint="32904"/>
+	<Link SourceWaypoint="32905" TargetWaypoint="32906"/>
+	<Link SourceWaypoint="32906" TargetWaypoint="32905"/>
+	<Link SourceWaypoint="32906" TargetWaypoint="32902"/>
+	<Link SourceWaypoint="32906" TargetWaypoint="32907"/>
+	<Link SourceWaypoint="32907" TargetWaypoint="32906"/>
+	<Link SourceWaypoint="32907" TargetWaypoint="32908"/>
+	<Link SourceWaypoint="32908" TargetWaypoint="32907"/>
+	<Link SourceWaypoint="32908" TargetWaypoint="32897"/>
+</LinkList>
+<GroupList>
+	<Group Key="150" Name="Cal_Whale_001"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

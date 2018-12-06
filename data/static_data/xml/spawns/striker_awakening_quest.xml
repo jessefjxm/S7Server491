@@ -1,0 +1,28 @@
+﻿<SpawnPlacementList>
+	<!-- Quest: [Striker] Calpheon Deep Forest -->
+    <SpawnPlacement> <!-- Old Aura -->
+        <Position SpawnRange="0" X="-140902.4" Y="-266361.44" Z="3897.2866"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="37136" SpawnQuantity="1"/>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>3</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Quest: [Striker] Hideout -->
+    <SpawnPlacement> <!-- Training Journal -->
+        <Position SpawnRange="0" X="-142178.02" Y="-276096.78" Z="3430.3772"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="37136" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>1</DialogIndex>
+    </SpawnPlacement>
+	
+	<!-- Quest: [Striker] Descent of Fury -->
+    <SpawnPlacement> <!-- Training Journal -->
+        <Position SpawnRange="0" X="-142056.94" Y="-275833.94" Z="3333.9238"/>
+        <Direction>0</Direction>
+        <UseSpawnGroup SpawnCharacterKey="37136" SpawnQuantity="1"/>
+        <ActionIndex>2</ActionIndex>
+        <DialogIndex>2</DialogIndex>
+    </SpawnPlacement>
+</SpawnPlacementList>

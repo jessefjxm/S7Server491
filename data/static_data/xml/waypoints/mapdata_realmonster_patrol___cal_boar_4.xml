@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_boar_4">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11389" Name="Cal_Boar_4_001" PosX="-373414" PosY="1752.65" PosZ="-105633" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11390" Name="Cal_Boar_4_002" PosX="-372776" PosY="1485.36" PosZ="-106896" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11391" Name="Cal_Boar_4_003" PosX="-371341" PosY="1343.6" PosZ="-106658" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11392" Name="Cal_Boar_4_004" PosX="-371196" PosY="1134.89" PosZ="-105322" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11393" Name="Cal_Boar_4_005" PosX="-371373" PosY="1230.87" PosZ="-103641" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11394" Name="Cal_Boar_4_006" PosX="-370123" PosY="977.461" PosZ="-102871" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11395" Name="Cal_Boar_4_007" PosX="-368967" PosY="897.812" PosZ="-103985" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11396" Name="Cal_Boar_4_008" PosX="-368993" PosY="705.686" PosZ="-105464" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11397" Name="Cal_Boar_4_009" PosX="-367148" PosY="723.711" PosZ="-106812" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11398" Name="Cal_Boar_4_010" PosX="-367842" PosY="809.654" PosZ="-107607" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11399" Name="Cal_Boar_4_011" PosX="-369119" PosY="830.594" PosZ="-108207" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11400" Name="Cal_Boar_4_012" PosX="-370598" PosY="1089.71" PosZ="-108607" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11389" TargetWaypoint="11390"/>
+	<Link SourceWaypoint="11390" TargetWaypoint="11389"/>
+	<Link SourceWaypoint="11390" TargetWaypoint="11391"/>
+	<Link SourceWaypoint="11391" TargetWaypoint="11390"/>
+	<Link SourceWaypoint="11391" TargetWaypoint="11392"/>
+	<Link SourceWaypoint="11392" TargetWaypoint="11391"/>
+	<Link SourceWaypoint="11392" TargetWaypoint="11393"/>
+	<Link SourceWaypoint="11393" TargetWaypoint="11392"/>
+	<Link SourceWaypoint="11393" TargetWaypoint="11394"/>
+	<Link SourceWaypoint="11394" TargetWaypoint="11393"/>
+	<Link SourceWaypoint="11394" TargetWaypoint="11395"/>
+	<Link SourceWaypoint="11395" TargetWaypoint="11394"/>
+	<Link SourceWaypoint="11395" TargetWaypoint="11396"/>
+	<Link SourceWaypoint="11396" TargetWaypoint="11395"/>
+	<Link SourceWaypoint="11396" TargetWaypoint="11397"/>
+	<Link SourceWaypoint="11397" TargetWaypoint="11396"/>
+	<Link SourceWaypoint="11397" TargetWaypoint="11398"/>
+	<Link SourceWaypoint="11398" TargetWaypoint="11397"/>
+	<Link SourceWaypoint="11398" TargetWaypoint="11399"/>
+	<Link SourceWaypoint="11399" TargetWaypoint="11398"/>
+	<Link SourceWaypoint="11399" TargetWaypoint="11400"/>
+	<Link SourceWaypoint="11400" TargetWaypoint="11399"/>
+</LinkList>
+<GroupList>
+	<Group Key="49" Name="Cal_Boar_4"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

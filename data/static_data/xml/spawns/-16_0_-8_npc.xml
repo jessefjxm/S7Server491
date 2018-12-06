@@ -1,0 +1,11 @@
+<SpawnPlacementList>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="-189071.0" Y="-98358.3" Z="-2072.41"/>
+        <Walk X="-194925.0" Y="-137475.0" Z="375.0"/>
+        <Direction>2.78301278378938</Direction>
+        <UseSpawnGroup SpawnCharacterKey="57003" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>4</ActionIndex>
+        <DialogIndex>1</DialogIndex>
+    </SpawnPlacement>
+</SpawnPlacementList>

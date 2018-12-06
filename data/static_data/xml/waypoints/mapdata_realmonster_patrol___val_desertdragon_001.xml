@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="val_desertdragon_001">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33513" Name="val_desertdragon_001" PosX="729876" PosY="11643.1" PosZ="4075.83" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33514" Name="val_desertdragon_002" PosX="812072" PosY="9625.14" PosZ="226276" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="33515" Name="val_desertdragon_003" PosX="1.00555e+06" PosY="9927.5" PosZ="36985.3" Property="ground"/>
+</WaypointList>
+<LinkList/>
+<GroupList>
+	<Group Key="160" Name="Val_DesertDragon_001"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

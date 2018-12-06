@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_goblin_17">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11475" Name="Cal_Goblin_17_001" PosX="-372013" PosY="403.631" PosZ="-89210.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11476" Name="Cal_Goblin_17_002" PosX="-371652" PosY="565.771" PosZ="-87485.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11477" Name="Cal_Goblin_17_003" PosX="-373544" PosY="887.791" PosZ="-87211.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11478" Name="Cal_Goblin_17_004" PosX="-375664" PosY="1402.9" PosZ="-88510.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11479" Name="Cal_Goblin_17_005" PosX="-376290" PosY="1576.45" PosZ="-86618.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11480" Name="Cal_Goblin_17_006" PosX="-378138" PosY="2167.88" PosZ="-86138.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11481" Name="Cal_Goblin_17_007" PosX="-379194" PosY="2624.53" PosZ="-84982.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11482" Name="Cal_Goblin_17_008" PosX="-380298" PosY="3090.05" PosZ="-84252.8" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11475" TargetWaypoint="11476"/>
+	<Link SourceWaypoint="11476" TargetWaypoint="11475"/>
+	<Link SourceWaypoint="11476" TargetWaypoint="11477"/>
+	<Link SourceWaypoint="11477" TargetWaypoint="11476"/>
+	<Link SourceWaypoint="11477" TargetWaypoint="11478"/>
+	<Link SourceWaypoint="11478" TargetWaypoint="11477"/>
+	<Link SourceWaypoint="11478" TargetWaypoint="11479"/>
+	<Link SourceWaypoint="11479" TargetWaypoint="11478"/>
+	<Link SourceWaypoint="11479" TargetWaypoint="11480"/>
+	<Link SourceWaypoint="11480" TargetWaypoint="11479"/>
+	<Link SourceWaypoint="11480" TargetWaypoint="11481"/>
+	<Link SourceWaypoint="11481" TargetWaypoint="11480"/>
+	<Link SourceWaypoint="11481" TargetWaypoint="11482"/>
+	<Link SourceWaypoint="11482" TargetWaypoint="11481"/>
+</LinkList>
+<GroupList>
+	<Group Key="60" Name="Cal_Goblin_17"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

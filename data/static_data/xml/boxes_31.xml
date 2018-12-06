@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boxes>
+	<box boxitemKey="15969"> <!-- Azwell Weapon Box -->
+		<item itemKey="10005" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10205" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10405" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10605" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13205" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11205" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13305" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13305" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10005" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13205" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13205" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11355" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14405" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14405" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44927"> <!-- Azwell Weapon Box -->
+		<item itemKey="10005" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10205" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10405" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10605" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13205" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11205" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13305" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13305" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10005" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13205" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13205" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11355" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14405" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14405" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="15991"> <!-- Kzarka"s Sealed Weapon Box -->
+		<item itemKey="10010" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10210" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10410" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10610" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13210" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11210" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13310" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13310" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10010" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13210" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13210" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11360" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14410" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14410" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="15992"> <!-- Liverto Weapon Bundle -->
+		<item itemKey="10009" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10209" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10409" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10609" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13209" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11209" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13309" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13309" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10009" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13209" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13209" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11359" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14409" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14409" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="16601"> <!-- Achievement Reward Underwear Box -->
+		<item itemKey="19062" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="19273" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="19175" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="19363" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="19464" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="20062" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="20364" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="20173" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="23711" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21855" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54914" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="22862" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="22961" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="16602"> <!-- Achievement Reward Glasses Box -->
+		<item itemKey="19624" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="19684" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="19744" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="19804" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="19861" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="20026" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="20421" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="20224" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="23631" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21853" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54823" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="20634" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="20736" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="16603"> <!-- Achievement Reward Accessory (Head, Ear) Box -->
+		<item itemKey="19602" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="19661" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="19721" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="19783" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="19844" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="20002" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="20401" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="20201" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="23601" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21852" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54801" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="20602" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="20701" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="16604"> <!-- Achievement Reward Accessory (Nose, Mouth, Chin) Box -->
+		<item itemKey="19642" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="19702" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="19763" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="19803" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="19882" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="20043" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="20443" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="20241" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="23661" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21854" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54841" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="20663" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="20762" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="16605"> <!-- Achievement Reward Costume Box -->
+		<item itemKey="21021" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="21041" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="21061" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="21082" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="21101" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="21127" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="21165" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="21144" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="21230" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21725" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="21185" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="21205" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="16606"> <!-- Achievement (Training) Reward Costume Box -->
+		<item itemKey="19041" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="19241" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="19142" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="19341" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="19427" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="19525" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="20309" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="20110" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="23509" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21713" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54331" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="22813" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="22913" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="16607"> <!-- Achievement (Fishing) Reward Costume Box -->
+		<item itemKey="21027" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="21048" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="21067" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="21087" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="21105" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="21123" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="21161" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="21141" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="21224" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21170" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54333" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="21182" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="21202" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44901"> <!-- Militia Weapon Box -->
+		<item itemKey="10002" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10202" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10402" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10602" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13202" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11202" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13302" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13302" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10002" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13202" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13202" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11352" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14402" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14402" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44902"> <!-- Elsh Weapon Box -->
+		<item itemKey="10003" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10203" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10403" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10603" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13203" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11203" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13303" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13303" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10003" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13203" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13203" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11353" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14403" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14403" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44903"> <!-- Styd Weapon Box -->
+		<item itemKey="10071" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10271" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10471" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10671" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13271" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11222" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13371" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13371" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10071" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13271" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13271" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11372" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14471" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14471" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44904"> <!-- Ultimate Styd Weapon Box -->
+		<item itemKey="10072" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10272" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10472" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10672" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13272" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11223" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13372" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13372" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10072" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13272" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13272" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11373" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14472" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14472" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44905"> <!-- Basteer Weapon Box -->
+		<item itemKey="10011" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10211" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10411" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10611" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13211" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11211" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13311" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13311" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10011" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13211" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13211" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11361" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14411" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14411" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44906"> <!-- Ultimate Basteer Weapon Box -->
+		<item itemKey="10070" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10270" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10470" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10670" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13270" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11273" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13370" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13370" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10070" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13270" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13270" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11423" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14470" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14470" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44907"> <!-- Militia Second Weapon Box -->
+		<item itemKey="10104" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10302" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10502" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10702" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13002" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11302" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13102" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13102" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10104" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14502" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14502" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10702" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10302" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10302" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44908"> <!-- [Event] Outfit Box [Fundoshi,Shiranui,Epheria Marine] -->
+		<item itemKey="19052" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="22234" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="22133" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="19352" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="22432" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="19539" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="22632" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="22735" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="23532" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21806" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="22837" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="23402" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44909"> <!-- [Event] Glasses Box -->
+		<item itemKey="19621" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="19681" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="19743" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="19801" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="19865" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="20021" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="20422" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="20223" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="23631" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21853" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54823" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="20632" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="20733" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44910"> <!-- Bares Weapon Box -->
+		<item itemKey="10013" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10213" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10413" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10613" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13213" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11213" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13313" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13313" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10013" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13213" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13213" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11363" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14413" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14413" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44911"> <!-- [Event] Lahr Arcien Weapon & Outfit Box -->
+		<item itemKey="21026" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="22225" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="21066" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="21086" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="21119" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="21126" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="21176" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="21146" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="21684" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21685" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="21187" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="21207" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44912"> <!-- [Event] Karlstein Weapon & Outfit Box -->
+		<item itemKey="21033" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="21056" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="21075" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="21093" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="21114" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="21296" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="21171" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="21153" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="21228" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21737" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="21186" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="21206" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44913"> <!-- [Event] +8 Azwell Weapon Box -->
+		<item itemKey="10005" enchantLevel="8" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10205" enchantLevel="8" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10405" enchantLevel="8" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10605" enchantLevel="8" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13205" enchantLevel="8" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11205" enchantLevel="8" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13305" enchantLevel="8" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13305" enchantLevel="8" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10005" enchantLevel="8" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13205" enchantLevel="8" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13205" enchantLevel="8" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11355" enchantLevel="8" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14405" enchantLevel="8" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14405" enchantLevel="8" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44914"> <!-- +7 Explorer"s Weapon Box -->
+		<item itemKey="10073" enchantLevel="7" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10273" enchantLevel="7" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10473" enchantLevel="7" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10673" enchantLevel="7" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13273" enchantLevel="7" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="13373" enchantLevel="7" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13373" enchantLevel="7" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10073" enchantLevel="7" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13273" enchantLevel="7" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13273" enchantLevel="7" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11374" enchantLevel="7" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14473" enchantLevel="7" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14473" enchantLevel="7" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44915"> <!-- Nouver"s Sealed Sub-Weapon Box -->
+		<item itemKey="10138" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10338" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10538" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10738" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13038" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11338" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13138" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13138" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10138" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14538" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14638" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10738" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10338" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10338" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44916"> <!-- [Event] Underwear Box -->
+		<item itemKey="16040" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="16041" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="16042" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="16043" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="16044" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="16045" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="16046" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="16047" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="16050" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="16035" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="16313" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="16048" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="16049" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44917"> <!-- Dandelion Weapon Box -->
+		<item itemKey="14702" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="14732" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="14712" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="14722" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="14742" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="14822" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="14762" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="14772" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="14752" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14792" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14782" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="14817" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14812" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14802" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44918"> <!-- [Event] Splat Fisher"s Clothes Set (7 Days) -->
+		<item itemKey="21027" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="21048" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="21067" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="21087" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="21105" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="21123" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="21161" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="21141" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="21224" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="21710" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="54335" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="21182" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="21202" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44919"> <!-- [Event] +9 Bares Weapon Box -->
+		<item itemKey="10013" enchantLevel="9" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10213" enchantLevel="9" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10413" enchantLevel="9" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10613" enchantLevel="9" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13213" enchantLevel="9" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11213" enchantLevel="9" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13313" enchantLevel="9" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13313" enchantLevel="9" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10013" enchantLevel="9" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13213" enchantLevel="9" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13213" enchantLevel="9" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11363" enchantLevel="9" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14413" enchantLevel="9" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14413" enchantLevel="9" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44929"> <!-- Kalis Weapon Box -->
+		<item itemKey="10012" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10212" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10412" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10612" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13212" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11212" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13312" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13312" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10012" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13212" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13212" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11362" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14412" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14412" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44931"> <!-- Offensive Secondary Weapon Box -->
+		<item itemKey="10103" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10304" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10504" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10704" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13004" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11304" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13104" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13104" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10103" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14504" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14604" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10704" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10304" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10304" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44932"> <!-- Accuracy Secondary Weapon Box -->
+		<item itemKey="10102" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10303" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10503" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10703" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13003" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11303" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13103" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13103" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10102" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14503" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14603" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10703" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10303" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10303" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44933"> <!-- Defensive Secondary Weapon Box -->
+		<item itemKey="10105" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10305" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10505" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10705" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13005" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11305" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13105" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13105" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10105" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14505" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14605" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10705" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10305" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10305" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44936"> <!-- Basteer Secondary Weapon Box -->
+		<item itemKey="10142" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10342" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10542" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10742" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13042" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11342" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13142" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13142" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10142" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14542" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14642" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10742" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10342" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10342" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44937"> <!-- Ultimate Basteer Secondary Weapon Box -->
+		<item itemKey="10143" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10343" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10543" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10743" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13043" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11343" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13143" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13143" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10143" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14543" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14643" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10743" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10343" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10343" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44938"> <!-- Serendian Soldier Costume Box -->
+		<item itemKey="14941" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="12541" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="12539" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="14942" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="12540" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="14946" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="12544" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="12543" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="12547" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14952" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="12572" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14949" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="12546" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44946"> <!-- Secondary Magic Weapon Box -->
+		<item itemKey="10144" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10344" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10544" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10744" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13044" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11344" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13144" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13144" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10144" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14544" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14644" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10744" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10344" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10344" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44928"> <!-- Bares Weapon Box -->
+		<item itemKey="10013" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10213" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10413" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10613" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13213" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11213" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13313" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13313" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10013" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="13213" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="13213" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="11363" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14413" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14413" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44926"> <!-- Awakening Weapon Box -->
+		<item itemKey="14701" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="14731" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="14711" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="14721" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="14741" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="14821" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="14761" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="14771" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="14751" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14791" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14781" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="14816" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="14811" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="14801" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+	<box boxitemKey="44920"> <!-- Kutum’s Sealed Secondary Weapon Box -->
+		<item itemKey="10140" minCount="1" maxCount="1" classId="0"/> <!-- Warrior -->
+		<item itemKey="10340" minCount="1" maxCount="1" classId="4"/> <!-- Ranger -->
+		<item itemKey="10540" minCount="1" maxCount="1" classId="8"/> <!-- Sorcerer -->
+		<item itemKey="10740" minCount="1" maxCount="1" classId="12"/> <!-- Giant -->
+		<item itemKey="13040" minCount="1" maxCount="1" classId="16"/> <!-- Tamer -->
+		<item itemKey="11340" minCount="1" maxCount="1" classId="19"/> <!-- Striker -->
+		<item itemKey="13140" minCount="1" maxCount="1" classId="20"/> <!-- BladeMaster -->
+		<item itemKey="13140" minCount="1" maxCount="1" classId="21"/> <!-- BladeMasterWomen -->
+		<item itemKey="10140" minCount="1" maxCount="1" classId="24"/> <!-- Valkyrie -->
+		<item itemKey="14640" minCount="1" maxCount="1" classId="25"/> <!-- NinjaWomen -->
+		<item itemKey="14540" minCount="1" maxCount="1" classId="26"/> <!-- Ninja -->
+		<item itemKey="10740" minCount="1" maxCount="1" classId="27"/> <!-- Dark Knight -->
+		<item itemKey="10340" minCount="1" maxCount="1" classId="28"/> <!-- Wizard -->
+		<item itemKey="10340" minCount="1" maxCount="1" classId="31"/> <!-- WizardWomen -->
+	</box>
+</boxes>

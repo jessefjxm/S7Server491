@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="n_att06">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="983" Name="n_att06_01" PosX="-35657" PosY="-2334.68" PosZ="-77311.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="984" Name="n_att06_02" PosX="-35580.5" PosY="-2333.11" PosZ="-76490.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="985" Name="n_att06_03" PosX="-38405.7" PosY="-2351.26" PosZ="-75107.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="986" Name="n_att06_04" PosX="-37687.1" PosY="-2251.71" PosZ="-73265.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="987" Name="n_att06_05" PosX="-34247.2" PosY="-2264.44" PosZ="-71643.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="988" Name="n_att06_06" PosX="-33940.6" PosY="-2259.89" PosZ="-74079.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="989" Name="n_att06_07" PosX="-29920.6" PosY="-2386.31" PosZ="-73815.2" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="983" TargetWaypoint="984"/>
+	<Link SourceWaypoint="984" TargetWaypoint="983"/>
+	<Link SourceWaypoint="984" TargetWaypoint="985"/>
+	<Link SourceWaypoint="984" TargetWaypoint="988"/>
+	<Link SourceWaypoint="984" TargetWaypoint="987"/>
+	<Link SourceWaypoint="985" TargetWaypoint="984"/>
+	<Link SourceWaypoint="985" TargetWaypoint="986"/>
+	<Link SourceWaypoint="986" TargetWaypoint="985"/>
+	<Link SourceWaypoint="987" TargetWaypoint="984"/>
+	<Link SourceWaypoint="988" TargetWaypoint="989"/>
+	<Link SourceWaypoint="988" TargetWaypoint="984"/>
+	<Link SourceWaypoint="989" TargetWaypoint="988"/>
+</LinkList>
+<GroupList>
+	<Group Key="8" Name="n_att06"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

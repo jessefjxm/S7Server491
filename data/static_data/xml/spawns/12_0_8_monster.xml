@@ -1,0 +1,851 @@
+<SpawnPlacementList>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="176625.0" Y="115175.0" Z="-2325.0"/>
+        <Direction>-0.157675128448889</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20220" SpawnQuantity="1"/>
+        <Function>64</Function>
+        <ActionIndex>5</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="182564.0" Y="114543.0" Z="-3267.45"/>
+        <Direction>0.302667264843623</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20550" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="159721.0" Y="123329.0" Z="-3017.57"/>
+        <Direction>-1.61840472616798</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20614" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="156047.0" Y="117371.0" Z="-1392.11"/>
+        <Direction>-1.84201428964031</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20631" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>16</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189851.0" Y="121938.0" Z="-3822.78"/>
+        <Direction>2.94760954107722</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="202512.0" Y="123886.0" Z="-4337.12"/>
+        <Direction>-2.46982476406291</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="197807.0" Y="117690.0" Z="-4530.19"/>
+        <Direction>1.76596498614634</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="194821.0" Y="119953.0" Z="-4211.86"/>
+        <Direction>-2.374489351801</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="187831.0" Y="121871.0" Z="-3662.72"/>
+        <Direction>-0.31226709011444</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186716.0" Y="120530.0" Z="-3454.33"/>
+        <Direction>2.42263488526758</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189213.0" Y="121568.0" Z="-3711.14"/>
+        <Direction>-1.86372239852338</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186399.0" Y="118052.0" Z="-3396.88"/>
+        <Direction>0.982793723247329</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="198779.0" Y="129338.0" Z="-4319.62"/>
+        <Direction>-0.463647609000806</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="203232.0" Y="126395.0" Z="-4219.74"/>
+        <Direction>0.9197317262142</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="196420.0" Y="127119.0" Z="-4412.25"/>
+        <Direction>-1.32583832770141</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="195067.0" Y="129290.0" Z="-4177.66"/>
+        <Direction>-0.76107192664029</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="193184.0" Y="122177.0" Z="-4190.24"/>
+        <Direction>2.26118255162384</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>64</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="192212.0" Y="122170.0" Z="-4084.31"/>
+        <Direction>2.81986809311601</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="193582.0" Y="128725.0" Z="-4284.98"/>
+        <Direction>0.263925247374503</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="194410.0" Y="121046.0" Z="-4213.69"/>
+        <Direction>-1.1295372498966</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="195036.0" Y="118783.0" Z="-4165.5"/>
+        <Direction>-0.46357502623836</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="196427.0" Y="118925.0" Z="-4329.54"/>
+        <Direction>-0.44001947486667</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="188863.0" Y="122114.0" Z="-3808.98"/>
+        <Direction>0.0638278498563091</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="190446.0" Y="123056.0" Z="-4053.47"/>
+        <Direction>2.11588041681566</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186577.0" Y="119705.0" Z="-3377.24"/>
+        <Direction>-1.42740696513016</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="187270.0" Y="121268.0" Z="-3532.53"/>
+        <Direction>-2.44078482926659</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186593.0" Y="122331.0" Z="-3859.1"/>
+        <Direction>-2.03041614030746</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="185507.0" Y="120904.0" Z="-3582.04"/>
+        <Direction>2.70679092214319</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="204529.0" Y="125910.0" Z="-4264.69"/>
+        <Direction>-1.30952296210444</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="198283.0" Y="125987.0" Z="-4395.38"/>
+        <Direction>2.61354090095501</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="194475.0" Y="120425.0" Z="-4125.0"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189764.0" Y="121344.0" Z="-3678.23"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186813.0" Y="118716.0" Z="-3398.59"/>
+        <Direction>-2.88211606106203</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186985.0" Y="120230.0" Z="-3335.97"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="176364.0" Y="114757.0" Z="-2157.32"/>
+        <Direction>0.259476057950658</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20710" SpawnQuantity="1"/>
+        <Function>7</Function>
+        <ActionIndex>10</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="166287.0" Y="128111.0" Z="-546.961"/>
+        <Direction>-2.52088605862767</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20710" SpawnQuantity="1"/>
+        <ActionIndex>10</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="199543.0" Y="126645.0" Z="-4403.19"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="204683.0" Y="121728.0" Z="-4765.1"/>
+        <Direction>-3.0298356667291</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="184275.0" Y="121180.0" Z="-3682.74"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="183282.0" Y="118401.0" Z="-3586.03"/>
+        <Direction>-1.89479276428589</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="180275.0" Y="123025.0" Z="-3625.0"/>
+        <Direction>1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="179569.0" Y="125160.0" Z="-3447.13"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="178076.0" Y="118960.0" Z="-3345.82"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="170696.0" Y="127964.0" Z="-2942.74"/>
+        <Direction>0.846911680810219</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="172500.0" Y="117911.0" Z="-2671.22"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="159066.0" Y="114943.0" Z="-1278.34"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20711" SpawnQuantity="1"/>
+        <Function>41</Function>
+        <ActionIndex>0</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="194577.0" Y="119896.0" Z="-4147.64"/>
+        <Direction>-0.0393963587879235</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="190552.0" Y="121832.0" Z="-3906.4"/>
+        <Direction>1.33900378570142</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186713.0" Y="119402.0" Z="-3404.89"/>
+        <Direction>2.87519893326602</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="177119.0" Y="114286.0" Z="-2265.03"/>
+        <Direction>-1.56235656872471</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20220" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>5</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="177175.0" Y="114625.0" Z="-2275.0"/>
+        <Direction>0.464641630722217</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20220" SpawnQuantity="1"/>
+        <Function>49</Function>
+        <ActionIndex>5</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="176625.0" Y="114225.0" Z="-2175.0"/>
+        <Direction>-1.49621132963461</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20220" SpawnQuantity="1"/>
+        <ActionIndex>5</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="161062.0" Y="124660.0" Z="-3021.38"/>
+        <Direction>2.63742862140059</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20614" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="160000.0" Y="125700.0" Z="-3062.79"/>
+        <Direction>-0.663982080463665</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20614" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="158539.0" Y="125153.0" Z="-3137.1"/>
+        <Direction>-0.335396395912665</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20614" SpawnQuantity="1"/>
+        <ActionIndex>23</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="158855.0" Y="125551.0" Z="-3188.3"/>
+        <Direction>-1.90619430369917</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20614" SpawnQuantity="1"/>
+        <ActionIndex>23</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="157502.0" Y="126915.0" Z="-3284.26"/>
+        <Direction>2.4592073689733</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20615" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>4</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="158799.0" Y="125267.0" Z="-3162.32"/>
+        <Direction>-1.12079635648692</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20616" SpawnQuantity="1"/>
+        <ActionIndex>32</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="154925.0" Y="112375.0" Z="-375.0"/>
+        <Direction>0.347215525130924</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20631" SpawnQuantity="1"/>
+        <ActionIndex>16</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="195711.0" Y="117756.0" Z="-4199.44"/>
+        <Direction>2.97640059128722</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189666.0" Y="113777.0" Z="-2520.69"/>
+        <Direction>0.435416722431655</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189587.0" Y="110212.0" Z="-2397.21"/>
+        <Direction>-3.13116912509337</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <Function>65</Function>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="193854.0" Y="105273.0" Z="-637.244"/>
+        <Direction>0.732701957546606</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="195379.0" Y="102632.0" Z="474.663"/>
+        <Direction>1.70839824610858</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="203261.0" Y="111133.0" Z="-4609.02"/>
+        <Direction>2.92865432514367</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="197528.0" Y="116674.0" Z="-4510.27"/>
+        <Direction>0.763179607496492</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="198031.0" Y="114631.0" Z="-4564.52"/>
+        <Direction>2.80061376089523</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>78</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="196101.0" Y="117398.0" Z="-4246.06"/>
+        <Direction>-0.373946995127052</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="195565.0" Y="118307.0" Z="-4202.01"/>
+        <Direction>0.172190831657056</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>64</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="188789.0" Y="110341.0" Z="-2570.33"/>
+        <Direction>1.2277724132811</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="187134.0" Y="117023.0" Z="-3308.16"/>
+        <Direction>-2.47918429975973</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="188525.0" Y="107825.0" Z="-2325.0"/>
+        <Direction>-2.87384272907686</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>7</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189355.0" Y="105471.0" Z="-1698.68"/>
+        <Direction>-1.7963056202719</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>7</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189327.0" Y="107679.0" Z="-2170.34"/>
+        <Direction>1.62482408505322</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>7</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189425.0" Y="106875.0" Z="-2075.0"/>
+        <Direction>2.39960057275762</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <ActionIndex>7</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="192425.0" Y="102875.0" Z="-625.0"/>
+        <Direction>2.77102747322405</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>194</Function>
+        <ActionIndex>7</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="193193.0" Y="103500.0" Z="-622.689"/>
+        <Direction>-1.81725283264866</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>7</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="191719.0" Y="104318.0" Z="-447.764"/>
+        <Direction>1.01606104194041</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20639" SpawnQuantity="1"/>
+        <Function>65</Function>
+        <ActionIndex>7</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="203299.0" Y="112752.0" Z="-4665.29"/>
+        <Direction>-0.404927554155058</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="196062.0" Y="117000.0" Z="-4199.21"/>
+        <Direction>-2.67567820654462</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189175.0" Y="112575.0" Z="-2575.0"/>
+        <Direction>1.81576720452909</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189883.0" Y="118225.0" Z="-2443.81"/>
+        <Direction>-2.99272682119399</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>69</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="185575.0" Y="118725.0" Z="-3475.0"/>
+        <Direction>0.242604722367632</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186494.0" Y="115368.0" Z="-3230.81"/>
+        <Direction>0.617065550900504</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="188711.0" Y="115351.0" Z="-2938.59"/>
+        <Direction>-2.64509004582572</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="186970.0" Y="117515.0" Z="-3339.97"/>
+        <Direction>0.202689190381305</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="190939.0" Y="105053.0" Z="-372.039"/>
+        <Direction>1.03896451776112</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="188299.0" Y="111878.0" Z="-2618.88"/>
+        <Direction>0.883595269193632</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>231</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="193458.0" Y="103408.0" Z="-633.347"/>
+        <Direction>-2.54049617192129</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="193595.0" Y="104605.0" Z="-588.819"/>
+        <Direction>-3.0204566140257</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189257.0" Y="102966.0" Z="-1706.23"/>
+        <Direction>-1.48002729512856</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="198880.0" Y="115858.0" Z="-4621.98"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>40</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="188079.0" Y="111189.0" Z="-2642.05"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="188475.0" Y="104625.0" Z="-2025.0"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>41</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="190575.0" Y="104025.0" Z="-275.0"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189089.0" Y="106054.0" Z="-1899.01"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189493.0" Y="108904.0" Z="-2289.01"/>
+        <Direction>-1.5707963267949</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20641" SpawnQuantity="1"/>
+        <ActionIndex>3</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="156161.0" Y="127484.0" Z="-3476.78"/>
+        <Direction>0.553294287787091</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20645" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="159118.0" Y="125133.0" Z="-3134.86"/>
+        <Direction>2.80619891460603</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20648" SpawnQuantity="1"/>
+        <ActionIndex>25</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="158880.0" Y="125097.0" Z="-3140.16"/>
+        <Direction>2.02079884659331</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20648" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>31</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="176925.0" Y="114625.0" Z="-2275.0"/>
+        <Direction>0.588908234945947</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20710" SpawnQuantity="1"/>
+        <Function>64</Function>
+        <ActionIndex>10</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="176928.0" Y="114374.0" Z="-2265.13"/>
+        <Direction>-1.61197399930399</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20710" SpawnQuantity="1"/>
+        <Function>179</Function>
+        <ActionIndex>10</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="177117.0" Y="114455.0" Z="-2212.63"/>
+        <Direction>-0.888409121297395</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20710" SpawnQuantity="1"/>
+        <ActionIndex>10</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="195822.0" Y="116731.0" Z="-4191.55"/>
+        <Direction>0.966603701795521</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189418.0" Y="102518.0" Z="-1631.51"/>
+        <Direction>-2.8615963573603</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189190.0" Y="107137.0" Z="-2232.62"/>
+        <Direction>3.14158903359979</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="189156.0" Y="108144.0" Z="-2275.44"/>
+        <Direction>-3.12898630917452</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="194037.0" Y="104586.0" Z="-655.874"/>
+        <Direction>2.37219898029497</Direction>
+        <UseSpawnGroup SpawnCharacterKey="24247" SpawnQuantity="1"/>
+        <ActionIndex>72</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="198375.0" Y="113725.0" Z="-4425.0"/>
+        <Direction>-1.52072022312122</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <Function>255</Function>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="201325.0" Y="112625.0" Z="-4625.0"/>
+        <Direction>2.0749648365069</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20638" SpawnQuantity="1"/>
+        <ActionIndex>1</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="199478.0" Y="115367.0" Z="-4661.32"/>
+        <Direction>0.745469962923132</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>64</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="199481.0" Y="113194.0" Z="-4419.14"/>
+        <Direction>-1.09380449789749</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <Function>39</Function>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="201115.0" Y="114511.0" Z="-4738.0"/>
+        <Direction>0.57798571622375</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+    <SpawnPlacement>
+        <Position SpawnRange="0" X="202305.0" Y="111585.0" Z="-4522.09"/>
+        <Direction>0.463647609000806</Direction>
+        <UseSpawnGroup SpawnCharacterKey="20640" SpawnQuantity="1"/>
+        <ActionIndex>6</ActionIndex>
+        <DialogIndex>0</DialogIndex>
+    </SpawnPlacement>
+</SpawnPlacementList>

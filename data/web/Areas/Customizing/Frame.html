@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+
+
+    <style>
+
+        @font-face {
+            font-family: 'custom';
+            font-style: normal;
+            font-weight: 400;
+            src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+            url('/Common/font/naeu.woff') format('woff2'),
+            url('/Common/font/naeu.woff') format('woff'),
+            url('/Common/font/naeu.woff') format('truetype'),
+            local('나눔고딕'),
+            local('Arial');
+        }
+
+        @font-face {
+            font-family: 'custom bold';
+            font-style: normal;
+            /*font-weight: 700;*/
+            src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+            url('/Common/font/naeu.woff') format('woff2'),
+            url('/Common/font/naeu.woff') format('woff'),
+            url('/Common/font/naeu.woff') format('truetype'),
+            local('나눔고딕 Bold'),
+            local('Arial Black');
+        }
+    </style>
+
+
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+
+
+<script src="/Common/js/jquery-2.1.4.min.js"></script>
+<script src="/Common/js/coherent.js"></script>
+
+<script src="/Common/js/common.js"></script>
+<link href="/Common/css/common.css" rel="stylesheet"/>
+
+<link href="/Areas/Customizing/common/css/tinytools.toggleswitch.css" rel="stylesheet"/>
+<link href="/Areas/Customizing/common/css/customizing.css" rel="stylesheet"/>
+<link href="/Areas/Customizing/common/css/frame.css" rel="stylesheet"/>
+
+<div class="container_top">
+    <div class="tab">
+        <ul class="tabList"></ul>
+    </div>
+    <div id="main" class="main"></div>
+
+    <a class="btn_write" data-tooltip="WEB_CUSTOMIZING_CURRENT_CUSTOMIZING_SAVE" data-tooltip-position="bottom"><span
+            data-str="WEB_CUSTOMIZING_CURRENT_CUSTOMIZING_SAVE"></span></a>
+</div>
+<div class="tooltipArea"></div>
+<div id="loading" class="hide">
+    <div class="layer">
+        <div class="spin"></div>
+    </div>
+</div>
+
+<script src="/Areas/Customizing/common/js/tinytools.toggleswitch.js"></script>
+<script src="/Areas/Customizing/common/js/customizing.js"></script>
+<script src="/Areas/Customizing/common/js/frame.js"></script>
+
+<style></style>
+<script>
+    // 현재 활성화 되어있는 클래스의 이름 가져오기
+    common.getClassName();
+
+    var customizing = {
+        'userNo': [[${userNo}]],
+        'userNickname': [[${userNickName}]],
+        'characterNo': '',
+        'characterName': '',
+        'classType': [[${classType}]],
+        'className': '',
+        'isCustomizationMode': [[${isCustomizationMode}]],
+        'isGm': [[${isGM}]]
+    };
+
+    // 다국어
+    setStringTable();
+
+    // 캐릭명, 캐릭넘버
+    engine.on('FromClient_ResponseSelfplayerInfo', function (playServerNo, playUserId, playCharacterNo, playCharacterName) {
+        //serverNo = playServerNo;
+        //userId = playUserId;
+        customizing.characterNo = playCharacterNo;
+        customizing.characterName = playCharacterName;
+    });
+
+    // 욕설 처리
+    engine.on('FromClient_GetFilteredText', function (id, str) {
+        if (id == 'comment') {
+            saveComment(str);
+        } else if (id == 'customizingContent') {
+            if (!common.isEmpty(str))
+                $('#writeForm').find('#_customizingDescription').val(str);
+            saveCustomizing();
+        } else if (id == 'customizingTitle') {
+            if (common.isEmpty(str))
+                str = '';
+            $('#writeForm').find('#_customizingTitle').val(str);
+        }
+    });
+
+    // 제작자 가져오기
+    engine.on('FromClient_CustomizedCaptureAuthorName', function (str) {
+        if (common.isEmpty(str))
+            str = '-';
+        $('#writeForm #author').val(str);
+    });
+
+    // 현재 열려있는 직업 목록 가져오기
+    engine.on('FromClient_GetPossibleClassText', function (str) {
+        var classNo = str.split(',');
+
+        $.each(classNo, function (row, data) {
+            _classNames[data.toString()] = '';
+            engine.call('ToClient_GetPossibleClassTypeName', parseInt(data));
+
+            if (classNo.length <= row + 1)
+                common.pageMove('/Customizing/MyFolder');
+        });
+    });
+
+    // 직업의 key값으로 이름 가져오기
+    engine.on('FromClient_GetPossibleClassTypeName', function (classNo, className) {
+        _classNames[classNo.toString()] = className;
+    });
+
+    // 단축키 해제
+    engine.call("ToClient_SetLuaInputHold", false);
+
+    // 캐릭명, 캐릭넘버
+    //engine.call('ToClient_RequestSelfplayerInfo');
+    engine.call('ToClient_RequestSelfplayerInfo2').then(function (returnValue) {
+        console.log(returnValue);
+        customizing.userNo = common.isEmpty(returnValue._userNoStr) ? customizing.userNo : returnValue._userNoStr;
+        customizing.userNickname = common.isEmpty(returnValue._userNickName) ? customizing.userNickname : returnValue._userNickName;
+        customizing.characterNo = common.isEmpty(returnValue._characterNoStr) ? customizing.characterNo : returnValue._characterNoStr;
+        customizing.characterName = common.isEmpty(returnValue._characterName) ? customizing.characterName : returnValue._characterName;
+    });
+
+</script>
+<script>
+    $(document).ready(function () {
+        //location.href = '/Customizing/Error';
+        common.openPage();
+
+        initPage();
+        initTab();
+
+        common.initTooltip();
+    });
+</script>
+
+
+</body>
+</html>

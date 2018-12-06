@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="med_rhino_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15406" Name="Rhino_path_0" PosX="239471" PosY="-2016.56" PosZ="-24568" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15408" Name="Rhino_path_2" PosX="239996" PosY="-2140.91" PosZ="-24270.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15409" Name="Rhino_path_3" PosX="240823" PosY="-2435.11" PosZ="-24332.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15411" Name="Rhino_path_5" PosX="241311" PosY="-2532.46" PosZ="-24024.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15412" Name="Rhino_path_6" PosX="241811" PosY="-2679.59" PosZ="-23866.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15413" Name="Rhino_path_7" PosX="242463" PosY="-2769.8" PosZ="-23997.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15414" Name="Rhino_path_8" PosX="243109" PosY="-2771.6" PosZ="-24125.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15415" Name="Rhino_path_9" PosX="243704" PosY="-2839.94" PosZ="-24210" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15416" Name="Rhino_path_10" PosX="244522" PosY="-2932.12" PosZ="-24384.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15417" Name="Rhino_path_11" PosX="245691" PosY="-2980.75" PosZ="-24418.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15418" Name="Rhino_path_12" PosX="246848" PosY="-3173.71" PosZ="-23685" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15419" Name="Rhino_path_13" PosX="248400" PosY="-3200.32" PosZ="-22918" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15420" Name="Rhino_path_14" PosX="248812" PosY="-3216.86" PosZ="-21595.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15421" Name="Rhino_path_15" PosX="247888" PosY="-3163.18" PosZ="-21012.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15423" Name="Rhino_path_17" PosX="247428" PosY="-3100.17" PosZ="-21045.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15424" Name="Rhino_path_18" PosX="246710" PosY="-3164.29" PosZ="-21279.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15425" Name="Rhino_path_19" PosX="246116" PosY="-3159.69" PosZ="-21582.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15426" Name="Rhino_path_20" PosX="245525" PosY="-3065.93" PosZ="-21750.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15427" Name="Rhino_path_21" PosX="245148" PosY="-3031.97" PosZ="-22197.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15429" Name="Rhino_path_23" PosX="244809" PosY="-2990.39" PosZ="-22435.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15430" Name="Rhino_path_24" PosX="244228" PosY="-3037.67" PosZ="-22969.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15431" Name="Rhino_path_25" PosX="243451" PosY="-2928.95" PosZ="-23391.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15432" Name="Rhino_path_26" PosX="242574" PosY="-2840.24" PosZ="-23555.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15433" Name="Rhino_path_27" PosX="241625" PosY="-2779.38" PosZ="-23212.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15434" Name="Rhino_path_28" PosX="240862" PosY="-2573.07" PosZ="-23018.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15435" Name="Rhino_path_29" PosX="239958" PosY="-2373.56" PosZ="-23245.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15437" Name="Rhino_path_31" PosX="239720" PosY="-2176.18" PosZ="-23726.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15439" Name="Rhino_path_33" PosX="239570" PosY="-2049.42" PosZ="-24000.7" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="15406" TargetWaypoint="15408"/>
+	<Link SourceWaypoint="15408" TargetWaypoint="15409"/>
+	<Link SourceWaypoint="15409" TargetWaypoint="15411"/>
+	<Link SourceWaypoint="15411" TargetWaypoint="15412"/>
+	<Link SourceWaypoint="15412" TargetWaypoint="15413"/>
+	<Link SourceWaypoint="15413" TargetWaypoint="15414"/>
+	<Link SourceWaypoint="15414" TargetWaypoint="15415"/>
+	<Link SourceWaypoint="15415" TargetWaypoint="15416"/>
+	<Link SourceWaypoint="15416" TargetWaypoint="15417"/>
+	<Link SourceWaypoint="15417" TargetWaypoint="15418"/>
+	<Link SourceWaypoint="15418" TargetWaypoint="15419"/>
+	<Link SourceWaypoint="15419" TargetWaypoint="15420"/>
+	<Link SourceWaypoint="15420" TargetWaypoint="15421"/>
+	<Link SourceWaypoint="15421" TargetWaypoint="15423"/>
+	<Link SourceWaypoint="15423" TargetWaypoint="15424"/>
+	<Link SourceWaypoint="15424" TargetWaypoint="15425"/>
+	<Link SourceWaypoint="15425" TargetWaypoint="15426"/>
+	<Link SourceWaypoint="15426" TargetWaypoint="15427"/>
+	<Link SourceWaypoint="15427" TargetWaypoint="15429"/>
+	<Link SourceWaypoint="15429" TargetWaypoint="15430"/>
+	<Link SourceWaypoint="15430" TargetWaypoint="15431"/>
+	<Link SourceWaypoint="15431" TargetWaypoint="15432"/>
+	<Link SourceWaypoint="15432" TargetWaypoint="15433"/>
+	<Link SourceWaypoint="15433" TargetWaypoint="15434"/>
+	<Link SourceWaypoint="15434" TargetWaypoint="15435"/>
+	<Link SourceWaypoint="15435" TargetWaypoint="15437"/>
+	<Link SourceWaypoint="15437" TargetWaypoint="15406"/>
+	<Link SourceWaypoint="15437" TargetWaypoint="15439"/>
+	<Link SourceWaypoint="15439" TargetWaypoint="15406"/>
+</LinkList>
+<GroupList>
+	<Group Key="146" Name="Med_Rhino_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

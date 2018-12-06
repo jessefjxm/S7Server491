@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="valmonkelitegiant">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39308" Name="valmonkelitegiant_0001" PosX="461681" PosY="3136.42" PosZ="108233" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39309" Name="valmonkelitegiant_0002" PosX="473351" PosY="-436.295" PosZ="133316" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="39308" TargetWaypoint="39309"/>
+	<Link SourceWaypoint="39309" TargetWaypoint="39308"/>
+</LinkList>
+<GroupList>
+	<Group Key="190" Name="valmonkelitegiant"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

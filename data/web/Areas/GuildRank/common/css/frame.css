@@ -1,0 +1,81 @@
+.btnSearch { background: url(/Areas/GuildRank/common/img/btn_background.png) no-repeat; width: 32px; height: 32px; display: inline-block; vertical-align: middle; position: relative; margin: 0 2px; background-position: center; }
+.btnSearch:hover:before { content: ''; width: 100%; height: 100%; display: inline-block; background: rgba(255,255,255,0.18); position: absolute; z-index: 10; border-radius: 4px; }
+.btnSearch:active:before { background: rgba(0,0,0,0.18); }
+.btnSearch img { position: absolute; top: 0; left: 0; bottom: 0; right: 0; margin: auto; }
+.btnSearch.active { background: url(/Areas/GuildRank/common/img/btn_background_active.png) no-repeat; }
+.btnSearch.active:before { display: none; }
+
+#top { height: 40px; }
+#top .area div { display: inline-block; vertical-align: middle; color: #cdbc9e; font-size: 14px; }
+#top .area > div > span { padding-right: 10px; }
+#top .area .item { float: left; }
+#top .area .branch { float: right; }
+
+#container { height: calc(100% - 80px); }
+#container .area { width: 100%; height: 100%; }
+#container .area .content { width: 100%; height: calc(100% - 62px); border-bottom: 1px solid rgba(255,255,255,0.3); height: calc(100% - 62px); position: relative; z-index: 1; }
+#container .area .content .table.guildList { }
+#container .area .content .table.guildList .tcaption { display: table-caption; color: #cdcdcd; font-size: 13px; text-align: center; vertical-align: middle; height: 28px; line-height: 28px; background: rgba(0,0,0,0.6); border-bottom: 1px solid rgba(255,255,255,0.2); box-sizing: border-box; cursor: default; }
+#container .area .content .table.guildList .thead { background: #201f1c; }
+#container .area .content .table.guildList .thead .col { border: 1px solid white; border-right: 0; border-left: 0; border-top-color: rgba(0,0,0,0.5); border-bottom-color: rgba(255,255,255,0.11); color: #8f8f8f; font-size: 13px; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+#container .area .content .table.guildList .row { height: 28px;  }
+#container .area .content .table.guildList .row .col > span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; display: inline-block; vertical-align: middle; max-width: 100%; }
+#container .area .content .table.guildList .tbody { background: rgba(0,0,0,0.6); }
+#container .area .content .table.guildList .tbody .row { /*background: rgba(255,255,255,0.3);*/ cursor: pointer;}
+#container .area .content .table.guildList .tbody .row.block {cursor: default;}
+#container .area .content .table.guildList .tbody .row.block:hover { background: none;  }
+#container .area .content .table.guildList .tbody .row:hover{ background: rgba(255,255,255,0.3)}
+#container .area .content .table.guildList .tbody .row:hover .col[attr-data="C_guildName"] { color: white; }
+#container .area .content .table.guildList .row .col.active { color: white !important; }
+#container .area .content .table.guildList .row .col img { vertical-align: middle; }
+#container .area .content .table.guildList .row .col[attr-data="C_guildName"] > span { max-width: calc(100% - 25px); width: inherit;  }
+#container .area .content .table.guildList .row .col[attr-data="C_masterUserNickname"] > span { max-width: calc(100%);width: inherit; }
+#container .area .content .table.guildList .row .col
+#container .area .content .table.guildList .row .col:first-child { min-width: 50px; max-width: 50px;  background:red}
+#container .area .content .table.guildList .row .col:nth-child(2) { min-width: 230px; max-width: 230px; }
+#container .area .content .table.guildList .row .col:nth-child(3) { min-width: 150px; max-width: 150px; }
+#container .area .content .table.guildList .row .col:nth-child(4) { min-width: 80px; max-width: 80px; }
+#container .area .content .table.guildList .row .col:nth-child(5) { min-width: 60px; max-width: 60px; }
+#container .area .content .table.guildList .row .col:nth-child(6) { min-width: 60px; max-width: 60px; }
+#container .area .content .table.guildList .row .col:nth-child(7) { min-width: 100px; max-width: 100px; }
+#container .area .content .table.guildList .row .col:nth-child(8) { min-width: 60px; max-width: 60px; }
+#container .area .content .table.guildList .row .col:nth-child(9) { min-width: 60px; max-width: 60px; }
+#container .area .content .table.guildList .col { vertical-align: middle; height: 28px; text-align: center; color: #b8b8b8; font-size: 13px; border-bottom: 1px solid rgba(255,255,255,0.2); box-sizing: border-box; padding: 0 3px; min-width: 50px; max-width: 50px; }
+#container .area .content .table.guildList .tbody .col[attr-data="C_winCount"] { color: #00c0ff; }
+#container .area .content .table.guildList .tbody .col[attr-data="C_guildName"] { text-align: left; padding-left: 10px; }
+#container .area .content .table.guildList .tbody .col[attr-data="C_guildName"] img { width: 20px; height: 20px; vertical-align: middle; margin-right: 5px; border: 1px solid rgb(102, 102, 102); box-sizing: border-box; }
+#container .area .content .table.guildList .col.new { color: #d8ba60; }
+#container .area .content .scroll { height: calc(100% - 27px); position: relative; }
+#container .area .content .scroll::-webkit-scrollbar { width: 13px; }
+#container .area .content .scroll .popup { position: fixed; background: rgba(0,0,0,0.9); box-sizing: border-box; border-radius: 5px; color: white; font-size: 12px; width: 320px; min-height: 70px; padding: 10px; }
+#container .area .content .scroll .popup table { width: 100%; border-spacing: 0; }
+#container .area .content .scroll .popup table td { line-height: 20px; }
+#container .area .content .scroll .popup table td img { width: 50px; height: 50px; border: 1px solid orange; }
+
+
+#container .area .paging { }
+
+
+#bottom { height: 40px; }
+#bottom .area { height: 37px; background-color: rgba(0,0,0,0.5); border-radius: 5px; width: 100%; height: 100%; display: table; padding: 0 10px; box-sizing: border-box; }
+#bottom .area > span { color: #5f5f5f; font-size: 13px; display: table-cell; vertical-align: middle; min-width: 435px; width: 55%; }
+#bottom .area > .searchArea { display: table-cell; vertical-align: middle; text-align: right; }
+#bottom .area > .searchArea .search { height: 26px; padding: 0; margin: 0; border: 0; box-sizing: border-box; background-color: #222528; border: 1px solid #4d5458; border-radius: 3px; font-size: 12px; padding: 5px; color: #a1a1a1; }
+#bottom .area > .searchArea .search.comboBox { min-width: 100px; display: inline-block; vertical-align: middle; text-align: left; position: relative; }
+#bottom .area > .searchArea .search.comboBox:after { content: ''; width: 9px; height: 7px; position: absolute; background: url(/Areas/GuildRank/common/img/icn_arrow.png) no-repeat; right: 6px; top: 9px; }
+#bottom .area > .searchArea .search.comboBox ul { position: fixed; bottom: 45px; right: 290px; box-sizing: border-box; background-color: #222528; border: 1px solid #4d5458; border-radius: 3px; font-size: 12px; color: #a1a1a1; text-align: left; min-width: 100px; }
+#bottom .area > .searchArea .search.comboBox ul li { display: block; padding: 5px 10px 7px; }
+#bottom .area > .searchArea .search.comboBox ul li:hover { background-color: rgba(255,255,255,0.1); color: white; }
+#bottom .area > .searchArea .search.comboBox span { padding-right: 15px; }
+#bottom .area > .searchArea .search.text { width:50px; }
+#bottom .area > .searchArea .search.btn { min-width: 73px; width: auto; color: #d1d1d1; background: #1c2d3f; border-radius: 3px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.25); background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,.2)); text-shadow: 0 1px 1px rgba(0,0,0,1); border: none; }
+#bottom .area > .searchArea .search.btn:before { background: transparent; }
+#bottom .area > .searchArea .search.btn:hover:before { background: rgba(255,255,255,0.1); }
+#bottom .area > .searchArea .search.btn:active:before { background: rgba(0,0,0,0.1); }
+#bottom .area > .searchArea .search.btn:after { display: none; }
+
+#paging { margin: 16px auto 30px; }
+#paging > div:not(.disabled) { color: #B9B9B9; background-color: #5F5F5F; }
+#paging > div.active { color: #000; background-color: #eee; }
+#paging > div:not(.disabled):hover { color: #000; background-color: #eee; }
+#paging div.arrow_left.disabled, #paging div.arrow_right.disabled, #paging div.arrow_first.disabled, #paging div.arrow_last.disabled { cursor: default; background-color: #A0A0A0; }

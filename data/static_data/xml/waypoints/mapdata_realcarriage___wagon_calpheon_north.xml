@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="carriage" subName="wagon_calpheon_north">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6001" Name="Wagon_Calpheon_North_0001" PosX="-231230" PosY="-3128.9" PosZ="-42697.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6002" Name="Wagon_Calpheon_North_0002" PosX="-231494" PosY="-3097.88" PosZ="-41965.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6003" Name="Wagon_Calpheon_North_0003" PosX="-232593" PosY="-3071.91" PosZ="-40744.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6004" Name="Wagon_Calpheon_North_0004" PosX="-233159" PosY="-2982.53" PosZ="-39350" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6005" Name="Wagon_Calpheon_North_0005" PosX="-233733" PosY="-2916.16" PosZ="-38511" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6006" Name="Wagon_Calpheon_North_0006" PosX="-235205" PosY="-2808.46" PosZ="-37284.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6007" Name="Wagon_Calpheon_North_0007" PosX="-236811" PosY="-2727.93" PosZ="-36111.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6008" Name="Wagon_Calpheon_North_0008" PosX="-238169" PosY="-2485.85" PosZ="-34849" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6009" Name="Wagon_Calpheon_North_0009" PosX="-239409" PosY="-2365.96" PosZ="-33475.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6010" Name="Wagon_Calpheon_North_0010" PosX="-240583" PosY="-2313.15" PosZ="-32090.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6011" Name="Wagon_Calpheon_North_0011" PosX="-241886" PosY="-2223.17" PosZ="-30480.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6012" Name="Wagon_Calpheon_North_0012" PosX="-243339" PosY="-2211.99" PosZ="-29599.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6013" Name="Wagon_Calpheon_North_0013" PosX="-245696" PosY="-2193.57" PosZ="-29018" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6014" Name="Wagon_Calpheon_North_0014" PosX="-248389" PosY="-2296.83" PosZ="-28500.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6015" Name="Wagon_Calpheon_North_0015" PosX="-250876" PosY="-2423.57" PosZ="-28710.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6016" Name="Wagon_Calpheon_North_0016" PosX="-252835" PosY="-2512.46" PosZ="-28231" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6017" Name="Wagon_Calpheon_North_0017" PosX="-255330" PosY="-2502.62" PosZ="-28143" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6018" Name="Wagon_Calpheon_North_0018" PosX="-257024" PosY="-2566.98" PosZ="-27120.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6019" Name="Wagon_Calpheon_North_0019" PosX="-259175" PosY="-2584.85" PosZ="-26616.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6020" Name="Wagon_Calpheon_North_0020" PosX="-277306" PosY="-3056.58" PosZ="-44462.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6021" Name="Wagon_Calpheon_North_0021" PosX="-277185" PosY="-3078.89" PosZ="-46498.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6022" Name="Wagon_Calpheon_North_0022" PosX="-276975" PosY="-3160.61" PosZ="-48582.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6023" Name="Wagon_Calpheon_North_0023" PosX="-277926" PosY="-3223.48" PosZ="-49424.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6024" Name="Wagon_Calpheon_North_0024" PosX="-281455" PosY="-3255.48" PosZ="-50831.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6025" Name="Wagon_Calpheon_North_0025" PosX="-292441" PosY="-3486.8" PosZ="-52979.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6026" Name="Wagon_Calpheon_North_0026" PosX="-299568" PosY="-3413.74" PosZ="-55294.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6027" Name="Wagon_Calpheon_North_0027" PosX="-302269" PosY="-3482.06" PosZ="-56315.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6028" Name="Wagon_Calpheon_North_0028" PosX="-303677" PosY="-3488.06" PosZ="-56060.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6029" Name="Wagon_Calpheon_North_0029" PosX="-308399" PosY="-3646.53" PosZ="-52193.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6030" Name="Wagon_Calpheon_North_0030" PosX="-309204" PosY="-3704.43" PosZ="-50663.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6031" Name="Wagon_Calpheon_North_0031" PosX="-309935" PosY="-3715.9" PosZ="-46333.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6032" Name="Wagon_Calpheon_North_0032" PosX="-311945" PosY="-3735.77" PosZ="-41559" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6033" Name="Wagon_Calpheon_North_0033" PosX="-312245" PosY="-3707.46" PosZ="-36222.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6034" Name="Wagon_Calpheon_North_0034" PosX="-311748" PosY="-3625.16" PosZ="-33202.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6035" Name="Wagon_Calpheon_North_0035" PosX="-310138" PosY="-3201.26" PosZ="-29709.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6036" Name="Wagon_Calpheon_North_0036" PosX="-306779" PosY="-2397.53" PosZ="-26424.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6037" Name="Wagon_Calpheon_North_0037" PosX="-305483" PosY="-2050.19" PosZ="-24327.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6038" Name="Wagon_Calpheon_North_0038" PosX="-302990" PosY="-1552.47" PosZ="-16972.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6039" Name="Wagon_Calpheon_North_0039" PosX="-301874" PosY="-1125.31" PosZ="-12571.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6040" Name="Wagon_Calpheon_North_0040" PosX="-301424" PosY="-1071.32" PosZ="-11452.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6041" Name="Wagon_Calpheon_North_0041" PosX="-299481" PosY="-1033.16" PosZ="-9399.17" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6042" Name="Wagon_Calpheon_North_0042" PosX="-297675" PosY="-1281.4" PosZ="-5390.43" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6043" Name="Wagon_Calpheon_North_0043" PosX="-296850" PosY="-1476.5" PosZ="-2356.18" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6044" Name="Wagon_Calpheon_North_0044" PosX="-296902" PosY="-1738.57" PosZ="344.49" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6045" Name="Wagon_Calpheon_North_0045" PosX="-297823" PosY="-1763.92" PosZ="2290.29" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6046" Name="Wagon_Calpheon_North_0046" PosX="-298435" PosY="-1810.4" PosZ="2963.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6047" Name="Wagon_Calpheon_North_0047" PosX="-301635" PosY="-2221.25" PosZ="3893.29" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6048" Name="Wagon_Calpheon_North_0048" PosX="-306031" PosY="-2644.79" PosZ="3828.71" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6049" Name="Wagon_Calpheon_North_0049" PosX="-309134" PosY="-3079.58" PosZ="3250.93" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6050" Name="Wagon_Calpheon_North_0050" PosX="-312494" PosY="-3563.74" PosZ="546.663" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6051" Name="Wagon_Calpheon_North_0051" PosX="-317842" PosY="-4368.46" PosZ="-1941.38" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6052" Name="Wagon_Calpheon_North_0052" PosX="-319669" PosY="-4476.42" PosZ="-2663.14" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6053" Name="Wagon_Calpheon_North_0053" PosX="-321776" PosY="-4640.95" PosZ="-2686.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6054" Name="Wagon_Calpheon_North_0054" PosX="-325766" PosY="-4894.76" PosZ="-3168.96" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6055" Name="Wagon_Calpheon_North_0055" PosX="-328291" PosY="-5244.54" PosZ="-4091.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6056" Name="Wagon_Calpheon_North_0056" PosX="-334125" PosY="-6280.24" PosZ="-6245.15" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6057" Name="Wagon_Calpheon_North_0057" PosX="-340012" PosY="-6756.78" PosZ="-7114.03" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6058" Name="Wagon_Calpheon_North_0058" PosX="-344977" PosY="-6916.33" PosZ="-7061.71" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6059" Name="Wagon_Calpheon_North_0059" PosX="-351690" PosY="-7064.52" PosZ="-7962.09" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6060" Name="Wagon_Calpheon_North_0060" PosX="-356020" PosY="-7048.43" PosZ="-8115.06" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6061" Name="Wagon_Calpheon_North_0061" PosX="-360028" PosY="-7007.6" PosZ="-7500.42" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6062" Name="Wagon_Calpheon_North_0062" PosX="-361537" PosY="-7019.62" PosZ="-6913.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6063" Name="Wagon_Calpheon_North_0063" PosX="-363276" PosY="-7063.49" PosZ="-5141.13" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6064" Name="Wagon_Calpheon_North_0064" PosX="-365435" PosY="-6804.05" PosZ="-238.306" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6065" Name="Wagon_Calpheon_North_0065" PosX="-365398" PosY="-6591.64" PosZ="3272.79" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6066" Name="Wagon_Calpheon_North_0066" PosX="-366266" PosY="-6502.43" PosZ="7129.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6067" Name="Wagon_Calpheon_North_0067" PosX="-367580" PosY="-6788.75" PosZ="10372.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6068" Name="Wagon_Calpheon_North_0068" PosX="-368076" PosY="-6840.1" PosZ="13536.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6069" Name="Wagon_Calpheon_North_0069" PosX="-366663" PosY="-7183.32" PosZ="16431.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6070" Name="Wagon_Calpheon_North_0070" PosX="-363812" PosY="-7465.11" PosZ="19139.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6071" Name="Wagon_Calpheon_North_0071" PosX="-362445" PosY="-7591.94" PosZ="22098.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6072" Name="Wagon_Calpheon_North_0072" PosX="-361908" PosY="-7600.71" PosZ="24473.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6073" Name="Wagon_Calpheon_North_0073" PosX="-360849" PosY="-7568.98" PosZ="25701.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6074" Name="Wagon_Calpheon_North_0074" PosX="-360586" PosY="-7570.73" PosZ="26766" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6075" Name="Wagon_Calpheon_North_0075" PosX="-359452" PosY="-7333.72" PosZ="27384.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6076" Name="Wagon_Calpheon_North_0076" PosX="-358566" PosY="-6940.47" PosZ="27591.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6077" Name="Wagon_Calpheon_North_0077" PosX="-357543" PosY="-6518.5" PosZ="27662.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6078" Name="Wagon_Calpheon_North_0078" PosX="-356238" PosY="-6245.87" PosZ="27394.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6079" Name="Wagon_Calpheon_North_0079" PosX="-355066" PosY="-6007.16" PosZ="27130.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6080" Name="Wagon_Calpheon_North_0080" PosX="-354280" PosY="-5918.38" PosZ="27076.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6081" Name="Wagon_Calpheon_North_0081" PosX="-353403" PosY="-5728.02" PosZ="27275" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6082" Name="Wagon_Calpheon_North_0082" PosX="-350765" PosY="-5505.88" PosZ="26476.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6083" Name="Wagon_Calpheon_North_0083" PosX="-347688" PosY="-5252.45" PosZ="25340.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6084" Name="Wagon_Calpheon_North_0084" PosX="-346661" PosY="-5114.65" PosZ="24093.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6085" Name="Wagon_Calpheon_North_0085" PosX="-345682" PosY="-4465.97" PosZ="20309.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6086" Name="Wagon_Calpheon_North_0086" PosX="-345108" PosY="-3744.89" PosZ="15208.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6087" Name="Wagon_Calpheon_North_0087" PosX="-344081" PosY="-3385.51" PosZ="11801.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6088" Name="Wagon_Calpheon_North_0088" PosX="-343215" PosY="-3194.29" PosZ="6955.03" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6089" Name="Wagon_Calpheon_North_0089" PosX="-342405" PosY="-3273.3" PosZ="5958.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6090" Name="Wagon_Calpheon_North_0090" PosX="-338367" PosY="-3429.96" PosZ="2812.62" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6091" Name="Wagon_Calpheon_North_0091" PosX="-336828" PosY="-3540.9" PosZ="1802.59" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6092" Name="Wagon_Calpheon_North_0092" PosX="-332723" PosY="-4257.89" PosZ="-121.438" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6093" Name="Wagon_Calpheon_North_0093" PosX="-327184" PosY="-4807.32" PosZ="-1912.73" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6094" Name="Wagon_Calpheon_North_0094" PosX="-323128" PosY="-4714.61" PosZ="-2527.94" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6095" Name="Wagon_Calpheon_North_0095" PosX="-320393" PosY="-4534.1" PosZ="-2790.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6096" Name="Wagon_Calpheon_North_0096" PosX="-316979" PosY="-4267.66" PosZ="-1465.58" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6097" Name="Wagon_Calpheon_North_0097" PosX="-312407" PosY="-3548.15" PosZ="787.666" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6098" Name="Wagon_Calpheon_North_0098" PosX="-308835" PosY="-3018.15" PosZ="3451.57" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6099" Name="Wagon_Calpheon_North_0099" PosX="-306976" PosY="-2777.98" PosZ="3778.59" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6100" Name="Wagon_Calpheon_North_0100" PosX="-303281" PosY="-2360.76" PosZ="3713.93" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6101" Name="Wagon_Calpheon_North_0101" PosX="-298999" PosY="-1877.06" PosZ="3156.58" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6102" Name="Wagon_Calpheon_North_0102" PosX="-297181" PosY="-1752.23" PosZ="2893.78" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6103" Name="Wagon_Calpheon_North_0103" PosX="-292387" PosY="-1926.29" PosZ="2997.04" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6104" Name="Wagon_Calpheon_North_0104" PosX="-287021" PosY="-2349.14" PosZ="2769.39" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6105" Name="Wagon_Calpheon_North_0105" PosX="-284906" PosY="-2508.97" PosZ="2040.24" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6106" Name="Wagon_Calpheon_North_0106" PosX="-283532" PosY="-2629.74" PosZ="1615.77" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6107" Name="Wagon_Calpheon_North_0107" PosX="-281222" PosY="-2822.92" PosZ="1866.02" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6108" Name="Wagon_Calpheon_North_0108" PosX="-278382" PosY="-2976.76" PosZ="2807.96" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6109" Name="Wagon_Calpheon_North_0109" PosX="-276842" PosY="-3027.86" PosZ="3793.26" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6110" Name="Wagon_Calpheon_North_0110" PosX="-273994" PosY="-3083.37" PosZ="4577.57" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6111" Name="Wagon_Calpheon_North_0111" PosX="-269660" PosY="-3081.17" PosZ="5314.23" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6112" Name="Wagon_Calpheon_North_0112" PosX="-268659" PosY="-3042.97" PosZ="5679.66" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6113" Name="Wagon_Calpheon_North_0113" PosX="-267389" PosY="-3017.25" PosZ="6870.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6114" Name="Wagon_Calpheon_North_0114" PosX="-265200" PosY="-3052.1" PosZ="9688.72" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6115" Name="Wagon_Calpheon_North_0115" PosX="-264264" PosY="-3019.37" PosZ="11750.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6116" Name="Wagon_Calpheon_North_0116" PosX="-263895" PosY="-2964.94" PosZ="12770.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6117" Name="Wagon_Calpheon_North_0117" PosX="-264239" PosY="-2872.31" PosZ="14661.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6118" Name="Wagon_Calpheon_North_0118" PosX="-267138" PosY="-2544.1" PosZ="18029.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6119" Name="Wagon_Calpheon_North_0119" PosX="-267443" PosY="-2241.77" PosZ="19925.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6120" Name="Wagon_Calpheon_North_0120" PosX="-266874" PosY="-2052.99" PosZ="21802.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6121" Name="Wagon_Calpheon_North_0121" PosX="-266050" PosY="-2052.59" PosZ="22897.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6122" Name="Wagon_Calpheon_North_0122" PosX="-265753" PosY="-2004.29" PosZ="23836.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6123" Name="Wagon_Calpheon_North_0123" PosX="-265579" PosY="-1959.73" PosZ="24900.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6124" Name="Wagon_Calpheon_North_0124" PosX="-264966" PosY="-1940.69" PosZ="25765.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6125" Name="Wagon_Calpheon_North_0125" PosX="-263625" PosY="-1973.08" PosZ="25745.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6126" Name="Wagon_Calpheon_North_0126" PosX="-261996" PosY="-1983.27" PosZ="25271.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6127" Name="Wagon_Calpheon_North_0127" PosX="-260545" PosY="-1959.96" PosZ="24957.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6128" Name="Wagon_Calpheon_North_0128" PosX="-259098" PosY="-1964.78" PosZ="24591.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6129" Name="Wagon_Calpheon_North_0129" PosX="-258059" PosY="-1938.13" PosZ="24229.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6130" Name="Wagon_Calpheon_North_0130" PosX="-257033" PosY="-1918.23" PosZ="23866.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6131" Name="Wagon_Calpheon_North_0131" PosX="-255803" PosY="-1882.49" PosZ="23570.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6132" Name="Wagon_Calpheon_North_0132" PosX="-254744" PosY="-1885.47" PosZ="23695.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6133" Name="Wagon_Calpheon_North_0133" PosX="-253481" PosY="-1876.28" PosZ="23903.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6134" Name="Wagon_Calpheon_North_0134" PosX="-252078" PosY="-1869.95" PosZ="24222.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6135" Name="Wagon_Calpheon_North_0135" PosX="-250646" PosY="-1847.31" PosZ="24776" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6136" Name="Wagon_Calpheon_North_0136" PosX="-248918" PosY="-1814.97" PosZ="25520.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6137" Name="Wagon_Calpheon_North_0137" PosX="-247703" PosY="-1773.76" PosZ="26019" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6138" Name="Wagon_Calpheon_North_0138" PosX="-246629" PosY="-1751.49" PosZ="26286.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6139" Name="Wagon_Calpheon_North_0139" PosX="-245418" PosY="-1731.72" PosZ="26378.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6140" Name="Wagon_Calpheon_North_0140" PosX="-243936" PosY="-1706.61" PosZ="26118.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6141" Name="Wagon_Calpheon_North_0141" PosX="-242941" PosY="-1685" PosZ="25670.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6142" Name="Wagon_Calpheon_North_0142" PosX="-241623" PosY="-1661.19" PosZ="25313.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6143" Name="Wagon_Calpheon_North_0143" PosX="-240279" PosY="-1686.13" PosZ="25138.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6144" Name="Wagon_Calpheon_North_0144" PosX="-238824" PosY="-1638.47" PosZ="24825.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6145" Name="Wagon_Calpheon_North_0145" PosX="-237426" PosY="-1628.47" PosZ="24708.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6146" Name="Wagon_Calpheon_North_0146" PosX="-235862" PosY="-1605.86" PosZ="24988.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6147" Name="Wagon_Calpheon_North_0147" PosX="-234546" PosY="-1568.58" PosZ="25371.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6148" Name="Wagon_Calpheon_North_0148" PosX="-233356" PosY="-1502.9" PosZ="25662.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6149" Name="Wagon_Calpheon_North_0149" PosX="-232166" PosY="-1496.14" PosZ="25973.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6150" Name="Wagon_Calpheon_North_0150" PosX="-230919" PosY="-1485.64" PosZ="26246.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6151" Name="Wagon_Calpheon_North_0151" PosX="-230071" PosY="-1475.3" PosZ="26653.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6152" Name="Wagon_Calpheon_North_0152" PosX="-229195" PosY="-1454.5" PosZ="27431.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6153" Name="Wagon_Calpheon_North_0153" PosX="-228280" PosY="-1445.32" PosZ="27768.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6154" Name="Wagon_Calpheon_North_0154" PosX="-227268" PosY="-1447.73" PosZ="27868.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6155" Name="Wagon_Calpheon_North_0155" PosX="-225910" PosY="-1438.89" PosZ="27836.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6156" Name="Wagon_Calpheon_North_0156" PosX="-224859" PosY="-1442.43" PosZ="27453.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6157" Name="Wagon_Calpheon_North_0157" PosX="-223963" PosY="-1452.31" PosZ="26681" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6158" Name="Wagon_Calpheon_North_0158" PosX="-223406" PosY="-1508.88" PosZ="25469.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6159" Name="Wagon_Calpheon_North_0159" PosX="-222977" PosY="-1572.43" PosZ="24086.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6160" Name="Wagon_Calpheon_North_0160" PosX="-222743" PosY="-1685.81" PosZ="22694.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6161" Name="Wagon_Calpheon_North_0161" PosX="-222864" PosY="-1783.27" PosZ="21465.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6162" Name="Wagon_Calpheon_North_0162" PosX="-222917" PosY="-1848.62" PosZ="19991.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6163" Name="Wagon_Calpheon_North_0163" PosX="-222650" PosY="-1865.33" PosZ="19112.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6164" Name="Wagon_Calpheon_North_0164" PosX="-222119" PosY="-1879.69" PosZ="17936.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6165" Name="Wagon_Calpheon_North_0165" PosX="-221271" PosY="-1800.54" PosZ="17113.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6166" Name="Wagon_Calpheon_North_0166" PosX="-220185" PosY="-1811.97" PosZ="16151.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6167" Name="Wagon_Calpheon_North_0167" PosX="-219079" PosY="-1742.55" PosZ="15243.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6168" Name="Wagon_Calpheon_North_0168" PosX="-217944" PosY="-1724.41" PosZ="14322" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6169" Name="Wagon_Calpheon_North_0169" PosX="-216751" PosY="-1704.79" PosZ="13417.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6170" Name="Wagon_Calpheon_North_0170" PosX="-216538" PosY="-1619.23" PosZ="13264.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6171" Name="Wagon_Calpheon_North_0171" PosX="-215826" PosY="-1551.94" PosZ="12716.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6172" Name="Wagon_Calpheon_North_0172" PosX="-215355" PosY="-1552.75" PosZ="12290.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6173" Name="Wagon_Calpheon_North_0173" PosX="-214705" PosY="-1615.45" PosZ="11786.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6174" Name="Wagon_Calpheon_North_0174" PosX="-214496" PosY="-1676.14" PosZ="11580.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6175" Name="Wagon_Calpheon_North_0175" PosX="-213969" PosY="-1686.35" PosZ="11046.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6176" Name="Wagon_Calpheon_North_0176" PosX="-213113" PosY="-1678.69" PosZ="10782" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6177" Name="Wagon_Calpheon_North_0177" PosX="-212258" PosY="-1661.91" PosZ="10933.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6178" Name="Wagon_Calpheon_North_0178" PosX="-210250" PosY="-1693.17" PosZ="11670.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6179" Name="Wagon_Calpheon_North_0179" PosX="-207864" PosY="-1738.04" PosZ="12450.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6180" Name="Wagon_Calpheon_North_0180" PosX="-206160" PosY="-1684.8" PosZ="12660.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6181" Name="Wagon_Calpheon_North_0181" PosX="-204503" PosY="-1672.54" PosZ="13261" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6182" Name="Wagon_Calpheon_North_0182" PosX="-203041" PosY="-1580.73" PosZ="13790.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6183" Name="Wagon_Calpheon_North_0183" PosX="-201360" PosY="-1425.54" PosZ="14594.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6184" Name="Wagon_Calpheon_North_0184" PosX="-200073" PosY="-1351.19" PosZ="15538.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6185" Name="Wagon_Calpheon_North_0185" PosX="-198605" PosY="-1294.35" PosZ="16584.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6186" Name="Wagon_Calpheon_North_0186" PosX="-197677" PosY="-1247.11" PosZ="17172.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6187" Name="Wagon_Calpheon_North_0187" PosX="-196446" PosY="-1161.73" PosZ="17401.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6188" Name="Wagon_Calpheon_North_0188" PosX="-195344" PosY="-1058.46" PosZ="17783.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6189" Name="Wagon_Calpheon_North_0189" PosX="-194270" PosY="-964.799" PosZ="18411.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6190" Name="Wagon_Calpheon_North_0190" PosX="-192944" PosY="-884.677" PosZ="18747.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6191" Name="Wagon_Calpheon_North_0191" PosX="-191805" PosY="-788.212" PosZ="18862.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6192" Name="Wagon_Calpheon_North_0192" PosX="-190424" PosY="-730.23" PosZ="19435" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6193" Name="Wagon_Calpheon_North_0193" PosX="-189066" PosY="-671.195" PosZ="20016.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6194" Name="Wagon_Calpheon_North_0194" PosX="-188071" PosY="-579.628" PosZ="20763.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6195" Name="Wagon_Calpheon_North_0195" PosX="-187165" PosY="-441.569" PosZ="21816.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6196" Name="Wagon_Calpheon_North_0196" PosX="-186111" PosY="-326.481" PosZ="23031.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6197" Name="Wagon_Calpheon_North_0197" PosX="-184782" PosY="-193.934" PosZ="24398.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6198" Name="Wagon_Calpheon_North_0198" PosX="-183889" PosY="-115.253" PosZ="25531.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6199" Name="Wagon_Calpheon_North_0199" PosX="-182983" PosY="88.9683" PosZ="26898" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6200" Name="Wagon_Calpheon_North_0200" PosX="-182167" PosY="324.241" PosZ="28308.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6201" Name="Wagon_Calpheon_North_0201" PosX="-181688" PosY="509.216" PosZ="29647.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6202" Name="Wagon_Calpheon_North_0202" PosX="-181301" PosY="689.972" PosZ="31006.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6203" Name="Wagon_Calpheon_North_0203" PosX="-181002" PosY="867.898" PosZ="32338.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6204" Name="Wagon_Calpheon_North_0204" PosX="-181186" PosY="1009.25" PosZ="34028.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6205" Name="Wagon_Calpheon_North_0205" PosX="-181235" PosY="1204.78" PosZ="35661" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6206" Name="Wagon_Calpheon_North_0206" PosX="-181368" PosY="1408.09" PosZ="37005.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6207" Name="Wagon_Calpheon_North_0207" PosX="-181255" PosY="1574.61" PosZ="38291.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6208" Name="Wagon_Calpheon_North_0208" PosX="-180781" PosY="1737.86" PosZ="39646.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6209" Name="Wagon_Calpheon_North_0209" PosX="-180133" PosY="1951.32" PosZ="41299.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6210" Name="Wagon_Calpheon_North_0210" PosX="-179681" PosY="2142.59" PosZ="42874.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6211" Name="Wagon_Calpheon_North_0211" PosX="-179417" PosY="2268.08" PosZ="44213.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6212" Name="Wagon_Calpheon_North_0212" PosX="-179182" PosY="2481.05" PosZ="45878" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6213" Name="Wagon_Calpheon_North_0213" PosX="-178905" PosY="2675.14" PosZ="47407.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6214" Name="Wagon_Calpheon_North_0214" PosX="-178864" PosY="2969.69" PosZ="49612.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6215" Name="Wagon_Calpheon_North_0215" PosX="-178662" PosY="3262.18" PosZ="51796.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6216" Name="Wagon_Calpheon_North_0216" PosX="-178560" PosY="3495.7" PosZ="53499.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6217" Name="Wagon_Calpheon_North_0217" PosX="-178334" PosY="3636.66" PosZ="54566.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6218" Name="Wagon_Calpheon_North_0218" PosX="-177780" PosY="3807.35" PosZ="55358.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6219" Name="Wagon_Calpheon_North_0219" PosX="-176443" PosY="3939.51" PosZ="55428" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6220" Name="Wagon_Calpheon_North_0220" PosX="-175771" PosY="3988.6" PosZ="54901.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6221" Name="Wagon_Calpheon_North_0221" PosX="-178553" PosY="2611.19" PosZ="46656" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6222" Name="Wagon_Calpheon_North_0222" PosX="-178874" PosY="2385.28" PosZ="44793.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6223" Name="Wagon_Calpheon_North_0223" PosX="-179227" PosY="2190.91" PosZ="42980.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6224" Name="Wagon_Calpheon_North_0224" PosX="-179601" PosY="2044.99" PosZ="41792.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6225" Name="Wagon_Calpheon_North_0225" PosX="-180554" PosY="1692.46" PosZ="39237.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6226" Name="Wagon_Calpheon_North_0226" PosX="-180931" PosY="1490.03" PosZ="37897.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6227" Name="Wagon_Calpheon_North_0227" PosX="-181008" PosY="1302.24" PosZ="36572.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6228" Name="Wagon_Calpheon_North_0228" PosX="-180682" PosY="910.394" PosZ="32658.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6229" Name="Wagon_Calpheon_North_0229" PosX="-180737" PosY="837.749" PosZ="31923.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6230" Name="Wagon_Calpheon_North_0230" PosX="-181017" PosY="684.178" PosZ="30705.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6231" Name="Wagon_Calpheon_North_0231" PosX="-181640" PosY="417.209" PosZ="28659.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6232" Name="Wagon_Calpheon_North_0232" PosX="-182827" PosY="46.9805" PosZ="26543" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6233" Name="Wagon_Calpheon_North_0233" PosX="-184292" PosY="-152.547" PosZ="24359.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6234" Name="Wagon_Calpheon_North_0234" PosX="-186845" PosY="-475.63" PosZ="21467.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6235" Name="Wagon_Calpheon_North_0235" PosX="-187616" PosY="-576.344" PosZ="20347.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6236" Name="Wagon_Calpheon_North_0236" PosX="-187813" PosY="-648.318" PosZ="18920.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6237" Name="Wagon_Calpheon_North_0237" PosX="-187232" PosY="-578.82" PosZ="15788.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6238" Name="Wagon_Calpheon_North_0238" PosX="-186034" PosY="-746.931" PosZ="11049.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6239" Name="Wagon_Calpheon_North_0239" PosX="-185573" PosY="-708.158" PosZ="8156.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6240" Name="Wagon_Calpheon_North_0240" PosX="-185379" PosY="-809.442" PosZ="4281.07" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6241" Name="Wagon_Calpheon_North_0241" PosX="-185353" PosY="-823.107" PosZ="2869.87" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6242" Name="Wagon_Calpheon_North_0242" PosX="-185668" PosY="-901.663" PosZ="1491.23" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6243" Name="Wagon_Calpheon_North_0243" PosX="-186700" PosY="-1253.44" PosZ="-2373.64" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6244" Name="Wagon_Calpheon_North_0244" PosX="-187014" PosY="-1606.96" PosZ="-7185.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6245" Name="Wagon_Calpheon_North_0245" PosX="-187418" PosY="-1682.14" PosZ="-8937.51" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6246" Name="Wagon_Calpheon_North_0246" PosX="-189087" PosY="-1949.61" PosZ="-12492.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6247" Name="Wagon_Calpheon_North_0247" PosX="-189659" PosY="-2013.93" PosZ="-13726.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6248" Name="Wagon_Calpheon_North_0248" PosX="-190265" PosY="-2027.26" PosZ="-14221.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6249" Name="Wagon_Calpheon_North_0249" PosX="-190992" PosY="-2016.68" PosZ="-14355.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6250" Name="Wagon_Calpheon_North_0250" PosX="-191739" PosY="-1981.88" PosZ="-13829.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6251" Name="Wagon_Calpheon_North_0251" PosX="-193820" PosY="-1823.36" PosZ="-10502.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6252" Name="Wagon_Calpheon_North_0252" PosX="-194806" PosY="-1801.04" PosZ="-8037.72" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6253" Name="Wagon_Calpheon_North_0253" PosX="-195685" PosY="-1760.13" PosZ="-7127.28" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6254" Name="Wagon_Calpheon_North_0254" PosX="-199174" PosY="-1684.73" PosZ="-5851.73" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6255" Name="Wagon_Calpheon_North_0255" PosX="-200221" PosY="-1652.71" PosZ="-5323.94" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6256" Name="Wagon_Calpheon_North_0256" PosX="-201450" PosY="-1597.49" PosZ="-4333.58" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6257" Name="Wagon_Calpheon_North_0257" PosX="-205153" PosY="-1463.82" PosZ="-4522.46" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6258" Name="Wagon_Calpheon_North_0258" PosX="-208239" PosY="-1334.3" PosZ="-5026.44" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6259" Name="Wagon_Calpheon_North_0259" PosX="-210069" PosY="-1316.35" PosZ="-5274.22" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6260" Name="Wagon_Calpheon_North_0260" PosX="-211303" PosY="-1309.17" PosZ="-5867.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6261" Name="Wagon_Calpheon_North_0261" PosX="-212476" PosY="-1307.39" PosZ="-6771.29" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6262" Name="Wagon_Calpheon_North_0262" PosX="-214203" PosY="-1293.51" PosZ="-7158.52" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6263" Name="Wagon_Calpheon_North_0263" PosX="-214926" PosY="-1303.28" PosZ="-7120.92" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6264" Name="Wagon_Calpheon_North_0264" PosX="-215773" PosY="-1297.8" PosZ="-6476.72" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6265" Name="Wagon_Calpheon_North_0265" PosX="-216932" PosY="-1281.63" PosZ="-6844.42" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6266" Name="Wagon_Calpheon_North_0266" PosX="-218051" PosY="-1281.68" PosZ="-8299.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6267" Name="Wagon_Calpheon_North_0267" PosX="-219033" PosY="-1358.39" PosZ="-9260.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6268" Name="Wagon_Calpheon_North_0268" PosX="-219208" PosY="-1390.04" PosZ="-10123.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6269" Name="Wagon_Calpheon_North_0269" PosX="-219219" PosY="-1429.61" PosZ="-11356.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6270" Name="Wagon_Calpheon_North_0270" PosX="-218472" PosY="-1666.33" PosZ="-16991.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6271" Name="Wagon_Calpheon_North_0271" PosX="-218283" PosY="-1669.09" PosZ="-17490.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6272" Name="Wagon_Calpheon_North_0272" PosX="-216528" PosY="-1674.78" PosZ="-19173.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6273" Name="Wagon_Calpheon_North_0273" PosX="-215298" PosY="-1679.59" PosZ="-20971.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6274" Name="Wagon_Calpheon_North_0274" PosX="-215292" PosY="-2036.41" PosZ="-26228.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6275" Name="Wagon_Calpheon_North_0275" PosX="-215048" PosY="-2171.19" PosZ="-27871.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6276" Name="Wagon_Calpheon_North_0276" PosX="-214477" PosY="-2205.85" PosZ="-28531.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6277" Name="Wagon_Calpheon_North_0277" PosX="-213397" PosY="-2202.86" PosZ="-28851.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6278" Name="Wagon_Calpheon_North_0278" PosX="-210903" PosY="-2215.14" PosZ="-29235.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6279" Name="Wagon_Calpheon_North_0279" PosX="-205524" PosY="-2533" PosZ="-30949.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6280" Name="Wagon_Calpheon_North_0280" PosX="-204822" PosY="-2577.48" PosZ="-32226.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6281" Name="Wagon_Calpheon_North_0281" PosX="-204919" PosY="-2667.97" PosZ="-33318" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6282" Name="Wagon_Calpheon_North_0282" PosX="-205121" PosY="-2817.58" PosZ="-38557.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6283" Name="Wagon_Calpheon_North_0283" PosX="-205268" PosY="-2867.06" PosZ="-43652.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6284" Name="Wagon_Calpheon_North_0284" PosX="-205780" PosY="-3017.95" PosZ="-46770.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6285" Name="Wagon_Calpheon_North_0285" PosX="-206202" PosY="-3125.38" PosZ="-48172" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6286" Name="Wagon_Calpheon_North_0286" PosX="-206798" PosY="-3101.94" PosZ="-48672" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6287" Name="Wagon_Calpheon_North_0287" PosX="-208187" PosY="-3179.56" PosZ="-48928.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6288" Name="Wagon_Calpheon_North_0288" PosX="-211040" PosY="-3078.39" PosZ="-48959.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6289" Name="Wagon_Calpheon_North_0289" PosX="-212904" PosY="-3011.54" PosZ="-49425" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6290" Name="Wagon_Calpheon_North_0290" PosX="-215469" PosY="-3038.45" PosZ="-50379.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6291" Name="Wagon_Calpheon_North_0291" PosX="-217579" PosY="-3071.4" PosZ="-50407" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6292" Name="Wagon_Calpheon_North_0292" PosX="-220661" PosY="-3028.39" PosZ="-49648.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6293" Name="Wagon_Calpheon_North_0293" PosX="-225997" PosY="-3394.31" PosZ="-49586.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6294" Name="Wagon_Calpheon_North_0294" PosX="-229124" PosY="-3675.24" PosZ="-50156.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6295" Name="Wagon_Calpheon_North_0295" PosX="-230094" PosY="-3691.6" PosZ="-49487.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6296" Name="Wagon_Calpheon_North_0296" PosX="-231379" PosY="-3721.53" PosZ="-48986.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6297" Name="Wagon_Calpheon_North_0297" PosX="-232192" PosY="-3679.62" PosZ="-47847.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6298" Name="Wagon_Calpheon_North_0298" PosX="-232015" PosY="-3575.21" PosZ="-46419" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6299" Name="Wagon_Calpheon_North_0299" PosX="-231487" PosY="-3313.56" PosZ="-44477.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6300" Name="Wagon_Calpheon_North_0300" PosX="-260830" PosY="-2621.43" PosZ="-26901.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6301" Name="Wagon_Calpheon_North_0301" PosX="-262830" PosY="-2635.02" PosZ="-27675.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6302" Name="Wagon_Calpheon_North_0302" PosX="-264841" PosY="-2644.62" PosZ="-28742.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6303" Name="Wagon_Calpheon_North_0303" PosX="-266730" PosY="-2652.55" PosZ="-29196.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6304" Name="Wagon_Calpheon_North_0304" PosX="-268899" PosY="-2577.35" PosZ="-29828" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6305" Name="Wagon_Calpheon_North_0305" PosX="-270358" PosY="-2537.61" PosZ="-30923.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6306" Name="Wagon_Calpheon_North_0306" PosX="-271668" PosY="-2586.82" PosZ="-32781.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6307" Name="Wagon_Calpheon_North_0307" PosX="-273056" PosY="-2599.68" PosZ="-34545.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6308" Name="Wagon_Calpheon_North_0308" PosX="-274308" PosY="-2645.61" PosZ="-36385.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6309" Name="Wagon_Calpheon_North_0309" PosX="-275230" PosY="-2746.05" PosZ="-37760.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6310" Name="Wagon_Calpheon_North_0310" PosX="-276060" PosY="-2872.67" PosZ="-39361.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6311" Name="Wagon_Calpheon_North_0311" PosX="-277012" PosY="-2973.15" PosZ="-41184.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6312" Name="Wagon_Calpheon_North_0312" PosX="-277235" PosY="-2992.93" PosZ="-42670.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6313" Name="Wagon_Calpheon_North_0313" PosX="-174778" PosY="4053.43" PosZ="54337.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6314" Name="Wagon_Calpheon_North_0314" PosX="-174707" PosY="3993.88" PosZ="53576.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6315" Name="Wagon_Calpheon_North_0315" PosX="-175072" PosY="3892.64" PosZ="52902.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6316" Name="Wagon_Calpheon_North_0316" PosX="-175728" PosY="3695.34" PosZ="52166.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6317" Name="Wagon_Calpheon_North_0317" PosX="-176089" PosY="3472.59" PosZ="51355.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6318" Name="Wagon_Calpheon_North_0318" PosX="-176819" PosY="3261.17" PosZ="50460.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6319" Name="Wagon_Calpheon_North_0319" PosX="-177719" PosY="3077.38" PosZ="49667.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6320" Name="Wagon_Calpheon_North_0320" PosX="-178080" PosY="2982.44" PosZ="49206.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6321" Name="Wagon_Calpheon_North_0321" PosX="-178279" PosY="2888.77" PosZ="48606.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="6322" Name="Wagon_Calpheon_North_0322" PosX="-178380" PosY="2744.28" PosZ="47645.8" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="6001" TargetWaypoint="6002"/>
+	<Link SourceWaypoint="6002" TargetWaypoint="6003"/>
+	<Link SourceWaypoint="6003" TargetWaypoint="6004"/>
+	<Link SourceWaypoint="6004" TargetWaypoint="6005"/>
+	<Link SourceWaypoint="6005" TargetWaypoint="6006"/>
+	<Link SourceWaypoint="6006" TargetWaypoint="6007"/>
+	<Link SourceWaypoint="6007" TargetWaypoint="6008"/>
+	<Link SourceWaypoint="6008" TargetWaypoint="6009"/>
+	<Link SourceWaypoint="6009" TargetWaypoint="6010"/>
+	<Link SourceWaypoint="6010" TargetWaypoint="6011"/>
+	<Link SourceWaypoint="6011" TargetWaypoint="6012"/>
+	<Link SourceWaypoint="6012" TargetWaypoint="6013"/>
+	<Link SourceWaypoint="6013" TargetWaypoint="6014"/>
+	<Link SourceWaypoint="6014" TargetWaypoint="6015"/>
+	<Link SourceWaypoint="6015" TargetWaypoint="6016"/>
+	<Link SourceWaypoint="6016" TargetWaypoint="6017"/>
+	<Link SourceWaypoint="6017" TargetWaypoint="6018"/>
+	<Link SourceWaypoint="6018" TargetWaypoint="6019"/>
+	<Link SourceWaypoint="6019" TargetWaypoint="6300"/>
+	<Link SourceWaypoint="6020" TargetWaypoint="6021"/>
+	<Link SourceWaypoint="6020" TargetWaypoint="6312"/>
+	<Link SourceWaypoint="6021" TargetWaypoint="6022"/>
+	<Link SourceWaypoint="6022" TargetWaypoint="6023"/>
+	<Link SourceWaypoint="6023" TargetWaypoint="6024"/>
+	<Link SourceWaypoint="6024" TargetWaypoint="6025"/>
+	<Link SourceWaypoint="6025" TargetWaypoint="6026"/>
+	<Link SourceWaypoint="6026" TargetWaypoint="6027"/>
+	<Link SourceWaypoint="6027" TargetWaypoint="6028"/>
+	<Link SourceWaypoint="6028" TargetWaypoint="6029"/>
+	<Link SourceWaypoint="6029" TargetWaypoint="6030"/>
+	<Link SourceWaypoint="6030" TargetWaypoint="6031"/>
+	<Link SourceWaypoint="6031" TargetWaypoint="6032"/>
+	<Link SourceWaypoint="6032" TargetWaypoint="6033"/>
+	<Link SourceWaypoint="6033" TargetWaypoint="6034"/>
+	<Link SourceWaypoint="6034" TargetWaypoint="6035"/>
+	<Link SourceWaypoint="6035" TargetWaypoint="6036"/>
+	<Link SourceWaypoint="6036" TargetWaypoint="6037"/>
+	<Link SourceWaypoint="6037" TargetWaypoint="6038"/>
+	<Link SourceWaypoint="6038" TargetWaypoint="6039"/>
+	<Link SourceWaypoint="6039" TargetWaypoint="6040"/>
+	<Link SourceWaypoint="6040" TargetWaypoint="6041"/>
+	<Link SourceWaypoint="6041" TargetWaypoint="6042"/>
+	<Link SourceWaypoint="6042" TargetWaypoint="6043"/>
+	<Link SourceWaypoint="6043" TargetWaypoint="6044"/>
+	<Link SourceWaypoint="6044" TargetWaypoint="6045"/>
+	<Link SourceWaypoint="6045" TargetWaypoint="6046"/>
+	<Link SourceWaypoint="6046" TargetWaypoint="6047"/>
+	<Link SourceWaypoint="6047" TargetWaypoint="6048"/>
+	<Link SourceWaypoint="6048" TargetWaypoint="6049"/>
+	<Link SourceWaypoint="6049" TargetWaypoint="6050"/>
+	<Link SourceWaypoint="6050" TargetWaypoint="6051"/>
+	<Link SourceWaypoint="6051" TargetWaypoint="6052"/>
+	<Link SourceWaypoint="6052" TargetWaypoint="6053"/>
+	<Link SourceWaypoint="6053" TargetWaypoint="6054"/>
+	<Link SourceWaypoint="6054" TargetWaypoint="6055"/>
+	<Link SourceWaypoint="6055" TargetWaypoint="6056"/>
+	<Link SourceWaypoint="6056" TargetWaypoint="6057"/>
+	<Link SourceWaypoint="6057" TargetWaypoint="6058"/>
+	<Link SourceWaypoint="6058" TargetWaypoint="6059"/>
+	<Link SourceWaypoint="6059" TargetWaypoint="6060"/>
+	<Link SourceWaypoint="6060" TargetWaypoint="6061"/>
+	<Link SourceWaypoint="6061" TargetWaypoint="6062"/>
+	<Link SourceWaypoint="6062" TargetWaypoint="6063"/>
+	<Link SourceWaypoint="6063" TargetWaypoint="6064"/>
+	<Link SourceWaypoint="6064" TargetWaypoint="6065"/>
+	<Link SourceWaypoint="6065" TargetWaypoint="6066"/>
+	<Link SourceWaypoint="6066" TargetWaypoint="6067"/>
+	<Link SourceWaypoint="6067" TargetWaypoint="6068"/>
+	<Link SourceWaypoint="6068" TargetWaypoint="6069"/>
+	<Link SourceWaypoint="6069" TargetWaypoint="6070"/>
+	<Link SourceWaypoint="6070" TargetWaypoint="6071"/>
+	<Link SourceWaypoint="6071" TargetWaypoint="6072"/>
+	<Link SourceWaypoint="6072" TargetWaypoint="6073"/>
+	<Link SourceWaypoint="6073" TargetWaypoint="6074"/>
+	<Link SourceWaypoint="6074" TargetWaypoint="6075"/>
+	<Link SourceWaypoint="6075" TargetWaypoint="6076"/>
+	<Link SourceWaypoint="6076" TargetWaypoint="6077"/>
+	<Link SourceWaypoint="6077" TargetWaypoint="6078"/>
+	<Link SourceWaypoint="6078" TargetWaypoint="6079"/>
+	<Link SourceWaypoint="6079" TargetWaypoint="6080"/>
+	<Link SourceWaypoint="6080" TargetWaypoint="6081"/>
+	<Link SourceWaypoint="6081" TargetWaypoint="6082"/>
+	<Link SourceWaypoint="6082" TargetWaypoint="6083"/>
+	<Link SourceWaypoint="6083" TargetWaypoint="6084"/>
+	<Link SourceWaypoint="6084" TargetWaypoint="6085"/>
+	<Link SourceWaypoint="6085" TargetWaypoint="6086"/>
+	<Link SourceWaypoint="6086" TargetWaypoint="6087"/>
+	<Link SourceWaypoint="6087" TargetWaypoint="6088"/>
+	<Link SourceWaypoint="6088" TargetWaypoint="6089"/>
+	<Link SourceWaypoint="6089" TargetWaypoint="6090"/>
+	<Link SourceWaypoint="6090" TargetWaypoint="6091"/>
+	<Link SourceWaypoint="6091" TargetWaypoint="6092"/>
+	<Link SourceWaypoint="6092" TargetWaypoint="6093"/>
+	<Link SourceWaypoint="6093" TargetWaypoint="6094"/>
+	<Link SourceWaypoint="6094" TargetWaypoint="6095"/>
+	<Link SourceWaypoint="6095" TargetWaypoint="6096"/>
+	<Link SourceWaypoint="6096" TargetWaypoint="6097"/>
+	<Link SourceWaypoint="6097" TargetWaypoint="6098"/>
+	<Link SourceWaypoint="6098" TargetWaypoint="6099"/>
+	<Link SourceWaypoint="6099" TargetWaypoint="6100"/>
+	<Link SourceWaypoint="6100" TargetWaypoint="6101"/>
+	<Link SourceWaypoint="6101" TargetWaypoint="6102"/>
+	<Link SourceWaypoint="6102" TargetWaypoint="6103"/>
+	<Link SourceWaypoint="6103" TargetWaypoint="6104"/>
+	<Link SourceWaypoint="6104" TargetWaypoint="6105"/>
+	<Link SourceWaypoint="6105" TargetWaypoint="6106"/>
+	<Link SourceWaypoint="6106" TargetWaypoint="6107"/>
+	<Link SourceWaypoint="6107" TargetWaypoint="6108"/>
+	<Link SourceWaypoint="6108" TargetWaypoint="6109"/>
+	<Link SourceWaypoint="6109" TargetWaypoint="6110"/>
+	<Link SourceWaypoint="6110" TargetWaypoint="6111"/>
+	<Link SourceWaypoint="6111" TargetWaypoint="6112"/>
+	<Link SourceWaypoint="6112" TargetWaypoint="6113"/>
+	<Link SourceWaypoint="6113" TargetWaypoint="6114"/>
+	<Link SourceWaypoint="6114" TargetWaypoint="6115"/>
+	<Link SourceWaypoint="6115" TargetWaypoint="6116"/>
+	<Link SourceWaypoint="6116" TargetWaypoint="6117"/>
+	<Link SourceWaypoint="6117" TargetWaypoint="6118"/>
+	<Link SourceWaypoint="6118" TargetWaypoint="6119"/>
+	<Link SourceWaypoint="6119" TargetWaypoint="6120"/>
+	<Link SourceWaypoint="6120" TargetWaypoint="6121"/>
+	<Link SourceWaypoint="6121" TargetWaypoint="6122"/>
+	<Link SourceWaypoint="6122" TargetWaypoint="6123"/>
+	<Link SourceWaypoint="6123" TargetWaypoint="6124"/>
+	<Link SourceWaypoint="6124" TargetWaypoint="6125"/>
+	<Link SourceWaypoint="6125" TargetWaypoint="6126"/>
+	<Link SourceWaypoint="6126" TargetWaypoint="6127"/>
+	<Link SourceWaypoint="6127" TargetWaypoint="6128"/>
+	<Link SourceWaypoint="6128" TargetWaypoint="6129"/>
+	<Link SourceWaypoint="6129" TargetWaypoint="6130"/>
+	<Link SourceWaypoint="6130" TargetWaypoint="6131"/>
+	<Link SourceWaypoint="6131" TargetWaypoint="6132"/>
+	<Link SourceWaypoint="6132" TargetWaypoint="6133"/>
+	<Link SourceWaypoint="6133" TargetWaypoint="6134"/>
+	<Link SourceWaypoint="6134" TargetWaypoint="6135"/>
+	<Link SourceWaypoint="6135" TargetWaypoint="6136"/>
+	<Link SourceWaypoint="6136" TargetWaypoint="6137"/>
+	<Link SourceWaypoint="6137" TargetWaypoint="6138"/>
+	<Link SourceWaypoint="6138" TargetWaypoint="6139"/>
+	<Link SourceWaypoint="6139" TargetWaypoint="6140"/>
+	<Link SourceWaypoint="6140" TargetWaypoint="6141"/>
+	<Link SourceWaypoint="6141" TargetWaypoint="6142"/>
+	<Link SourceWaypoint="6142" TargetWaypoint="6143"/>
+	<Link SourceWaypoint="6143" TargetWaypoint="6144"/>
+	<Link SourceWaypoint="6144" TargetWaypoint="6145"/>
+	<Link SourceWaypoint="6145" TargetWaypoint="6146"/>
+	<Link SourceWaypoint="6146" TargetWaypoint="6147"/>
+	<Link SourceWaypoint="6147" TargetWaypoint="6148"/>
+	<Link SourceWaypoint="6148" TargetWaypoint="6149"/>
+	<Link SourceWaypoint="6149" TargetWaypoint="6150"/>
+	<Link SourceWaypoint="6150" TargetWaypoint="6151"/>
+	<Link SourceWaypoint="6151" TargetWaypoint="6152"/>
+	<Link SourceWaypoint="6152" TargetWaypoint="6153"/>
+	<Link SourceWaypoint="6153" TargetWaypoint="6154"/>
+	<Link SourceWaypoint="6154" TargetWaypoint="6155"/>
+	<Link SourceWaypoint="6155" TargetWaypoint="6156"/>
+	<Link SourceWaypoint="6156" TargetWaypoint="6157"/>
+	<Link SourceWaypoint="6157" TargetWaypoint="6158"/>
+	<Link SourceWaypoint="6158" TargetWaypoint="6159"/>
+	<Link SourceWaypoint="6159" TargetWaypoint="6160"/>
+	<Link SourceWaypoint="6160" TargetWaypoint="6161"/>
+	<Link SourceWaypoint="6161" TargetWaypoint="6162"/>
+	<Link SourceWaypoint="6162" TargetWaypoint="6163"/>
+	<Link SourceWaypoint="6163" TargetWaypoint="6164"/>
+	<Link SourceWaypoint="6164" TargetWaypoint="6165"/>
+	<Link SourceWaypoint="6165" TargetWaypoint="6166"/>
+	<Link SourceWaypoint="6166" TargetWaypoint="6167"/>
+	<Link SourceWaypoint="6167" TargetWaypoint="6168"/>
+	<Link SourceWaypoint="6168" TargetWaypoint="6169"/>
+	<Link SourceWaypoint="6169" TargetWaypoint="6170"/>
+	<Link SourceWaypoint="6170" TargetWaypoint="6171"/>
+	<Link SourceWaypoint="6171" TargetWaypoint="6172"/>
+	<Link SourceWaypoint="6172" TargetWaypoint="6173"/>
+	<Link SourceWaypoint="6173" TargetWaypoint="6174"/>
+	<Link SourceWaypoint="6174" TargetWaypoint="6175"/>
+	<Link SourceWaypoint="6175" TargetWaypoint="6176"/>
+	<Link SourceWaypoint="6176" TargetWaypoint="6177"/>
+	<Link SourceWaypoint="6177" TargetWaypoint="6178"/>
+	<Link SourceWaypoint="6178" TargetWaypoint="6179"/>
+	<Link SourceWaypoint="6179" TargetWaypoint="6180"/>
+	<Link SourceWaypoint="6180" TargetWaypoint="6181"/>
+	<Link SourceWaypoint="6181" TargetWaypoint="6182"/>
+	<Link SourceWaypoint="6182" TargetWaypoint="6183"/>
+	<Link SourceWaypoint="6183" TargetWaypoint="6184"/>
+	<Link SourceWaypoint="6184" TargetWaypoint="6185"/>
+	<Link SourceWaypoint="6185" TargetWaypoint="6186"/>
+	<Link SourceWaypoint="6186" TargetWaypoint="6187"/>
+	<Link SourceWaypoint="6187" TargetWaypoint="6188"/>
+	<Link SourceWaypoint="6188" TargetWaypoint="6189"/>
+	<Link SourceWaypoint="6189" TargetWaypoint="6190"/>
+	<Link SourceWaypoint="6190" TargetWaypoint="6191"/>
+	<Link SourceWaypoint="6191" TargetWaypoint="6192"/>
+	<Link SourceWaypoint="6192" TargetWaypoint="6193"/>
+	<Link SourceWaypoint="6193" TargetWaypoint="6194"/>
+	<Link SourceWaypoint="6194" TargetWaypoint="6195"/>
+	<Link SourceWaypoint="6195" TargetWaypoint="6196"/>
+	<Link SourceWaypoint="6196" TargetWaypoint="6197"/>
+	<Link SourceWaypoint="6197" TargetWaypoint="6198"/>
+	<Link SourceWaypoint="6198" TargetWaypoint="6199"/>
+	<Link SourceWaypoint="6199" TargetWaypoint="6200"/>
+	<Link SourceWaypoint="6200" TargetWaypoint="6201"/>
+	<Link SourceWaypoint="6201" TargetWaypoint="6202"/>
+	<Link SourceWaypoint="6202" TargetWaypoint="6203"/>
+	<Link SourceWaypoint="6203" TargetWaypoint="6204"/>
+	<Link SourceWaypoint="6204" TargetWaypoint="6205"/>
+	<Link SourceWaypoint="6205" TargetWaypoint="6206"/>
+	<Link SourceWaypoint="6206" TargetWaypoint="6207"/>
+	<Link SourceWaypoint="6207" TargetWaypoint="6208"/>
+	<Link SourceWaypoint="6208" TargetWaypoint="6209"/>
+	<Link SourceWaypoint="6209" TargetWaypoint="6210"/>
+	<Link SourceWaypoint="6210" TargetWaypoint="6211"/>
+	<Link SourceWaypoint="6211" TargetWaypoint="6212"/>
+	<Link SourceWaypoint="6212" TargetWaypoint="6213"/>
+	<Link SourceWaypoint="6213" TargetWaypoint="6214"/>
+	<Link SourceWaypoint="6214" TargetWaypoint="6215"/>
+	<Link SourceWaypoint="6215" TargetWaypoint="6216"/>
+	<Link SourceWaypoint="6216" TargetWaypoint="6217"/>
+	<Link SourceWaypoint="6217" TargetWaypoint="6218"/>
+	<Link SourceWaypoint="6218" TargetWaypoint="6219"/>
+	<Link SourceWaypoint="6219" TargetWaypoint="6220"/>
+	<Link SourceWaypoint="6220" TargetWaypoint="6313"/>
+	<Link SourceWaypoint="6221" TargetWaypoint="6222"/>
+	<Link SourceWaypoint="6222" TargetWaypoint="6223"/>
+	<Link SourceWaypoint="6223" TargetWaypoint="6224"/>
+	<Link SourceWaypoint="6224" TargetWaypoint="6225"/>
+	<Link SourceWaypoint="6225" TargetWaypoint="6226"/>
+	<Link SourceWaypoint="6226" TargetWaypoint="6227"/>
+	<Link SourceWaypoint="6227" TargetWaypoint="6228"/>
+	<Link SourceWaypoint="6228" TargetWaypoint="6229"/>
+	<Link SourceWaypoint="6229" TargetWaypoint="6230"/>
+	<Link SourceWaypoint="6230" TargetWaypoint="6231"/>
+	<Link SourceWaypoint="6231" TargetWaypoint="6232"/>
+	<Link SourceWaypoint="6232" TargetWaypoint="6233"/>
+	<Link SourceWaypoint="6233" TargetWaypoint="6234"/>
+	<Link SourceWaypoint="6234" TargetWaypoint="6235"/>
+	<Link SourceWaypoint="6235" TargetWaypoint="6236"/>
+	<Link SourceWaypoint="6236" TargetWaypoint="6237"/>
+	<Link SourceWaypoint="6237" TargetWaypoint="6238"/>
+	<Link SourceWaypoint="6238" TargetWaypoint="6239"/>
+	<Link SourceWaypoint="6239" TargetWaypoint="6240"/>
+	<Link SourceWaypoint="6240" TargetWaypoint="6241"/>
+	<Link SourceWaypoint="6241" TargetWaypoint="6242"/>
+	<Link SourceWaypoint="6242" TargetWaypoint="6243"/>
+	<Link SourceWaypoint="6243" TargetWaypoint="6244"/>
+	<Link SourceWaypoint="6244" TargetWaypoint="6245"/>
+	<Link SourceWaypoint="6245" TargetWaypoint="6246"/>
+	<Link SourceWaypoint="6246" TargetWaypoint="6247"/>
+	<Link SourceWaypoint="6247" TargetWaypoint="6248"/>
+	<Link SourceWaypoint="6248" TargetWaypoint="6249"/>
+	<Link SourceWaypoint="6249" TargetWaypoint="6250"/>
+	<Link SourceWaypoint="6250" TargetWaypoint="6251"/>
+	<Link SourceWaypoint="6251" TargetWaypoint="6252"/>
+	<Link SourceWaypoint="6252" TargetWaypoint="6253"/>
+	<Link SourceWaypoint="6253" TargetWaypoint="6254"/>
+	<Link SourceWaypoint="6254" TargetWaypoint="6255"/>
+	<Link SourceWaypoint="6255" TargetWaypoint="6256"/>
+	<Link SourceWaypoint="6256" TargetWaypoint="6257"/>
+	<Link SourceWaypoint="6257" TargetWaypoint="6258"/>
+	<Link SourceWaypoint="6258" TargetWaypoint="6259"/>
+	<Link SourceWaypoint="6259" TargetWaypoint="6260"/>
+	<Link SourceWaypoint="6260" TargetWaypoint="6261"/>
+	<Link SourceWaypoint="6261" TargetWaypoint="6262"/>
+	<Link SourceWaypoint="6262" TargetWaypoint="6263"/>
+	<Link SourceWaypoint="6263" TargetWaypoint="6264"/>
+	<Link SourceWaypoint="6264" TargetWaypoint="6265"/>
+	<Link SourceWaypoint="6265" TargetWaypoint="6266"/>
+	<Link SourceWaypoint="6266" TargetWaypoint="6267"/>
+	<Link SourceWaypoint="6267" TargetWaypoint="6268"/>
+	<Link SourceWaypoint="6268" TargetWaypoint="6269"/>
+	<Link SourceWaypoint="6269" TargetWaypoint="6270"/>
+	<Link SourceWaypoint="6270" TargetWaypoint="6271"/>
+	<Link SourceWaypoint="6271" TargetWaypoint="6272"/>
+	<Link SourceWaypoint="6272" TargetWaypoint="6273"/>
+	<Link SourceWaypoint="6273" TargetWaypoint="6274"/>
+	<Link SourceWaypoint="6274" TargetWaypoint="6275"/>
+	<Link SourceWaypoint="6275" TargetWaypoint="6276"/>
+	<Link SourceWaypoint="6276" TargetWaypoint="6277"/>
+	<Link SourceWaypoint="6277" TargetWaypoint="6278"/>
+	<Link SourceWaypoint="6278" TargetWaypoint="6279"/>
+	<Link SourceWaypoint="6279" TargetWaypoint="6280"/>
+	<Link SourceWaypoint="6280" TargetWaypoint="6281"/>
+	<Link SourceWaypoint="6281" TargetWaypoint="6282"/>
+	<Link SourceWaypoint="6282" TargetWaypoint="6283"/>
+	<Link SourceWaypoint="6283" TargetWaypoint="6284"/>
+	<Link SourceWaypoint="6284" TargetWaypoint="6285"/>
+	<Link SourceWaypoint="6285" TargetWaypoint="6286"/>
+	<Link SourceWaypoint="6286" TargetWaypoint="6287"/>
+	<Link SourceWaypoint="6287" TargetWaypoint="6288"/>
+	<Link SourceWaypoint="6288" TargetWaypoint="6289"/>
+	<Link SourceWaypoint="6289" TargetWaypoint="6290"/>
+	<Link SourceWaypoint="6290" TargetWaypoint="6291"/>
+	<Link SourceWaypoint="6291" TargetWaypoint="6292"/>
+	<Link SourceWaypoint="6292" TargetWaypoint="6293"/>
+	<Link SourceWaypoint="6293" TargetWaypoint="6294"/>
+	<Link SourceWaypoint="6294" TargetWaypoint="6295"/>
+	<Link SourceWaypoint="6295" TargetWaypoint="6296"/>
+	<Link SourceWaypoint="6296" TargetWaypoint="6297"/>
+	<Link SourceWaypoint="6297" TargetWaypoint="6298"/>
+	<Link SourceWaypoint="6298" TargetWaypoint="6299"/>
+	<Link SourceWaypoint="6299" TargetWaypoint="6001"/>
+	<Link SourceWaypoint="6300" TargetWaypoint="6301"/>
+	<Link SourceWaypoint="6301" TargetWaypoint="6302"/>
+	<Link SourceWaypoint="6302" TargetWaypoint="6303"/>
+	<Link SourceWaypoint="6303" TargetWaypoint="6304"/>
+	<Link SourceWaypoint="6304" TargetWaypoint="6305"/>
+	<Link SourceWaypoint="6305" TargetWaypoint="6306"/>
+	<Link SourceWaypoint="6306" TargetWaypoint="6307"/>
+	<Link SourceWaypoint="6307" TargetWaypoint="6308"/>
+	<Link SourceWaypoint="6308" TargetWaypoint="6309"/>
+	<Link SourceWaypoint="6309" TargetWaypoint="6310"/>
+	<Link SourceWaypoint="6310" TargetWaypoint="6311"/>
+	<Link SourceWaypoint="6311" TargetWaypoint="6312"/>
+	<Link SourceWaypoint="6312" TargetWaypoint="6020"/>
+	<Link SourceWaypoint="6313" TargetWaypoint="6314"/>
+	<Link SourceWaypoint="6314" TargetWaypoint="6315"/>
+	<Link SourceWaypoint="6315" TargetWaypoint="6316"/>
+	<Link SourceWaypoint="6316" TargetWaypoint="6317"/>
+	<Link SourceWaypoint="6317" TargetWaypoint="6318"/>
+	<Link SourceWaypoint="6318" TargetWaypoint="6319"/>
+	<Link SourceWaypoint="6319" TargetWaypoint="6320"/>
+	<Link SourceWaypoint="6320" TargetWaypoint="6321"/>
+	<Link SourceWaypoint="6321" TargetWaypoint="6322"/>
+	<Link SourceWaypoint="6322" TargetWaypoint="6221"/>
+</LinkList>
+<GroupList>
+	<Group Key="8" Name="Wagon_Calpheon_North"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

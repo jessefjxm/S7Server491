@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ This file is part of bdo-emu <http://bdo-emu.com/>.
+  ~
+  ~ bdo-emu is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ bdo-emu is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with bdo-emu. If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<configuration strict="true" name="Gameserver">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} %-5level - %msg%xEx%n"/>
+        </Console>
+        <RollingFile name="ConsoleToFile" fileName="log/java/console.log"
+                     filePattern="log/java/console-%d{MM-dd-yyyy}.log.gz" append="false">
+            <PatternLayout pattern="%d %-5level %logger{36} %L %M - %msg%n"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="ErrorToFile" fileName="log/error/error.log"
+                     filePattern="log/error/error-%d{MM-dd-yyyy}.log.gz" append="false">
+            <PatternLayout pattern="%d %-5level %logger{36} %L %M - %msg%xEx%n"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="DebugToFile" fileName="log/debug/debug.log"
+                     filePattern="log/debug/debug-%d{MM-dd-yyyy}.log.gz">
+            <PatternLayout pattern="%d - %msg%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+            <Filters>
+                <ThresholdFilter level="warn" onMatch="DENY" onMismatch="NEUTRAL"/>
+                <ThresholdFilter level="error" onMatch="DENY" onMismatch="NEUTRAL"/>
+                <ThresholdFilter level="fatal" onMatch="DENY" onMismatch="NEUTRAL"/>
+                <ThresholdFilter level="info" onMatch="DENY" onMismatch="NEUTRAL"/>
+            </Filters>
+        </RollingFile>
+        <RollingFile name="Authentication" fileName="log/authentication/authentication.log"
+                     filePattern="log/authentication/authentication-%d{MM-dd-yyyy}.log.gz">
+            <PatternLayout pattern="%d - %msg%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Network" fileName="log/network/network.log"
+                     filePattern="log/network/network-%d{MM-dd-yyyy}.log.gz">
+            <PatternLayout pattern="%d - %msg%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+    <loggers>
+        <logger name="org.eclipse.jetty" level="warn"/>
+        <logger name="spark" level="info"/>
+        <logger name="Authentication" level="info" additivity="false">
+            <appender-ref ref="Authentication"/>
+        </logger>
+        <logger name="Network" level="info" additivity="false">
+            <appender-ref ref="Network"/>
+        </logger>
+        <logger name="DebugLogger" level="debug" additivity="false">
+            <appender-ref ref="DebugToFile"/>
+        </logger>
+        <root level="info">
+            <appender-ref ref="Console"/>
+            <appender-ref ref="ConsoleToFile" level="info"/>
+            <appender-ref ref="ErrorToFile" level="error"/>
+            <!-- Uncomment this for debug messages -->
+            <appender-ref ref="DebugToFile" level="debug"/>
+        </root>
+    </loggers>
+</configuration>

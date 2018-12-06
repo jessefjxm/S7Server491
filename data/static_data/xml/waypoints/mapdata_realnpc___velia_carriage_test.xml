@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="npc" subName="velia_carriage_test">
+<WaypointList>
+	<Waypoint IsSubWaypoint="False" Key="8452" Name="Carriage_Test_001" PosX="10953.4" PosY="-7208.33" PosZ="80937.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8453" Name="Carriage_Test_002" PosX="11760.7" PosY="-7206.64" PosZ="81138" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8454" Name="Carriage_Test_003" PosX="12869.9" PosY="-7206.05" PosZ="81462.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8455" Name="Carriage_Test_004" PosX="13857.6" PosY="-7191.74" PosZ="81769.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8457" Name="Carriage_Test_006" PosX="15507.4" PosY="-7009.2" PosZ="80749.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8458" Name="Carriage_Test_005" PosX="14320.3" PosY="-7157.54" PosZ="81848.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8459" Name="Carriage_Test_007" PosX="14693.9" PosY="-7107.28" PosZ="81804.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8460" Name="Carriage_Test_008" PosX="14978.2" PosY="-7100.83" PosZ="81635.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8461" Name="Carriage_Test_009" PosX="15173.5" PosY="-7059.68" PosZ="81342.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8462" Name="Carriage_Test_010" PosX="16044.3" PosY="-6886.65" PosZ="79879.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8463" Name="Carriage_Test_011" PosX="16439.6" PosY="-6796.87" PosZ="79233.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8464" Name="Carriage_Test_012" PosX="16918" PosY="-6711.62" PosZ="78483.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8465" Name="Carriage_Test_013" PosX="17701" PosY="-6586.89" PosZ="77436.4" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8466" Name="Carriage_Test_014" PosX="18284.2" PosY="-6501.32" PosZ="76845.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8468" Name="Carriage_Test_016" PosX="18088" PosY="-6460.36" PosZ="75712.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8469" Name="Carriage_Test_015" PosX="18500.2" PosY="-6484.62" PosZ="76537.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8470" Name="Carriage_Test_017" PosX="18599.5" PosY="-6473.2" PosZ="76274.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8471" Name="Carriage_Test_018" PosX="18563.8" PosY="-6465.35" PosZ="76049.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8472" Name="Carriage_Test_019" PosX="18393.3" PosY="-6461.07" PosZ="75862.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8473" Name="Carriage_Test_020" PosX="17277" PosY="-6471.4" PosZ="75536.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8474" Name="Carriage_Test_021" PosX="16503.4" PosY="-6498.07" PosZ="75353.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8475" Name="Carriage_Test_022" PosX="15762.1" PosY="-6503.77" PosZ="75065.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8476" Name="Carriage_Test_023" PosX="14770.3" PosY="-6467.28" PosZ="74542.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8477" Name="Carriage_Test_024" PosX="13553.3" PosY="-6432.68" PosZ="73863.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8478" Name="Carriage_Test_025" PosX="12385.8" PosY="-6421.44" PosZ="73476.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8479" Name="Carriage_Test_026" PosX="11246.5" PosY="-6419.98" PosZ="73241.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8480" Name="Carriage_Test_027" PosX="10304.8" PosY="-6434.76" PosZ="73040.1" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8481" Name="Carriage_Test_028" PosX="9356.56" PosY="-6470.13" PosZ="72877.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8482" Name="Carriage_Test_029" PosX="8452.62" PosY="-6493.95" PosZ="72584.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8484" Name="Carriage_Test_031" PosX="7813.19" PosY="-6582.62" PosZ="73346" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8485" Name="Carriage_Test_030" PosX="8085.11" PosY="-6511.58" PosZ="72516.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8486" Name="Carriage_Test_032" PosX="7837.41" PosY="-6529.26" PosZ="72559.2" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8487" Name="Carriage_Test_033" PosX="7709.52" PosY="-6546.99" PosZ="72711.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8488" Name="Carriage_Test_034" PosX="7701.45" PosY="-6564.78" PosZ="72973.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8489" Name="Carriage_Test_035" PosX="8001.78" PosY="-6647.06" PosZ="73891.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8490" Name="Carriage_Test_036" PosX="8079.89" PosY="-6693.84" PosZ="74244.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8491" Name="Carriage_Test_037" PosX="8094.05" PosY="-6809.82" PosZ="74837.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8492" Name="Carriage_Test_038" PosX="8044.39" PosY="-6985.91" PosZ="75684" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8493" Name="Carriage_Test_039" PosX="7845.99" PosY="-7146.62" PosZ="76991" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8494" Name="Carriage_Test_040" PosX="7667.4" PosY="-7207.61" PosZ="78173.3" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8495" Name="Carriage_Test_041" PosX="7479.43" PosY="-7230.51" PosZ="79164.6" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8497" Name="Carriage_Test_043" PosX="8033.84" PosY="-7286.23" PosZ="80411" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8498" Name="Carriage_Test_042" PosX="7382.72" PosY="-7244.31" PosZ="79585.8" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8499" Name="Carriage_Test_044" PosX="7364.51" PosY="-7240.11" PosZ="79876.9" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8500" Name="Carriage_Test_045" PosX="7466.96" PosY="-7266.35" PosZ="80111.5" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8501" Name="Carriage_Test_046" PosX="7728.18" PosY="-7276.87" PosZ="80299" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8502" Name="Carriage_Test_047" PosX="8975.15" PosY="-7244.73" PosZ="80576.7" Property="ground"/>
+	<Waypoint IsSubWaypoint="False" Key="8503" Name="Carriage_Test_048" PosX="10127.9" PosY="-7213.68" PosZ="80715" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="8452" TargetWaypoint="8453"/>
+	<Link SourceWaypoint="8453" TargetWaypoint="8454"/>
+	<Link SourceWaypoint="8454" TargetWaypoint="8455"/>
+	<Link SourceWaypoint="8455" TargetWaypoint="8458"/>
+	<Link SourceWaypoint="8457" TargetWaypoint="8462"/>
+	<Link SourceWaypoint="8458" TargetWaypoint="8459"/>
+	<Link SourceWaypoint="8459" TargetWaypoint="8460"/>
+	<Link SourceWaypoint="8460" TargetWaypoint="8461"/>
+	<Link SourceWaypoint="8461" TargetWaypoint="8457"/>
+	<Link SourceWaypoint="8462" TargetWaypoint="8463"/>
+	<Link SourceWaypoint="8463" TargetWaypoint="8464"/>
+	<Link SourceWaypoint="8464" TargetWaypoint="8465"/>
+	<Link SourceWaypoint="8465" TargetWaypoint="8466"/>
+	<Link SourceWaypoint="8466" TargetWaypoint="8469"/>
+	<Link SourceWaypoint="8468" TargetWaypoint="8473"/>
+	<Link SourceWaypoint="8469" TargetWaypoint="8470"/>
+	<Link SourceWaypoint="8470" TargetWaypoint="8471"/>
+	<Link SourceWaypoint="8471" TargetWaypoint="8472"/>
+	<Link SourceWaypoint="8472" TargetWaypoint="8468"/>
+	<Link SourceWaypoint="8473" TargetWaypoint="8474"/>
+	<Link SourceWaypoint="8474" TargetWaypoint="8475"/>
+	<Link SourceWaypoint="8475" TargetWaypoint="8476"/>
+	<Link SourceWaypoint="8476" TargetWaypoint="8477"/>
+	<Link SourceWaypoint="8477" TargetWaypoint="8478"/>
+	<Link SourceWaypoint="8478" TargetWaypoint="8479"/>
+	<Link SourceWaypoint="8479" TargetWaypoint="8480"/>
+	<Link SourceWaypoint="8480" TargetWaypoint="8481"/>
+	<Link SourceWaypoint="8481" TargetWaypoint="8482"/>
+	<Link SourceWaypoint="8482" TargetWaypoint="8485"/>
+	<Link SourceWaypoint="8484" TargetWaypoint="8489"/>
+	<Link SourceWaypoint="8485" TargetWaypoint="8486"/>
+	<Link SourceWaypoint="8486" TargetWaypoint="8487"/>
+	<Link SourceWaypoint="8487" TargetWaypoint="8488"/>
+	<Link SourceWaypoint="8488" TargetWaypoint="8484"/>
+	<Link SourceWaypoint="8489" TargetWaypoint="8490"/>
+	<Link SourceWaypoint="8490" TargetWaypoint="8491"/>
+	<Link SourceWaypoint="8491" TargetWaypoint="8492"/>
+	<Link SourceWaypoint="8492" TargetWaypoint="8493"/>
+	<Link SourceWaypoint="8493" TargetWaypoint="8494"/>
+	<Link SourceWaypoint="8494" TargetWaypoint="8495"/>
+	<Link SourceWaypoint="8495" TargetWaypoint="8498"/>
+	<Link SourceWaypoint="8497" TargetWaypoint="8502"/>
+	<Link SourceWaypoint="8498" TargetWaypoint="8499"/>
+	<Link SourceWaypoint="8499" TargetWaypoint="8500"/>
+	<Link SourceWaypoint="8500" TargetWaypoint="8501"/>
+	<Link SourceWaypoint="8501" TargetWaypoint="8497"/>
+	<Link SourceWaypoint="8502" TargetWaypoint="8503"/>
+	<Link SourceWaypoint="8503" TargetWaypoint="8452"/>
+</LinkList>
+<GroupList>
+	<Group Key="11" Name="Velia_Carriage_Test"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

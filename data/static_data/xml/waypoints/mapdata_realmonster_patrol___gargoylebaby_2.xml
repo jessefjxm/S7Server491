@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="gargoylebaby_2">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11214" Name="GargoyleBaby_2_0" PosX="-295533" PosY="10186.4" PosZ="-256725" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11217" Name="GargoyleBaby_2_1" PosX="-293469" PosY="9849.26" PosZ="-256025" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11222" Name="GargoyleBaby_2_2" PosX="-294366" PosY="9861.2" PosZ="-253623" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11223" Name="GargoyleBaby_2_3" PosX="-296646" PosY="9862.5" PosZ="-256066" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11225" Name="GargoyleBaby_2_4" PosX="-294631" PosY="9757.49" PosZ="-257173" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11227" Name="GargoyleBaby_2_5" PosX="-296023" PosY="9744.31" PosZ="-254201" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11228" Name="GargoyleBaby_2_6" PosX="-295727" PosY="9825.27" PosZ="-253916" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11229" Name="GargoyleBaby_2_7" PosX="-295413" PosY="9877.44" PosZ="-253715" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11230" Name="GargoyleBaby_2_8" PosX="-295082" PosY="9900.82" PosZ="-253600" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11231" Name="GargoyleBaby_2_9" PosX="-294733" PosY="9895.41" PosZ="-253569" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11232" Name="GargoyleBaby_2_10" PosX="-296716" PosY="9817.69" PosZ="-255534" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11233" Name="GargoyleBaby_2_11" PosX="-296689" PosY="9783.47" PosZ="-255082" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11234" Name="GargoyleBaby_2_12" PosX="-296564" PosY="9759.83" PosZ="-254709" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11235" Name="GargoyleBaby_2_13" PosX="-296342" PosY="9746.78" PosZ="-254415" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11236" Name="GargoyleBaby_2_14" PosX="-294888" PosY="9862.62" PosZ="-256939" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11237" Name="GargoyleBaby_2_15" PosX="-295107" PosY="9958.08" PosZ="-256777" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11238" Name="GargoyleBaby_2_16" PosX="-295288" PosY="10043.9" PosZ="-256688" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11239" Name="GargoyleBaby_2_17" PosX="-295430" PosY="10120" PosZ="-256670" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11240" Name="GargoyleBaby_2_18" PosX="-293596" PosY="9864" PosZ="-256345" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11241" Name="GargoyleBaby_2_19" PosX="-293775" PosY="9862.2" PosZ="-256620" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11242" Name="GargoyleBaby_2_20" PosX="-294007" PosY="9843.84" PosZ="-256850" Property="air"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11243" Name="GargoyleBaby_2_21" PosX="-294292" PosY="9808.94" PosZ="-257034" Property="air"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11214" TargetWaypoint="11223"/>
+	<Link SourceWaypoint="11217" TargetWaypoint="11240"/>
+	<Link SourceWaypoint="11222" TargetWaypoint="11217"/>
+	<Link SourceWaypoint="11223" TargetWaypoint="11232"/>
+	<Link SourceWaypoint="11225" TargetWaypoint="11236"/>
+	<Link SourceWaypoint="11227" TargetWaypoint="11228"/>
+	<Link SourceWaypoint="11228" TargetWaypoint="11229"/>
+	<Link SourceWaypoint="11229" TargetWaypoint="11230"/>
+	<Link SourceWaypoint="11230" TargetWaypoint="11231"/>
+	<Link SourceWaypoint="11231" TargetWaypoint="11222"/>
+	<Link SourceWaypoint="11232" TargetWaypoint="11233"/>
+	<Link SourceWaypoint="11233" TargetWaypoint="11234"/>
+	<Link SourceWaypoint="11234" TargetWaypoint="11235"/>
+	<Link SourceWaypoint="11235" TargetWaypoint="11227"/>
+	<Link SourceWaypoint="11236" TargetWaypoint="11237"/>
+	<Link SourceWaypoint="11237" TargetWaypoint="11238"/>
+	<Link SourceWaypoint="11238" TargetWaypoint="11239"/>
+	<Link SourceWaypoint="11239" TargetWaypoint="11214"/>
+	<Link SourceWaypoint="11240" TargetWaypoint="11241"/>
+	<Link SourceWaypoint="11241" TargetWaypoint="11242"/>
+	<Link SourceWaypoint="11242" TargetWaypoint="11243"/>
+	<Link SourceWaypoint="11243" TargetWaypoint="11225"/>
+</LinkList>
+<GroupList>
+	<Group Key="34" Name="GargoyleBaby_2"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="med_plunder_05">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14281" Name="Med_Plunder_05_001" PosX="274402" PosY="-4869.45" PosZ="76733.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14282" Name="Med_Plunder_05_002" PosX="272727" PosY="-4936.73" PosZ="76884.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14283" Name="Med_Plunder_05_003" PosX="271530" PosY="-4999.52" PosZ="76972.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14284" Name="Med_Plunder_05_004" PosX="270471" PosY="-5093.95" PosZ="77071.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14285" Name="Med_Plunder_05_005" PosX="269465" PosY="-5132.24" PosZ="77001" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14286" Name="Med_Plunder_05_006" PosX="268381" PosY="-5142.02" PosZ="77033.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14287" Name="Med_Plunder_05_007" PosX="267488" PosY="-5229.06" PosZ="77073.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14288" Name="Med_Plunder_05_008" PosX="266646" PosY="-5276.46" PosZ="77006.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14289" Name="Med_Plunder_05_009" PosX="265400" PosY="-5336.71" PosZ="76719.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14290" Name="Med_Plunder_05_010" PosX="264208" PosY="-5433.43" PosZ="76211.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14291" Name="Med_Plunder_05_011" PosX="263379" PosY="-5490.89" PosZ="75567.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14292" Name="Med_Plunder_05_012" PosX="262248" PosY="-5583.24" PosZ="74794.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14293" Name="Med_Plunder_05_013" PosX="260938" PosY="-5561.58" PosZ="74051.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14294" Name="Med_Plunder_05_014" PosX="259732" PosY="-5534.08" PosZ="73538.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14295" Name="Med_Plunder_05_015" PosX="258288" PosY="-5513.34" PosZ="72863.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14296" Name="Med_Plunder_05_016" PosX="256903" PosY="-5478.72" PosZ="72664.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14297" Name="Med_Plunder_05_017" PosX="255295" PosY="-5377.29" PosZ="72436.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14298" Name="Med_Plunder_05_018" PosX="253667" PosY="-5341.35" PosZ="72100.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14299" Name="Med_Plunder_05_019" PosX="265292" PosY="-5366.66" PosZ="77537.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14300" Name="Med_Plunder_05_020" PosX="264399" PosY="-5346.77" PosZ="78405.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14301" Name="Med_Plunder_05_021" PosX="263744" PosY="-5233.83" PosZ="79388.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14302" Name="Med_Plunder_05_022" PosX="263025" PosY="-5131.46" PosZ="80153" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14303" Name="Med_Plunder_05_023" PosX="262295" PosY="-4963.35" PosZ="81091.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14304" Name="Med_Plunder_05_024" PosX="261635" PosY="-4889.16" PosZ="81872.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14305" Name="Med_Plunder_05_025" PosX="260801" PosY="-4901.45" PosZ="82805.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14306" Name="Med_Plunder_05_026" PosX="264643" PosY="-5383.08" PosZ="77984.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14307" Name="Med_Plunder_05_027" PosX="264841" PosY="-5391.63" PosZ="77245.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14308" Name="Med_Plunder_05_028" PosX="264580" PosY="-5410.94" PosZ="76691.4" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="14281" TargetWaypoint="14282"/>
+	<Link SourceWaypoint="14282" TargetWaypoint="14281"/>
+	<Link SourceWaypoint="14282" TargetWaypoint="14283"/>
+	<Link SourceWaypoint="14283" TargetWaypoint="14282"/>
+	<Link SourceWaypoint="14283" TargetWaypoint="14284"/>
+	<Link SourceWaypoint="14284" TargetWaypoint="14283"/>
+	<Link SourceWaypoint="14284" TargetWaypoint="14285"/>
+	<Link SourceWaypoint="14285" TargetWaypoint="14284"/>
+	<Link SourceWaypoint="14285" TargetWaypoint="14286"/>
+	<Link SourceWaypoint="14286" TargetWaypoint="14285"/>
+	<Link SourceWaypoint="14286" TargetWaypoint="14287"/>
+	<Link SourceWaypoint="14287" TargetWaypoint="14286"/>
+	<Link SourceWaypoint="14287" TargetWaypoint="14288"/>
+	<Link SourceWaypoint="14288" TargetWaypoint="14287"/>
+	<Link SourceWaypoint="14288" TargetWaypoint="14289"/>
+	<Link SourceWaypoint="14288" TargetWaypoint="14299"/>
+	<Link SourceWaypoint="14289" TargetWaypoint="14288"/>
+	<Link SourceWaypoint="14289" TargetWaypoint="14290"/>
+	<Link SourceWaypoint="14290" TargetWaypoint="14289"/>
+	<Link SourceWaypoint="14290" TargetWaypoint="14291"/>
+	<Link SourceWaypoint="14290" TargetWaypoint="14308"/>
+	<Link SourceWaypoint="14291" TargetWaypoint="14290"/>
+	<Link SourceWaypoint="14291" TargetWaypoint="14292"/>
+	<Link SourceWaypoint="14292" TargetWaypoint="14291"/>
+	<Link SourceWaypoint="14292" TargetWaypoint="14293"/>
+	<Link SourceWaypoint="14293" TargetWaypoint="14292"/>
+	<Link SourceWaypoint="14293" TargetWaypoint="14294"/>
+	<Link SourceWaypoint="14294" TargetWaypoint="14293"/>
+	<Link SourceWaypoint="14294" TargetWaypoint="14295"/>
+	<Link SourceWaypoint="14295" TargetWaypoint="14294"/>
+	<Link SourceWaypoint="14295" TargetWaypoint="14296"/>
+	<Link SourceWaypoint="14296" TargetWaypoint="14295"/>
+	<Link SourceWaypoint="14296" TargetWaypoint="14297"/>
+	<Link SourceWaypoint="14297" TargetWaypoint="14296"/>
+	<Link SourceWaypoint="14297" TargetWaypoint="14298"/>
+	<Link SourceWaypoint="14298" TargetWaypoint="14297"/>
+	<Link SourceWaypoint="14299" TargetWaypoint="14288"/>
+	<Link SourceWaypoint="14299" TargetWaypoint="14300"/>
+	<Link SourceWaypoint="14300" TargetWaypoint="14299"/>
+	<Link SourceWaypoint="14300" TargetWaypoint="14301"/>
+	<Link SourceWaypoint="14300" TargetWaypoint="14306"/>
+	<Link SourceWaypoint="14301" TargetWaypoint="14300"/>
+	<Link SourceWaypoint="14301" TargetWaypoint="14302"/>
+	<Link SourceWaypoint="14302" TargetWaypoint="14301"/>
+	<Link SourceWaypoint="14302" TargetWaypoint="14303"/>
+	<Link SourceWaypoint="14303" TargetWaypoint="14302"/>
+	<Link SourceWaypoint="14303" TargetWaypoint="14304"/>
+	<Link SourceWaypoint="14304" TargetWaypoint="14303"/>
+	<Link SourceWaypoint="14304" TargetWaypoint="14305"/>
+	<Link SourceWaypoint="14305" TargetWaypoint="14304"/>
+	<Link SourceWaypoint="14306" TargetWaypoint="14300"/>
+	<Link SourceWaypoint="14306" TargetWaypoint="14307"/>
+	<Link SourceWaypoint="14307" TargetWaypoint="14306"/>
+	<Link SourceWaypoint="14307" TargetWaypoint="14308"/>
+	<Link SourceWaypoint="14308" TargetWaypoint="14307"/>
+	<Link SourceWaypoint="14308" TargetWaypoint="14290"/>
+</LinkList>
+<GroupList>
+	<Group Key="126" Name="Med_Plunder_05"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

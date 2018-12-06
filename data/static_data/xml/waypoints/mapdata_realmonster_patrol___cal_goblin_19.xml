@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_goblin_19">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11490" Name="Cal_Goblin_19_001" PosX="-376085" PosY="1807.66" PosZ="-83943.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11491" Name="Cal_Goblin_19_002" PosX="-373791" PosY="1518.79" PosZ="-82318" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11492" Name="Cal_Goblin_19_003" PosX="-373658" PosY="1662.54" PosZ="-79744.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11493" Name="Cal_Goblin_19_004" PosX="-375511" PosY="2270.02" PosZ="-77881.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11494" Name="Cal_Goblin_19_005" PosX="-377265" PosY="2504.39" PosZ="-77950.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11495" Name="Cal_Goblin_19_006" PosX="-378709" PosY="2796.54" PosZ="-77064.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11496" Name="Cal_Goblin_19_007" PosX="-377701" PosY="2833.75" PosZ="-74866.1" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11490" TargetWaypoint="11491"/>
+	<Link SourceWaypoint="11491" TargetWaypoint="11490"/>
+	<Link SourceWaypoint="11491" TargetWaypoint="11492"/>
+	<Link SourceWaypoint="11492" TargetWaypoint="11491"/>
+	<Link SourceWaypoint="11492" TargetWaypoint="11493"/>
+	<Link SourceWaypoint="11493" TargetWaypoint="11492"/>
+	<Link SourceWaypoint="11493" TargetWaypoint="11494"/>
+	<Link SourceWaypoint="11494" TargetWaypoint="11493"/>
+	<Link SourceWaypoint="11494" TargetWaypoint="11495"/>
+	<Link SourceWaypoint="11495" TargetWaypoint="11494"/>
+	<Link SourceWaypoint="11495" TargetWaypoint="11496"/>
+	<Link SourceWaypoint="11496" TargetWaypoint="11495"/>
+</LinkList>
+<GroupList>
+	<Group Key="62" Name="Cal_Goblin_19"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

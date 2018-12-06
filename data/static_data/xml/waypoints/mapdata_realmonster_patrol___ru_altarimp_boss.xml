@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="ru_altarimp_boss">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39173" Name="ru_altarimp_boss_001" PosX="-53494.3" PosY="-2864.59" PosZ="-50447.1" Property="ground"/>
+</WaypointList>
+<LinkList/>
+<GroupList>
+	<Group Key="182" Name="ru_AltarImp_boss"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

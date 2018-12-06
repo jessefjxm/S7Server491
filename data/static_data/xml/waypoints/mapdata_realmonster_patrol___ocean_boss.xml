@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="ocean_boss">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39551" Name="ocean_boss_0001" PosX="-59059.8" PosY="-8150" PosZ="1.11382e+06" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39552" Name="ocean_boss_0002" PosX="-98081" PosY="-8150" PosZ="1.0978e+06" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39553" Name="ocean_boss_0003" PosX="-62703.8" PosY="-8150" PosZ="1.15063e+06" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39554" Name="ocean_boss_0004" PosX="-120745" PosY="-8150" PosZ="1.13159e+06" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39555" Name="ocean_boss_0005" PosX="-100294" PosY="-8150" PosZ="1.1609e+06" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39556" Name="ocean_boss_0006" PosX="-88548.1" PosY="-8150" PosZ="1.1305e+06" Property="water"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="39551" TargetWaypoint="39552"/>
+	<Link SourceWaypoint="39551" TargetWaypoint="39554"/>
+	<Link SourceWaypoint="39551" TargetWaypoint="39553"/>
+	<Link SourceWaypoint="39551" TargetWaypoint="39555"/>
+	<Link SourceWaypoint="39551" TargetWaypoint="39556"/>
+	<Link SourceWaypoint="39552" TargetWaypoint="39551"/>
+	<Link SourceWaypoint="39552" TargetWaypoint="39553"/>
+	<Link SourceWaypoint="39552" TargetWaypoint="39554"/>
+	<Link SourceWaypoint="39552" TargetWaypoint="39555"/>
+	<Link SourceWaypoint="39552" TargetWaypoint="39556"/>
+	<Link SourceWaypoint="39553" TargetWaypoint="39552"/>
+	<Link SourceWaypoint="39553" TargetWaypoint="39554"/>
+	<Link SourceWaypoint="39553" TargetWaypoint="39551"/>
+	<Link SourceWaypoint="39553" TargetWaypoint="39555"/>
+	<Link SourceWaypoint="39553" TargetWaypoint="39556"/>
+	<Link SourceWaypoint="39554" TargetWaypoint="39553"/>
+	<Link SourceWaypoint="39554" TargetWaypoint="39555"/>
+	<Link SourceWaypoint="39554" TargetWaypoint="39552"/>
+	<Link SourceWaypoint="39554" TargetWaypoint="39551"/>
+	<Link SourceWaypoint="39554" TargetWaypoint="39556"/>
+	<Link SourceWaypoint="39555" TargetWaypoint="39554"/>
+	<Link SourceWaypoint="39555" TargetWaypoint="39553"/>
+	<Link SourceWaypoint="39555" TargetWaypoint="39551"/>
+	<Link SourceWaypoint="39555" TargetWaypoint="39552"/>
+	<Link SourceWaypoint="39555" TargetWaypoint="39556"/>
+	<Link SourceWaypoint="39556" TargetWaypoint="39554"/>
+	<Link SourceWaypoint="39556" TargetWaypoint="39552"/>
+	<Link SourceWaypoint="39556" TargetWaypoint="39551"/>
+	<Link SourceWaypoint="39556" TargetWaypoint="39553"/>
+	<Link SourceWaypoint="39556" TargetWaypoint="39555"/>
+</LinkList>
+<GroupList>
+	<Group Key="198" Name="Ocean_Boss"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="cal_boar_1">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11359" Name="Cal_Boar_1_001" PosX="-360230" PosY="-290.331" PosZ="-113082" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11360" Name="Cal_Boar_1_002" PosX="-361301" PosY="54.666" PosZ="-114838" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11361" Name="Cal_Boar_1_003" PosX="-361777" PosY="-159.553" PosZ="-116308" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11362" Name="Cal_Boar_1_004" PosX="-363467" PosY="-446.479" PosZ="-116267" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11363" Name="Cal_Boar_1_005" PosX="-365105" PosY="-115.817" PosZ="-115117" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11364" Name="Cal_Boar_1_006" PosX="-366235" PosY="478.337" PosZ="-113037" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11365" Name="Cal_Boar_1_007" PosX="-368324" PosY="504.467" PosZ="-115241" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11366" Name="Cal_Boar_1_008" PosX="-370427" PosY="954.369" PosZ="-113511" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="11359" TargetWaypoint="11360"/>
+	<Link SourceWaypoint="11360" TargetWaypoint="11359"/>
+	<Link SourceWaypoint="11360" TargetWaypoint="11361"/>
+	<Link SourceWaypoint="11361" TargetWaypoint="11360"/>
+	<Link SourceWaypoint="11361" TargetWaypoint="11362"/>
+	<Link SourceWaypoint="11362" TargetWaypoint="11361"/>
+	<Link SourceWaypoint="11362" TargetWaypoint="11363"/>
+	<Link SourceWaypoint="11363" TargetWaypoint="11362"/>
+	<Link SourceWaypoint="11363" TargetWaypoint="11364"/>
+	<Link SourceWaypoint="11364" TargetWaypoint="11363"/>
+	<Link SourceWaypoint="11364" TargetWaypoint="11365"/>
+	<Link SourceWaypoint="11365" TargetWaypoint="11364"/>
+	<Link SourceWaypoint="11365" TargetWaypoint="11366"/>
+	<Link SourceWaypoint="11366" TargetWaypoint="11365"/>
+</LinkList>
+<GroupList>
+	<Group Key="46" Name="Cal_Boar_1"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

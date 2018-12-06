@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="ser_plunder_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13159" Name="Ser_Plunder_001" PosX="-49427.7" PosY="-2917.65" PosZ="-59659.5" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13160" Name="Ser_Plunder_002" PosX="-50491.7" PosY="-2859.52" PosZ="-59902.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13161" Name="Ser_Plunder_003" PosX="-51609" PosY="-2815.63" PosZ="-60187.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13162" Name="Ser_Plunder_004" PosX="-52901.3" PosY="-2760.56" PosZ="-60434.1" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13163" Name="Ser_Plunder_005" PosX="-54408.5" PosY="-2716.8" PosZ="-60401.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13164" Name="Ser_Plunder_006" PosX="-56430.7" PosY="-2732.35" PosZ="-59926.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13165" Name="Ser_Plunder_007" PosX="-57676.8" PosY="-2747.83" PosZ="-59212.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13166" Name="Ser_Plunder_008" PosX="-58065.1" PosY="-2768.37" PosZ="-58219.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13167" Name="Ser_Plunder_009" PosX="-58165.4" PosY="-2796.72" PosZ="-56905.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13168" Name="Ser_Plunder_010" PosX="-57400.8" PosY="-2765.34" PosZ="-55202.3" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13169" Name="Ser_Plunder_011" PosX="-57421.9" PosY="-2708.63" PosZ="-53588.4" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13170" Name="Ser_Plunder_012" PosX="-58023.4" PosY="-2699.52" PosZ="-51836" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13171" Name="Ser_Plunder_013" PosX="-58435.6" PosY="-2739.67" PosZ="-49464.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13172" Name="Ser_Plunder_014" PosX="-58651.4" PosY="-2671.61" PosZ="-47554.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13173" Name="Ser_Plunder_015" PosX="-59456.9" PosY="-2645.48" PosZ="-45820.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13174" Name="Ser_Plunder_016" PosX="-60039.3" PosY="-2575.02" PosZ="-43985.7" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13175" Name="Ser_Plunder_017" PosX="-59228.9" PosY="-2449.24" PosZ="-42308.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13176" Name="Ser_Plunder_018" PosX="-57550.8" PosY="-2271.21" PosZ="-41261.2" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13177" Name="Ser_Plunder_019" PosX="-55902.4" PosY="-2155.25" PosZ="-39743.6" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13178" Name="Ser_Plunder_020" PosX="-54518.4" PosY="-2057.92" PosZ="-37271" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13179" Name="Ser_Plunder_021" PosX="-59887.2" PosY="-2935.1" PosZ="-57854.9" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13180" Name="Ser_Plunder_022" PosX="-61323.9" PosY="-3144.79" PosZ="-57426.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13181" Name="Ser_Plunder_023" PosX="-62866.3" PosY="-3277.08" PosZ="-57028.8" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="13182" Name="Ser_Plunder_024" PosX="-64321.4" PosY="-3352.04" PosZ="-56665.3" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="13159" TargetWaypoint="13160"/>
+	<Link SourceWaypoint="13160" TargetWaypoint="13159"/>
+	<Link SourceWaypoint="13160" TargetWaypoint="13161"/>
+	<Link SourceWaypoint="13161" TargetWaypoint="13160"/>
+	<Link SourceWaypoint="13161" TargetWaypoint="13162"/>
+	<Link SourceWaypoint="13162" TargetWaypoint="13161"/>
+	<Link SourceWaypoint="13162" TargetWaypoint="13163"/>
+	<Link SourceWaypoint="13163" TargetWaypoint="13162"/>
+	<Link SourceWaypoint="13163" TargetWaypoint="13164"/>
+	<Link SourceWaypoint="13164" TargetWaypoint="13163"/>
+	<Link SourceWaypoint="13164" TargetWaypoint="13165"/>
+	<Link SourceWaypoint="13165" TargetWaypoint="13164"/>
+	<Link SourceWaypoint="13165" TargetWaypoint="13166"/>
+	<Link SourceWaypoint="13165" TargetWaypoint="13179"/>
+	<Link SourceWaypoint="13166" TargetWaypoint="13165"/>
+	<Link SourceWaypoint="13166" TargetWaypoint="13167"/>
+	<Link SourceWaypoint="13167" TargetWaypoint="13166"/>
+	<Link SourceWaypoint="13167" TargetWaypoint="13168"/>
+	<Link SourceWaypoint="13167" TargetWaypoint="13179"/>
+	<Link SourceWaypoint="13168" TargetWaypoint="13167"/>
+	<Link SourceWaypoint="13168" TargetWaypoint="13169"/>
+	<Link SourceWaypoint="13169" TargetWaypoint="13168"/>
+	<Link SourceWaypoint="13169" TargetWaypoint="13170"/>
+	<Link SourceWaypoint="13170" TargetWaypoint="13169"/>
+	<Link SourceWaypoint="13170" TargetWaypoint="13171"/>
+	<Link SourceWaypoint="13171" TargetWaypoint="13170"/>
+	<Link SourceWaypoint="13171" TargetWaypoint="13172"/>
+	<Link SourceWaypoint="13172" TargetWaypoint="13171"/>
+	<Link SourceWaypoint="13172" TargetWaypoint="13173"/>
+	<Link SourceWaypoint="13173" TargetWaypoint="13172"/>
+	<Link SourceWaypoint="13173" TargetWaypoint="13174"/>
+	<Link SourceWaypoint="13174" TargetWaypoint="13173"/>
+	<Link SourceWaypoint="13174" TargetWaypoint="13175"/>
+	<Link SourceWaypoint="13175" TargetWaypoint="13174"/>
+	<Link SourceWaypoint="13175" TargetWaypoint="13176"/>
+	<Link SourceWaypoint="13176" TargetWaypoint="13175"/>
+	<Link SourceWaypoint="13176" TargetWaypoint="13177"/>
+	<Link SourceWaypoint="13177" TargetWaypoint="13176"/>
+	<Link SourceWaypoint="13177" TargetWaypoint="13178"/>
+	<Link SourceWaypoint="13178" TargetWaypoint="13177"/>
+	<Link SourceWaypoint="13179" TargetWaypoint="13167"/>
+	<Link SourceWaypoint="13179" TargetWaypoint="13180"/>
+	<Link SourceWaypoint="13179" TargetWaypoint="13165"/>
+	<Link SourceWaypoint="13180" TargetWaypoint="13179"/>
+	<Link SourceWaypoint="13180" TargetWaypoint="13181"/>
+	<Link SourceWaypoint="13181" TargetWaypoint="13180"/>
+	<Link SourceWaypoint="13181" TargetWaypoint="13182"/>
+	<Link SourceWaypoint="13182" TargetWaypoint="13181"/>
+</LinkList>
+<GroupList>
+	<Group Key="96" Name="Ser_Plunder_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

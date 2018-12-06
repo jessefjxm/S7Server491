@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="bal_priate_06">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14957" Name="Bal_Priate_06_001" PosX="-153128" PosY="-8150" PosZ="240221" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14958" Name="Bal_Priate_06_002" PosX="-153112" PosY="-8150" PosZ="233668" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14959" Name="Bal_Priate_06_003" PosX="-152521" PosY="-8200" PosZ="226653" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14960" Name="Bal_Priate_06_004" PosX="-150802" PosY="-8200" PosZ="221099" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14961" Name="Bal_Priate_06_005" PosX="-147691" PosY="-8200" PosZ="216149" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14962" Name="Bal_Priate_06_006" PosX="-145621" PosY="-8150" PosZ="211101" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14963" Name="Bal_Priate_06_007" PosX="-142893" PosY="-8150" PosZ="206974" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14964" Name="Bal_Priate_06_008" PosX="-139966" PosY="-8150" PosZ="203038" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14965" Name="Bal_Priate_06_009" PosX="-133973" PosY="-8150" PosZ="199422" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14966" Name="Bal_Priate_06_010" PosX="-128437" PosY="-8150" PosZ="197373" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14967" Name="Bal_Priate_06_011" PosX="-123631" PosY="-8200" PosZ="196228" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14968" Name="Bal_Priate_06_012" PosX="-118594" PosY="-8200" PosZ="193605" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14969" Name="Bal_Priate_06_013" PosX="-115016" PosY="-8200" PosZ="190453" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14970" Name="Bal_Priate_06_014" PosX="-110265" PosY="-8150" PosZ="184837" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14971" Name="Bal_Priate_06_015" PosX="-107646" PosY="-8150" PosZ="180595" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14972" Name="Bal_Priate_06_016" PosX="-104884" PosY="-8200" PosZ="176082" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14973" Name="Bal_Priate_06_017" PosX="-102523" PosY="-8200" PosZ="173169" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14974" Name="Bal_Priate_06_018" PosX="-97834.7" PosY="-8200" PosZ="168970" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14975" Name="Bal_Priate_06_019" PosX="-94422.2" PosY="-8200" PosZ="168191" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14976" Name="Bal_Priate_06_020" PosX="-88827.9" PosY="-8200" PosZ="169560" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14977" Name="Bal_Priate_06_021" PosX="-86120.8" PosY="-8200" PosZ="172400" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14978" Name="Bal_Priate_06_022" PosX="-84025.5" PosY="-8200" PosZ="175392" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14979" Name="Bal_Priate_06_023" PosX="-81064.9" PosY="-8150" PosZ="179076" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14980" Name="Bal_Priate_06_024" PosX="-77282.5" PosY="-8200" PosZ="184951" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14981" Name="Bal_Priate_06_025" PosX="-75555.8" PosY="-8200" PosZ="190260" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14982" Name="Bal_Priate_06_026" PosX="-74192.8" PosY="-8200" PosZ="195670" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14983" Name="Bal_Priate_06_027" PosX="-72435.7" PosY="-8150" PosZ="200833" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14984" Name="Bal_Priate_06_028" PosX="-70615" PosY="-8200" PosZ="206899" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14985" Name="Bal_Priate_06_029" PosX="-68851.9" PosY="-8200" PosZ="212994" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14986" Name="Bal_Priate_06_030" PosX="-69602.7" PosY="-8200" PosZ="218073" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14987" Name="Bal_Priate_06_031" PosX="-70033.5" PosY="-8200" PosZ="223620" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14988" Name="Bal_Priate_06_032" PosX="-71723.9" PosY="-8200" PosZ="229553" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14989" Name="Bal_Priate_06_033" PosX="-74138.5" PosY="-8200" PosZ="236292" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14990" Name="Bal_Priate_06_034" PosX="-79357.2" PosY="-8200" PosZ="241461" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14991" Name="Bal_Priate_06_035" PosX="-86160.4" PosY="-8200" PosZ="245292" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14992" Name="Bal_Priate_06_036" PosX="-94446.1" PosY="-8150" PosZ="250102" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14993" Name="Bal_Priate_06_037" PosX="-99716.2" PosY="-8200" PosZ="253308" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14994" Name="Bal_Priate_06_038" PosX="-105908" PosY="-8150" PosZ="257077" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14995" Name="Bal_Priate_06_039" PosX="-111214" PosY="-8200" PosZ="259344" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14996" Name="Bal_Priate_06_040" PosX="-118003" PosY="-8150" PosZ="260967" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14997" Name="Bal_Priate_06_041" PosX="-128546" PosY="-8150" PosZ="262860" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14998" Name="Bal_Priate_06_042" PosX="-132893" PosY="-8200" PosZ="261749" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="14999" Name="Bal_Priate_06_043" PosX="-137969" PosY="-8150" PosZ="260282" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15000" Name="Bal_Priate_06_044" PosX="-143239" PosY="-8200" PosZ="259641" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15001" Name="Bal_Priate_06_045" PosX="-146449" PosY="-8200" PosZ="258000" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15002" Name="Bal_Priate_06_046" PosX="-148137" PosY="-8200" PosZ="255787" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15003" Name="Bal_Priate_06_047" PosX="-149103" PosY="-8200" PosZ="254209" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15004" Name="Bal_Priate_06_048" PosX="-150753" PosY="-8200" PosZ="252317" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15005" Name="Bal_Priate_06_049" PosX="-151437" PosY="-8200" PosZ="249767" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15006" Name="Bal_Priate_06_050" PosX="-152446" PosY="-8200" PosZ="248162" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15007" Name="Bal_Priate_06_051" PosX="-152793" PosY="-8200" PosZ="245513" Property="water"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="15008" Name="Bal_Priate_06_052" PosX="-152836" PosY="-8200" PosZ="243243" Property="water"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="14957" TargetWaypoint="14958"/>
+	<Link SourceWaypoint="14957" TargetWaypoint="15008"/>
+	<Link SourceWaypoint="14958" TargetWaypoint="14957"/>
+	<Link SourceWaypoint="14958" TargetWaypoint="14959"/>
+	<Link SourceWaypoint="14959" TargetWaypoint="14958"/>
+	<Link SourceWaypoint="14959" TargetWaypoint="14960"/>
+	<Link SourceWaypoint="14960" TargetWaypoint="14959"/>
+	<Link SourceWaypoint="14960" TargetWaypoint="14961"/>
+	<Link SourceWaypoint="14961" TargetWaypoint="14960"/>
+	<Link SourceWaypoint="14961" TargetWaypoint="14962"/>
+	<Link SourceWaypoint="14962" TargetWaypoint="14961"/>
+	<Link SourceWaypoint="14962" TargetWaypoint="14963"/>
+	<Link SourceWaypoint="14963" TargetWaypoint="14962"/>
+	<Link SourceWaypoint="14963" TargetWaypoint="14964"/>
+	<Link SourceWaypoint="14964" TargetWaypoint="14963"/>
+	<Link SourceWaypoint="14964" TargetWaypoint="14965"/>
+	<Link SourceWaypoint="14965" TargetWaypoint="14964"/>
+	<Link SourceWaypoint="14965" TargetWaypoint="14966"/>
+	<Link SourceWaypoint="14966" TargetWaypoint="14965"/>
+	<Link SourceWaypoint="14966" TargetWaypoint="14967"/>
+	<Link SourceWaypoint="14967" TargetWaypoint="14966"/>
+	<Link SourceWaypoint="14967" TargetWaypoint="14968"/>
+	<Link SourceWaypoint="14968" TargetWaypoint="14967"/>
+	<Link SourceWaypoint="14968" TargetWaypoint="14969"/>
+	<Link SourceWaypoint="14969" TargetWaypoint="14968"/>
+	<Link SourceWaypoint="14969" TargetWaypoint="14970"/>
+	<Link SourceWaypoint="14970" TargetWaypoint="14969"/>
+	<Link SourceWaypoint="14970" TargetWaypoint="14971"/>
+	<Link SourceWaypoint="14971" TargetWaypoint="14970"/>
+	<Link SourceWaypoint="14971" TargetWaypoint="14972"/>
+	<Link SourceWaypoint="14972" TargetWaypoint="14971"/>
+	<Link SourceWaypoint="14972" TargetWaypoint="14973"/>
+	<Link SourceWaypoint="14973" TargetWaypoint="14972"/>
+	<Link SourceWaypoint="14973" TargetWaypoint="14974"/>
+	<Link SourceWaypoint="14974" TargetWaypoint="14973"/>
+	<Link SourceWaypoint="14974" TargetWaypoint="14975"/>
+	<Link SourceWaypoint="14975" TargetWaypoint="14974"/>
+	<Link SourceWaypoint="14975" TargetWaypoint="14976"/>
+	<Link SourceWaypoint="14976" TargetWaypoint="14975"/>
+	<Link SourceWaypoint="14976" TargetWaypoint="14977"/>
+	<Link SourceWaypoint="14977" TargetWaypoint="14976"/>
+	<Link SourceWaypoint="14977" TargetWaypoint="14978"/>
+	<Link SourceWaypoint="14978" TargetWaypoint="14977"/>
+	<Link SourceWaypoint="14978" TargetWaypoint="14979"/>
+	<Link SourceWaypoint="14979" TargetWaypoint="14978"/>
+	<Link SourceWaypoint="14979" TargetWaypoint="14980"/>
+	<Link SourceWaypoint="14980" TargetWaypoint="14979"/>
+	<Link SourceWaypoint="14980" TargetWaypoint="14981"/>
+	<Link SourceWaypoint="14981" TargetWaypoint="14980"/>
+	<Link SourceWaypoint="14981" TargetWaypoint="14982"/>
+	<Link SourceWaypoint="14982" TargetWaypoint="14981"/>
+	<Link SourceWaypoint="14982" TargetWaypoint="14983"/>
+	<Link SourceWaypoint="14983" TargetWaypoint="14982"/>
+	<Link SourceWaypoint="14983" TargetWaypoint="14984"/>
+	<Link SourceWaypoint="14984" TargetWaypoint="14983"/>
+	<Link SourceWaypoint="14984" TargetWaypoint="14985"/>
+	<Link SourceWaypoint="14985" TargetWaypoint="14984"/>
+	<Link SourceWaypoint="14985" TargetWaypoint="14986"/>
+	<Link SourceWaypoint="14986" TargetWaypoint="14985"/>
+	<Link SourceWaypoint="14986" TargetWaypoint="14987"/>
+	<Link SourceWaypoint="14987" TargetWaypoint="14986"/>
+	<Link SourceWaypoint="14987" TargetWaypoint="14988"/>
+	<Link SourceWaypoint="14988" TargetWaypoint="14987"/>
+	<Link SourceWaypoint="14988" TargetWaypoint="14989"/>
+	<Link SourceWaypoint="14989" TargetWaypoint="14988"/>
+	<Link SourceWaypoint="14989" TargetWaypoint="14990"/>
+	<Link SourceWaypoint="14990" TargetWaypoint="14989"/>
+	<Link SourceWaypoint="14990" TargetWaypoint="14991"/>
+	<Link SourceWaypoint="14991" TargetWaypoint="14990"/>
+	<Link SourceWaypoint="14991" TargetWaypoint="14992"/>
+	<Link SourceWaypoint="14992" TargetWaypoint="14991"/>
+	<Link SourceWaypoint="14992" TargetWaypoint="14993"/>
+	<Link SourceWaypoint="14993" TargetWaypoint="14992"/>
+	<Link SourceWaypoint="14993" TargetWaypoint="14994"/>
+	<Link SourceWaypoint="14994" TargetWaypoint="14993"/>
+	<Link SourceWaypoint="14994" TargetWaypoint="14995"/>
+	<Link SourceWaypoint="14995" TargetWaypoint="14994"/>
+	<Link SourceWaypoint="14995" TargetWaypoint="14996"/>
+	<Link SourceWaypoint="14996" TargetWaypoint="14995"/>
+	<Link SourceWaypoint="14996" TargetWaypoint="14997"/>
+	<Link SourceWaypoint="14997" TargetWaypoint="14996"/>
+	<Link SourceWaypoint="14997" TargetWaypoint="14998"/>
+	<Link SourceWaypoint="14998" TargetWaypoint="14997"/>
+	<Link SourceWaypoint="14998" TargetWaypoint="14999"/>
+	<Link SourceWaypoint="14999" TargetWaypoint="14998"/>
+	<Link SourceWaypoint="14999" TargetWaypoint="15000"/>
+	<Link SourceWaypoint="15000" TargetWaypoint="14999"/>
+	<Link SourceWaypoint="15000" TargetWaypoint="15001"/>
+	<Link SourceWaypoint="15001" TargetWaypoint="15000"/>
+	<Link SourceWaypoint="15001" TargetWaypoint="15002"/>
+	<Link SourceWaypoint="15002" TargetWaypoint="15001"/>
+	<Link SourceWaypoint="15002" TargetWaypoint="15003"/>
+	<Link SourceWaypoint="15003" TargetWaypoint="15002"/>
+	<Link SourceWaypoint="15003" TargetWaypoint="15004"/>
+	<Link SourceWaypoint="15004" TargetWaypoint="15003"/>
+	<Link SourceWaypoint="15004" TargetWaypoint="15005"/>
+	<Link SourceWaypoint="15005" TargetWaypoint="15004"/>
+	<Link SourceWaypoint="15005" TargetWaypoint="15006"/>
+	<Link SourceWaypoint="15006" TargetWaypoint="15005"/>
+	<Link SourceWaypoint="15006" TargetWaypoint="15007"/>
+	<Link SourceWaypoint="15007" TargetWaypoint="15006"/>
+	<Link SourceWaypoint="15007" TargetWaypoint="15008"/>
+	<Link SourceWaypoint="15008" TargetWaypoint="15007"/>
+	<Link SourceWaypoint="15008" TargetWaypoint="14957"/>
+</LinkList>
+<GroupList>
+	<Group Key="138" Name="Bal_Priate_06"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

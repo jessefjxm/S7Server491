@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="vallizardeliteman">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39302" Name="vallizardeliteman_0001" PosX="704234" PosY="23914.4" PosZ="-184876" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="39303" Name="vallizardeliteman_0002" PosX="746219" PosY="22423.7" PosZ="-181773" Property="ground"/>
+</WaypointList>
+<LinkList/>
+<GroupList>
+	<Group Key="187" Name="vallizardeliteman"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

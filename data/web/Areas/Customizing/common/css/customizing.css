@@ -1,0 +1,169 @@
+/*html { background: url('/Areas/Customizing/common/img/test.jpg') no-repeat; }
+.container_top { box-sizing: border-box !important; width: 100% !important; height: 100% !important; margin: 210px 342px !important; }*/
+
+/* 공통 */
+html { width: 870px; height: 630px; padding: 0; margin: 0; background-color: transparent; overflow:hidden}
+body { width: 100%; height: 100%; padding: 0; margin: 0; background-color: transparent; overflow:hidden }
+.container_top { margin: 0; box-sizing: border-box; width: 100%; height: 100%; position: relative; overflow:hidden; }
+a { text-decoration: none; color: inherit; }
+
+.hide { display: none; }
+.opacity { opacity: 0; }
+.bold { font-weight: 600; }
+i { font-style: normal; }
+
+/* 버튼 */
+.btn { font-size: 14px; color: white; cursor: pointer; width: 100px; height: 30px; position: relative; vertical-align: middle; background-color: #08335f; box-sizing: border-box; border-radius: 3px; border: 1px solid rgba(0,0,0,0.25); box-shadow: inset 0 1px 0 0 rgba(255,255,255,0.3); overflow: hidden; text-align: center; display: inline-block; text-shadow: 0 2px 2px rgba(0,0,0,1); }
+.btn:before { content: ''; width: 100%; height: 100%; display: inline-block; position: absolute; top: 0; left: 0; background: linear-gradient(rgba(255,255,255,0.2),transparent); }
+.btn:after { content: ''; width: 100%; height: 100%; display: inline-block; position: absolute; top: -45%; left: 0; background: linear-gradient(rgba(255,255,255,0.1),rgba(255,255,255,0.05)); box-shadow: 0 0 2px rgba(0,0,0,0.1); }
+
+.btn:hover { background: linear-gradient(rgba(255,255,255,0.1),rgba(255,255,255,0.005)); }
+.btn:hover:before { background: linear-gradient( rgba(255,255,255,0.3),rgba(255,255,255,0.1)); }
+.btn:hover:after { }
+
+.btn:active { width: 81px; height: 32px; background-color: rgb(29, 27, 23); background: linear-gradient(rgba(255,255,255,0.1),rgba(255,255,255,0.005)); box-shadow: inset 0 0 5px rgba(0,0,0,0.3); }
+.btn:active:before { background: linear-gradient(transparent, rgba(0,0,0,0.2)); }
+.btn:active:after { opacity: 0; }
+
+.btn span { position: relative; top: -100%; font-size: 14px; color: white; }
+
+/* 폰트 */
+html, body, div, span, input, textarea { font-family: custom; }
+.arial { font-family: Arial; }
+
+
+/* 토글스위치 */
+.TinyTools.ToggleSwitch { border: 1px solid rgba(0,0,0,0.2); vertical-align: middle; margin: 0 15px 0 5px; }
+.TinyTools.ToggleSwitch:before { content: ''; width: 100%; height: 1px; display: inline-block; top: 0; left: 0; position: absolute; background: black; z-index: 1; opacity: 0.2; }
+.TinyTools.ToggleSwitch .NubWrapper .OffSide { background: #ffba00; width: 75%; }
+.TinyTools.ToggleSwitch .NubWrapper .OnSide { width: 75%; background: #57564f; }
+.TinyTools.ToggleSwitch .NubWrapper .Nub { left: 60%; width: 39%; box-shadow:inset 0 0 0 1px rgba(0,0,0,0.2); border-radius: 2px; background: linear-gradient(to bottom, #fff 0%,#f1f1f1 100%); }
+
+/*.TinyTools.ToggleSwitch .NubWrapper { -moz-transition: opacity 1s; -o-transition: opacity 1s; -webkit-transition: opacity 1s; transition: opacity 1s; }*/
+/*.TinyTools.ToggleSwitch .NubWrapper > * { -moz-transition: left .2s ease, right .2s ease;: left .2s ease, right .2s ease; -webkit-transition: left .2s ease, right .2s ease; transition: left .2s ease, right .2s ease; }*/
+.TinyTools.ToggleSwitch .NubWrapper > * { -moz-transition: left .2s ease-in-out, right .2s ease-in-out; -o-transition: left .2s ease-in-out, right .2s ease-in-out; -webkit-transition: left .2s ease-in-out, right .2s ease-in-out; transition: left .2s ease-in-out, right .2s ease-in-out; }
+
+
+
+/* paging */
+.paging { display: table; margin: 6px auto 30px; }
+.paging > div { color: #8e8e8e; background-color: #494949; min-width: 27px; height: 27px; line-height: 27px; border-radius: 2px; float: left; text-align: center; font-size: 12px; margin: 0 3px 0 0; cursor: pointer; padding: 0 10px; box-sizing: border-box; }
+.paging > div:hover { color: #000; background-color: #eee; }
+.paging > div.active { color: #000; background-color: #eee; }
+.paging > div::after, .paging > div::before { position: relative; top: 2px; }
+
+.paging div.arrow_first::before { content: url(/Areas/Customizing/common/img/paging/arrow_first.png); }
+.paging div.arrow_last::after { content: url(/Areas/Customizing/common/img/paging/arrow_last.png); }
+.paging div.arrow_first:hover::before { content: url(/Areas/Customizing/common/img/paging/arrow_first_active.png); }
+.paging div.arrow_last:hover::after { content: url(/Areas/Customizing/common/img/paging/arrow_last_active.png); }
+
+.paging div.arrow_left::after { content: url(/Areas/Customizing/common/img/paging/arrow_left.png); }
+.paging div.arrow_right::after { content: url(/Areas/Customizing/common/img/paging/arrow_right.png); }
+.paging div.arrow_left:hover::after { content: url(/Areas/Customizing/common/img/paging/arrow_left_active.png); }
+.paging div.arrow_right:hover::after { content: url(/Areas/Customizing/common/img/paging/arrow_right_active.png); }
+
+.hide { display: none; }
+.visibility { visibility: hidden; }
+
+/* 스크롤바 */
+.scroll { overflow-x: hidden; }
+.scroll::-webkit-scrollbar { width: 19px; }
+.scroll::-webkit-scrollbar-track { background-color: #272622; border-left: 1px solid #141412; border-right: 1px solid #141412; }
+.scroll::-webkit-scrollbar-thumb { background: url(/Areas/Customizing/common/img/scroll_button.png) no-repeat; background-position: center; background-color: #353331; border: 1px solid #141412; }
+.scroll::-webkit-scrollbar-thumb:hover { background: url(/Areas/Customizing/common/img/scroll_button_hover.png) no-repeat; background-position: center; background-color: #424242; }
+.scroll::-webkit-scrollbar-thumb:active { background-color: #515151; }
+.scroll::-webkit-scrollbar-button { background-position: center; background-color: #272622; border: 1px solid #141412; opacity: 0; }
+.scroll::-webkit-scrollbar-button:decrement { background: url(/Areas/Customizing/common/img/scroll_up.png) no-repeat; background-position: center; opacity: 0; }
+.scroll::-webkit-scrollbar-button:decrement:hover { background: url(/Areas/Customizing/common/img/scroll_up_hover.png) no-repeat; background-position: center; background-color: #424242; }
+.scroll::-webkit-scrollbar-button:decrement:active { background: url(/Areas/Customizing/common/img/scroll_up_hover.png) no-repeat; background-position: center; background-color: #424242; }
+.scroll::-webkit-scrollbar-button:increment { background: url(/Areas/Customizing/common/img/scroll_down.png) no-repeat; background-position: center; }
+.scroll::-webkit-scrollbar-button:increment:hover { background: url(/Areas/Customizing/common/img/scroll_down_hover.png) no-repeat; background-position: center; background-color: #424242; }
+.scroll::-webkit-scrollbar-button:increment:active { background: url(/Areas/Customizing/common/img/scroll_down_hover.png) no-repeat; background-position: center; background-color: #424242; }
+
+/* 메인 검색박스 */
+#searchBox { position: relative; width: initial; height: initial; padding: 10px 20px; box-sizing: border-box; background-color: #1d1b17; border: 1px solid black; box-shadow: inset 0 0 0 1px #51443b; border-radius: 5px; }
+#searchBox .content { position: relative; cursor: pointer; display: inline-block; opacity: 0.25; text-align: right; margin: 0 12px 0 0; }
+#searchBox .content:hover { opacity: 0.6; }
+#searchBox .content img { vertical-align: middle; }
+#searchBox .content .chk { box-sizing: border-box; position: absolute; width: 10px; height: 10px; border: 1px solid #515151; background-color: #33312e; border-radius: 2px; bottom: 0; right: 0; background: url(/Areas/Customizing/common/img/check.png) no-repeat; background-size: inherit; }
+#searchBox .content.active .chk { border: 1px solid #757575; background-color: #1d1b17; background: url(/Areas/Customizing/common/img/check_active.png) no-repeat; background-size: inherit; background-position: bottom; }
+#searchBox .content.active { opacity: 1; }
+#searchBox .btn.allSelect { border: 1px solid black; width: 81px; height: 32px; line-height: 32px; color: #cbc5bd; }
+#searchBox .btn.allSelect.selected { color: #b0864f; }
+
+/* messageBox */
+.messageBox { z-index: 9999999999; width: 100%; height: 100%; box-sizing: border-box; text-align: center; position: absolute; left: 0; top: 0; vertical-align: middle; display: inline-block; }
+.messageBox .messageBox_content { text-align: center; border-radius: 5px; position: absolute; background: rgba(0,0,0,0.9); box-shadow: 2px 2px 9px rgba(0,0,0,0.75); top: 0; bottom: 0; left: 0; right: 0; color: #b6b6b6; border: 1px solid #000; width: 360px; height: 170px; box-sizing: border-box; z-index: 1; margin: auto; font-size: 16px; }
+.messageBox .messageBox_content:before { content: ''; display: inline-block; width: 100%; height: 100%; position: absolute; top: 0; left: 0; border-radius: 6px; box-sizing: border-box; box-shadow: inset 0 0 0 1px #908379; }
+.messageBox .messageBox_content .messageBox_str { height: 115px; display: table; padding: 10px; width: 100%; box-sizing: border-box; }
+.messageBox .messageBox_content .messageBox_str span { vertical-align: middle; line-height: 30px; display: table-cell; }
+.messageBox .messageBox_content .messageBox_button { display: inline-block; height: 30%; }
+.messageBox .messageBox_content .messageBox_button .btn { cursor: pointer; width: 80px; height: 33px; line-height: 33px; font-size:12px; }
+.messageBox .messageBox_content .messageBox_button .btn.messageBox_yes { margin-right: 20px; }
+.messageBox .messageBox_bg { width: 100%; height: 100%; position: absolute; top: 0; left: 0; background-color: rgba(0,0,0,0); }
+
+
+
+.cmArea .nobox { width: 100%; height:70%; min-height: 300px; border: 1px solid #514c41; background: rgba(255,255,255,0.03); display: table; text-align: center; box-sizing:border-box }
+.cmArea .nobox span { display: table-cell; vertical-align: middle;color:#c1b8ab; font-size:14px; }
+
+/* 커스터마이징 박스 */
+.cmArea { position: relative; box-sizing: border-box; width: 100%; height: calc(100% - 89px); overflow-y: auto; overflow-x: hidden; padding: 0 15px; }
+.cmArea .CMBox { width: 100%; }
+.cmArea .CMBox .box { margin-left: 0.8%; margin-bottom: 1.5%; width: 200px; height: initial; box-sizing: border-box; background-color: #3a3934; border: 1px solid black; box-shadow: inset 0 0 0 1px #51443b; border-radius: 10px; display: inline-block; position: relative; }
+.cmArea .CMBox .box:before { content: ''; display: inline-block; position: absolute; width: 100%; height: 100%; box-shadow: 3px 3px 7px rgba(0,0,0,0.26); border-radius: 10px; }
+.cmArea .CMBox .box:nth-child(4n+1) { margin-left: 0 !important; }
+.cmArea .CMBox .box .img { cursor: pointer; width: 200px; height: 200px; box-sizing: border-box; background-color: #1d1b17; border: 1px solid black; box-shadow: inset 0 0 0 1px #51443b; border-radius: 10px; display: inline-block; position: relative; top: -1px; left: -1px; }
+.cmArea .CMBox .box .img:before { content: ''; position: absolute; left: 0; width: 100%; height: 100%; border-radius: 10px; display: inline-block; box-shadow: 0 5px 7px rgba(0,0,0,0.26); }
+.cmArea .CMBox .box .img:hover:after { content: ''; width: 100%; height: 100%; border-radius: 10px; display: inline-block; position: absolute; top: 0; background-color: white; opacity: 0.3; }
+.cmArea .CMBox .box .img > img { position: absolute; top: 5px; left: 5px; opacity: 0.7; z-index: 6; }
+.cmArea .CMBox .box .img .caption { position: absolute; width: 100%; height: 100%; }
+.cmArea .CMBox .box .img .caption img { position: absolute; top: -1px; right: -1px; z-index: 999; }
+.cmArea .CMBox .box .img .caption span { color: #9deeff; font-size: 30px; position: absolute; top: -1px; right: -1px; z-index: 1000; width: 48px; height: 50px; line-height: 50px; display: inline-block; text-align: center; }
+.cmArea .CMBox .box .img .btn.detail { width: 83px; height: 38px; line-height: 38px; position: absolute; bottom: 5px; left: 12px; z-index: 1; color: #c3dfea; }
+.cmArea .CMBox .box .img .btn.apply { width: 83px; height: 38px; line-height: 38px; position: absolute; bottom: 5px; right: 12px; z-index: 1; color: #c3eac3; }
+.cmArea .CMBox .box .description { padding: 0 0 10px; text-align: center; }
+.cmArea .CMBox .box .description .gallery_comment { vertical-align: middle; }
+.cmArea .CMBox .box .description .gallery_comment .gallery { vertical-align: middle; font-size: 12px; color: #ffa200; display: inline-block; }
+.cmArea .CMBox .box .description .gallery_comment .comment { font-size: 13px; color: #ffffff; display: inline-block; }
+.cmArea .CMBox .box .description .name { width: 100%; font-size: 14px; color: #cbc5bd; display: inline-block; padding: 10px 0 0 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cmArea .CMBox .box .description .date_apply_like {}
+.cmArea .CMBox .box .description .date_apply_like .date { font-size: 12px; color: #69665f; display: inline-block; }
+.cmArea .CMBox .box .description .date_apply_like .apply { font-size: 12px; color: #18cf18; display: inline-block; min-width: 50px; }
+.cmArea .CMBox .box .description .date_apply_like .like { font-size: 12px; color: #00d1fe; display: inline-block; min-width: 50px; }
+.cmArea .CMBox .box .description div > img { vertical-align: middle; margin-right: 5px; width: 12px; position: relative; }
+.cmArea .CMBox .box .description div > img.guildmark { border:1px solid rgba(255,255,255,0.5); }
+.cmArea .CMBox .box .description div > span { vertical-align: middle; }
+
+.cmArea .CMBox .box .description .comment_apply_like { padding-left:10px  }
+.cmArea .CMBox .box .description .comment_apply_like .comment { font-size: 12px; color: #fff; display: inline-block; width: 33%; text-align:left}
+.cmArea .CMBox .box .description .comment_apply_like .apply { font-size: 12px; color: #18cf18; display: inline-block; width: 33%; text-align:left; }
+.cmArea .CMBox .box .description .comment_apply_like .like { font-size: 12px; color: #00d1fe; display: inline-block; width: 33%; text-align:left; }
+.cmArea .CMBox .box .description .characterName { font-size: 12px; color: #9e9e9e; padding: 7px 5px 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cmArea .CMBox .box .description .date { font-size: 12px; color: #69665f; padding: 3px 5px 0; }
+
+/* 라디오버튼 */
+.search .radioArea { display: inline-block; }
+.search .radioArea div { display: inline-block; margin: 0 10px 0 0; }
+.search .radioArea div > span { color: #dad7cf; font-size: 14px; }
+.search .radioArea input { display: none; }
+.search .radioArea label { cursor:pointer; border-radius: 50px; display: inline-block; position: relative; width: 18px; height: 18px; border: 2px solid #626262; vertical-align: middle; box-sizing: border-box; text-align: center; margin: 0 10px 0 0; }
+.search .radioArea input:checked + label:after { content: ''; width: 8px; height: 8px; border-radius: 50px; display: inline-block; background: #e68507; position: absolute; left: 3px; top: 3px; }
+
+/* 툴팁 */
+.tooltip { z-index: 11 !important; position: absolute !important; box-sizing: border-box !important; color: white !important; background: rgba(0, 0, 0, 0.8) !important; padding: 5px 10px !important; border-radius: 3px !important; font-size: 12px !important; }
+
+#checkLoadingBox { width: 100%; height: 100%; position: absolute; top: 0; left: 0; z-index: 99999; }
+
+/* 로딩 레이어 */
+#loading { width: 100%; height: 100%; position: absolute; top: 0; left: 0; z-index:9999; }
+#loading .layer { width: 100%; height: calc(100% - 40px); position: absolute; bottom: 0; left: 0; background: rgba(0,0,0,0.5); }
+#loading .layer .spin { border-radius: 50%; width: 24px; height: 24px; border: .25rem solid rgba(255,255,255, 0.2); border-top-color: white; top: 0; position: absolute; margin: auto; left: 0; right: 0; bottom: 0; -webkit-animation: move 2s linear infinite 0s }
+@keyframes move {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(359deg); }
+}
+@-webkit-keyframes move {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(359deg); }
+}

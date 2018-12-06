@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+
+
+    <style>
+
+        @font-face {
+            font-family: 'custom';
+            font-style: normal;
+            font-weight: 400;
+            src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+            url('/Common/font/naeu.woff') format('woff2'),
+            url('/Common/font/naeu.woff') format('woff'),
+            url('/Common/font/naeu.woff') format('truetype'),
+            local('나눔고딕'),
+            local('Arial');
+        }
+
+        @font-face {
+            font-family: 'custom bold';
+            font-style: normal;
+            /*font-weight: 700;*/
+            src: url('/Common/font/naeu.woff') format('embedded-opentype'),
+            url('/Common/font/naeu.woff') format('woff2'),
+            url('/Common/font/naeu.woff') format('woff'),
+            url('/Common/font/naeu.woff') format('truetype'),
+            local('나눔고딕 Bold'),
+            local('Arial Black');
+        }
+    </style>
+    <script src="/Common/js/jquery-2.1.4.min.js"></script>
+    <script src="/Common/js/coherent.js"></script>
+
+    <link href="/Common/css/common.css" rel="stylesheet"/>
+    <script src="/Common/js/common.js?v=1"></script>
+
+    <script src="/Common/js/paging1.0.3.js"></script>
+    <link href="/Common/css/paging.css" rel="stylesheet"/>
+
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<link href="/Areas/GuildRank/common/css/frame.css" rel="stylesheet"/>
+<script src="/Areas/GuildRank/common/js/frame.js"></script>
+
+<script>
+    // 거점명 가져오기
+    engine.on('FromClient_GetTerritoryName', function (key, areaName) {
+        _territoryName.push(areaName);
+    });
+
+    $(document).ready(function () {
+        var arrString = {
+            'WEB_GUILDRANK_ITEMSRANK': '',
+            'WEB_GUILDRANK_POINT': '',
+            'WEB_GUILDRANK_NODE': '',
+            'WEB_GUILDRANK_DUELWAR': '',
+            'WEB_GUILDRANK_PERSONNEL': '',
+            'WEB_GUILDRANK_GUILDINFO': '',
+            'WEB_GUILDRANK_COMMENT': '',
+            'WEB_GUILDRANK_BRANCHSRANK': '',
+            'WEB_GUILDRANK_GATHER': '',
+            'WEB_GUILDRANK_FISH': '',
+            'WEB_GUILDRANK_HUNT': '',
+            'WEB_GUILDRANK_COOK': '',
+            'WEB_GUILDRANK_ALCHEMY': '',
+            'WEB_GUILDRANK_MANUFACTURE': '',
+            'WEB_GUILDRANK_MATING': '',
+            'WEB_GUILDRANK_TRADE': '',
+            'WEB_GUILDRANK_GROWTH': '',
+            'WEB_GUILDRANK_WEALTH': '',
+            'WEB_GUILDRANK_COMBAT': '',
+            'WEB_GUILDRANK_LOCALWAR': '',
+            'WEB_GUILDRANK_RALLY': '',
+            'WEB_GUILDRANK_GUILDRANK': '',
+            'WEB_GUILDRANK_GUILDNAME': '',
+            'WEB_GUILDRANK_GUILDMASTER_NICKNAME': '',
+            'WEB_GUILDRANK_NODE_AREA': '',
+            'WEB_GUILDRANK_SCORE': '',
+            'WEB_GUILDRANK_PERSONNEL_SCALE': '',
+            'WEB_GUILDRANK_NEW': '',
+            'WEB_GUILDRANK_CLICK_GUILDNAME_SHOW_GUILD_INFORMATION': '',
+            'WEB_GUILDRANK_GUILD_NICKNAME': '',
+            'WEB_GUILDRANK_ENTER_GUILD_NAME': '',
+            'WEB_GUILDRANK_SEARCH': '',
+            'WEB_GUILDRANK_GUILDMASTER': '',
+            'WEB_GUILDRANK_NO_GUILD_INFORMATION': '',
+            'WEB_GUILDRANK_SEARCHTEXT_MINIMUM_TWO_LENGTH': '',
+            'WEB_GUILDRANK_SEARCH_RESULT': '',
+            'WEB_GUILD_SCALE_BIGGEST': '',
+            'WEB_GUILD_SCALE_BIG': '',
+            'WEB_GUILD_SCALE_MIDDLE': '',
+            'WEB_GUILD_SCALE_SMALL': '',
+            'WEB_GUILD_SCALE_SMALLEST': '',
+            'WEB_GUILDRANK_ENTER_GUILDMASTER_NICKNAME': '',
+            'WEB_GUILDRANK_POINT_CAPTION': '',
+            'WEB_GUILDRANK_NODE_CAPTION': '',
+            'WEB_GUILDRANK_DUELWAR_CAPTION': '',
+            'WEB_GUILDRANK_PERSONNEL_CAPTION': '',
+            'WEB_GUILDRANK_GUILDINFO_CAPTION': '',
+            'WEB_GUILDRANK_COMMENT_CAPTION': '',
+            'WEB_GUILDRANK_GATHER_CAPTION': '',
+            'WEB_GUILDRANK_FISH_CAPTION': '',
+            'WEB_GUILDRANK_HUNT_CAPTION': '',
+            'WEB_GUILDRANK_COOK_CAPTION': '',
+            'WEB_GUILDRANK_ALCHEMY_CAPTION': '',
+            'WEB_GUILDRANK_MANUFACTURE_CAPTION': '',
+            'WEB_GUILDRANK_MATING_CAPTION': '',
+            'WEB_GUILDRANK_TRADE_CAPTION': '',
+            'WEB_GUILDRANK_GROWTH_CAPTION': ''
+        };
+        pearl.common.openPage(arrString);
+        setTerritoryName([0, 1, 2, 3, 4]);
+
+        setTimeout(function () {
+            pageInit();
+
+            pearl.common.closePage();
+        }, 100);
+    });
+</script>
+<div id="wrap">
+    <input type="hidden" id="type"/>
+    <input type="hidden" id="pageLength" value="17"/>
+    <input type="hidden" id="maxLength" value="30"/>
+
+    <div id="top">
+        <div class="area">
+            <div class="item">
+                <span class="bold" data-str="WEB_GUILDRANK_ITEMSRANK"></span>
+                <div class="buttonArea">
+                </div>
+            </div>
+            <div class="branch">
+                <span class="bold" data-str="WEB_GUILDRANK_BRANCHSRANK"></span>
+                <div class="buttonArea">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="container">
+        <div class="area">
+            <div class="content">
+                <div class="table guildList ">
+                    <div class="row thead">
+                        <div class="col" data-str="WEB_GUILDRANK_GUILDRANK" data-tooltip="WEB_GUILDRANK_GUILDRANK"
+                             attr-data="rank"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_GUILDNAME" data-tooltip="WEB_GUILDRANK_GUILDNAME"
+                             attr-data="guildName"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_GUILDMASTER_NICKNAME"
+                             data-tooltip="WEB_GUILDRANK_GUILDMASTER_NICKNAME" attr-data="guildMasterNickname"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_NODE_AREA" data-tooltip="WEB_GUILDRANK_NODE_AREA"
+                             attr-data="node"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_DUELWAR" data-tooltip="WEB_GUILDRANK_DUELWAR"
+                             attr-data="duelWar"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_SCORE" data-tooltip="WEB_GUILDRANK_SCORE"
+                             attr-data="point"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_PERSONNEL_SCALE"
+                             data-tooltip="WEB_GUILDRANK_PERSONNEL_SCALE" attr-data="personnel"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_GUILDINFO" data-tooltip="WEB_GUILDRANK_GUILDINFO"
+                             attr-data="guildInfo"></div>
+                        <div class="col" data-str="WEB_GUILDRANK_COMMENT" data-tooltip="WEB_GUILDRANK_COMMENT"
+                             attr-data="comment"></div>
+                        <div class="col" style="width:13px; max-width:13px;"></div>
+                    </div>
+                </div>
+                <div class="scroll">
+                    <div class="table guildList">
+                        <div class="tcaption"><span data-str=""></span></div>
+                        <div class="tbody">
+                        </div>
+                    </div>
+                    <div class="popup hide">
+                        <table>
+                            <tr class="bold" style="color:aquamarine; font-size:13px;">
+                                <td rowspan="2" style="width:60px"><img src="/Areas/GuildRank/common/img/test.jpg"/>
+                                </td>
+                                <td><span data-str="WEB_GUILDRANK_GUILDNAME"></span> : <span class="guildName"></span>
+                                </td>
+                            </tr>
+                            <tr class="bold" style="color:goldenrod; font-size:13px;">
+                                <td><span data-str="WEB_GUILDRANK_GUILDMASTER"></span> : <span
+                                        class="guildMaster"></span></td>
+                            </tr>
+                            <tr class="">
+                                <td colspan="2"><span class="guildDescription"></span></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="paging" id="paging"></div>
+        </div>
+    </div>
+    <div id="bottom">
+        <div class="area">
+            <span class="bold" data-str="WEB_GUILDRANK_CLICK_GUILDNAME_SHOW_GUILD_INFORMATION"></span>
+            <div class="searchArea">
+                <a class="search comboBox" data-key="0">
+                    <span data-str="WEB_GUILDRANK_GUILDNAME"></span>
+                    <ul class="hide">
+                        <li data-key="1" data-str="WEB_GUILDRANK_GUILDMASTER_NICKNAME"></li>
+                        <li data-key="0" data-str="WEB_GUILDRANK_GUILDNAME"></li>
+                    </ul>
+                </a>
+                <input id="search" class="search text" type="text"/>
+                <a class="btn search bold" data-str="WEB_GUILDRANK_SEARCH"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

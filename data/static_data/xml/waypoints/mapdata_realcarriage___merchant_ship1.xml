@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="carriage" subName="merchant_ship1">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22001" Name="merchant_ship_loop_1_1" PosX="6177.52" PosY="-8159.97" PosZ="86944.6" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22002" Name="merchant_ship_loop_1_2" PosX="7825.99" PosY="-8159.97" PosZ="87584.9" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22003" Name="merchant_ship_loop_1_3" PosX="9004.36" PosY="-8159.97" PosZ="89406.8" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22004" Name="merchant_ship_loop_1_4" PosX="8616.43" PosY="-8159.97" PosZ="91982.5" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22005" Name="merchant_ship_loop_1_5" PosX="6803.55" PosY="-8159.97" PosZ="94844.4" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22006" Name="merchant_ship_loop_1_6" PosX="2013.9" PosY="-8159.97" PosZ="98232.2" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22029" Name="merchant_ship_loop_1_29" PosX="-1013.07" PosY="-8159.97" PosZ="98983.2" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22046" Name="merchant_ship_loop_1_46" PosX="-2725.83" PosY="-8159.97" PosZ="96037.4" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22047" Name="merchant_ship_loop_1_47" PosX="-1752.95" PosY="-8159.97" PosZ="91671" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22048" Name="merchant_ship_loop_1_48" PosX="979.644" PosY="-8159.97" PosZ="89456.6" Property="all"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="22049" Name="merchant_ship_loop_1_49" PosX="2746.25" PosY="-8185.34" PosZ="86887.7" Property="all"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="22001" TargetWaypoint="22002"/>
+	<Link SourceWaypoint="22002" TargetWaypoint="22003"/>
+	<Link SourceWaypoint="22003" TargetWaypoint="22004"/>
+	<Link SourceWaypoint="22004" TargetWaypoint="22005"/>
+	<Link SourceWaypoint="22005" TargetWaypoint="22006"/>
+	<Link SourceWaypoint="22006" TargetWaypoint="22029"/>
+	<Link SourceWaypoint="22029" TargetWaypoint="22046"/>
+	<Link SourceWaypoint="22046" TargetWaypoint="22047"/>
+	<Link SourceWaypoint="22047" TargetWaypoint="22048"/>
+	<Link SourceWaypoint="22048" TargetWaypoint="22049"/>
+	<Link SourceWaypoint="22049" TargetWaypoint="22001"/>
+</LinkList>
+<GroupList>
+	<Group Key="22" Name="Merchant_Ship1"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

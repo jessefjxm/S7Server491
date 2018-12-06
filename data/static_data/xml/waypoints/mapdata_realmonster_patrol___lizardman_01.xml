@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaypointData name="monster_patrol" subName="lizardman_01">
+<WaypointList>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7265" Name="Lizardman_01" PosX="-223883" PosY="1234.51" PosZ="-168605" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7266" Name="Lizardman_02" PosX="-223944" PosY="1162.4" PosZ="-169481" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7267" Name="Lizardman_03" PosX="-223816" PosY="1069.21" PosZ="-170295" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7268" Name="Lizardman_04" PosX="-223615" PosY="890.149" PosZ="-171455" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7269" Name="Lizardman_05" PosX="-223133" PosY="696.48" PosZ="-172705" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7270" Name="Lizardman_06" PosX="-222479" PosY="495.184" PosZ="-174281" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7271" Name="Lizardman_07" PosX="-221971" PosY="160.52" PosZ="-176136" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7272" Name="Lizardman_08" PosX="-221658" PosY="-32.085" PosZ="-177831" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7273" Name="Lizardman_09" PosX="-222035" PosY="-63.0098" PosZ="-179378" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7274" Name="Lizardman_10" PosX="-222646" PosY="-41.9878" PosZ="-180763" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7275" Name="Lizardman_11" PosX="-223219" PosY="-131.18" PosZ="-182153" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7276" Name="Lizardman_12" PosX="-223497" PosY="-249.898" PosZ="-183594" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7277" Name="Lizardman_13" PosX="-223322" PosY="-278.719" PosZ="-185211" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7278" Name="Lizardman_14" PosX="-222708" PosY="-264.046" PosZ="-186132" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7279" Name="Lizardman_15" PosX="-221794" PosY="-245.066" PosZ="-187637" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7280" Name="Lizardman_16" PosX="-221206" PosY="-265.329" PosZ="-188713" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7281" Name="Lizardman_17" PosX="-220466" PosY="-261.937" PosZ="-189302" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7282" Name="Lizardman_18" PosX="-219484" PosY="-297.495" PosZ="-189537" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7283" Name="Lizardman_19" PosX="-218233" PosY="-270.331" PosZ="-189538" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7284" Name="Lizardman_20" PosX="-216396" PosY="-264.424" PosZ="-189515" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7285" Name="Lizardman_21" PosX="-215105" PosY="-255.068" PosZ="-190069" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7286" Name="Lizardman_22" PosX="-214240" PosY="-212.883" PosZ="-191151" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7287" Name="Lizardman_23" PosX="-213212" PosY="-135.079" PosZ="-192544" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7288" Name="Lizardman_24" PosX="-212611" PosY="-110.205" PosZ="-193647" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7289" Name="Lizardman_25" PosX="-212260" PosY="-146.728" PosZ="-194927" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7290" Name="Lizardman_26" PosX="-212415" PosY="-151.283" PosZ="-196141" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7291" Name="Lizardman_27" PosX="-213013" PosY="-136.243" PosZ="-197394" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7292" Name="Lizardman_28" PosX="-213452" PosY="-116.918" PosZ="-198608" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7293" Name="Lizardman_29" PosX="-213690" PosY="-62.2827" PosZ="-200012" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7294" Name="Lizardman_30" PosX="-213781" PosY="-33.7397" PosZ="-201624" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7295" Name="Lizardman_31" PosX="-213731" PosY="-66.563" PosZ="-202591" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7296" Name="Lizardman_32" PosX="-213610" PosY="-92.3691" PosZ="-203539" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7297" Name="Lizardman_33" PosX="-215820" PosY="-180.982" PosZ="-188547" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7298" Name="Lizardman_34" PosX="-216274" PosY="-134.174" PosZ="-187512" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7299" Name="Lizardman_35" PosX="-216770" PosY="-121.275" PosZ="-186441" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7300" Name="Lizardman_36" PosX="-216932" PosY="-89.3198" PosZ="-185636" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7301" Name="Lizardman_37" PosX="-216568" PosY="-71.4314" PosZ="-184890" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7302" Name="Lizardman_38" PosX="-216490" PosY="-3.1631" PosZ="-184288" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7303" Name="Lizardman_39" PosX="-216917" PosY="-46.0027" PosZ="-183812" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7304" Name="Lizardman_40" PosX="-217512" PosY="-137.703" PosZ="-183032" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7305" Name="Lizardman_441" PosX="-217676" PosY="-101.385" PosZ="-182617" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7306" Name="Lizardman_42" PosX="-218107" PosY="-196.174" PosZ="-181951" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7307" Name="Lizardman_43" PosX="-218672" PosY="-269.377" PosZ="-181346" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7308" Name="Lizardman_44" PosX="-219341" PosY="-302.487" PosZ="-180534" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7309" Name="Lizardman_45" PosX="-219594" PosY="-312.409" PosZ="-179777" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7310" Name="Lizardman_46" PosX="-219638" PosY="-328.321" PosZ="-178955" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7311" Name="Lizardman_47" PosX="-219625" PosY="-243.546" PosZ="-178069" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7312" Name="Lizardman_48" PosX="-219603" PosY="-179.439" PosZ="-177148" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7313" Name="Lizardman_49" PosX="-219503" PosY="-33.9412" PosZ="-176260" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7314" Name="Lizardman_50" PosX="-219451" PosY="78.3649" PosZ="-175633" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7315" Name="Lizardman_51" PosX="-219320" PosY="-345.087" PosZ="-179952" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7316" Name="Lizardman_52" PosX="-219053" PosY="-384.096" PosZ="-179492" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7317" Name="Lizardman_53" PosX="-218586" PosY="-446.359" PosZ="-179063" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7318" Name="Lizardman_54" PosX="-218050" PosY="-491.517" PosZ="-178789" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7319" Name="Lizardman_55" PosX="-217603" PosY="-515.405" PosZ="-178325" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7320" Name="Lizardman_56" PosX="-217471" PosY="-497.331" PosZ="-177877" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7321" Name="Lizardman_57" PosX="-223778" PosY="5.97277" PosZ="-181532" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7322" Name="Lizardman_58" PosX="-223908" PosY="64.7046" PosZ="-180854" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7323" Name="Lizardman_59" PosX="-223868" PosY="50.1375" PosZ="-180206" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7324" Name="Lizardman_60" PosX="-223988" PosY="-275.164" PosZ="-184687" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7325" Name="Lizardman_61" PosX="-224857" PosY="-236.532" PosZ="-184215" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7326" Name="Lizardman_62" PosX="-225619" PosY="-193.5" PosZ="-183989" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7327" Name="Lizardman_63" PosX="-226575" PosY="-182.422" PosZ="-183697" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7328" Name="Lizardman_64" PosX="-227242" PosY="-143.818" PosZ="-183309" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7329" Name="Lizardman_65" PosX="-227320" PosY="-47.7314" PosZ="-182618" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7330" Name="Lizardman_66" PosX="-226331" PosY="-140.202" PosZ="-183157" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7331" Name="Lizardman_67" PosX="-226695" PosY="60.0703" PosZ="-181942" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7332" Name="Lizardman_68" PosX="-226576" PosY="263.133" PosZ="-180893" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7333" Name="Lizardman_69" PosX="-226446" PosY="460.327" PosZ="-179957" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7334" Name="Lizardman_70" PosX="-226988" PosY="346.188" PosZ="-180977" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7335" Name="Lizardman_71" PosX="-227307" PosY="558.763" PosZ="-180258" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7336" Name="Lizardman_72" PosX="-227917" PosY="893.674" PosZ="-179698" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7337" Name="Lizardman_73" PosX="-228309" PosY="904.792" PosZ="-179110" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7338" Name="Lizardman_74" PosX="-228489" PosY="1031.9" PosZ="-178373" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7339" Name="Lizardman_75" PosX="-228536" PosY="1067.58" PosZ="-177819" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7340" Name="Lizardman_76" PosX="-228774" PosY="1117.66" PosZ="-177028" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7341" Name="Lizardman_77" PosX="-215106" PosY="-146.502" PosZ="-201951" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7342" Name="Lizardman_78" PosX="-216629" PosY="-344.142" PosZ="-202804" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7343" Name="Lizardman_79" PosX="-218360" PosY="-520.848" PosZ="-203475" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7344" Name="Lizardman_80" PosX="-212817" PosY="-125.546" PosZ="-194349" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7345" Name="Lizardman_81" PosX="-213131" PosY="-128.985" PosZ="-195019" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7346" Name="Lizardman_82" PosX="-213989" PosY="-122.294" PosZ="-195526" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7347" Name="Lizardman_83" PosX="-214888" PosY="-100.789" PosZ="-197110" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7348" Name="Lizardman_84" PosX="-210545" PosY="-127.635" PosZ="-196747" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7349" Name="Lizardman_85" PosX="-209114" PosY="-54.9724" PosZ="-197106" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7350" Name="Lizardman_86" PosX="-207428" PosY="51.1863" PosZ="-197234" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7351" Name="Lizardman_87" PosX="-212741" PosY="10.4048" PosZ="-202414" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7352" Name="Lizardman_88" PosX="-211580" PosY="21.0698" PosZ="-203254" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="7353" Name="Lizardman_89" PosX="-210258" PosY="63.7485" PosZ="-203454" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11886" Name="Lizardman_090" PosX="-228847" PosY="1170.57" PosZ="-176283" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11887" Name="Lizardman_091" PosX="-228696" PosY="1226.33" PosZ="-175693" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11888" Name="Lizardman_092" PosX="-228542" PosY="1320.39" PosZ="-174892" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11889" Name="Lizardman_093" PosX="-228417" PosY="1391.85" PosZ="-174169" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11890" Name="Lizardman_094" PosX="-228267" PosY="1463.12" PosZ="-173400" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11891" Name="Lizardman_095" PosX="-228216" PosY="1535.77" PosZ="-172815" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11892" Name="Lizardman_096" PosX="-228063" PosY="1744.41" PosZ="-172189" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11893" Name="Lizardman_097" PosX="-227885" PosY="1768.75" PosZ="-171742" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11894" Name="Lizardman_098" PosX="-227822" PosY="1773.68" PosZ="-171280" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11895" Name="Lizardman_099" PosX="-228022" PosY="1334.96" PosZ="-174519" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11896" Name="Lizardman_100" PosX="-227459" PosY="1328.17" PosZ="-174109" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11897" Name="Lizardman_101" PosX="-226928" PosY="1326.38" PosZ="-173736" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11898" Name="Lizardman_102" PosX="-226598" PosY="1365.42" PosZ="-173374" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11899" Name="Lizardman_103" PosX="-222772" PosY="452.099" PosZ="-175180" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11900" Name="Lizardman_104" PosX="-223579" PosY="738.353" PosZ="-174778" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11901" Name="Lizardman_105" PosX="-223958" PosY="901.623" PosZ="-174516" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11902" Name="Lizardman_106" PosX="-219401" PosY="126.535" PosZ="-175222" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11903" Name="Lizardman_107" PosX="-219339" PosY="205.558" PosZ="-174763" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11904" Name="Lizardman_108" PosX="-219190" PosY="310.129" PosZ="-174316" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11905" Name="Lizardman_109" PosX="-219002" PosY="410.653" PosZ="-173902" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11906" Name="Lizardman_110" PosX="-219106" PosY="554.451" PosZ="-173390" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11907" Name="Lizardman_111" PosX="-219715" PosY="452.203" PosZ="-173913" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11908" Name="Lizardman_112" PosX="-219929" PosY="561.58" PosZ="-173476" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11909" Name="Lizardman_113" PosX="-228131" PosY="1030.27" PosZ="-177275" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11910" Name="Lizardman_114" PosX="-227848" PosY="1016.31" PosZ="-176921" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11911" Name="Lizardman_115" PosX="-227430" PosY="1010.53" PosZ="-176623" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11912" Name="Lizardman_116" PosX="-226416" PosY="536.763" PosZ="-179284" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11913" Name="Lizardman_117" PosX="-226309" PosY="584.177" PosZ="-178733" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11914" Name="Lizardman_118" PosX="-226130" PosY="591.4" PosZ="-178225" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11915" Name="Lizardman_119" PosX="-226047" PosY="671.206" PosZ="-177567" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11916" Name="Lizardman_120" PosX="-226115" PosY="805.217" PosZ="-177065" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11917" Name="Lizardman_121" PosX="-227134" PosY="987.288" PosZ="-176474" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11918" Name="Lizardman_122" PosX="-226877" PosY="1001.97" PosZ="-176189" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11919" Name="Lizardman_123" PosX="-226912" PosY="1097.88" PosZ="-175875" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11920" Name="Lizardman_124" PosX="-226575" PosY="1404.6" PosZ="-173116" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11921" Name="Lizardman_125" PosX="-223449" PosY="836.675" PosZ="-171800" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11922" Name="Lizardman_126" PosX="-223094" PosY="928.099" PosZ="-171167" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11923" Name="Lizardman_127" PosX="-222753" PosY="1091.97" PosZ="-170826" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11924" Name="Lizardman_128" PosX="-222513" PosY="1204.3" PosZ="-170502" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11925" Name="Lizardman_129" PosX="-222552" PosY="1259.43" PosZ="-169972" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11926" Name="Lizardman_130" PosX="-229146" PosY="1218.82" PosZ="-175920" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11927" Name="Lizardman_131" PosX="-229365" PosY="1251.67" PosZ="-175624" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11928" Name="Lizardman_132" PosX="-229514" PosY="1293.69" PosZ="-175210" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11929" Name="Lizardman_133" PosX="-229439" PosY="1338.67" PosZ="-174741" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11930" Name="Lizardman_134" PosX="-219355" PosY="713.849" PosZ="-172857" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11931" Name="Lizardman_135" PosX="-219682" PosY="900.746" PosZ="-172185" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11932" Name="Lizardman_136" PosX="-219965" PosY="1031.14" PosZ="-171588" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11933" Name="Lizardman_137" PosX="-220285" PosY="1170.09" PosZ="-171102" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11934" Name="Lizardman_138" PosX="-220646" PosY="1230.43" PosZ="-170883" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11935" Name="Lizardman_139" PosX="-220671" PosY="1345.21" PosZ="-170279" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11936" Name="Lizardman_140" PosX="-220750" PosY="1375.16" PosZ="-169894" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11937" Name="Lizardman_141" PosX="-219690" PosY="1186.71" PosZ="-170942" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11938" Name="Lizardman_142" PosX="-219581" PosY="1309.78" PosZ="-170548" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11939" Name="Lizardman_143" PosX="-219658" PosY="1429.16" PosZ="-170053" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11940" Name="Lizardman_144" PosX="-219652" PosY="1504.58" PosZ="-169710" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11941" Name="Lizardman_145" PosX="-218955" PosY="9.79419" PosZ="-175701" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11942" Name="Lizardman_146" PosX="-218741" PosY="75.5618" PosZ="-175088" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11943" Name="Lizardman_147" PosX="-224159" PosY="922.543" PosZ="-174828" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11944" Name="Lizardman_148" PosX="-224676" PosY="930.814" PosZ="-174701" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11945" Name="Lizardman_149" PosX="-225132" PosY="1036.92" PosZ="-174550" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11946" Name="Lizardman_150" PosX="-225433" PosY="1126.58" PosZ="-174138" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11947" Name="Lizardman_151" PosX="-224147" PosY="824.766" PosZ="-174108" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11948" Name="Lizardman_152" PosX="-224923" PosY="1004.92" PosZ="-174258" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11949" Name="Lizardman_153" PosX="-225099" PosY="1100.13" PosZ="-173867" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11950" Name="Lizardman_154" PosX="-225258" PosY="1214.24" PosZ="-173375" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11951" Name="Lizardman_155" PosX="-225415" PosY="1274.66" PosZ="-172892" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11952" Name="Lizardman_156" PosX="-223199" PosY="-275.734" PosZ="-187827" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11953" Name="Lizardman_157" PosX="-222966" PosY="-265.78" PosZ="-187121" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11954" Name="Lizardman_159" PosX="-223446" PosY="-258.767" PosZ="-188658" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11955" Name="Lizardman_160" PosX="-223512" PosY="-218.365" PosZ="-189500" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11956" Name="Lizardman_161" PosX="-224286" PosY="-279.216" PosZ="-185416" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11957" Name="Lizardman_162" PosX="-224290" PosY="-280.166" PosZ="-185887" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11958" Name="Lizardman_163" PosX="-224785" PosY="-286.877" PosZ="-186469" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11959" Name="Lizardman_164" PosX="-225032" PosY="-295.783" PosZ="-186899" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11960" Name="Lizardman_165" PosX="-225374" PosY="-305.548" PosZ="-187348" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11961" Name="Lizardman_166" PosX="-225704" PosY="-319.391" PosZ="-187711" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11962" Name="Lizardman_167" PosX="-226106" PosY="-328.332" PosZ="-187746" Property="ground"/>
+	<Waypoint IsEscape="False" IsSubWaypoint="False" Key="11963" Name="Lizardman_168" PosX="-226518" PosY="-338.32" PosZ="-187860" Property="ground"/>
+</WaypointList>
+<LinkList>
+	<Link SourceWaypoint="7265" TargetWaypoint="7266"/>
+	<Link SourceWaypoint="7266" TargetWaypoint="7265"/>
+	<Link SourceWaypoint="7266" TargetWaypoint="7267"/>
+	<Link SourceWaypoint="7267" TargetWaypoint="7266"/>
+	<Link SourceWaypoint="7267" TargetWaypoint="7268"/>
+	<Link SourceWaypoint="7268" TargetWaypoint="7267"/>
+	<Link SourceWaypoint="7268" TargetWaypoint="7269"/>
+	<Link SourceWaypoint="7269" TargetWaypoint="7268"/>
+	<Link SourceWaypoint="7269" TargetWaypoint="7270"/>
+	<Link SourceWaypoint="7269" TargetWaypoint="11921"/>
+	<Link SourceWaypoint="7270" TargetWaypoint="7269"/>
+	<Link SourceWaypoint="7270" TargetWaypoint="7271"/>
+	<Link SourceWaypoint="7271" TargetWaypoint="7270"/>
+	<Link SourceWaypoint="7271" TargetWaypoint="7272"/>
+	<Link SourceWaypoint="7271" TargetWaypoint="11899"/>
+	<Link SourceWaypoint="7272" TargetWaypoint="7271"/>
+	<Link SourceWaypoint="7272" TargetWaypoint="7273"/>
+	<Link SourceWaypoint="7273" TargetWaypoint="7272"/>
+	<Link SourceWaypoint="7273" TargetWaypoint="7274"/>
+	<Link SourceWaypoint="7274" TargetWaypoint="7273"/>
+	<Link SourceWaypoint="7274" TargetWaypoint="7275"/>
+	<Link SourceWaypoint="7275" TargetWaypoint="7274"/>
+	<Link SourceWaypoint="7275" TargetWaypoint="7276"/>
+	<Link SourceWaypoint="7275" TargetWaypoint="7321"/>
+	<Link SourceWaypoint="7276" TargetWaypoint="7275"/>
+	<Link SourceWaypoint="7276" TargetWaypoint="7277"/>
+	<Link SourceWaypoint="7276" TargetWaypoint="7324"/>
+	<Link SourceWaypoint="7277" TargetWaypoint="7276"/>
+	<Link SourceWaypoint="7277" TargetWaypoint="7278"/>
+	<Link SourceWaypoint="7277" TargetWaypoint="7324"/>
+	<Link SourceWaypoint="7277" TargetWaypoint="11953"/>
+	<Link SourceWaypoint="7278" TargetWaypoint="7277"/>
+	<Link SourceWaypoint="7278" TargetWaypoint="7279"/>
+	<Link SourceWaypoint="7279" TargetWaypoint="7278"/>
+	<Link SourceWaypoint="7279" TargetWaypoint="7280"/>
+	<Link SourceWaypoint="7280" TargetWaypoint="7279"/>
+	<Link SourceWaypoint="7280" TargetWaypoint="7281"/>
+	<Link SourceWaypoint="7281" TargetWaypoint="7280"/>
+	<Link SourceWaypoint="7281" TargetWaypoint="7282"/>
+	<Link SourceWaypoint="7282" TargetWaypoint="7281"/>
+	<Link SourceWaypoint="7282" TargetWaypoint="7283"/>
+	<Link SourceWaypoint="7283" TargetWaypoint="7282"/>
+	<Link SourceWaypoint="7283" TargetWaypoint="7284"/>
+	<Link SourceWaypoint="7284" TargetWaypoint="7283"/>
+	<Link SourceWaypoint="7284" TargetWaypoint="7285"/>
+	<Link SourceWaypoint="7285" TargetWaypoint="7284"/>
+	<Link SourceWaypoint="7285" TargetWaypoint="7286"/>
+	<Link SourceWaypoint="7285" TargetWaypoint="7297"/>
+	<Link SourceWaypoint="7286" TargetWaypoint="7285"/>
+	<Link SourceWaypoint="7286" TargetWaypoint="7287"/>
+	<Link SourceWaypoint="7287" TargetWaypoint="7286"/>
+	<Link SourceWaypoint="7287" TargetWaypoint="7288"/>
+	<Link SourceWaypoint="7288" TargetWaypoint="7287"/>
+	<Link SourceWaypoint="7288" TargetWaypoint="7289"/>
+	<Link SourceWaypoint="7288" TargetWaypoint="7344"/>
+	<Link SourceWaypoint="7289" TargetWaypoint="7288"/>
+	<Link SourceWaypoint="7289" TargetWaypoint="7290"/>
+	<Link SourceWaypoint="7289" TargetWaypoint="7348"/>
+	<Link SourceWaypoint="7290" TargetWaypoint="7289"/>
+	<Link SourceWaypoint="7290" TargetWaypoint="7291"/>
+	<Link SourceWaypoint="7291" TargetWaypoint="7290"/>
+	<Link SourceWaypoint="7291" TargetWaypoint="7292"/>
+	<Link SourceWaypoint="7292" TargetWaypoint="7291"/>
+	<Link SourceWaypoint="7292" TargetWaypoint="7293"/>
+	<Link SourceWaypoint="7293" TargetWaypoint="7292"/>
+	<Link SourceWaypoint="7293" TargetWaypoint="7294"/>
+	<Link SourceWaypoint="7293" TargetWaypoint="7341"/>
+	<Link SourceWaypoint="7293" TargetWaypoint="7351"/>
+	<Link SourceWaypoint="7294" TargetWaypoint="7293"/>
+	<Link SourceWaypoint="7294" TargetWaypoint="7295"/>
+	<Link SourceWaypoint="7295" TargetWaypoint="7294"/>
+	<Link SourceWaypoint="7295" TargetWaypoint="7296"/>
+	<Link SourceWaypoint="7296" TargetWaypoint="7295"/>
+	<Link SourceWaypoint="7297" TargetWaypoint="7298"/>
+	<Link SourceWaypoint="7297" TargetWaypoint="7285"/>
+	<Link SourceWaypoint="7298" TargetWaypoint="7297"/>
+	<Link SourceWaypoint="7298" TargetWaypoint="7299"/>
+	<Link SourceWaypoint="7299" TargetWaypoint="7298"/>
+	<Link SourceWaypoint="7299" TargetWaypoint="7300"/>
+	<Link SourceWaypoint="7300" TargetWaypoint="7299"/>
+	<Link SourceWaypoint="7300" TargetWaypoint="7301"/>
+	<Link SourceWaypoint="7301" TargetWaypoint="7300"/>
+	<Link SourceWaypoint="7301" TargetWaypoint="7302"/>
+	<Link SourceWaypoint="7302" TargetWaypoint="7301"/>
+	<Link SourceWaypoint="7302" TargetWaypoint="7303"/>
+	<Link SourceWaypoint="7303" TargetWaypoint="7302"/>
+	<Link SourceWaypoint="7303" TargetWaypoint="7304"/>
+	<Link SourceWaypoint="7304" TargetWaypoint="7303"/>
+	<Link SourceWaypoint="7304" TargetWaypoint="7305"/>
+	<Link SourceWaypoint="7305" TargetWaypoint="7304"/>
+	<Link SourceWaypoint="7305" TargetWaypoint="7306"/>
+	<Link SourceWaypoint="7306" TargetWaypoint="7305"/>
+	<Link SourceWaypoint="7306" TargetWaypoint="7307"/>
+	<Link SourceWaypoint="7307" TargetWaypoint="7306"/>
+	<Link SourceWaypoint="7307" TargetWaypoint="7308"/>
+	<Link SourceWaypoint="7308" TargetWaypoint="7307"/>
+	<Link SourceWaypoint="7308" TargetWaypoint="7309"/>
+	<Link SourceWaypoint="7308" TargetWaypoint="7315"/>
+	<Link SourceWaypoint="7309" TargetWaypoint="7308"/>
+	<Link SourceWaypoint="7309" TargetWaypoint="7310"/>
+	<Link SourceWaypoint="7310" TargetWaypoint="7309"/>
+	<Link SourceWaypoint="7310" TargetWaypoint="7311"/>
+	<Link SourceWaypoint="7311" TargetWaypoint="7310"/>
+	<Link SourceWaypoint="7311" TargetWaypoint="7312"/>
+	<Link SourceWaypoint="7312" TargetWaypoint="7311"/>
+	<Link SourceWaypoint="7312" TargetWaypoint="7313"/>
+	<Link SourceWaypoint="7313" TargetWaypoint="7312"/>
+	<Link SourceWaypoint="7313" TargetWaypoint="7314"/>
+	<Link SourceWaypoint="7313" TargetWaypoint="11941"/>
+	<Link SourceWaypoint="7314" TargetWaypoint="7313"/>
+	<Link SourceWaypoint="7314" TargetWaypoint="11902"/>
+	<Link SourceWaypoint="7315" TargetWaypoint="7316"/>
+	<Link SourceWaypoint="7315" TargetWaypoint="7308"/>
+	<Link SourceWaypoint="7316" TargetWaypoint="7315"/>
+	<Link SourceWaypoint="7316" TargetWaypoint="7317"/>
+	<Link SourceWaypoint="7317" TargetWaypoint="7316"/>
+	<Link SourceWaypoint="7317" TargetWaypoint="7318"/>
+	<Link SourceWaypoint="7318" TargetWaypoint="7317"/>
+	<Link SourceWaypoint="7318" TargetWaypoint="7319"/>
+	<Link SourceWaypoint="7319" TargetWaypoint="7318"/>
+	<Link SourceWaypoint="7319" TargetWaypoint="7320"/>
+	<Link SourceWaypoint="7320" TargetWaypoint="7319"/>
+	<Link SourceWaypoint="7321" TargetWaypoint="7275"/>
+	<Link SourceWaypoint="7321" TargetWaypoint="7322"/>
+	<Link SourceWaypoint="7322" TargetWaypoint="7321"/>
+	<Link SourceWaypoint="7322" TargetWaypoint="7323"/>
+	<Link SourceWaypoint="7323" TargetWaypoint="7322"/>
+	<Link SourceWaypoint="7324" TargetWaypoint="7277"/>
+	<Link SourceWaypoint="7324" TargetWaypoint="7325"/>
+	<Link SourceWaypoint="7324" TargetWaypoint="7276"/>
+	<Link SourceWaypoint="7324" TargetWaypoint="11956"/>
+	<Link SourceWaypoint="7325" TargetWaypoint="7324"/>
+	<Link SourceWaypoint="7325" TargetWaypoint="7326"/>
+	<Link SourceWaypoint="7325" TargetWaypoint="7330"/>
+	<Link SourceWaypoint="7326" TargetWaypoint="7325"/>
+	<Link SourceWaypoint="7326" TargetWaypoint="7327"/>
+	<Link SourceWaypoint="7327" TargetWaypoint="7326"/>
+	<Link SourceWaypoint="7327" TargetWaypoint="7328"/>
+	<Link SourceWaypoint="7328" TargetWaypoint="7327"/>
+	<Link SourceWaypoint="7328" TargetWaypoint="7329"/>
+	<Link SourceWaypoint="7329" TargetWaypoint="7328"/>
+	<Link SourceWaypoint="7330" TargetWaypoint="7325"/>
+	<Link SourceWaypoint="7330" TargetWaypoint="7331"/>
+	<Link SourceWaypoint="7331" TargetWaypoint="7330"/>
+	<Link SourceWaypoint="7331" TargetWaypoint="7332"/>
+	<Link SourceWaypoint="7331" TargetWaypoint="7334"/>
+	<Link SourceWaypoint="7332" TargetWaypoint="7331"/>
+	<Link SourceWaypoint="7332" TargetWaypoint="7333"/>
+	<Link SourceWaypoint="7333" TargetWaypoint="7332"/>
+	<Link SourceWaypoint="7333" TargetWaypoint="11912"/>
+	<Link SourceWaypoint="7334" TargetWaypoint="7331"/>
+	<Link SourceWaypoint="7334" TargetWaypoint="7335"/>
+	<Link SourceWaypoint="7335" TargetWaypoint="7334"/>
+	<Link SourceWaypoint="7335" TargetWaypoint="7336"/>
+	<Link SourceWaypoint="7336" TargetWaypoint="7335"/>
+	<Link SourceWaypoint="7336" TargetWaypoint="7337"/>
+	<Link SourceWaypoint="7337" TargetWaypoint="7336"/>
+	<Link SourceWaypoint="7337" TargetWaypoint="7338"/>
+	<Link SourceWaypoint="7338" TargetWaypoint="7337"/>
+	<Link SourceWaypoint="7338" TargetWaypoint="7339"/>
+	<Link SourceWaypoint="7339" TargetWaypoint="7338"/>
+	<Link SourceWaypoint="7339" TargetWaypoint="7340"/>
+	<Link SourceWaypoint="7339" TargetWaypoint="11909"/>
+	<Link SourceWaypoint="7340" TargetWaypoint="7339"/>
+	<Link SourceWaypoint="7340" TargetWaypoint="11886"/>
+	<Link SourceWaypoint="7341" TargetWaypoint="7293"/>
+	<Link SourceWaypoint="7341" TargetWaypoint="7342"/>
+	<Link SourceWaypoint="7342" TargetWaypoint="7341"/>
+	<Link SourceWaypoint="7342" TargetWaypoint="7343"/>
+	<Link SourceWaypoint="7343" TargetWaypoint="7342"/>
+	<Link SourceWaypoint="7344" TargetWaypoint="7288"/>
+	<Link SourceWaypoint="7344" TargetWaypoint="7345"/>
+	<Link SourceWaypoint="7345" TargetWaypoint="7344"/>
+	<Link SourceWaypoint="7345" TargetWaypoint="7346"/>
+	<Link SourceWaypoint="7346" TargetWaypoint="7345"/>
+	<Link SourceWaypoint="7346" TargetWaypoint="7347"/>
+	<Link SourceWaypoint="7347" TargetWaypoint="7346"/>
+	<Link SourceWaypoint="7348" TargetWaypoint="7289"/>
+	<Link SourceWaypoint="7348" TargetWaypoint="7349"/>
+	<Link SourceWaypoint="7349" TargetWaypoint="7348"/>
+	<Link SourceWaypoint="7349" TargetWaypoint="7350"/>
+	<Link SourceWaypoint="7350" TargetWaypoint="7349"/>
+	<Link SourceWaypoint="7351" TargetWaypoint="7352"/>
+	<Link SourceWaypoint="7351" TargetWaypoint="7293"/>
+	<Link SourceWaypoint="7352" TargetWaypoint="7351"/>
+	<Link SourceWaypoint="7352" TargetWaypoint="7353"/>
+	<Link SourceWaypoint="7353" TargetWaypoint="7352"/>
+	<Link SourceWaypoint="11886" TargetWaypoint="7340"/>
+	<Link SourceWaypoint="11886" TargetWaypoint="11887"/>
+	<Link SourceWaypoint="11886" TargetWaypoint="11926"/>
+	<Link SourceWaypoint="11887" TargetWaypoint="11886"/>
+	<Link SourceWaypoint="11887" TargetWaypoint="11888"/>
+	<Link SourceWaypoint="11888" TargetWaypoint="11887"/>
+	<Link SourceWaypoint="11888" TargetWaypoint="11889"/>
+	<Link SourceWaypoint="11888" TargetWaypoint="11895"/>
+	<Link SourceWaypoint="11889" TargetWaypoint="11888"/>
+	<Link SourceWaypoint="11889" TargetWaypoint="11890"/>
+	<Link SourceWaypoint="11890" TargetWaypoint="11889"/>
+	<Link SourceWaypoint="11890" TargetWaypoint="11891"/>
+	<Link SourceWaypoint="11891" TargetWaypoint="11890"/>
+	<Link SourceWaypoint="11891" TargetWaypoint="11892"/>
+	<Link SourceWaypoint="11892" TargetWaypoint="11891"/>
+	<Link SourceWaypoint="11892" TargetWaypoint="11893"/>
+	<Link SourceWaypoint="11893" TargetWaypoint="11892"/>
+	<Link SourceWaypoint="11893" TargetWaypoint="11894"/>
+	<Link SourceWaypoint="11894" TargetWaypoint="11893"/>
+	<Link SourceWaypoint="11895" TargetWaypoint="11888"/>
+	<Link SourceWaypoint="11895" TargetWaypoint="11896"/>
+	<Link SourceWaypoint="11896" TargetWaypoint="11895"/>
+	<Link SourceWaypoint="11896" TargetWaypoint="11897"/>
+	<Link SourceWaypoint="11897" TargetWaypoint="11896"/>
+	<Link SourceWaypoint="11897" TargetWaypoint="11898"/>
+	<Link SourceWaypoint="11898" TargetWaypoint="11897"/>
+	<Link SourceWaypoint="11898" TargetWaypoint="11920"/>
+	<Link SourceWaypoint="11899" TargetWaypoint="7271"/>
+	<Link SourceWaypoint="11899" TargetWaypoint="11900"/>
+	<Link SourceWaypoint="11900" TargetWaypoint="11899"/>
+	<Link SourceWaypoint="11900" TargetWaypoint="11901"/>
+	<Link SourceWaypoint="11900" TargetWaypoint="11943"/>
+	<Link SourceWaypoint="11901" TargetWaypoint="11900"/>
+	<Link SourceWaypoint="11901" TargetWaypoint="11947"/>
+	<Link SourceWaypoint="11902" TargetWaypoint="7314"/>
+	<Link SourceWaypoint="11902" TargetWaypoint="11903"/>
+	<Link SourceWaypoint="11903" TargetWaypoint="11902"/>
+	<Link SourceWaypoint="11903" TargetWaypoint="11904"/>
+	<Link SourceWaypoint="11904" TargetWaypoint="11903"/>
+	<Link SourceWaypoint="11904" TargetWaypoint="11905"/>
+	<Link SourceWaypoint="11904" TargetWaypoint="11907"/>
+	<Link SourceWaypoint="11905" TargetWaypoint="11904"/>
+	<Link SourceWaypoint="11905" TargetWaypoint="11906"/>
+	<Link SourceWaypoint="11906" TargetWaypoint="11905"/>
+	<Link SourceWaypoint="11906" TargetWaypoint="11930"/>
+	<Link SourceWaypoint="11907" TargetWaypoint="11904"/>
+	<Link SourceWaypoint="11907" TargetWaypoint="11908"/>
+	<Link SourceWaypoint="11908" TargetWaypoint="11907"/>
+	<Link SourceWaypoint="11909" TargetWaypoint="7339"/>
+	<Link SourceWaypoint="11909" TargetWaypoint="11910"/>
+	<Link SourceWaypoint="11910" TargetWaypoint="11909"/>
+	<Link SourceWaypoint="11910" TargetWaypoint="11911"/>
+	<Link SourceWaypoint="11911" TargetWaypoint="11910"/>
+	<Link SourceWaypoint="11911" TargetWaypoint="11917"/>
+	<Link SourceWaypoint="11912" TargetWaypoint="7333"/>
+	<Link SourceWaypoint="11912" TargetWaypoint="11913"/>
+	<Link SourceWaypoint="11913" TargetWaypoint="11912"/>
+	<Link SourceWaypoint="11913" TargetWaypoint="11914"/>
+	<Link SourceWaypoint="11914" TargetWaypoint="11913"/>
+	<Link SourceWaypoint="11914" TargetWaypoint="11915"/>
+	<Link SourceWaypoint="11915" TargetWaypoint="11914"/>
+	<Link SourceWaypoint="11915" TargetWaypoint="11916"/>
+	<Link SourceWaypoint="11916" TargetWaypoint="11915"/>
+	<Link SourceWaypoint="11917" TargetWaypoint="11911"/>
+	<Link SourceWaypoint="11917" TargetWaypoint="11918"/>
+	<Link SourceWaypoint="11918" TargetWaypoint="11917"/>
+	<Link SourceWaypoint="11918" TargetWaypoint="11919"/>
+	<Link SourceWaypoint="11919" TargetWaypoint="11918"/>
+	<Link SourceWaypoint="11920" TargetWaypoint="11898"/>
+	<Link SourceWaypoint="11921" TargetWaypoint="7269"/>
+	<Link SourceWaypoint="11921" TargetWaypoint="11922"/>
+	<Link SourceWaypoint="11922" TargetWaypoint="11921"/>
+	<Link SourceWaypoint="11922" TargetWaypoint="11923"/>
+	<Link SourceWaypoint="11923" TargetWaypoint="11922"/>
+	<Link SourceWaypoint="11923" TargetWaypoint="11924"/>
+	<Link SourceWaypoint="11924" TargetWaypoint="11923"/>
+	<Link SourceWaypoint="11924" TargetWaypoint="11925"/>
+	<Link SourceWaypoint="11925" TargetWaypoint="11924"/>
+	<Link SourceWaypoint="11926" TargetWaypoint="11886"/>
+	<Link SourceWaypoint="11926" TargetWaypoint="11927"/>
+	<Link SourceWaypoint="11927" TargetWaypoint="11926"/>
+	<Link SourceWaypoint="11927" TargetWaypoint="11928"/>
+	<Link SourceWaypoint="11928" TargetWaypoint="11927"/>
+	<Link SourceWaypoint="11928" TargetWaypoint="11929"/>
+	<Link SourceWaypoint="11929" TargetWaypoint="11928"/>
+	<Link SourceWaypoint="11930" TargetWaypoint="11906"/>
+	<Link SourceWaypoint="11930" TargetWaypoint="11931"/>
+	<Link SourceWaypoint="11931" TargetWaypoint="11930"/>
+	<Link SourceWaypoint="11931" TargetWaypoint="11932"/>
+	<Link SourceWaypoint="11932" TargetWaypoint="11931"/>
+	<Link SourceWaypoint="11932" TargetWaypoint="11933"/>
+	<Link SourceWaypoint="11932" TargetWaypoint="11937"/>
+	<Link SourceWaypoint="11933" TargetWaypoint="11932"/>
+	<Link SourceWaypoint="11933" TargetWaypoint="11934"/>
+	<Link SourceWaypoint="11934" TargetWaypoint="11933"/>
+	<Link SourceWaypoint="11934" TargetWaypoint="11935"/>
+	<Link SourceWaypoint="11935" TargetWaypoint="11934"/>
+	<Link SourceWaypoint="11935" TargetWaypoint="11936"/>
+	<Link SourceWaypoint="11936" TargetWaypoint="11935"/>
+	<Link SourceWaypoint="11937" TargetWaypoint="11938"/>
+	<Link SourceWaypoint="11937" TargetWaypoint="11932"/>
+	<Link SourceWaypoint="11938" TargetWaypoint="11937"/>
+	<Link SourceWaypoint="11938" TargetWaypoint="11939"/>
+	<Link SourceWaypoint="11939" TargetWaypoint="11938"/>
+	<Link SourceWaypoint="11939" TargetWaypoint="11940"/>
+	<Link SourceWaypoint="11940" TargetWaypoint="11939"/>
+	<Link SourceWaypoint="11941" TargetWaypoint="7313"/>
+	<Link SourceWaypoint="11941" TargetWaypoint="11942"/>
+	<Link SourceWaypoint="11942" TargetWaypoint="11941"/>
+	<Link SourceWaypoint="11943" TargetWaypoint="11900"/>
+	<Link SourceWaypoint="11943" TargetWaypoint="11944"/>
+	<Link SourceWaypoint="11944" TargetWaypoint="11943"/>
+	<Link SourceWaypoint="11944" TargetWaypoint="11945"/>
+	<Link SourceWaypoint="11944" TargetWaypoint="11948"/>
+	<Link SourceWaypoint="11945" TargetWaypoint="11944"/>
+	<Link SourceWaypoint="11945" TargetWaypoint="11946"/>
+	<Link SourceWaypoint="11946" TargetWaypoint="11945"/>
+	<Link SourceWaypoint="11947" TargetWaypoint="11901"/>
+	<Link SourceWaypoint="11948" TargetWaypoint="11944"/>
+	<Link SourceWaypoint="11948" TargetWaypoint="11949"/>
+	<Link SourceWaypoint="11949" TargetWaypoint="11948"/>
+	<Link SourceWaypoint="11949" TargetWaypoint="11950"/>
+	<Link SourceWaypoint="11950" TargetWaypoint="11949"/>
+	<Link SourceWaypoint="11950" TargetWaypoint="11951"/>
+	<Link SourceWaypoint="11951" TargetWaypoint="11950"/>
+	<Link SourceWaypoint="11952" TargetWaypoint="11953"/>
+	<Link SourceWaypoint="11952" TargetWaypoint="11954"/>
+	<Link SourceWaypoint="11953" TargetWaypoint="11952"/>
+	<Link SourceWaypoint="11953" TargetWaypoint="7277"/>
+	<Link SourceWaypoint="11954" TargetWaypoint="11952"/>
+	<Link SourceWaypoint="11954" TargetWaypoint="11955"/>
+	<Link SourceWaypoint="11955" TargetWaypoint="11954"/>
+	<Link SourceWaypoint="11956" TargetWaypoint="7324"/>
+	<Link SourceWaypoint="11956" TargetWaypoint="11957"/>
+	<Link SourceWaypoint="11957" TargetWaypoint="11956"/>
+	<Link SourceWaypoint="11957" TargetWaypoint="11958"/>
+	<Link SourceWaypoint="11958" TargetWaypoint="11957"/>
+	<Link SourceWaypoint="11958" TargetWaypoint="11959"/>
+	<Link SourceWaypoint="11959" TargetWaypoint="11958"/>
+	<Link SourceWaypoint="11959" TargetWaypoint="11960"/>
+	<Link SourceWaypoint="11960" TargetWaypoint="11959"/>
+	<Link SourceWaypoint="11960" TargetWaypoint="11961"/>
+	<Link SourceWaypoint="11961" TargetWaypoint="11960"/>
+	<Link SourceWaypoint="11961" TargetWaypoint="11962"/>
+	<Link SourceWaypoint="11962" TargetWaypoint="11961"/>
+	<Link SourceWaypoint="11962" TargetWaypoint="11963"/>
+	<Link SourceWaypoint="11963" TargetWaypoint="11962"/>
+</LinkList>
+<GroupList>
+	<Group Key="24" Name="Lizardman_01"/>
+</GroupList>
+<RouteList/>
+</WaypointData>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title></title>
+</head>
+<body ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false">
+<script src="/Areas/Customizing/common/js/myfolder.js"></script>
+<link href="/Areas/Customizing/common/css/myfolder.css?v=2" rel="stylesheet"/>
+
+<script>
+    var str = '';
+
+    $(document).ready(function () {
+        common.openPage();
+
+        initPage();
+
+        common.closePage();
+    });
+
+</script>
+
+<div id="myfolder" class="container">
+    <input type="hidden" id="page" value="1"/>
+    <input type="hidden" id="length" value="0"/>
+    <input type="hidden" id="pageSize" value="12"/>
+    <input type="hidden" id="totalPage" value="0"/>
+
+    <div id="searchBox" class="classBox">
+        <a class="btn allSelect" data-selector="on" data-color="1d1b17"> </a>
+    </div>
+    <div class="cmArea scroll" data-formatType="format">
+        <div class="CMBox">
+        </div>
+        <div id="paging"></div>
+    </div>
+</div>
+
+
+</body>
+</html>
