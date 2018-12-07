@@ -99,4 +99,12 @@ public class OnlineEventConfig {
 	@ConfigComments(comment = { "每种材料发几个？需要和物品数量一致", "格式：数量1;数量2 ……以此类推" })
 	@ConfigProperty(name = "onlineevent.onlinegift.200Count", value = "1;1;1")
 	public static String[] ONLINEGIFT_200_COUNT;
+
+	// marketshopping 扫荡拍卖行活动
+	@ConfigComments(comment = { "需要扫荡的物品", "格式：物品ID;物品ID ……以此类推" })
+	@ConfigProperty(name = "marketshopping.id", value = "1001;1002;1003")
+	public static String[] MARKETSHOPPING_ID;
+	@ConfigComments(comment = { "物品收购价最高多少？价格以万为单位", "需要和物品数量一致", "格式：价格1;价格2 ……以此类推" })
+	@ConfigProperty(name = "marketshopping.price", value = "1000;1500;5000")
+	public static String[] MARKETSHOPPING_PRICE;
 }

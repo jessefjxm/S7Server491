@@ -3,6 +3,7 @@ package com.bdoemu.core.startup;
 import com.bdoemu.commons.utils.ServerInfoUtils;
 import com.bdoemu.commons.utils.versioning.Version;
 import com.bdoemu.core.network.GameNetworkThread;
+import com.bdoemu.gameserver.model.creature.BossTimer;
 import com.bdoemu.gameserver.model.creature.services.SpawnService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -29,6 +30,8 @@ public enum StartupLevel implements IStartupLevel {
 			} catch (IOException | InterruptedException e) {
 				StartupLevel.log.error("Error while starting network thread", e);
 			}
+			// 更新Boss刷新时间表
+			BossTimer.UpdateAction(System.currentTimeMillis());
 			StartupLevel.log.info("Server loaded in {} millisecond(s).",
 					ServerInfoUtils.formatNumber(ManagementFactory.getRuntimeMXBean().getUptime()));
 		}

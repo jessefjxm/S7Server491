@@ -3,6 +3,7 @@ package com.bdoemu.gameserver.model.creature.services;
 import com.bdoemu.commons.thread.APeriodicTaskService;
 import com.bdoemu.commons.utils.Rnd;
 import com.bdoemu.core.startup.StartupComponent;
+import com.bdoemu.gameserver.model.creature.BossTimer;
 import com.bdoemu.gameserver.model.creature.Creature;
 import com.bdoemu.gameserver.model.creature.DeadBody;
 import com.bdoemu.gameserver.model.creature.collect.Collect;
@@ -11,7 +12,6 @@ import com.bdoemu.gameserver.model.creature.templates.CreatureTemplate;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
-import java.util.concurrent.atomic.AtomicReference;
 
 @StartupComponent("Service")
 public class RespawnService extends APeriodicTaskService {
@@ -38,6 +38,8 @@ public class RespawnService extends APeriodicTaskService {
             final CreatureTemplate template = deadBody.getTemplate();
             deadBody.setRespawnTime(System.currentTimeMillis() + template.getSpawnDelayTime() + Rnd.get(0, template.getSpawnVariableTime()));
             this.map.put(deadBody.getGameObjectId(), deadBody);
+			// 更新Boss刷新时间表，当然得是BOSS才行
+			BossTimer.UpdateAction(deadBody.getCreatureId(), deadBody.getRespawnTime());
         }
     }
 

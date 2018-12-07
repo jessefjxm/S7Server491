@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 
 public class OnlineGiftingService extends Thread {
 	private static final Logger log = LoggerFactory.getLogger(OnlineGiftingService.class);
-	private boolean isOnlineGifting;
+	private boolean isEventRunning;
 	private Player player;
 
 	private static class Holder {
@@ -27,25 +27,25 @@ public class OnlineGiftingService extends Thread {
 	}
 
 	private OnlineGiftingService() {
-		this.isOnlineGifting = false;
+		this.isEventRunning = false;
 	}
 
 	private OnlineGiftingService(Player player) {
-		this.isOnlineGifting = false;
+		this.isEventRunning = false;
 		this.player = player;
 	}
 
 	@Override
 	public void run() {
-		onlinegiftAction();
+		eventThreadAction();
 	}
 
-	public boolean isOnlineGifting() {
-		return isOnlineGifting;
+	public boolean isEventRunning() {
+		return isEventRunning;
 	}
 
 	public boolean startEvent(Player player) {
-		if (player != null && !isOnlineGifting) {
+		if (player != null && !isEventRunning) {
 			// 建立一个活动线程
 			new OnlineGiftingService(player).start();
 			return true;
@@ -54,9 +54,9 @@ public class OnlineGiftingService extends Thread {
 		}
 	}
 
-	private synchronized void onlinegiftAction() {
+	private synchronized void eventThreadAction() {
 		log.info("开始了在线送礼活动.");
-		isOnlineGifting = true;
+		isEventRunning = true;
 		// 奖品id，奖品数量，附魔等级
 		List<String> gifts, giftsCount, giftsEnchant;
 		// 存储奖品id对应数值，防止随机后打乱
@@ -211,6 +211,6 @@ public class OnlineGiftingService extends Thread {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		isOnlineGifting = false;
+		isEventRunning = false;
 	}
 }
