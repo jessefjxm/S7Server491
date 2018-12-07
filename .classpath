@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/attoparser-2.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-ext-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="lib/cai-nmgen-0.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/classindex-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons.jar"/>
+	<classpathentry kind="lib" path="lib/decoder.jar"/>
+	<classpathentry kind="lib" path="lib/disruptor-3.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/ecj-4.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpasyncclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-nio-4.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.9.0.pr3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.9.0.pr3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.9.0.pr3.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/JDA-3.0.0_194.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-http-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-io-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-security-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-server-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-servlet-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-webapp-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-xml-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-slf4j-impl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/lombok-1.16.16.jar"/>
+	<classpathentry kind="lib" path="lib/lzma-java-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/mongo-java-driver-2.14.3.jar"/>
+	<classpathentry kind="lib" path="lib/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="lib/netty-all-4.1.12.Final.jar"/>
+	<classpathentry kind="lib" path="lib/nv-websocket-client-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/ognl-3.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-ext-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/spark-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="lib/stringer-annotations-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/thymeleaf-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/tools.jar"/>
+	<classpathentry kind="lib" path="lib/trove4j-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/unbescape-1.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-api-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-client-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-common-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-server-9.3.14.v20161028.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-servlet-9.4.4.v20170414.jar"/>
+	<classpathentry kind="lib" path="lib/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

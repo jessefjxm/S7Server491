@@ -1,0 +1,137 @@
+
+http://bd.youxidudu.com/horsetools/
+http://bddatabase.net/tw/weapon/longsword/
+
+
+
+GM命令
+
+/bag add ID 數量
+/bag add 440 100     增加贡献度
+/bag add 1 100       金币
+/bag add 6 10000    这个是珍珠
+/bag add 7 10000      这个是L币
+/bag add 50007 1   大象
+/bag add 17355 1   90天VIP
+/bag add 17081 1   祝福Kamasylve(15天)
+/bag add 734 1   勇敢的香水
+
+GM套装
+65002
+65421
+65422
+65424
+65001
+65003
+65418
+
+BUFF
+/bag add 43705 1
+/bag add 43704 1
+/bag add 43707 1
+/bag add 9470 1
+
+
+
+用户:
+#加入频道
+/channel join <CHANNEL_ID>
+#离开频道
+/channel leave
+#显示频道
+/channel show
+#位置
+/location
+/rescue
+#服务器版本
+/server version
+#服务器在线人数
+/server online
+#服务器游戏时间
+/server gametime
+#天气
+/weather
+
+测试:
+#显示附近怪物
+/spawn shownear
+
+修改:
+#添加物品到背包
+/bag add [itemId] [count] (Optional: [enchantLevel]
+#添加物品到指定玩家的背包
+/bag addtoplayer [playerName] [itemId] [count] (Optional: [enchantLevel])
+#禁止玩家聊天
+/ban chat [characterName] [minutes]
+#封禁账号
+/ban account [characterName] [minutes]
+#封禁玩家
+/ban player [characterName] [minutes]
+#封禁IP
+/ban ip [characterName] [minutes]
+#封禁hwid
+/ban hwid [characterName] [minutes]
+#玩家监狱
+/ban jail [characterName] [minutes]
+#解除封禁
+/ban unban [characterName] [chat|jail|account|player|ip|hwid]
+#位置
+/location
+#发布公告
+/pc announce [text]
+#踢出玩家
+/pc kick [playerName]
+#赠送礼物
+/pc giftonline [itemId] [count] (Optional: [enchantLevel])
+#设置等级
+/pc setlevel [level]
+#添加现金
+/pc addcash [cashCount]
+#添加属性？
+/pc addtendency [tendencyCount]
+#增加
+/pc addwp [wpCount]
+#增加经验
+/pc addexp [expCount]
+#增加技能经验
+/pc addskillexp [expCount]
+#增加技能点数
+/pc addskillpoints [pointsCount]
+#增加生活技能经验
+/pc addlifeexp [lifeType] [expCount]
+#增加健康经验？
+/pc addfitnessexp [fitnessType] [expCount]
+#？
+/pc addexploreexp [nodeKey] [expCount]
+#添加知识/技能
+/pc addknowledge [cardId] [cardLevel]
+#添加称号
+/pc addtitle [titleId]
+#清除杀人名单
+/pc clearskilllist
+#
+/pc clearcooltime
+#打开地图
+/pc openmap
+#信息
+/pc info
+#速度调节
+/pc gmspeed [level]
+#治愈
+/pc heal
+#调试dmg
+/pc debugdmg
+#公里？
+/pc kms
+#清除人物状态
+/pc clearbuffs
+#传送到NPC
+/tp monster [npcId] (Optional: [dialogIndex])
+#传送到玩家
+/tp player [playerName]
+#召唤玩家
+/tp recall [playerName]
+#传送指定坐标
+/tp coord [x] [y] [z]
+#传送指定地区
+/tp town (Optional: [townId])

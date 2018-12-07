@@ -51,6 +51,6 @@ public class RescueCommandHandler extends AbstractCommandHandler {
         player.setReadyToPlay(false);
         World.getInstance().teleport(player, loc);
         player.sendPacket(new SMLoadFieldComplete());
-        return new Object[]{EChatResponseType.Accepted, "You have been rescued."};
+        return new Object[]{EChatResponseType.Accepted, "睁开眼睛，你已回到了奥尔比亚村里."};
     }
 }
