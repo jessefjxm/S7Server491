@@ -27,15 +27,13 @@ public class EventCommandHandler extends AbstractCommandHandler {
 
 	@CommandHandlerMethod
 	public static Object[] onlinegift(final Player player, final String... params) {
-		return OnlineGiftingService.getInstance().startEvent(player)
-				? AbstractCommandHandler.getAcceptResult("在线送礼活动 已顺利完成.")
-				: AbstractCommandHandler.getAcceptResult("在线送礼活动 已在进行中！无法开始.");
+		OnlineGiftingService.getInstance().run();
+		return AbstractCommandHandler.getAcceptResult("在线送礼活动 已开始.");
 	}
 
 	@CommandHandlerMethod
 	public static Object[] marketshopping(final Player player, final String... params) {
-		return MarketShoppingService.getInstance().startEvent(player)
-				? AbstractCommandHandler.getAcceptResult("扫荡拍卖行 已顺利完成.")
-				: AbstractCommandHandler.getAcceptResult("扫荡拍卖行 已在进行中！无法开始.");
+		MarketShoppingService.getInstance().run();
+		return AbstractCommandHandler.getAcceptResult("扫荡拍卖行 已开始.");
 	}
 }

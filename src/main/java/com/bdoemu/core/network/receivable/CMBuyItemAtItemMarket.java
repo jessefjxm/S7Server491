@@ -19,45 +19,46 @@ import com.bdoemu.gameserver.model.items.enums.EItemStorageLocation;
 import com.bdoemu.gameserver.model.knowlist.KnowList;
 
 public class CMBuyItemAtItemMarket extends ReceivablePacket<GameClient> {
-    private long itemMarketObjectId;
-    private long count;
-    private long itemObj;
-    private int sessionId;
-    private int itemId;
-    private int enchant;
-    private EItemStorageLocation srcStorageType;
+	private long itemMarketObjectId;
+	private long count;
+	private long itemObj;
+	private int sessionId;
+	private int itemId;
+	private int enchant;
+	private EItemStorageLocation srcStorageType;
 
-    public CMBuyItemAtItemMarket(final short opcode) {
-        super(opcode);
-    }
+	public CMBuyItemAtItemMarket(final short opcode) {
+		super(opcode);
+	}
 
-    protected void read() {
-        this.itemMarketObjectId = this.readQ();
-        this.count = this.readQ();
-        this.sessionId = this.readD();
-        this.srcStorageType = EItemStorageLocation.valueOf(this.readC());
-        this.itemObj = this.readQ();
-        this.itemId = this.readH();
-        this.enchant = this.readH();
-        this.readH();
-    }
+	protected void read() {
+		this.itemMarketObjectId = this.readQ();
+		this.count = this.readQ();
+		this.sessionId = this.readD();
+		this.srcStorageType = EItemStorageLocation.valueOf(this.readC());
+		this.itemObj = this.readQ();
+		this.itemId = this.readH();
+		this.enchant = this.readH();
+		this.readH();
+	}
 
-    public void runImpl() {
-        final Player player = ((GameClient) this.getClient()).getPlayer();
-        if (player != null) {
-            if (!ItemMarketConfig.ITEM_MARKET_BUY_ENABLED) {
-                this.sendPacket((SendablePacket) new SMNak(EStringTable.eErrNoAuctionNotBuy, this.opCode));
-                return;
-            }
-            final Npc npc = KnowList.getObject(player, ECharKind.Npc, this.sessionId);
-            if (npc == null) {
-                return;
-            }
-            final CreatureFunctionT function = npc.getTemplate().getCreatureFunctionT();
-            if (function == null || function.getTerritoryKeyForItemMarket() == null) {
-                return;
-            }
-            player.getPlayerBag().onEvent(new BuyItemAtItemMarketEvent(player, this.srcStorageType, this.itemMarketObjectId, this.count, this.itemId, this.enchant, npc.getRegionId()));
-        }
-    }
+	public void runImpl() {
+		final Player player = ((GameClient) this.getClient()).getPlayer();
+		if (player != null) {
+			if (!ItemMarketConfig.ITEM_MARKET_BUY_ENABLED) {
+				this.sendPacket((SendablePacket) new SMNak(EStringTable.eErrNoAuctionNotBuy, this.opCode));
+				return;
+			}
+			final Npc npc = KnowList.getObject(player, ECharKind.Npc, this.sessionId);
+			if (npc == null) {
+				return;
+			}
+			final CreatureFunctionT function = npc.getTemplate().getCreatureFunctionT();
+			if (function == null || function.getTerritoryKeyForItemMarket() == null) {
+				return;
+			}
+			player.getPlayerBag().onEvent(new BuyItemAtItemMarketEvent(player, this.srcStorageType,
+					this.itemMarketObjectId, this.count, this.itemId, this.enchant, npc.getRegionId()));
+		}
+	}
 }
